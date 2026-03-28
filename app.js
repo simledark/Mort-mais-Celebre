@@ -381,7 +381,7 @@ async function fetch2026Deaths() {
       name:    p.title || '?',
       desc:    p.description || guessCategory(p.description || ''),
       thumb:   p.thumbnail?.source || null,
-      wikiUrl: `https://en.wikipedia.org/wiki/${encodeURIComponent(p.title || '')}`,
+      wikiUrl: `https://fr.wikipedia.org/wiki/${encodeURIComponent(p.title || '')}`,
       category: guessCategory(p.description || ''),
       year:    2026,
       pageid:  p.pageid,
