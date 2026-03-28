@@ -183,7 +183,7 @@ async function fetchWikiDeaths(month, day) {
       const thumb = page.thumbnail?.source || null;
       const desc  = page.description || page.extract || '';
       const name  = page.titles?.normalized || page.title || '?';
-      const wikiUrl = page.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${encodeURIComponent(page.title || name)}`;
+      const wikiUrl = page.content_urls?.desktop?.page?.replace('en.wikipedia.org', 'fr.wikipedia.org') || `https://fr.wikipedia.org/wiki/${encodeURIComponent(page.title || name)}`;
       
       return {
         year:    entry.year,
