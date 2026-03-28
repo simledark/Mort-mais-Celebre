@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Citations Mortelles — Mort &amp; Célèbre</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5509319064903881" crossorigin="anonymous"></script>
+</head>
+<body>
+
+  <div class="noise-overlay"></div>
+
+  <header class="site-header">
+    <div class="header-ornament top-left">✦</div>
+    <div class="header-ornament top-right">✦</div>
+    <div class="header-rule"></div>
+    <div class="header-inner">
+      <p class="header-kicker">Mémorial Quotidien</p>
+      <h1 class="site-title"><a href="index.html" style="text-decoration:none;color:inherit">Mort &amp; Célèbre</a></h1>
+      <p class="header-sub">Ceux qui nous ont quittés — hier, aujourd'hui, autrefois</p>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+
+  <nav class="date-nav">
+    <div class="date-nav-inner">
+      <a href="index.html" class="nav-btn">← Retour</a>
+      <a href="citations.html" class="nav-btn citations-btn active-nav">Citations Mortelles</a>
+      <a href="a-propos.html" class="nav-btn about-btn">À propos</a>
+    </div>
+  </nav>
+
+  <main class="citations-main">
+
+    <!-- CITATION DU JOUR -->
+    <section class="citation-hero">
+      <div class="citation-hero-label">✦ Citation du moment ✦</div>
+      <blockquote class="citation-hero-quote" id="hero-quote">
+        <p id="hero-text"></p>
+        <cite id="hero-author"></cite>
+      </blockquote>
+      <button class="citation-shuffle-btn" id="btn-shuffle" onclick="shuffleHero()">
+        ↻ Autre citation
+      </button>
+    </section>
+
+    <!-- RECHERCHE -->
+    <div class="citations-search-wrap">
+      <div class="citations-search-inner">
+        <input
+          type="text"
+          id="search-input"
+          class="citations-search"
+          placeholder="Rechercher une citation, un auteur…"
+          oninput="filterCitations(this.value)"
+        />
+        <span class="search-icon">🔍</span>
+        <span class="search-count" id="search-count"></span>
+      </div>
+    </div>
+
+    <!-- FILTRES PAR THÈME -->
+    <div class="citations-filters" id="theme-filters">
+      <button class="year-btn active" data-theme="all" onclick="filterTheme(this, 'all')">Toutes</button>
+      <button class="year-btn" data-theme="vie" onclick="filterTheme(this, 'vie')">Vie &amp; Mort</button>
+      <button class="year-btn" data-theme="temps" onclick="filterTheme(this, 'temps')">Le Temps</button>
+      <button class="year-btn" data-theme="memoire" onclick="filterTheme(this, 'memoire')">Mémoire</button>
+      <button class="year-btn" data-theme="courage" onclick="filterTheme(this, 'courage')">Courage</button>
+      <button class="year-btn" data-theme="humour" onclick="filterTheme(this, 'humour')">Humour noir</button>
+      <button class="year-btn" data-theme="philosophie" onclick="filterTheme(this, 'philosophie')">Philosophie</button>
+    </div>
+
+    <!-- GRILLE DE CITATIONS -->
+    <div class="citations-grid" id="citations-grid"></div>
+    <p class="empty-state hidden" id="empty-citations">Aucune citation ne correspond à votre recherche.</p>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-rule"></div>
+    <p>Sources : <a href="https://fr.wikipedia.org" target="_blank">Wikipédia</a> &amp; <a href="https://www.wikidata.org" target="_blank">Wikidata</a></p>
+    <p class="footer-copy">Mort &amp; Célèbre · In Memoriam · <span id="footer-year"></span></p>
+    <div class="footer-ornament">✦ ✦ ✦</div>
+  </footer>
+
+  <script src="citations.js"></script>
+</body>
+</html>
