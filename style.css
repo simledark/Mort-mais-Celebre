@@ -6,7 +6,7 @@
 :root {
   --cream: #e8f5e4;
   --parchment: #d4ecce;
-  --ink: #63c4cf;
+  --ink: #0f1a14;
   --dark-green: #142010;
   --gold: #ffb300;
   --gold-light: #ffd54f;
@@ -31,7 +31,7 @@
 html { scroll-behavior: smooth; }
 
 body {
-  background-color: #63c4cf;
+  background-color: #0f1a14;
   color: var(--cream);
   font-family: var(--font-body);
   font-size: 17px;
