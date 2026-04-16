@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Prévisions 2026 — Mort &amp; Célèbre</title>
-  <meta name="description" content="Faites vos prévisions de disparitions de célébrités pour 2026." />
+  <meta name="description" content="Palmarès des célébrités les plus prédites pour 2026. Faites vos prévisions." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
@@ -37,81 +37,140 @@
   </nav>
 
   <!-- ══════════════════════════════════════════════════
-       ÉCRAN AUTH
+       ÉCRAN AUTH — PALMARÈS PUBLIC + FORMULAIRE
   ══════════════════════════════════════════════════ -->
   <div id="screen-auth" class="prev-screen hidden">
-    <div class="prev-container prev-auth-wrap">
-      <div class="section-header">
-        <div class="section-rule"></div>
-        <h2 class="section-title">Prévisions 2026</h2>
-        <div class="section-rule"></div>
-      </div>
-      <p class="prev-intro">
-        Qui pensez-vous voir disparaître cette année ? Créez un compte, faites jusqu'à 20 prévisions,
-        jouez seul ou en équipe. Le palmarès sera révélé le 1er janvier 2027.
-      </p>
+    <div class="auth-layout">
 
-      <div class="auth-tabs">
-        <button class="auth-tab active" data-tab="login">Se connecter</button>
-        <button class="auth-tab" data-tab="register">Créer un compte</button>
-      </div>
+      <!-- COLONNE GAUCHE 3/4 : PALMARÈS PUBLIC -->
+      <div class="auth-palmares">
 
-      <!-- LOGIN -->
-      <div id="tab-login" class="auth-form">
-        <div class="prev-field">
-          <label class="prev-label">Adresse email</label>
-          <input type="email" id="login-email" class="prev-input" placeholder="votre@email.fr" autocomplete="email" />
+        <!-- ONGLETS CLASSEMENT -->
+        <div class="palmares-tabs">
+          <button class="palmares-tab active" data-ptab="citations" onclick="switchPalmaresTab('citations')">
+            Les plus prédits
+          </button>
+          <button class="palmares-tab" data-ptab="scores" onclick="switchPalmaresTab('scores')">
+            Déjà confirmés
+          </button>
         </div>
-        <div class="prev-field">
-          <label class="prev-label">Mot de passe</label>
-          <input type="password" id="login-password" class="prev-input" placeholder="••••••••" autocomplete="current-password" />
-        </div>
-        <div id="login-error" class="prev-error hidden"></div>
-        <button class="prev-btn prev-btn-primary" onclick="doLogin()">Se connecter</button>
-      </div>
 
-      <!-- REGISTER -->
-      <div id="tab-register" class="auth-form hidden">
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.75rem;">
-          <div class="prev-field" style="margin-bottom:0">
-            <label class="prev-label">Prénom</label>
-            <input type="text" id="reg-firstname" class="prev-input" placeholder="Jean" autocomplete="given-name" />
+        <!-- FILTRES DOMAINE -->
+        <div class="palmares-filters">
+          <button class="pfilter-btn active" data-domain="" onclick="setPalmaresFilter('domain','')">Tous</button>
+          <button class="pfilter-btn" data-domain="chanteur" onclick="setPalmaresFilter('domain','chanteur')">🎵 Musique</button>
+          <button class="pfilter-btn" data-domain="acteur" onclick="setPalmaresFilter('domain','acteur')">🎬 Cinéma</button>
+          <button class="pfilter-btn" data-domain="politicien" onclick="setPalmaresFilter('domain','politicien')">🏛 Politique</button>
+          <button class="pfilter-btn" data-domain="sportif" onclick="setPalmaresFilter('domain','sportif')">⚽ Sport</button>
+          <button class="pfilter-btn" data-domain="écrivain" onclick="setPalmaresFilter('domain','écrivain')">📚 Littérature</button>
+          <button class="pfilter-btn" data-domain="scientifique" onclick="setPalmaresFilter('domain','scientifique')">🔬 Sciences</button>
+        </div>
+
+        <!-- FILTRE PAYS -->
+        <div class="palmares-country-wrap">
+          <select id="country-filter" class="palmares-country-select" onchange="setPalmaresFilter('country', this.value)">
+            <option value="">Tous les pays</option>
+            <option value="France">France</option>
+            <option value="États-Unis">États-Unis</option>
+            <option value="Royaume-Uni">Royaume-Uni</option>
+            <option value="Allemagne">Allemagne</option>
+            <option value="Italie">Italie</option>
+            <option value="Espagne">Espagne</option>
+            <option value="Canada">Canada</option>
+            <option value="Australie">Australie</option>
+            <option value="Japon">Japon</option>
+            <option value="Russie">Russie</option>
+          </select>
+        </div>
+
+        <!-- LISTE PALMARÈS -->
+        <div id="palmares-list" class="palmares-pub-list">
+          <div class="palmares-loading">
+            <div class="coffin-spinner"></div>
+            <p>Chargement du palmarès…</p>
           </div>
-          <div class="prev-field" style="margin-bottom:0">
-            <label class="prev-label">Nom</label>
-            <input type="text" id="reg-lastname" class="prev-input" placeholder="Dupont" autocomplete="family-name" />
+        </div>
+
+        <p class="palmares-disclaimer">
+          ✦ Les pseudos ne sont jamais affichés · Prévisions publiques et anonymes
+        </p>
+      </div>
+
+      <!-- COLONNE DROITE 1/4 : FORMULAIRE CONNEXION -->
+      <div class="auth-sidebar">
+        <div class="auth-sidebar-inner">
+          <div class="auth-sidebar-title">
+            <div class="section-header" style="margin-bottom:0.75rem">
+              <div class="section-rule"></div>
+              <span class="section-title" style="font-size:1.1rem;white-space:nowrap">Mon compte</span>
+              <div class="section-rule"></div>
+            </div>
+          </div>
+
+          <div class="auth-tabs-mini">
+            <button class="auth-tab-mini active" data-tab="login" onclick="switchAuthTab('login')">Connexion</button>
+            <button class="auth-tab-mini" data-tab="register" onclick="switchAuthTab('register')">Inscription</button>
+          </div>
+
+          <!-- LOGIN -->
+          <div id="tab-login" class="auth-form-mini">
+            <div class="prev-field">
+              <label class="prev-label">Email</label>
+              <input type="email" id="login-email" class="prev-input" placeholder="votre@email.fr" autocomplete="email" />
+            </div>
+            <div class="prev-field">
+              <label class="prev-label">Mot de passe</label>
+              <input type="password" id="login-password" class="prev-input" placeholder="••••••••" autocomplete="current-password" />
+            </div>
+            <div id="login-error" class="prev-error hidden"></div>
+            <button class="prev-btn prev-btn-primary" onclick="doLogin()">Se connecter</button>
+          </div>
+
+          <!-- REGISTER -->
+          <div id="tab-register" class="auth-form-mini hidden">
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.5rem">
+              <div class="prev-field" style="margin-bottom:0">
+                <label class="prev-label">Prénom</label>
+                <input type="text" id="reg-firstname" class="prev-input" placeholder="Jean" autocomplete="given-name" />
+              </div>
+              <div class="prev-field" style="margin-bottom:0">
+                <label class="prev-label">Nom</label>
+                <input type="text" id="reg-lastname" class="prev-input" placeholder="Dupont" autocomplete="family-name" />
+              </div>
+            </div>
+            <div class="prev-field">
+              <label class="prev-label">Date de naissance</label>
+              <input type="date" id="reg-birthdate" class="prev-input" />
+            </div>
+            <div class="prev-field">
+              <label class="prev-label">Pseudo <span class="prev-hint">(public)</span></label>
+              <input type="text" id="reg-pseudo" class="prev-input" placeholder="LeGrandProphète" maxlength="30" />
+            </div>
+            <div class="prev-field">
+              <label class="prev-label">Email</label>
+              <input type="email" id="reg-email" class="prev-input" placeholder="votre@email.fr" autocomplete="email" />
+            </div>
+            <div class="prev-field">
+              <label class="prev-label">Mot de passe</label>
+              <input type="password" id="reg-password" class="prev-input" placeholder="8 car. min." autocomplete="new-password" />
+            </div>
+            <div class="prev-field">
+              <label class="prev-label">Confirmer</label>
+              <input type="password" id="reg-password2" class="prev-input" placeholder="••••••••" autocomplete="new-password" />
+            </div>
+            <div style="display:flex;align-items:flex-start;gap:0.5rem;margin:0.25rem 0 0.75rem">
+              <input type="checkbox" id="reg-newsletter" checked style="width:14px;height:14px;margin-top:3px;accent-color:var(--gold);flex-shrink:0" />
+              <label for="reg-newsletter" style="font-size:0.82rem;color:var(--gray);cursor:pointer;font-style:italic;line-height:1.4">
+                Newsletter annuelle (palmarès)
+              </label>
+            </div>
+            <div id="reg-error" class="prev-error hidden"></div>
+            <button class="prev-btn prev-btn-primary" onclick="doRegister()">Créer mon compte</button>
+            <p class="prev-disclaimer" style="font-size:0.78rem">Données sécurisées. Email uniquement pour confirmation et newsletter.</p>
           </div>
         </div>
-        <div class="prev-field">
-          <label class="prev-label">Date de naissance</label>
-          <input type="date" id="reg-birthdate" class="prev-input" />
-        </div>
-        <div class="prev-field">
-          <label class="prev-label">Pseudonyme <span class="prev-hint">(visible publiquement)</span></label>
-          <input type="text" id="reg-pseudo" class="prev-input" placeholder="Ex : LeGrandProphète" maxlength="30" />
-        </div>
-        <div class="prev-field">
-          <label class="prev-label">Adresse email</label>
-          <input type="email" id="reg-email" class="prev-input" placeholder="votre@email.fr" autocomplete="email" />
-        </div>
-        <div class="prev-field">
-          <label class="prev-label">Mot de passe</label>
-          <input type="password" id="reg-password" class="prev-input" placeholder="8 caractères minimum" autocomplete="new-password" />
-        </div>
-        <div class="prev-field">
-          <label class="prev-label">Confirmer le mot de passe</label>
-          <input type="password" id="reg-password2" class="prev-input" placeholder="••••••••" autocomplete="new-password" />
-        </div>
-        <div class="prev-field" style="display:flex;align-items:center;gap:0.6rem;margin-top:0.25rem">
-          <input type="checkbox" id="reg-newsletter" checked style="width:16px;height:16px;accent-color:var(--gold);cursor:pointer;flex-shrink:0" />
-          <label for="reg-newsletter" style="font-size:0.9rem;color:var(--gray);cursor:pointer;font-style:italic">
-            Recevoir la newsletter annuelle de Mort &amp; Célèbre (résultats, palmarès)
-          </label>
-        </div>
-        <div id="reg-error" class="prev-error hidden"></div>
-        <button class="prev-btn prev-btn-primary" onclick="doRegister()">Créer mon compte</button>
-        <p class="prev-disclaimer">Vos données sont stockées de manière sécurisée. Email utilisé uniquement pour la confirmation de compte et la newsletter si vous y consentez.</p>
       </div>
+
     </div>
   </div>
 
@@ -275,8 +334,6 @@
         <div class="section-rule"></div>
       </div>
       <button class="prev-btn prev-btn-ghost" style="margin-bottom:1.5rem" onclick="showScreen('screen-main')">← Retour</button>
-
-      <!-- INFOS PERSONNELLES -->
       <div class="account-section">
         <div class="account-section-title">Informations personnelles</div>
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.75rem;">
@@ -301,29 +358,23 @@
           <label class="prev-label">Email <span class="prev-hint">(non modifiable)</span></label>
           <input type="email" id="acc-email" class="prev-input" disabled style="opacity:0.6;cursor:not-allowed;" />
         </div>
-        <div id="account-success" class="prev-success hidden">✓ Informations mises à jour</div>
+        <div id="account-success" class="prev-success hidden">&#x2713; Informations mises à jour</div>
         <div id="account-error" class="prev-error hidden"></div>
         <button class="prev-btn prev-btn-primary" onclick="saveAccount()">Enregistrer les modifications</button>
       </div>
-
       <div class="prev-divider"></div>
-
-      <!-- NEWSLETTER -->
       <div class="account-section">
         <div class="account-section-title">Newsletter</div>
         <div class="prev-field" style="display:flex;align-items:center;gap:0.75rem;margin-bottom:0.5rem">
           <input type="checkbox" id="acc-newsletter" style="width:18px;height:18px;accent-color:var(--gold);cursor:pointer;flex-shrink:0" />
           <label for="acc-newsletter" style="font-size:0.95rem;color:var(--gray);cursor:pointer;">
-            Recevoir la newsletter annuelle de Mort &amp; Célèbre (résultats du palmarès, bilan de l'année)
+            Recevoir la newsletter annuelle de Mort &amp; Célèbre
           </label>
         </div>
         <button class="prev-btn" style="margin-top:0.5rem" onclick="saveNewsletter()">Mettre à jour</button>
-        <div id="newsletter-success" class="prev-success hidden">✓ Préférence enregistrée</div>
+        <div id="newsletter-success" class="prev-success hidden">&#x2713; Préférence enregistrée</div>
       </div>
-
       <div class="prev-divider"></div>
-
-      <!-- MOT DE PASSE -->
       <div class="account-section">
         <div class="account-section-title">Changer de mot de passe</div>
         <div class="prev-field">
@@ -331,17 +382,14 @@
           <input type="password" id="acc-newpass" class="prev-input" placeholder="8 caractères minimum" autocomplete="new-password" />
         </div>
         <div class="prev-field">
-          <label class="prev-label">Confirmer le nouveau mot de passe</label>
+          <label class="prev-label">Confirmer</label>
           <input type="password" id="acc-newpass2" class="prev-input" placeholder="••••••••" autocomplete="new-password" />
         </div>
         <div id="password-error" class="prev-error hidden"></div>
-        <div id="password-success" class="prev-success hidden">✓ Mot de passe mis à jour</div>
+        <div id="password-success" class="prev-success hidden">&#x2713; Mot de passe mis à jour</div>
         <button class="prev-btn prev-btn-primary" onclick="changePassword()">Changer le mot de passe</button>
       </div>
-
       <div class="prev-divider"></div>
-
-      <!-- SUPPRIMER LE COMPTE -->
       <div class="account-section">
         <div class="account-section-title" style="color:var(--red-death)">Zone de danger</div>
         <p style="font-size:0.95rem;color:var(--gray);font-style:italic;margin-bottom:1rem;">
@@ -351,7 +399,6 @@
           Supprimer mon compte
         </button>
       </div>
-
     </div>
   </div>
 
@@ -366,7 +413,6 @@
         <div class="section-rule"></div>
       </div>
       <button class="prev-btn prev-btn-ghost" style="margin-bottom:1.5rem" onclick="showScreen('screen-main')">← Retour</button>
-
       <div class="prev-field">
         <label class="prev-label">Rechercher une célébrité encore en vie</label>
         <div class="search-wrap">
@@ -375,7 +421,6 @@
         </div>
         <p class="prev-hint-text">Seules les personnalités <strong>encore en vie</strong> apparaissent (vérifié via Wikidata).</p>
       </div>
-
       <div class="domain-filters" id="domain-filters">
         <button class="domain-btn active" data-domain="">Tous</button>
         <button class="domain-btn" data-domain="music">Musique</button>
@@ -385,7 +430,6 @@
         <button class="domain-btn" data-domain="literature">Littérature</button>
         <button class="domain-btn" data-domain="science">Sciences</button>
       </div>
-
       <div id="search-results" class="search-results"></div>
       <div id="search-empty" class="prev-empty hidden">
         <p>Aucune personnalité trouvée, ou cette personne est déjà décédée.</p>
@@ -394,7 +438,6 @@
         <div class="prev-hint-text" style="margin-bottom:0.75rem">Suggestions populaires</div>
         <div id="suggestions-list" class="suggestions-grid"></div>
       </div>
-
       <div class="visibility-block" id="visibility-block" style="display:none">
         <div class="prev-label">Visibilité de cette prévision</div>
         <div class="visibility-opts">
@@ -403,7 +446,6 @@
           <button class="vis-opt" data-vis="private" onclick="setVisibility('private')">🔒 Privée</button>
         </div>
       </div>
-
       <div id="selected-celebrity" class="selected-celeb hidden">
         <div class="selected-celeb-inner">
           <img id="selected-img" src="" alt="" class="selected-celeb-img" onerror="this.style.display='none'" />

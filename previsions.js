@@ -43,7 +43,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   const { data: { session } } = await sb.auth.getSession();
   if (session) { currentUser = session.user; await loadProfileAndEnter(); }
-  else showScreen('screen-auth');
+  else {
+    showScreen('screen-auth');
+    loadPalmares();
+  }
 
   const params = new URLSearchParams(window.location.search);
   const invite = params.get('invite');
@@ -51,7 +54,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   sb.auth.onAuthStateChange(async (event, session) => {
     if (event === 'SIGNED_IN' && session && !currentUser) { currentUser = session.user; await loadProfileAndEnter(); }
-    if (event === 'SIGNED_OUT') { currentUser = null; currentProfile = null; currentTeam = null; currentUserTeams = []; showScreen('screen-auth'); }
+    if (event === 'SIGNED_OUT') { currentUser = null; currentProfile = null; currentTeam = null; currentUserTeams = []; showScreen('screen-auth'); loadPalmares(); }
   });
 });
 
@@ -72,15 +75,15 @@ function showScreen(id) {
 }
 
 function setupAuthTabs() {
-  document.querySelectorAll('.auth-tab').forEach(tab => {
-    tab.addEventListener('click', () => {
-      document.querySelectorAll('.auth-tab').forEach(t => t.classList.remove('active'));
-      tab.classList.add('active');
-      document.getElementById('tab-login').classList.add('hidden');
-      document.getElementById('tab-register').classList.add('hidden');
-      document.getElementById('tab-' + tab.dataset.tab).classList.remove('hidden');
-    });
+  // Les onglets auth sont maintenant gérés via switchAuthTab()
+}
+
+function switchAuthTab(name) {
+  document.querySelectorAll('.auth-tab-mini').forEach(function(t) {
+    t.classList.toggle('active', t.dataset.tab === name);
   });
+  document.getElementById('tab-login').classList.toggle('hidden', name !== 'login');
+  document.getElementById('tab-register').classList.toggle('hidden', name !== 'register');
 }
 
 function setupMainTabs() {
@@ -415,6 +418,145 @@ async function closeModal() {
   await renderMyPredictions();
 }
 
+
+/* ═══════════════════════════════════════════════════════════
+   PALMARES PUBLIC (visible sans connexion)
+   ═══════════════════════════════════════════════════════════ */
+
+var allPublicPredictions = [];
+var activeFilterDomain  = '';
+var activeFilterCountry = '';
+
+async function loadPublicPalmares() {
+  try {
+    // Charger toutes les previsions publiques de 2026
+    const { data: preds } = await sb
+      .from('predictions')
+      .select('wikidata_id, celeb_name, celeb_domain, celeb_nationality, celeb_image, celeb_age')
+      .eq('year', 2026)
+      .eq('visibility', 'public')
+      .eq('status', 'pending');
+
+    if (!preds || preds.length === 0) {
+      document.getElementById('public-palmares-list').innerHTML =
+        '<div class="prev-empty" style="padding:2rem 0"><p>Aucune prevision publique pour l'instant.<br>Soyez le premier !</p></div>';
+      return;
+    }
+
+    // Compter les occurrences par celebrite
+    var counts = {};
+    preds.forEach(function(p) {
+      var id = p.wikidata_id;
+      if (!counts[id]) {
+        counts[id] = {
+          wikidataId  : id,
+          name        : p.celeb_name,
+          domain      : p.celeb_domain || '',
+          nationality : p.celeb_nationality || '',
+          imageUrl    : p.celeb_image || null,
+          age         : p.celeb_age || null,
+          count       : 0,
+        };
+      }
+      counts[id].count++;
+    });
+
+    // Trier par nombre de predictions decroissant
+    allPublicPredictions = Object.values(counts).sort(function(a, b) { return b.count - a.count; });
+
+    // Configurer les filtres de domaine
+    setupDomainFilterBtns();
+
+    // Afficher
+    renderPublicPalmares();
+
+  } catch(e) {
+    console.error('Erreur palmares public:', e);
+    document.getElementById('public-palmares-list').innerHTML =
+      '<div class="prev-empty" style="padding:2rem 0"><p>Palmares non disponible.</p></div>';
+  }
+}
+
+function setupDomainFilterBtns() {
+  document.querySelectorAll('#filter-domain .pf-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('#filter-domain .pf-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeFilterDomain = btn.dataset.domain || '';
+      renderPublicPalmares();
+    });
+  });
+}
+
+function applyPalmaresFilters() {
+  activeFilterCountry = document.getElementById('filter-country').value;
+  renderPublicPalmares();
+}
+
+function renderPublicPalmares() {
+  var filtered = allPublicPredictions.filter(function(p) {
+    var domainOk  = !activeFilterDomain  || matchDomain(p.domain, activeFilterDomain);
+    var countryOk = !activeFilterCountry || p.nationality.toLowerCase().includes(activeFilterCountry.toLowerCase());
+    return domainOk && countryOk;
+  });
+
+  var listEl = document.getElementById('public-palmares-list');
+
+  if (filtered.length === 0) {
+    listEl.innerHTML = '<div class="prev-empty" style="padding:1.5rem 0"><p>Aucun resultat pour ces filtres.</p></div>';
+    return;
+  }
+
+  var medals = ['&#x1F947;', '&#x1F948;', '&#x1F949;'];
+  listEl.innerHTML = '';
+
+  filtered.slice(0, 20).forEach(function(p, i) {
+    var item = document.createElement('div');
+    item.className = 'palmares-item';
+    item.style.animationDelay = (i * 0.04) + 's';
+
+    var imgHtml = p.imageUrl
+      ? '<img class="palmares-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror="this.outerHTML='<div class=\'palmares-img-placeholder\'>&#x271D;</div>'">'
+      : '<div class="palmares-img-placeholder">&#x271D;</div>';
+
+    var rankHtml = i < 3
+      ? '<div class="palmares-rank">' + medals[i] + '</div>'
+      : '<div class="palmares-rank" style="font-size:0.9rem;color:var(--gray);">' + (i + 1) + '</div>';
+
+    var meta = [p.domain, p.nationality, p.age ? p.age + ' ans' : null].filter(Boolean).join(' &middot; ');
+
+    item.innerHTML =
+      rankHtml +
+      imgHtml +
+      '<div class="palmares-info">' +
+        '<div class="palmares-name">' + esc(p.name) + '</div>' +
+        '<div class="palmares-meta">' + meta + '</div>' +
+      '</div>' +
+      '<div style="text-align:right;flex-shrink:0;">' +
+        '<div class="palmares-count">' + p.count + '</div>' +
+        '<div class="palmares-count-label">prediction' + (p.count > 1 ? 's' : '') + '</div>' +
+      '</div>';
+
+    listEl.appendChild(item);
+  });
+}
+
+// Correspondance domaine texte Wikidata -> filtre
+function matchDomain(domain, filter) {
+  if (!domain) return false;
+  var d = domain.toLowerCase();
+  var map = {
+    'music'      : ['chanteur', 'chanteuse', 'musicien', 'musicienne', 'compositeur', 'singer', 'musician'],
+    'cinema'     : ['acteur', 'actrice', 'realisateur', 'realisatrice', 'actor', 'director', 'film'],
+    'politics'   : ['politicien', 'politicienne', 'president', 'ministre', 'politician', 'statesman'],
+    'sport'      : ['sportif', 'sportive', 'footballeur', 'tennismen', 'athlete', 'boxer'],
+    'literature' : ['ecrivain', 'ecrivaine', 'auteur', 'auteure', 'romancier', 'writer', 'novelist'],
+    'science'    : ['scientifique', 'physicien', 'biologiste', 'scientist', 'physicist'],
+  };
+  var keywords = map[filter] || [];
+  return keywords.some(function(kw) { return d.includes(kw); });
+}
+
 /* ═══════════════════════════════════════════════════════════
    EQUIPES -- MULTI-EQUIPES
    ═══════════════════════════════════════════════════════════ */
@@ -737,6 +879,154 @@ async function fetchLivingFromWikidata(qids) {
     'SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en" . }' +
     '} LIMIT 10';
   return runSparql(sparql);
+}
+
+
+/* ═══════════════════════════════════════════════════════════
+   PALMARÈS PUBLIC (écran d'accueil)
+   ═══════════════════════════════════════════════════════════ */
+
+var palmaresTab     = 'citations'; // 'citations' | 'scores'
+var palmaresFilters = { domain: '', country: '' };
+var palmaresData    = { citations: [], scores: [] };
+
+async function loadPalmares() {
+  try {
+    // Récupérer toutes les prévisions (public + privées, sans pseudos)
+    const { data: preds } = await sb
+      .from('predictions')
+      .select('wikidata_id, celeb_name, celeb_domain, celeb_nationality, celeb_image, celeb_age, status')
+      .eq('year', 2026);
+
+    if (!preds || preds.length === 0) {
+      renderPalmares([]);
+      return;
+    }
+
+    // Compter les citations par célébrité
+    var citCounts = {};
+    var scoreCounts = {};
+
+    preds.forEach(function(p) {
+      var key = p.wikidata_id;
+      if (!citCounts[key]) {
+        citCounts[key] = {
+          wikidataId  : p.wikidata_id,
+          name        : p.celeb_name,
+          domain      : p.celeb_domain || '',
+          nationality : p.celeb_nationality || '',
+          imageUrl    : p.celeb_image,
+          age         : p.celeb_age,
+          citations   : 0,
+          confirmed   : 0,
+        };
+      }
+      citCounts[key].citations++;
+      if (p.status === 'correct') citCounts[key].confirmed++;
+    });
+
+    palmaresData.citations = Object.values(citCounts)
+      .sort(function(a, b) { return b.citations - a.citations; });
+
+    palmaresData.scores = Object.values(citCounts)
+      .filter(function(c) { return c.confirmed > 0; })
+      .sort(function(a, b) { return b.confirmed - a.confirmed || b.citations - a.citations; });
+
+    renderPalmares(getFilteredData());
+  } catch(e) {
+    console.error('Palmarès error:', e);
+    document.getElementById('palmares-list').innerHTML =
+      '<div class="palmares-empty">Impossible de charger le palmarès.</div>';
+  }
+}
+
+function getFilteredData() {
+  var data = palmaresTab === 'scores' ? palmaresData.scores : palmaresData.citations;
+  return data.filter(function(item) {
+    var domainOk = true;
+    var countryOk = true;
+    if (palmaresFilters.domain) {
+      domainOk = item.domain && item.domain.toLowerCase().indexOf(palmaresFilters.domain.toLowerCase()) !== -1;
+    }
+    if (palmaresFilters.country) {
+      countryOk = item.nationality && item.nationality.toLowerCase().indexOf(palmaresFilters.country.toLowerCase()) !== -1;
+    }
+    return domainOk && countryOk;
+  });
+}
+
+function renderPalmares(items) {
+  var listEl = document.getElementById('palmares-list');
+  if (!listEl) return;
+
+  if (items.length === 0) {
+    listEl.innerHTML = '<div class="palmares-empty">Aucune prévision pour ces critères.</div>';
+    return;
+  }
+
+  var maxVal = palmaresTab === 'scores'
+    ? (items[0] ? items[0].confirmed : 1)
+    : (items[0] ? items[0].citations : 1);
+  if (maxVal === 0) maxVal = 1;
+
+  var medals = ['🥇', '🥈', '🥉'];
+  var rankClasses = ['gold', 'silver', 'bronze'];
+
+  listEl.innerHTML = '';
+  items.slice(0, 30).forEach(function(item, i) {
+    var row = document.createElement('div');
+    row.className = 'pub-row';
+    row.style.animationDelay = (i * 0.04) + 's';
+
+    var val   = palmaresTab === 'scores' ? item.confirmed : item.citations;
+    var label = palmaresTab === 'scores' ? 'confirmé' + (val > 1 ? 's' : '') : 'prédiction' + (val > 1 ? 's' : '');
+    var pct   = Math.round((val / maxVal) * 100);
+    var rankHtml = i < 3
+      ? '<div class="pub-rank ' + rankClasses[i] + '">' + medals[i] + '</div>'
+      : '<div class="pub-rank">' + (i + 1) + '</div>';
+
+    var imgHtml = item.imageUrl
+      ? '<img class="pub-thumb" src="' + esc(item.imageUrl) + '" alt="' + esc(item.name) + '" onerror="this.outerHTML='<div class=\'pub-thumb-placeholder\'>&#x271D;</div>'">'
+      : '<div class="pub-thumb-placeholder">&#x271D;</div>';
+
+    var barClass = palmaresTab === 'scores' ? 'pub-bar-fill confirmed' : 'pub-bar-fill';
+    var metaParts = [item.domain, item.nationality, item.age ? item.age + ' ans' : null].filter(Boolean);
+
+    row.innerHTML =
+      rankHtml +
+      imgHtml +
+      '<div class="pub-info">' +
+        '<div class="pub-name">' + esc(item.name) + '</div>' +
+        '<div class="pub-meta">' + esc(metaParts.join(' &middot; ')) + '</div>' +
+      '</div>' +
+      '<div style="text-align:right;flex-shrink:0;">' +
+        '<div class="pub-count">' + val + '</div>' +
+        '<div class="pub-count-label">' + label + '</div>' +
+        '<div class="pub-bar-wrap" style="margin-top:4px;">' +
+          '<div class="' + barClass + '" style="width:' + pct + '%"></div>' +
+        '</div>' +
+      '</div>';
+
+    listEl.appendChild(row);
+  });
+}
+
+function switchPalmaresTab(tab) {
+  palmaresTab = tab;
+  document.querySelectorAll('.palmares-tab').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.ptab === tab);
+  });
+  renderPalmares(getFilteredData());
+}
+
+function setPalmaresFilter(type, value) {
+  palmaresFilters[type] = value;
+  if (type === 'domain') {
+    document.querySelectorAll('.pfilter-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.dataset.domain === value);
+    });
+  }
+  renderPalmares(getFilteredData());
 }
 
 async function loadSuggestions(domain) {
