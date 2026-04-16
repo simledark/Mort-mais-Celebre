@@ -1,15 +1,13 @@
 /* ============================================================
-   MORT & CÉLÈBRE — Prévisions 2026
+   MORT & CELEBRE -- Previsions 2026
    Backend : Supabase (Auth + PostgreSQL)
+   Multi-equipes via table team_members
    ============================================================ */
 
 'use strict';
 
-/* ── CONFIG SUPABASE ────────────────────────────────────────── */
 const SUPABASE_URL  = 'https://mudmucjhiclyukhebeqm.supabase.co';
 const SUPABASE_ANON = 'sb_publishable_AMBoNSWZ3iiagHK1G-OX4g_T-qYvTIB';
-
-/* ── CONFIG WIKIDATA ─────────────────────────────────────────── */
 const WIKIDATA_SPARQL = 'https://query.wikidata.org/sparql';
 const WIKIDATA_API    = 'https://www.wikidata.org/w/api.php';
 const MAX_PREDICTIONS = 20;
@@ -23,20 +21,19 @@ const DOMAIN_QIDS = {
   science    : ['Q901', 'Q169470', 'Q593644'],
 };
 
-/* ── ÉTAT ────────────────────────────────────────────────────── */
-let sb             = null;
-let currentUser    = null;
-let currentProfile = null;
-let currentTeam    = null;
-let selectedCeleb  = null;
-let selectedVis    = 'public';
-let searchTimer    = null;
-let selectedDomain = '';
+let sb               = null;
+let currentUser      = null;
+let currentProfile   = null;
+let currentTeam      = null;
+let currentUserTeams = [];
+let selectedCeleb    = null;
+let selectedVis      = 'public';
+let searchTimer      = null;
+let selectedDomain   = '';
 
-/* ── INIT ────────────────────────────────────────────────────── */
+/* ── INIT ─────────────────────────────────────────────────── */
 document.addEventListener('DOMContentLoaded', async () => {
   document.getElementById('footer-year').textContent = new Date().getFullYear();
-
   await loadScript('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js');
   sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON);
 
@@ -45,29 +42,16 @@ document.addEventListener('DOMContentLoaded', async () => {
   setupDomainFilters();
 
   const { data: { session } } = await sb.auth.getSession();
-  if (session) {
-    currentUser = session.user;
-    await loadProfileAndEnter();
-  } else {
-    showScreen('screen-auth');
-  }
+  if (session) { currentUser = session.user; await loadProfileAndEnter(); }
+  else showScreen('screen-auth');
 
   const params = new URLSearchParams(window.location.search);
   const invite = params.get('invite');
-  if (invite && currentUser) {
-    document.getElementById('join-code').value = invite;
-    switchMainTab('rejoindre');
-  }
+  if (invite && currentUser) { document.getElementById('join-code').value = invite; switchMainTab('rejoindre'); }
 
   sb.auth.onAuthStateChange(async (event, session) => {
-    if (event === 'SIGNED_IN' && session && !currentUser) {
-      currentUser = session.user;
-      await loadProfileAndEnter();
-    }
-    if (event === 'SIGNED_OUT') {
-      currentUser = null; currentProfile = null; currentTeam = null;
-      showScreen('screen-auth');
-    }
+    if (event === 'SIGNED_IN' && session && !currentUser) { currentUser = session.user; await loadProfileAndEnter(); }
+    if (event === 'SIGNED_OUT') { currentUser = null; currentProfile = null; currentTeam = null; currentUserTeams = []; showScreen('screen-auth'); }
   });
 });
 
@@ -80,7 +64,7 @@ function loadScript(src) {
   });
 }
 
-/* ── NAVIGATION ─────────────────────────────────────────────── */
+/* ── NAVIGATION ──────────────────────────────────────────── */
 function showScreen(id) {
   document.querySelectorAll('.prev-screen').forEach(s => s.classList.add('hidden'));
   document.getElementById(id).classList.remove('hidden');
@@ -94,7 +78,7 @@ function setupAuthTabs() {
       tab.classList.add('active');
       document.getElementById('tab-login').classList.add('hidden');
       document.getElementById('tab-register').classList.add('hidden');
-      document.getElementById(`tab-${tab.dataset.tab}`).classList.remove('hidden');
+      document.getElementById('tab-' + tab.dataset.tab).classList.remove('hidden');
     });
   });
 }
@@ -108,9 +92,9 @@ function setupMainTabs() {
 function switchMainTab(name) {
   document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.main-tab-content').forEach(c => c.classList.add('hidden'));
-  const t = document.querySelector(`.main-tab[data-tab="${name}"]`);
+  const t = document.querySelector('.main-tab[data-tab="' + name + '"]');
   if (t) t.classList.add('active');
-  const c = document.getElementById(`tab-${name}`);
+  const c = document.getElementById('tab-' + name);
   if (c) c.classList.remove('hidden');
   if (name === 'mon-equipe') renderTeamTab();
 }
@@ -122,15 +106,14 @@ function setupDomainFilters() {
       btn.classList.add('active');
       selectedDomain = btn.dataset.domain;
       const q = document.getElementById('search-input').value.trim();
-      if (q.length >= 2) performSearch(q);
-      else loadSuggestions(selectedDomain);
+      if (q.length >= 2) performSearch(q); else loadSuggestions(selectedDomain);
     });
   });
 }
 
-/* ═══════════════════════════════════════════════════════════════
-   AUTHENTIFICATION
-   ═══════════════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════
+   AUTH
+   ═══════════════════════════════════════════════════════════ */
 
 async function doRegister() {
   const pseudo     = document.getElementById('reg-pseudo').value.trim();
@@ -140,41 +123,31 @@ async function doRegister() {
   const newsletter = document.getElementById('reg-newsletter').checked;
   const errEl      = document.getElementById('reg-error');
   errEl.classList.add('hidden');
+  const err = function(msg) { errEl.textContent = msg; errEl.classList.remove('hidden'); };
 
-  const err = (msg) => { errEl.textContent = msg; errEl.classList.remove('hidden'); };
-
-  if (!pseudo || pseudo.length < 2)             return err('Le pseudonyme doit faire au moins 2 caractères.');
+  if (!pseudo || pseudo.length < 2)              return err('Le pseudonyme doit faire au moins 2 caracteres.');
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return err('Adresse email invalide.');
-  if (pass.length < 8)                           return err('Le mot de passe doit faire au moins 8 caractères.');
-  if (pass !== pass2)                            return err('Les mots de passe ne correspondent pas.');
+  if (pass.length < 8)                            return err('Le mot de passe doit faire au moins 8 caracteres.');
+  if (pass !== pass2)                             return err('Les mots de passe ne correspondent pas.');
 
-  // Vérifier unicité du pseudo
   const { data: existing } = await sb.from('profiles').select('pseudo').eq('pseudo', pseudo).maybeSingle();
-  if (existing) return err('Ce pseudonyme est déjà utilisé.');
+  if (existing) return err('Ce pseudonyme est deja utilise.');
 
   const { error } = await sb.auth.signUp({
-    email,
-    password: pass,
-    options: {
-      data: { pseudo, newsletter },
-      emailRedirectTo: window.location.href,
-    }
+    email, password: pass,
+    options: { data: { pseudo, newsletter }, emailRedirectTo: window.location.href }
   });
-
   if (error) return err(error.message);
   showConfirmEmail(email);
 }
 
 function showConfirmEmail(email) {
-  document.getElementById('tab-register').innerHTML = `
-    <div style="text-align:center;padding:2rem 0">
-      <div style="font-size:2.5rem;margin-bottom:0.75rem;color:var(--gold)">✉</div>
-      <div style="font-family:var(--font-display);font-size:1.2rem;font-weight:700;color:var(--cream);margin-bottom:0.75rem">Vérifiez votre boîte mail</div>
-      <p style="color:var(--gray);font-style:italic;font-size:0.95rem;line-height:1.7">
-        Un lien de confirmation a été envoyé à<br><strong>${esc(email)}</strong>.<br>
-        Cliquez dessus pour activer votre compte.
-      </p>
-    </div>`;
+  document.getElementById('tab-register').innerHTML =
+    '<div style="text-align:center;padding:2rem 0">' +
+    '<div style="font-size:2.5rem;margin-bottom:0.75rem;color:var(--gold)">&#x2709;</div>' +
+    '<div style="font-family:var(--font-display);font-size:1.2rem;font-weight:700;color:var(--cream);margin-bottom:0.75rem">Verifiez votre boite mail</div>' +
+    '<p style="color:var(--gray);font-style:italic;font-size:0.95rem;line-height:1.7">Un lien de confirmation a ete envoye a<br><strong>' + esc(email) + '</strong>.<br>Cliquez dessus pour activer votre compte.</p>' +
+    '</div>';
 }
 
 async function doLogin() {
@@ -182,20 +155,13 @@ async function doLogin() {
   const pass  = document.getElementById('login-password').value;
   const errEl = document.getElementById('login-error');
   errEl.classList.add('hidden');
-
   const { data, error } = await sb.auth.signInWithPassword({ email, password: pass });
-  if (error) {
-    errEl.textContent = error.message.includes('Invalid') ? 'Email ou mot de passe incorrect.' : error.message;
-    errEl.classList.remove('hidden');
-    return;
-  }
+  if (error) { errEl.textContent = error.message.includes('Invalid') ? 'Email ou mot de passe incorrect.' : error.message; errEl.classList.remove('hidden'); return; }
   currentUser = data.user;
   await loadProfileAndEnter();
 }
 
-async function doLogout() {
-  await sb.auth.signOut();
-}
+async function doLogout() { await sb.auth.signOut(); }
 
 async function loadProfileAndEnter() {
   await reloadProfile();
@@ -204,108 +170,104 @@ async function loadProfileAndEnter() {
   loadSuggestions('');
 }
 
-/* ═══════════════════════════════════════════════════════════════
-   PRÉDICTIONS
-   ═══════════════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════
+   PROFIL
+   ═══════════════════════════════════════════════════════════ */
+
+async function reloadProfile() {
+  const { data: profile } = await sb.from('profiles').select('*').eq('id', currentUser.id).maybeSingle();
+  currentProfile = profile;
+
+  const { data: memberships } = await sb.from('team_members').select('teams(*)').eq('user_id', currentUser.id);
+  currentUserTeams = (memberships || []).map(function(m) { return m.teams; }).filter(Boolean);
+
+  if (!currentTeam && currentUserTeams.length > 0) currentTeam = currentUserTeams[0];
+  if (currentTeam && !currentUserTeams.find(function(t) { return t.id === currentTeam.id; })) {
+    currentTeam = currentUserTeams[0] || null;
+  }
+
+  const displayName = (profile && profile.pseudo) ? profile.pseudo : (currentUser.email || '?');
+  document.getElementById('user-avatar-main').textContent   = displayName[0].toUpperCase();
+  document.getElementById('user-pseudo-display').textContent = (profile && profile.pseudo) ? profile.pseudo : currentUser.email;
+  document.getElementById('user-mode-display').textContent  = currentUserTeams.length > 0
+    ? currentUserTeams.length + ' equipe' + (currentUserTeams.length > 1 ? 's' : '') : 'Predicteur solo';
+}
+
+/* ═══════════════════════════════════════════════════════════
+   PREDICTIONS
+   ═══════════════════════════════════════════════════════════ */
 
 async function renderMyPredictions() {
-  const { data: preds } = await sb
-    .from('predictions')
-    .select('*')
-    .eq('user_id', currentUser.id)
-    .eq('year', 2026)
-    .order('created_at', { ascending: true });
+  const { data: preds } = await sb.from('predictions').select('*')
+    .eq('user_id', currentUser.id).eq('year', 2026).order('created_at', { ascending: true });
 
   const listEl  = document.getElementById('my-predictions-list');
   const emptyEl = document.getElementById('my-predictions-empty');
   const fillEl  = document.getElementById('score-fill');
   const countEl = document.getElementById('score-count');
-  const list    = preds ?? [];
-  const limit   = currentTeam?.pred_limit ?? MAX_PREDICTIONS;
+  const list    = preds || [];
+  const limit   = (currentTeam && currentTeam.pred_limit) ? currentTeam.pred_limit : MAX_PREDICTIONS;
 
   countEl.textContent = list.length;
-  fillEl.style.width  = `${Math.min((list.length / limit) * 100, 100)}%`;
+  fillEl.style.width  = Math.min((list.length / limit) * 100, 100) + '%';
 
-  if (list.length === 0) {
-    listEl.innerHTML = '';
-    emptyEl.classList.remove('hidden');
-    return;
-  }
+  if (list.length === 0) { listEl.innerHTML = ''; emptyEl.classList.remove('hidden'); return; }
   emptyEl.classList.add('hidden');
   listEl.innerHTML = '';
 
-  const isLocked = currentTeam?.locked && currentTeam?.admin_id !== currentUser.id;
-
-  list.forEach((p, i) => {
+  list.forEach(function(p, i) {
     const item = document.createElement('div');
     item.className = 'prediction-item';
-    item.style.animationDelay = `${i * 0.05}s`;
-
+    item.style.animationDelay = (i * 0.05) + 's';
     const imgHtml = p.celeb_image
-      ? `<img class="pred-thumb" src="${esc(p.celeb_image)}" alt="${esc(p.celeb_name)}" onerror="this.outerHTML='<div class=\\'pred-thumb-placeholder\\'>✝</div>'">`
-      : `<div class="pred-thumb-placeholder">✝</div>`;
-
-    const statusClass = p.status === 'correct' ? 'pred-status-correct'
-                      : p.status === 'wrong'   ? 'pred-status-wrong' : 'pred-status-pending';
-    const statusText  = p.status === 'correct' ? '✓ Juste' : p.status === 'wrong' ? '✗ Faux' : '—';
-    const visLabel    = p.visibility === 'group' ? '👥 groupe' : p.visibility === 'private' ? '🔒 privée' : '🌍 public';
-
-    item.innerHTML = `
-      <div class="pred-rank">${i + 1}</div>
-      ${imgHtml}
-      <div class="pred-info">
-        <div class="pred-name">${esc(p.celeb_name)}</div>
-        <div class="pred-meta">${[p.celeb_domain, p.celeb_nationality, p.celeb_age ? p.celeb_age + ' ans' : null].filter(Boolean).join(' · ')}</div>
-      </div>
-      <div class="pred-visibility">${visLabel}</div>
-      <div class="pred-status ${statusClass}">${statusText}</div>
-      ${!isLocked && p.status === 'pending' ? `<button class="pred-delete" title="Supprimer" onclick="deletePrediction('${p.id}')">✕</button>` : ''}
-    `;
+      ? '<img class="pred-thumb" src="' + esc(p.celeb_image) + '" alt="' + esc(p.celeb_name) + '" onerror="this.outerHTML=\'<div class=\\\'pred-thumb-placeholder\\\'>&#x271D;</div>\'">'
+      : '<div class="pred-thumb-placeholder">&#x271D;</div>';
+    const statusClass = p.status === 'correct' ? 'pred-status-correct' : p.status === 'wrong' ? 'pred-status-wrong' : 'pred-status-pending';
+    const statusText  = p.status === 'correct' ? '&#x2713; Juste' : p.status === 'wrong' ? '&#x2717; Faux' : '&mdash;';
+    const visLabel    = p.visibility === 'group' ? '&#x1F465; groupe' : p.visibility === 'private' ? '&#x1F512; priv&eacute;e' : '&#x1F30D; public';
+    const isLocked    = currentTeam && currentTeam.locked && currentTeam.admin_id !== currentUser.id;
+    item.innerHTML =
+      '<div class="pred-rank">' + (i + 1) + '</div>' +
+      imgHtml +
+      '<div class="pred-info"><div class="pred-name">' + esc(p.celeb_name) + '</div>' +
+      '<div class="pred-meta">' + [p.celeb_domain, p.celeb_nationality, p.celeb_age ? p.celeb_age + ' ans' : null].filter(Boolean).join(' &middot; ') + '</div></div>' +
+      '<div class="pred-visibility">' + visLabel + '</div>' +
+      '<div class="pred-status ' + statusClass + '">' + statusText + '</div>' +
+      (!isLocked && p.status === 'pending' ? '<button class="pred-delete" title="Supprimer" onclick="deletePrediction(\'' + p.id + '\')">&#x2715;</button>' : '');
     listEl.appendChild(item);
   });
 }
 
 async function deletePrediction(id) {
-  if (!confirm('Supprimer cette prévision ?')) return;
+  if (!confirm('Supprimer cette prevision ?')) return;
   await sb.from('predictions').delete().eq('id', id).eq('user_id', currentUser.id);
   await renderMyPredictions();
 }
 
 async function confirmPrediction() {
   if (!selectedCeleb) return;
+  const { count } = await sb.from('predictions').select('id', { count: 'exact', head: true })
+    .eq('user_id', currentUser.id).eq('year', 2026);
+  const limit = (currentTeam && currentTeam.pred_limit) ? currentTeam.pred_limit : MAX_PREDICTIONS;
+  if (count >= limit) { alert('Limite de ' + limit + ' previsions atteinte.'); return; }
 
-  const { count } = await sb
-    .from('predictions')
-    .select('id', { count: 'exact', head: true })
-    .eq('user_id', currentUser.id)
-    .eq('year', 2026);
-
-  const limit = currentTeam?.pred_limit ?? MAX_PREDICTIONS;
-  if (count >= limit) { alert(`Limite de ${limit} prévisions atteinte.`); return; }
-
-  // Cache célébrité
   await sb.from('celebrities').upsert({
-    wikidata_id: selectedCeleb.wikidataId,
-    name: selectedCeleb.name, domain: selectedCeleb.domain,
-    nationality: selectedCeleb.nationality, birth_date: selectedCeleb.birthDate,
-    age: selectedCeleb.age, image_url: selectedCeleb.imageUrl,
-    wiki_url: selectedCeleb.wikipediaUrl, is_alive: true,
-    last_checked: new Date().toISOString(),
+    wikidata_id: selectedCeleb.wikidataId, name: selectedCeleb.name,
+    domain: selectedCeleb.domain, nationality: selectedCeleb.nationality,
+    birth_date: selectedCeleb.birthDate, age: selectedCeleb.age,
+    image_url: selectedCeleb.imageUrl, wiki_url: selectedCeleb.wikipediaUrl,
+    is_alive: true, last_checked: new Date().toISOString(),
   }, { onConflict: 'wikidata_id' });
 
   const { error } = await sb.from('predictions').insert({
-    user_id: currentUser.id, team_id: currentTeam?.id ?? null, year: 2026,
+    user_id: currentUser.id, team_id: currentTeam ? currentTeam.id : null, year: 2026,
     wikidata_id: selectedCeleb.wikidataId, celeb_name: selectedCeleb.name,
     celeb_domain: selectedCeleb.domain, celeb_nationality: selectedCeleb.nationality,
     celeb_age: selectedCeleb.age, celeb_image: selectedCeleb.imageUrl,
     celeb_wiki: selectedCeleb.wikipediaUrl, visibility: selectedVis, status: 'pending',
   });
 
-  if (error) {
-    alert(error.code === '23505' ? `${selectedCeleb.name} est déjà dans vos prévisions.` : error.message);
-    return;
-  }
-
+  if (error) { alert(error.code === '23505' ? selectedCeleb.name + ' est deja dans vos previsions.' : error.message); return; }
   document.getElementById('modal-celeb-name').textContent = selectedCeleb.name;
   document.getElementById('modal-confirm').classList.remove('hidden');
 }
@@ -317,26 +279,25 @@ async function closeModal() {
   await renderMyPredictions();
 }
 
-/* ═══════════════════════════════════════════════════════════════
-   ÉQUIPES
-   ═══════════════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════
+   EQUIPES -- MULTI-EQUIPES
+   ═══════════════════════════════════════════════════════════ */
 
 async function createTeam() {
   const name  = document.getElementById('new-team-name').value.trim();
   const errEl = document.getElementById('create-team-error');
   errEl.classList.add('hidden');
   if (!name || name.length < 2) { errEl.textContent = 'Nom trop court.'; errEl.classList.remove('hidden'); return; }
-  if (currentTeam) { errEl.textContent = 'Vous appartenez déjà à une équipe.'; errEl.classList.remove('hidden'); return; }
 
-  const { data: team, error } = await sb.from('teams').insert({ name, admin_id: currentUser.id }).select().single();
+  const { data: existing } = await sb.from('teams').select('id').eq('name', name).maybeSingle();
+  if (existing) { errEl.textContent = 'Ce nom est deja utilise.'; errEl.classList.remove('hidden'); return; }
+
+  const { data: team, error } = await sb.from('teams').insert({ name: name, admin_id: currentUser.id }).select().single();
   if (error) { errEl.textContent = error.message; errEl.classList.remove('hidden'); return; }
 
-  // Rattacher le profil à l'équipe en base
-  await sb.from('profiles').update({ team_id: team.id }).eq('id', currentUser.id);
-
-  // Recharger le profil complet depuis Supabase
+  await sb.from('team_members').insert({ team_id: team.id, user_id: currentUser.id });
+  currentTeam = team;
   await reloadProfile();
-
   document.getElementById('new-team-name').value = '';
   switchMainTab('mon-equipe');
 }
@@ -345,7 +306,6 @@ async function joinTeam() {
   const raw   = document.getElementById('join-code').value.trim().toUpperCase();
   const errEl = document.getElementById('join-team-error');
   errEl.classList.add('hidden');
-  if (currentTeam) { errEl.textContent = 'Vous appartenez déjà à une équipe.'; errEl.classList.remove('hidden'); return; }
 
   const m    = raw.match(/([A-Z0-9]{6})/);
   const code = m ? m[1] : raw;
@@ -353,116 +313,155 @@ async function joinTeam() {
   const { data: team } = await sb.from('teams').select('*').eq('invite_code', code).maybeSingle();
   if (!team) { errEl.textContent = 'Code invalide.'; errEl.classList.remove('hidden'); return; }
 
-  await sb.from('profiles').update({ team_id: team.id }).eq('id', currentUser.id);
+  const { data: already } = await sb.from('team_members')
+    .select('team_id').eq('team_id', team.id).eq('user_id', currentUser.id).maybeSingle();
+  if (already) { errEl.textContent = 'Vous etes deja membre de cette equipe.'; errEl.classList.remove('hidden'); return; }
 
-  // Recharger le profil complet depuis Supabase
+  await sb.from('team_members').insert({ team_id: team.id, user_id: currentUser.id });
+  currentTeam = team;
   await reloadProfile();
-
   document.getElementById('join-code').value = '';
   switchMainTab('mon-equipe');
 }
 
-// Recharge le profil + équipe depuis Supabase et met à jour l'affichage
-async function reloadProfile() {
-  // Requête 1 : profil seul
-  const { data: profile, error: profErr } = await sb
-    .from('profiles')
-    .select('*')
-    .eq('id', currentUser.id)
-    .maybeSingle();
-
-  console.log('[reloadProfile] profile:', profile, profErr);
-  currentProfile = profile;
-
-  // Requête 2 : équipe séparée si team_id renseigné
-  currentTeam = null;
-  if (profile?.team_id) {
-    const { data: team, error: teamErr } = await sb
-      .from('teams')
-      .select('*')
-      .eq('id', profile.team_id)
-      .maybeSingle();
-    console.log('[reloadProfile] team:', team, teamErr);
-    currentTeam = team ?? null;
-  }
-
-  // Affichage : pseudo ou partie avant @ si null
-  const displayName = profile?.pseudo
-    ?? (currentUser.email ? currentUser.email.split('@')[0] : '?');
-
-  document.getElementById('user-avatar-main').textContent  = displayName[0].toUpperCase();
-  document.getElementById('user-pseudo-display').textContent = profile?.pseudo ?? currentUser.email;
-  document.getElementById('user-mode-display').textContent   = currentTeam
-    ? `Équipe : ${currentTeam.name}` : 'Prédicteur solo';
-}
-
 async function renderTeamTab() {
-  if (currentProfile?.team_id) {
-    const { data } = await sb.from('teams').select('*').eq('id', currentProfile.team_id).single();
-    currentTeam = data;
-  }
+  const { data: memberships } = await sb.from('team_members').select('teams(*)').eq('user_id', currentUser.id);
+  currentUserTeams = (memberships || []).map(function(m) { return m.teams; }).filter(Boolean);
 
   const noTeamEl  = document.getElementById('equipe-no-team');
   const contentEl = document.getElementById('equipe-content');
-  if (!currentTeam) { noTeamEl.classList.remove('hidden'); contentEl.classList.add('hidden'); return; }
+
+  if (currentUserTeams.length === 0) { noTeamEl.classList.remove('hidden'); contentEl.classList.add('hidden'); return; }
   noTeamEl.classList.add('hidden'); contentEl.classList.remove('hidden');
 
-  const { data: members } = await sb.from('profiles').select('id, pseudo').eq('team_id', currentTeam.id);
+  if (!currentTeam || !currentUserTeams.find(function(t) { return t.id === currentTeam.id; })) {
+    currentTeam = currentUserTeams[0];
+  }
+
+  renderTeamSelector();
+  await renderCurrentTeam();
+}
+
+function renderTeamSelector() {
+  var el = document.getElementById('team-selector-wrap');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'team-selector-wrap';
+    el.style.cssText = 'display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:1.25rem;';
+    const contentEl = document.getElementById('equipe-content');
+    contentEl.insertBefore(el, contentEl.firstChild);
+  }
+  el.innerHTML = '';
+  if (currentUserTeams.length <= 1) { el.style.display = 'none'; return; }
+  el.style.display = 'flex';
+
+  currentUserTeams.forEach(function(team) {
+    const btn = document.createElement('button');
+    btn.className = 'domain-btn' + (currentTeam && team.id === currentTeam.id ? ' active' : '');
+    btn.textContent = team.name;
+    btn.onclick = async function() { currentTeam = team; renderTeamSelector(); await renderCurrentTeam(); };
+    el.appendChild(btn);
+  });
+}
+
+async function renderCurrentTeam() {
+  if (!currentTeam) return;
+
+  const { data: memberships } = await sb.from('team_members').select('profiles(id, pseudo)').eq('team_id', currentTeam.id);
+  const members = (memberships || []).map(function(m) { return m.profiles; }).filter(Boolean);
   const isAdmin = currentTeam.admin_id === currentUser.id;
 
   document.getElementById('equipe-name-display').textContent = currentTeam.name;
   document.getElementById('equipe-meta-display').textContent =
-    `${(members ?? []).length} membre${(members ?? []).length > 1 ? 's' : ''} · Code : ${currentTeam.invite_code}`;
+    members.length + ' membre' + (members.length > 1 ? 's' : '') + ' - Code : ' + currentTeam.invite_code;
   document.getElementById('equipe-admin-badge').classList.toggle('hidden', !isAdmin);
   document.getElementById('equipe-admin-panel').classList.toggle('hidden', !isAdmin);
+
+  // Bouton supprimer / quitter
+  var actionBtn = document.getElementById('equipe-action-btn');
+  if (!actionBtn) {
+    actionBtn = document.createElement('button');
+    actionBtn.id = 'equipe-action-btn';
+    const headerEl = document.getElementById('equipe-header');
+    if (headerEl) headerEl.appendChild(actionBtn);
+  }
+  if (actionBtn) {
+    if (isAdmin) {
+      actionBtn.className = 'prev-btn prev-btn-sm';
+      actionBtn.style.cssText = 'border-color:rgba(184,42,34,0.4);color:var(--red-death);margin-left:0.5rem;';
+      actionBtn.textContent = 'Supprimer';
+      actionBtn.onclick = deleteTeam;
+    } else {
+      actionBtn.className = 'prev-btn prev-btn-sm prev-btn-ghost';
+      actionBtn.style.cssText = 'margin-left:0.5rem;';
+      actionBtn.textContent = 'Quitter';
+      actionBtn.onclick = leaveTeam;
+    }
+  }
 
   if (isAdmin) {
     document.getElementById('toggle-lock').checked = currentTeam.locked;
     document.getElementById('limit-val-display').textContent = currentTeam.pred_limit;
-    const inviteUrl = `${window.location.origin}${window.location.pathname}?invite=${currentTeam.invite_code}`;
+    const inviteUrl = window.location.origin + window.location.pathname + '?invite=' + currentTeam.invite_code;
     document.getElementById('invite-link-display').textContent = inviteUrl;
     document.getElementById('invite-qr').innerHTML =
-      `<img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=${encodeURIComponent(inviteUrl)}" width="100" height="100" alt="QR" />`;
-    renderMembersList(members ?? [], isAdmin);
+      '<img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=' + encodeURIComponent(inviteUrl) + '" width="100" height="100" alt="QR" />';
+    renderMembersList(members, isAdmin);
   }
 
-  await renderTeamPredictions();
-  await renderTeamRanking(members ?? []);
+  await renderTeamPredictions(members);
+  await renderTeamRanking(members);
+}
+
+async function deleteTeam() {
+  if (!confirm('Supprimer definitvement "' + currentTeam.name + '" ?\nTous les membres perdront acces. Cette action est irreversible.')) return;
+  const { error } = await sb.from('teams').delete().eq('id', currentTeam.id).eq('admin_id', currentUser.id);
+  if (error) { alert('Erreur : ' + error.message); return; }
+  currentTeam = null;
+  await reloadProfile();
+  switchMainTab(currentUserTeams.length > 0 ? 'mon-equipe' : 'rejoindre');
+}
+
+async function leaveTeam() {
+  if (!confirm('Quitter "' + currentTeam.name + '" ?')) return;
+  await sb.from('team_members').delete().eq('team_id', currentTeam.id).eq('user_id', currentUser.id);
+  currentTeam = null;
+  await reloadProfile();
+  switchMainTab(currentUserTeams.length > 0 ? 'mon-equipe' : 'rejoindre');
 }
 
 function renderMembersList(members, isAdmin) {
   const listEl = document.getElementById('equipe-members-list');
   listEl.innerHTML = '';
-  members.forEach(m => {
-    const isMe = m.id === currentUser.id;
+  members.forEach(function(m) {
+    const isMe  = m.id === currentUser.id;
     const isAdm = m.id === currentTeam.admin_id;
-    const row = document.createElement('div');
+    const row   = document.createElement('div');
     row.className = 'member-row';
-    row.innerHTML = `
-      <div class="member-avatar">${m.pseudo[0].toUpperCase()}</div>
-      <div class="member-name">${esc(m.pseudo)}
-        ${isMe ? '<em style="color:var(--gold-dim2);font-size:0.72rem">(vous)</em>' : ''}
-        ${isAdm ? '<em style="color:var(--gold-dim2);font-size:0.72rem">Admin</em>' : ''}
-      </div>
-      ${isAdmin && !isMe ? `<button class="pred-delete" onclick="removeMember('${m.id}','${esc(m.pseudo)}')">✕</button>` : ''}
-    `;
+    row.innerHTML =
+      '<div class="member-avatar">' + ((m.pseudo || '?')[0]).toUpperCase() + '</div>' +
+      '<div class="member-name">' + esc(m.pseudo || '-') +
+        (isMe  ? ' <em style="color:var(--gold-dim2);font-size:0.72rem">(vous)</em>' : '') +
+        (isAdm ? ' <em style="color:var(--gold-dim2);font-size:0.72rem">Admin</em>'  : '') +
+      '</div>' +
+      (isAdmin && !isMe ? '<button class="pred-delete" onclick="removeMember(\'' + m.id + '\',\'' + esc(m.pseudo || '') + '\')">&#x2715;</button>' : '');
     listEl.appendChild(row);
   });
 }
 
 async function removeMember(userId, pseudo) {
-  if (!confirm(`Retirer ${pseudo} ?`)) return;
-  await sb.from('profiles').update({ team_id: null }).eq('id', userId);
-  await renderTeamTab();
+  if (!confirm('Retirer ' + pseudo + ' ?')) return;
+  await sb.from('team_members').delete().eq('team_id', currentTeam.id).eq('user_id', userId);
+  await renderCurrentTeam();
 }
 
 async function toggleTeamLock(locked) {
-  await sb.from('teams').update({ locked }).eq('id', currentTeam.id);
+  await sb.from('teams').update({ locked: locked }).eq('id', currentTeam.id);
   currentTeam.locked = locked;
 }
 
 async function changeTeamLimit(delta) {
-  const newLimit = Math.max(1, Math.min(50, (currentTeam.pred_limit ?? 20) + delta));
+  const newLimit = Math.max(1, Math.min(50, ((currentTeam.pred_limit || 20) + delta)));
   await sb.from('teams').update({ pred_limit: newLimit }).eq('id', currentTeam.id);
   currentTeam.pred_limit = newLimit;
   document.getElementById('limit-val-display').textContent = newLimit;
@@ -471,10 +470,10 @@ async function changeTeamLimit(delta) {
 async function copyInviteLink() {
   await navigator.clipboard.writeText(document.getElementById('invite-link-display').textContent);
   const btn = event.target; const orig = btn.textContent;
-  btn.textContent = 'Copié ✓'; setTimeout(() => { btn.textContent = orig; }, 2000);
+  btn.textContent = 'Copie !'; setTimeout(function() { btn.textContent = orig; }, 2000);
 }
 
-async function renderTeamPredictions() {
+async function renderTeamPredictions(members) {
   const { data: preds } = await sb.from('predictions')
     .select('*, profiles(pseudo)').eq('team_id', currentTeam.id)
     .in('visibility', ['public', 'group']).eq('year', 2026)
@@ -482,33 +481,30 @@ async function renderTeamPredictions() {
 
   const listEl = document.getElementById('equipe-predictions-list');
   listEl.innerHTML = '';
-  const list = preds ?? [];
+  const list = preds || [];
   if (list.length === 0) {
-    listEl.innerHTML = '<div class="prev-empty" style="padding:1.5rem"><p>Aucune prévision partagée.</p></div>'; return;
+    listEl.innerHTML = '<div class="prev-empty" style="padding:1.5rem"><p>Aucune prevision partagee.</p></div>'; return;
   }
-
   const counts = {};
-  list.forEach(p => { counts[p.wikidata_id] = (counts[p.wikidata_id] || 0) + 1; });
+  list.forEach(function(p) { counts[p.wikidata_id] = (counts[p.wikidata_id] || 0) + 1; });
   const seen = new Set();
-
-  list.forEach((p, i) => {
+  list.forEach(function(p, i) {
     if (seen.has(p.wikidata_id)) return;
     seen.add(p.wikidata_id);
     const item = document.createElement('div');
     item.className = 'prediction-item';
-    item.style.animationDelay = `${i * 0.04}s`;
+    item.style.animationDelay = (i * 0.04) + 's';
     const imgHtml = p.celeb_image
-      ? `<img class="pred-thumb" src="${esc(p.celeb_image)}" alt="${esc(p.celeb_name)}" onerror="this.outerHTML='<div class=\\'pred-thumb-placeholder\\'>✝</div>'">`
-      : `<div class="pred-thumb-placeholder">✝</div>`;
+      ? '<img class="pred-thumb" src="' + esc(p.celeb_image) + '" alt="' + esc(p.celeb_name) + '" onerror="this.outerHTML=\'<div class=\\\'pred-thumb-placeholder\\\'>&#x271D;</div>\'">'
+      : '<div class="pred-thumb-placeholder">&#x271D;</div>';
     const statusClass = p.status === 'correct' ? 'pred-status-correct' : p.status === 'wrong' ? 'pred-status-wrong' : 'pred-status-pending';
-    item.innerHTML = `
-      ${imgHtml}
-      <div class="pred-info">
-        <div class="pred-name">${esc(p.celeb_name)}</div>
-        <div class="pred-meta">${esc(p.celeb_domain || '')} · par ${esc(p.profiles?.pseudo ?? '—')}${counts[p.wikidata_id] > 1 ? ` · ${counts[p.wikidata_id]} membres` : ''}</div>
-      </div>
-      <div class="pred-status ${statusClass}">${p.status === 'correct' ? '✓' : p.status === 'wrong' ? '✗' : '—'}</div>
-    `;
+    const pseudo = (p.profiles && p.profiles.pseudo) ? p.profiles.pseudo : '-';
+    const cited  = counts[p.wikidata_id] > 1 ? ' &middot; ' + counts[p.wikidata_id] + ' membres' : '';
+    item.innerHTML =
+      imgHtml +
+      '<div class="pred-info"><div class="pred-name">' + esc(p.celeb_name) + '</div>' +
+      '<div class="pred-meta">' + esc(p.celeb_domain || '') + ' &middot; par ' + esc(pseudo) + cited + '</div></div>' +
+      '<div class="pred-status ' + statusClass + '">' + (p.status === 'correct' ? '&#x2713;' : p.status === 'wrong' ? '&#x2717;' : '&mdash;') + '</div>';
     listEl.appendChild(item);
   });
 }
@@ -516,39 +512,35 @@ async function renderTeamPredictions() {
 async function renderTeamRanking(members) {
   const { data: preds } = await sb.from('predictions')
     .select('user_id, status').eq('team_id', currentTeam.id).eq('year', 2026);
-
   const rankEl = document.getElementById('equipe-ranking');
   rankEl.innerHTML = '';
   const scores = {};
-  members.forEach(m => { scores[m.id] = { pseudo: m.pseudo, correct: 0, total: 0 }; });
-  (preds ?? []).forEach(p => {
+  members.forEach(function(m) { scores[m.id] = { pseudo: m.pseudo || '?', correct: 0, total: 0 }; });
+  (preds || []).forEach(function(p) {
     if (!scores[p.user_id]) return;
     scores[p.user_id].total++;
     if (p.status === 'correct') scores[p.user_id].correct++;
   });
-
-  const sorted   = Object.values(scores).sort((a, b) => b.correct - a.correct || b.total - a.total);
-  const maxScore = sorted[0]?.correct || 1;
-  const medals   = ['🥇', '🥈', '🥉'];
-
-  sorted.forEach((s, i) => {
+  const sorted   = Object.values(scores).sort(function(a, b) { return b.correct - a.correct || b.total - a.total; });
+  const maxScore = (sorted[0] && sorted[0].correct) ? sorted[0].correct : 1;
+  const medals   = ['&#x1F947;', '&#x1F948;', '&#x1F949;'];
+  sorted.forEach(function(s, i) {
     const row = document.createElement('div');
     row.className = 'ranking-row';
     const pct = Math.round((s.correct / maxScore) * 100);
-    row.innerHTML = `
-      <div class="ranking-rank">${medals[i] ?? (i + 1)}</div>
-      <div class="member-avatar" style="width:28px;height:28px;font-size:0.75rem">${s.pseudo[0].toUpperCase()}</div>
-      <div class="ranking-name">${esc(s.pseudo)}</div>
-      <div class="ranking-bar-wrap"><div class="ranking-bar-fill" style="width:${pct}%"></div></div>
-      <div class="ranking-score">${s.correct} / ${s.total}</div>
-    `;
+    row.innerHTML =
+      '<div class="ranking-rank">' + (medals[i] || (i + 1)) + '</div>' +
+      '<div class="member-avatar" style="width:28px;height:28px;font-size:0.75rem">' + s.pseudo[0].toUpperCase() + '</div>' +
+      '<div class="ranking-name">' + esc(s.pseudo) + '</div>' +
+      '<div class="ranking-bar-wrap"><div class="ranking-bar-fill" style="width:' + pct + '%"></div></div>' +
+      '<div class="ranking-score">' + s.correct + ' / ' + s.total + '</div>';
     rankEl.appendChild(row);
   });
 }
 
-/* ═══════════════════════════════════════════════════════════════
+/* ═══════════════════════════════════════════════════════════
    WIKIDATA
-   ═══════════════════════════════════════════════════════════════ */
+   ═══════════════════════════════════════════════════════════ */
 
 function onSearchInput(value) {
   clearTimeout(searchTimer);
@@ -558,7 +550,7 @@ function onSearchInput(value) {
   if (q.length < 2) { document.getElementById('search-suggestions').style.display = ''; return; }
   document.getElementById('search-suggestions').style.display = 'none';
   document.getElementById('search-spinner').classList.remove('hidden');
-  searchTimer = setTimeout(() => performSearch(q), 500);
+  searchTimer = setTimeout(function() { performSearch(q); }, 500);
 }
 
 async function performSearch(query) {
@@ -574,115 +566,105 @@ async function performSearch(query) {
 
     const res  = await fetch(url);
     const data = await res.json();
-    const qids = (data.search || []).map(r => r.id);
+    const qids = (data.search || []).map(function(r) { return r.id; });
     if (qids.length === 0) { showSearchEmpty(); return; }
 
-    // Vérifier le cache Supabase en premier
     const { data: cached } = await sb.from('celebrities').select('*').in('wikidata_id', qids).eq('is_alive', true);
-    const cachedIds = new Set((cached ?? []).map(c => c.wikidata_id));
-    const uncached  = qids.filter(q => !cachedIds.has(q));
-
-    let fresh = [];
+    const cachedIds = new Set((cached || []).map(function(c) { return c.wikidata_id; }));
+    const uncached  = qids.filter(function(q) { return !cachedIds.has(q); });
+    var fresh = [];
     if (uncached.length > 0) fresh = await fetchLivingFromWikidata(uncached);
 
-    const cacheFormatted = (cached ?? []).map(c => ({
+    const cacheFormatted = (cached || []).map(function(c) { return {
       wikidataId: c.wikidata_id, name: c.name, domain: c.domain,
       nationality: c.nationality, birthDate: c.birth_date, age: c.age,
       imageUrl: c.image_url, wikipediaUrl: c.wiki_url,
-    }));
-
-    const all     = [...cacheFormatted, ...fresh];
-    const ordered = qids.map(id => all.find(r => r.wikidataId === id)).filter(Boolean);
-
-    if (ordered.length === 0) showSearchEmpty();
-    else renderSearchResults(ordered);
-
-  } catch (err) {
-    console.error(err); showSearchEmpty();
-  } finally {
-    document.getElementById('search-spinner').classList.add('hidden');
-  }
+    }; });
+    const all     = cacheFormatted.concat(fresh);
+    const ordered = qids.map(function(id) { return all.find(function(r) { return r.wikidataId === id; }); }).filter(Boolean);
+    if (ordered.length === 0) showSearchEmpty(); else renderSearchResults(ordered);
+  } catch (err) { console.error(err); showSearchEmpty(); }
+  finally { document.getElementById('search-spinner').classList.add('hidden'); }
 }
 
 async function fetchLivingFromWikidata(qids) {
-  const values = qids.map(q => `wd:${q}`).join(' ');
-  const sparql = `
-    SELECT DISTINCT ?person ?personLabel ?birthDate ?age ?nationalityLabel ?occupationLabel ?image WHERE {
-      VALUES ?person { ${values} }
-      ?person wdt:P31 wd:Q5 .
-      FILTER NOT EXISTS { ?person wdt:P570 [] }
-      ?person wdt:P569 ?birthDate .
-      BIND(YEAR(NOW()) - YEAR(?birthDate) AS ?age)
-      OPTIONAL { ?person wdt:P27 ?nationality . }
-      OPTIONAL { ?person wdt:P106 ?occupation . }
-      OPTIONAL { ?person wdt:P18 ?image . }
-      SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en" . }
-    } LIMIT 10`;
+  const values = qids.map(function(q) { return 'wd:' + q; }).join(' ');
+  const sparql = 'SELECT DISTINCT ?person ?personLabel ?birthDate ?age ?nationalityLabel ?occupationLabel ?image WHERE {' +
+    'VALUES ?person { ' + values + ' }' +
+    '?person wdt:P31 wd:Q5 .' +
+    'FILTER NOT EXISTS { ?person wdt:P570 [] }' +
+    '?person wdt:P569 ?birthDate .' +
+    'BIND(YEAR(NOW()) - YEAR(?birthDate) AS ?age)' +
+    'OPTIONAL { ?person wdt:P27 ?nationality . }' +
+    'OPTIONAL { ?person wdt:P106 ?occupation . }' +
+    'OPTIONAL { ?person wdt:P18 ?image . }' +
+    'SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en" . }' +
+    '} LIMIT 10';
   return runSparql(sparql);
 }
 
 async function loadSuggestions(domain) {
   const listEl = document.getElementById('suggestions-list');
-  listEl.innerHTML = '<div class="prev-hint-text">Chargement…</div>';
+  listEl.innerHTML = '<div class="prev-hint-text">Chargement...</div>';
   try {
     const domainFilter = domain && DOMAIN_QIDS[domain]
-      ? `VALUES ?occ { ${DOMAIN_QIDS[domain].map(q => `wd:${q}`).join(' ')} } ?person wdt:P106 ?occ .` : '';
-    const sparql = `
-      SELECT DISTINCT ?person ?personLabel ?birthDate ?age ?image ?nationalityLabel ?occupationLabel (COUNT(?sl) AS ?pop)
-      WHERE {
-        ?person wdt:P31 wd:Q5 . ${domainFilter}
-        FILTER NOT EXISTS { ?person wdt:P570 [] }
-        ?person wdt:P569 ?birthDate .
-        BIND(YEAR(NOW()) - YEAR(?birthDate) AS ?age)
-        FILTER(?age >= 70)
-        OPTIONAL { ?person wdt:P27 ?nationality . }
-        OPTIONAL { ?person wdt:P106 ?occupation . }
-        OPTIONAL { ?person wdt:P18 ?image . }
-        ?sl schema:about ?person .
-        SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en" . }
-      }
-      GROUP BY ?person ?personLabel ?birthDate ?age ?image ?nationalityLabel ?occupationLabel
-      ORDER BY DESC(?pop) LIMIT 24`;
+      ? 'VALUES ?occ { ' + DOMAIN_QIDS[domain].map(function(q) { return 'wd:' + q; }).join(' ') + ' } ?person wdt:P106 ?occ .' : '';
+    const sparql =
+      'SELECT DISTINCT ?person ?personLabel ?birthDate ?age ?image ?nationalityLabel ?occupationLabel (COUNT(?sl) AS ?pop) WHERE {' +
+      '?person wdt:P31 wd:Q5 . ' + domainFilter +
+      'FILTER NOT EXISTS { ?person wdt:P570 [] }' +
+      '?person wdt:P569 ?birthDate .' +
+      'BIND(YEAR(NOW()) - YEAR(?birthDate) AS ?age)' +
+      'FILTER(?age >= 70)' +
+      'OPTIONAL { ?person wdt:P27 ?nationality . }' +
+      'OPTIONAL { ?person wdt:P106 ?occupation . }' +
+      'OPTIONAL { ?person wdt:P18 ?image . }' +
+      '?sl schema:about ?person .' +
+      'SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en" . }' +
+      '} GROUP BY ?person ?personLabel ?birthDate ?age ?image ?nationalityLabel ?occupationLabel' +
+      ' ORDER BY DESC(?pop) LIMIT 24';
     renderSuggestions(await runSparql(sparql));
-  } catch { listEl.innerHTML = '<div class="prev-hint-text">Suggestions non disponibles.</div>'; }
+  } catch(e) { listEl.innerHTML = '<div class="prev-hint-text">Suggestions non disponibles.</div>'; }
 }
 
 async function runSparql(sparql) {
   const url = new URL(WIKIDATA_SPARQL);
   url.searchParams.set('query', sparql); url.searchParams.set('format', 'json');
   const res = await fetch(url, { headers: { 'Accept': 'application/sparql-results+json' } });
-  if (!res.ok) throw new Error(`SPARQL ${res.status}`);
+  if (!res.ok) throw new Error('SPARQL ' + res.status);
   const json = await res.json();
   const seen = new Set();
-  return (json.results?.bindings || []).filter(r => {
-    const id = r.person?.value?.split('/').pop();
+  return (json.results && json.results.bindings || []).filter(function(r) {
+    const id = r.person && r.person.value && r.person.value.split('/').pop();
     if (!id || seen.has(id)) return false;
     seen.add(id); return true;
-  }).map(r => ({
-    wikidataId  : r.person?.value?.split('/').pop(),
-    name        : r.personLabel?.value ?? '—',
-    birthDate   : r.birthDate?.value?.slice(0, 10),
-    age         : r.age?.value ? parseInt(r.age.value) : null,
-    nationality : r.nationalityLabel?.value ?? null,
-    domain      : r.occupationLabel?.value ?? null,
-    imageUrl    : r.image?.value ?? null,
-    wikipediaUrl: `https://fr.wikipedia.org/wiki/${encodeURIComponent(r.personLabel?.value ?? '')}`,
-  }));
+  }).map(function(r) { return {
+    wikidataId  : r.person.value.split('/').pop(),
+    name        : (r.personLabel && r.personLabel.value) || '-',
+    birthDate   : r.birthDate && r.birthDate.value && r.birthDate.value.slice(0, 10),
+    age         : r.age && r.age.value ? parseInt(r.age.value) : null,
+    nationality : (r.nationalityLabel && r.nationalityLabel.value) || null,
+    domain      : (r.occupationLabel && r.occupationLabel.value) || null,
+    imageUrl    : (r.image && r.image.value) || null,
+    wikipediaUrl: 'https://fr.wikipedia.org/wiki/' + encodeURIComponent((r.personLabel && r.personLabel.value) || ''),
+  }; });
 }
 
-/* ── RENDER ──────────────────────────────────────────────────── */
 function renderSearchResults(results) {
   const listEl = document.getElementById('search-results');
   listEl.innerHTML = '';
-  results.forEach((p, i) => {
+  results.forEach(function(p, i) {
     const item = document.createElement('div');
     item.className = 'search-result-item';
-    item.style.animationDelay = `${i * 0.04}s`;
+    item.style.animationDelay = (i * 0.04) + 's';
     const imgHtml = p.imageUrl
-      ? `<img class="result-img" src="${esc(p.imageUrl)}" alt="${esc(p.name)}" onerror="this.outerHTML='<div class=\\'result-img-placeholder\\'>✝</div>'">`
-      : `<div class="result-img-placeholder">✝</div>`;
-    item.innerHTML = `${imgHtml}<div class="result-info"><div class="result-name">${esc(p.name)}</div><div class="result-meta">${[p.domain, p.nationality, p.age ? p.age + ' ans' : null].filter(Boolean).join(' · ')}</div></div><button class="result-add-btn">Choisir</button>`;
-    item.addEventListener('click', () => selectCelebrity(p));
+      ? '<img class="result-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror="this.outerHTML=\'<div class=\\\'result-img-placeholder\\\'>&#x271D;</div>\'">'
+      : '<div class="result-img-placeholder">&#x271D;</div>';
+    item.innerHTML = imgHtml +
+      '<div class="result-info"><div class="result-name">' + esc(p.name) + '</div>' +
+      '<div class="result-meta">' + [p.domain, p.nationality, p.age ? p.age + ' ans' : null].filter(Boolean).join(' &middot; ') + '</div></div>' +
+      '<button class="result-add-btn">Choisir</button>';
+    item.addEventListener('click', function() { selectCelebrity(p); });
     listEl.appendChild(item);
   });
 }
@@ -691,12 +673,12 @@ function renderSuggestions(results) {
   const listEl = document.getElementById('suggestions-list');
   listEl.innerHTML = '';
   if (!results.length) { listEl.innerHTML = '<div class="prev-hint-text">Aucune suggestion.</div>'; return; }
-  results.forEach(p => {
+  results.forEach(function(p) {
     const item = document.createElement('div');
     item.className = 'suggestion-item';
-    const imgHtml = p.imageUrl ? `<img class="suggestion-img" src="${esc(p.imageUrl)}" alt="${esc(p.name)}" onerror="this.style.display='none'">` : '';
-    item.innerHTML = `${imgHtml}<div class="suggestion-name">${esc(p.name)}</div>${p.age ? `<div class="suggestion-age">${p.age} ans</div>` : ''}`;
-    item.addEventListener('click', () => selectCelebrity(p));
+    const imgHtml = p.imageUrl ? '<img class="suggestion-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror="this.style.display=\'none\'">' : '';
+    item.innerHTML = imgHtml + '<div class="suggestion-name">' + esc(p.name) + '</div>' + (p.age ? '<div class="suggestion-age">' + p.age + ' ans</div>' : '');
+    item.addEventListener('click', function() { selectCelebrity(p); });
     listEl.appendChild(item);
   });
 }
@@ -709,10 +691,10 @@ function showSearchEmpty() {
 function selectCelebrity(celeb) {
   selectedCeleb = celeb;
   const imgEl = document.getElementById('selected-img');
-  imgEl.src = celeb.imageUrl ?? ''; imgEl.style.display = celeb.imageUrl ? '' : 'none';
+  imgEl.src = celeb.imageUrl || ''; imgEl.style.display = celeb.imageUrl ? '' : 'none';
   document.getElementById('selected-name').textContent = celeb.name;
   document.getElementById('selected-meta').textContent = [celeb.domain, celeb.nationality, celeb.age ? celeb.age + ' ans' : null].filter(Boolean).join(' · ');
-  document.getElementById('selected-wiki').href = celeb.wikipediaUrl ?? '#';
+  document.getElementById('selected-wiki').href = celeb.wikipediaUrl || '#';
   document.getElementById('selected-celebrity').classList.remove('hidden');
   document.getElementById('visibility-block').style.display = '';
   document.getElementById('search-suggestions').style.display = 'none';
@@ -733,7 +715,7 @@ function clearSelection() {
 
 function setVisibility(vis) {
   selectedVis = vis;
-  document.querySelectorAll('.vis-opt').forEach(b => b.classList.toggle('active', b.dataset.vis === vis));
+  document.querySelectorAll('.vis-opt').forEach(function(b) { b.classList.toggle('active', b.dataset.vis === vis); });
 }
 
 function esc(str) {
