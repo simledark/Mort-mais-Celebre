@@ -364,16 +364,33 @@ async function joinTeam() {
 
 // Recharge le profil + équipe depuis Supabase et met à jour l'affichage
 async function reloadProfile() {
-  const { data: profile } = await sb
+  // Requête 1 : profil seul
+  const { data: profile, error: profErr } = await sb
     .from('profiles')
-    .select('*, teams(*)')
+    .select('*')
     .eq('id', currentUser.id)
     .maybeSingle();
 
+  console.log('[reloadProfile] profile:', profile, profErr);
   currentProfile = profile;
-  currentTeam    = profile?.teams ?? null;
 
-  document.getElementById('user-avatar-main').textContent = (profile?.pseudo ?? '?')[0].toUpperCase();
+  // Requête 2 : équipe séparée si team_id renseigné
+  currentTeam = null;
+  if (profile?.team_id) {
+    const { data: team, error: teamErr } = await sb
+      .from('teams')
+      .select('*')
+      .eq('id', profile.team_id)
+      .maybeSingle();
+    console.log('[reloadProfile] team:', team, teamErr);
+    currentTeam = team ?? null;
+  }
+
+  // Affichage : pseudo ou partie avant @ si null
+  const displayName = profile?.pseudo
+    ?? (currentUser.email ? currentUser.email.split('@')[0] : '?');
+
+  document.getElementById('user-avatar-main').textContent  = displayName[0].toUpperCase();
   document.getElementById('user-pseudo-display').textContent = profile?.pseudo ?? currentUser.email;
   document.getElementById('user-mode-display').textContent   = currentTeam
     ? `Équipe : ${currentTeam.name}` : 'Prédicteur solo';
