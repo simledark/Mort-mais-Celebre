@@ -18,7 +18,7 @@
 .prev-intro {
   font-style: italic;
   color: var(--gray);
-  font-size: 1rem;
+  font-size: 1.05rem;
   margin-bottom: 2rem;
   text-align: center;
   line-height: 1.7;
@@ -69,7 +69,7 @@
 .prev-hint {
   font-family: var(--font-body);
   font-style: italic;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   color: var(--gray);
   letter-spacing: 0;
 }
@@ -97,7 +97,7 @@
   border-color: var(--gold);
   box-shadow: 0 0 0 3px rgba(184,122,26,0.1);
 }
-.prev-input::placeholder { color: var(--gray-light); font-style: italic; }
+.prev-input::placeholder { color: var(--gray); font-style: italic; }
 
 .prev-error {
   background: rgba(184,42,34,0.08);
@@ -111,7 +111,7 @@
 .prev-error.hidden { display: none; }
 
 .prev-disclaimer {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   font-style: italic;
   color: var(--gray);
   text-align: center;
@@ -147,7 +147,7 @@
 }
 .prev-btn-primary:hover { background: var(--gold-light); border-color: var(--gold-light); }
 
-.prev-btn-sm { padding: 0.35rem 0.8rem; font-size: 0.75rem; width: auto; }
+.prev-btn-sm { padding: 0.35rem 0.8rem; font-size: 0.85rem; width: auto; }
 
 .prev-btn-ghost {
   background: transparent;
@@ -185,7 +185,7 @@
 
 .user-pseudo {
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--cream);
 }
@@ -256,7 +256,7 @@
   transition: width 0.6s ease;
 }
 .prev-score-deadline {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   font-style: italic;
   color: var(--gray);
   white-space: nowrap;
@@ -285,8 +285,8 @@
 
 .pred-rank {
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  color: var(--gray-light);
+  font-size: 0.84rem;
+  color: var(--gray);
   min-width: 20px;
   text-align: right;
 }
@@ -313,7 +313,7 @@
 .pred-info { flex: 1; min-width: 0; }
 .pred-name {
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--cream);
   white-space: nowrap;
@@ -322,22 +322,22 @@
 }
 .pred-meta {
   font-family: var(--font-sc);
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   letter-spacing: 0.1em;
   color: var(--gold-mid);
   margin-top: 1px;
 }
 
 .pred-visibility {
-  font-size: 0.72rem;
-  color: var(--gray-light);
+  font-size: 0.84rem;
+  color: var(--gray);
   font-style: italic;
   white-space: nowrap;
 }
 
 .pred-status {
   font-family: var(--font-sc);
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   letter-spacing: 0.1em;
   white-space: nowrap;
   padding: 2px 8px;
@@ -356,7 +356,7 @@
 .pred-delete {
   background: transparent;
   border: none;
-  color: var(--gray-light);
+  color: var(--gray);
   cursor: pointer;
   font-size: 0.85rem;
   padding: 0.2rem;
@@ -375,7 +375,7 @@
 }
 .prev-empty-icon {
   font-size: 2rem;
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
   opacity: 0.4;
   margin-bottom: 0.75rem;
 }
@@ -395,7 +395,7 @@
 }
 .equipe-name {
   font-family: var(--font-display);
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-weight: 700;
   font-style: italic;
   color: var(--cream);
@@ -410,7 +410,7 @@
 
 .prev-badge {
   font-family: var(--font-sc);
-  font-size: 0.7rem;
+  font-size: 0.82rem;
   letter-spacing: 0.15em;
   padding: 3px 10px;
   border-radius: 4px;
@@ -447,7 +447,7 @@
   font-weight: 500;
 }
 .admin-sub {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   font-style: italic;
   color: var(--gray);
   margin-top: 2px;
@@ -507,7 +507,7 @@
   font-family: monospace;
 }
 .invite-qr-hint {
-  font-size: 0.82rem;
+  font-size: 0.88rem;
   font-style: italic;
   color: var(--gray);
   margin: 0.5rem 0 0.5rem;
@@ -543,15 +543,15 @@
 }
 .member-name {
   flex: 1;
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--cream);
   font-family: var(--font-display);
 }
 .member-count {
   font-family: var(--font-sc);
-  font-size: 0.7rem;
+  font-size: 0.82rem;
   letter-spacing: 0.1em;
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
 }
 
 /* RANKING */
@@ -574,7 +574,7 @@
 .ranking-name {
   flex: 1;
   font-family: var(--font-display);
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--cream);
 }
 .ranking-score {
@@ -596,7 +596,7 @@
   position: absolute;
   right: 0.75rem; top: 50%;
   transform: translateY(-50%);
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
   animation: spin 1s linear infinite;
   font-size: 1.1rem;
 }
@@ -621,7 +621,7 @@
   cursor: pointer;
   transition: var(--transition);
 }
-.domain-btn:hover { border-color: var(--gold-dim2); color: var(--gold-mid); }
+.domain-btn:hover { border-color: var(--gold-mid); color: var(--gold-mid); }
 .domain-btn.active { background: var(--gold); color: #FAF8F4; border-color: var(--gold); }
 
 .search-results { display: flex; flex-direction: column; gap: 0.4rem; margin-bottom: 1rem; }
@@ -663,13 +663,13 @@
 .result-info { flex: 1; min-width: 0; }
 .result-name {
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--cream);
 }
 .result-meta {
   font-family: var(--font-sc);
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   letter-spacing: 0.08em;
   color: var(--gold-mid);
   margin-top: 2px;
@@ -710,7 +710,7 @@
   transition: var(--transition);
   font-size: 0.88rem;
 }
-.suggestion-item:hover { border-color: var(--gold-dim2); background: #FDFBF7; }
+.suggestion-item:hover { border-color: var(--gold-mid); background: #FDFBF7; }
 .suggestion-img {
   width: 32px; height: 32px;
   border-radius: 50%;
@@ -721,7 +721,7 @@
 }
 .suggestion-name {
   font-family: var(--font-display);
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   font-weight: 700;
   color: var(--cream);
   flex: 1;
@@ -731,7 +731,7 @@
 }
 .suggestion-age {
   font-family: var(--font-sc);
-  font-size: 0.74rem;
+  font-size: 0.80rem;
   letter-spacing: 0.06em;
   color: var(--gold-mid);
   flex-shrink: 0;
@@ -766,15 +766,15 @@
 }
 .selected-celeb-name {
   font-family: var(--font-display);
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-weight: 900;
   color: var(--cream);
 }
 .selected-celeb-meta {
   font-family: var(--font-sc);
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   letter-spacing: 0.15em;
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
   margin: 0.2rem 0;
 }
 .selected-celeb-wiki a {
@@ -810,14 +810,14 @@
   border: 1px solid var(--border);
   border-radius: 6px;
   font-family: var(--font-sc);
-  font-size: 0.72rem;
+  font-size: 0.84rem;
   letter-spacing: 0.08em;
   color: var(--gray);
   cursor: pointer;
   transition: var(--transition);
   text-align: center;
 }
-.vis-opt:hover { border-color: var(--gold-dim2); color: var(--gold-mid); }
+.vis-opt:hover { border-color: var(--gold-mid); color: var(--gold-mid); }
 .vis-opt.active { border-color: var(--gold); color: var(--gold-mid); background: rgba(184,122,26,0.06); }
 
 /* ── DIVIDER ─────────────────────────────────────────────── */
@@ -826,7 +826,7 @@
   align-items: center;
   gap: 1rem;
   margin: 1.75rem 0;
-  color: var(--gray-light);
+  color: var(--gray);
   font-style: italic;
   font-size: 0.85rem;
 }

@@ -34,7 +34,7 @@
   top: -0.5rem;
   left: 1.5rem;
   font-size: 8rem;
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
   opacity: 0.07;
   font-family: var(--font-display);
   line-height: 1;
@@ -43,9 +43,9 @@
 
 .citation-hero-label {
   font-family: var(--font-sc);
-  font-size: 0.72rem;
-  letter-spacing: 0.35em;
-  color: var(--gold-dim2);
+  font-size: 0.84rem;
+  letter-spacing: 0.2em;
+  color: var(--gold-mid);
   text-transform: uppercase;
   margin-bottom: 1.5rem;
 }
@@ -57,7 +57,7 @@
 
 #hero-text {
   font-family: var(--font-display);
-  font-size: clamp(1.2rem, 2.5vw, 1.6rem);
+  font-size: clamp(1.3rem, 2.5vw, 1.7rem);
   font-style: italic;
   color: var(--cream);
   line-height: 1.6;
@@ -68,8 +68,8 @@
 #hero-author {
   display: block;
   font-family: var(--font-sc);
-  font-size: 0.85rem;
-  letter-spacing: 0.2em;
+  font-size: 0.9rem;
+  letter-spacing: 0.15em;
   color: var(--gold-mid);
   transition: opacity 0.25s ease;
 }
@@ -79,7 +79,7 @@
   border: 1px solid var(--border);
   color: var(--gray);
   font-family: var(--font-sc);
-  font-size: 0.72rem;
+  font-size: 0.84rem;
   letter-spacing: 0.2em;
   padding: 0.45rem 1.2rem;
   cursor: pointer;
@@ -131,9 +131,9 @@
   right: 2.8rem; top: 50%;
   transform: translateY(-50%);
   font-family: var(--font-sc);
-  font-size: 0.65rem;
+  font-size: 0.80rem;
   letter-spacing: 0.15em;
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
   pointer-events: none;
 }
 
@@ -174,7 +174,7 @@
   top: 0.4rem;
   right: 0.8rem;
   font-size: 2.5rem;
-  color: var(--gold-dim2);
+  color: var(--gold-mid);
   opacity: 0.07;
   font-family: var(--font-display);
   line-height: 1;
@@ -189,7 +189,7 @@
 .citation-card-quote {
   font-family: var(--font-body);
   font-style: italic;
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--cream);
   line-height: 1.7;
   flex: 1;
@@ -207,7 +207,7 @@
 
 .citation-card-author {
   font-family: var(--font-sc);
-  font-size: 0.75rem;
+  font-size: 0.84rem;
   letter-spacing: 0.12em;
   color: var(--gold-mid);
 }
@@ -223,7 +223,7 @@
   .citation-hero { padding: 1.8rem 1rem 1.5rem; margin-bottom: 1.5rem; }
   #hero-text { font-size: clamp(1rem, 4.5vw, 1.3rem); }
   #hero-author { font-size: 0.78rem; letter-spacing: 0.15em; }
-  .citation-shuffle-btn { font-size: 0.68rem; padding: 0.4rem 1rem; }
+  .citation-shuffle-btn { font-size: 0.80rem; padding: 0.4rem 1rem; }
 
   /* Recherche */
   .citations-search { font-size: 0.9rem; padding: 0.55rem 2.8rem 0.55rem 0.85rem; }
@@ -238,13 +238,13 @@
     padding-bottom: 0.3rem;
   }
   .citations-filters::-webkit-scrollbar { display: none; }
-  .citations-filters .year-btn { flex-shrink: 0; font-size: 0.68rem; }
+  .citations-filters .year-btn { flex-shrink: 0; font-size: 0.80rem; }
 
   /* Grille citations */
   .citations-grid { grid-template-columns: 1fr; gap: 0.9rem; }
   .citation-card { padding: 1.1rem 1rem 0.85rem; }
   .citation-card-quote { font-size: 0.9rem; }
-  .citation-card-author { font-size: 0.7rem; }
+  .citation-card-author { font-size: 0.84rem; }
 }
 
 @media (max-width: 480px) {
