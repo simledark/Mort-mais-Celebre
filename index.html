@@ -50,6 +50,156 @@
   <!-- MAIN LAYOUT -->
   <main class="main-layout">
 
+    <!-- CALCULATEUR D'ESPÉRANCE DE VIE (colonne gauche) -->
+    <aside class="calc-sidebar">
+      <div class="calc-card">
+        <div class="calc-title"><span class="calc-title-icon">⏳</span> Espérance de vie</div>
+        <p class="calc-subtitle">Estimez votre espérance de vie personnalisée.</p>
+        <div class="calc-form">
+          <div class="calc-field">
+            <label class="calc-label">Sexe</label>
+            <div class="calc-radio-group">
+              <label class="calc-radio"><input type="radio" name="sexe" value="H" checked> Homme</label>
+              <label class="calc-radio"><input type="radio" name="sexe" value="F"> Femme</label>
+            </div>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="age">Âge actuel</label>
+            <div class="calc-range-wrap">
+              <input type="range" id="age" min="1" max="100" value="35" oninput="syncRange(this,'age-val')" class="calc-range">
+              <span class="calc-range-val" id="age-val">35 ans</span>
+            </div>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="pays">Pays de résidence</label>
+            <select id="pays" class="calc-select">
+              <option value="france">France</option>
+              <option value="belgique">Belgique</option>
+              <option value="suisse">Suisse</option>
+              <option value="canada">Canada</option>
+              <option value="usa">États-Unis</option>
+              <option value="japon">Japon</option>
+              <option value="allemagne">Allemagne</option>
+              <option value="uk">Royaume-Uni</option>
+              <option value="italie">Italie</option>
+              <option value="espagne">Espagne</option>
+              <option value="maroc">Maroc</option>
+              <option value="algerie">Algérie</option>
+              <option value="russie">Russie</option>
+              <option value="bresil">Brésil</option>
+              <option value="inde">Inde</option>
+              <option value="autre">Autre pays</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="education">Niveau d'études</label>
+            <select id="education" class="calc-select">
+              <option value="primaire">Primaire / Sans diplôme</option>
+              <option value="brevet">Brevet</option>
+              <option value="bac">Baccalauréat</option>
+              <option value="bac2">Bac +2</option>
+              <option value="bac3" selected>Bac +3 (Licence)</option>
+              <option value="bac5">Bac +5 (Master)</option>
+              <option value="doctorat">Doctorat</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="tabac">Tabac</label>
+            <select id="tabac" class="calc-select">
+              <option value="jamais" selected>Jamais fumé</option>
+              <option value="ancien">Ancien fumeur (&gt; 5 ans d'arrêt)</option>
+              <option value="leger">Fumeur léger (&lt; 10 cig/j)</option>
+              <option value="moyen">Fumeur modéré (10–20 cig/j)</option>
+              <option value="fort">Fumeur intensif (&gt; 20 cig/j)</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="alcool">Alcool</label>
+            <select id="alcool" class="calc-select">
+              <option value="jamais">Jamais</option>
+              <option value="occasionnel" selected>Occasionnel</option>
+              <option value="modere">Modéré (1–14 verres/sem.)</option>
+              <option value="excessif">Excessif (&gt; 14 verres/sem.)</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="activite">Activité physique</label>
+            <select id="activite" class="calc-select">
+              <option value="sedentaire">Sédentaire</option>
+              <option value="leger">Légère (1–2x/sem.)</option>
+              <option value="modere" selected>Modérée (3x/sem.)</option>
+              <option value="intense">Intensive (quotidien)</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="imc">Corpulence (IMC)</label>
+            <select id="imc" class="calc-select">
+              <option value="maigreur">Maigreur (&lt; 18,5)</option>
+              <option value="normal" selected>Normal (18,5–25)</option>
+              <option value="surpoids">Surpoids (25–30)</option>
+              <option value="obese1">Obésité modérée (30–35)</option>
+              <option value="obese2">Obésité sévère (&gt; 35)</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="stress">Stress chronique</label>
+            <select id="stress" class="calc-select">
+              <option value="faible" selected>Faible</option>
+              <option value="moyen">Moyen</option>
+              <option value="eleve">Élevé</option>
+              <option value="tres_eleve">Très élevé</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="alimentation">Alimentation</label>
+            <select id="alimentation" class="calc-select">
+              <option value="mauvaise">Mauvaise (ultra-transformé)</option>
+              <option value="moyenne" selected>Moyenne</option>
+              <option value="bonne">Bonne (équilibrée)</option>
+              <option value="excellente">Excellente (méditerranéenne)</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="sommeil">Sommeil moyen</label>
+            <select id="sommeil" class="calc-select">
+              <option value="insuffisant">Insuffisant (&lt; 6h)</option>
+              <option value="correct" selected>Correct (6–8h)</option>
+              <option value="optimal">Optimal (7–9h)</option>
+              <option value="excessif">Excessif (&gt; 9h)</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="lien_social">Liens sociaux</label>
+            <select id="lien_social" class="calc-select">
+              <option value="isole">Isolé(e)</option>
+              <option value="modere" selected>Modérés</option>
+              <option value="fort">Forts</option>
+            </select>
+          </div>
+          <div class="calc-field">
+            <label class="calc-label" for="antecedents">Antécédents familiaux</label>
+            <select id="antecedents" class="calc-select">
+              <option value="aucun" selected>Aucun</option>
+              <option value="cardio">Maladies cardiovasculaires</option>
+              <option value="cancer">Cancers</option>
+              <option value="diabete">Diabète</option>
+              <option value="multiple">Plusieurs antécédents</option>
+            </select>
+          </div>
+          <button class="calc-btn" onclick="calculerEsperance()">Calculer</button>
+        </div>
+        <div class="calc-result hidden" id="calc-result">
+          <div class="result-age-wrap">
+            <div class="result-label">Espérance de vie estimée</div>
+            <div class="result-age" id="result-age">–</div>
+            <div class="result-annees" id="result-annees">–</div>
+          </div>
+          <div class="result-bars" id="result-bars"></div>
+          <div class="result-disclaimer">⚠️ Estimation statistique. Ne constitue pas un avis médical. Sources : OMS, INSEE, PNAS, The Lancet.</div>
+        </div>
+      </div>
+    </aside>
+
     <!-- LEFT / CENTER COLUMN -->
     <section class="deaths-column">
 
@@ -167,5 +317,83 @@
   </footer>
 
   <script src="app.js"></script>
+
+  <script>
+  /* ── CALCULATEUR ESPÉRANCE DE VIE ── */
+  const ESPERANCE_BASE = {
+    france:    { H: 79.5, F: 85.4 }, belgique:  { H: 79.2, F: 84.0 },
+    suisse:    { H: 81.9, F: 85.6 }, canada:    { H: 80.4, F: 84.4 },
+    usa:       { H: 75.1, F: 80.5 }, japon:     { H: 81.1, F: 87.1 },
+    allemagne: { H: 79.0, F: 83.6 }, uk:        { H: 79.4, F: 83.1 },
+    italie:    { H: 80.9, F: 85.2 }, espagne:   { H: 80.7, F: 86.2 },
+    maroc:     { H: 74.3, F: 77.1 }, algerie:   { H: 74.5, F: 77.2 },
+    russie:    { H: 67.5, F: 77.8 }, bresil:    { H: 72.5, F: 79.4 },
+    inde:      { H: 68.4, F: 71.1 }, autre:     { H: 70.0, F: 74.5 },
+  };
+  const MODIF = {
+    education:    { primaire: -2.5, brevet: -1.5, bac: 0, bac2: 0.8, bac3: 1.5, bac5: 2.2, doctorat: 3.0 },
+    tabac:        { jamais: 0, ancien: -2.0, leger: -3.5, moyen: -6.0, fort: -10.0 },
+    alcool:       { jamais: 0.5, occasionnel: 0, modere: -1.5, excessif: -5.0 },
+    activite:     { sedentaire: -3.5, leger: -1.0, modere: 2.0, intense: 3.5 },
+    imc:          { maigreur: -2.0, normal: 0, surpoids: -1.5, obese1: -3.0, obese2: -6.0 },
+    stress:       { faible: 1.0, moyen: 0, eleve: -2.0, tres_eleve: -4.0 },
+    alimentation: { mauvaise: -3.0, moyenne: 0, bonne: 1.5, excellente: 3.0 },
+    sommeil:      { insuffisant: -2.5, correct: 0, optimal: 1.0, excessif: -1.0 },
+    lien_social:  { isole: -3.0, modere: 0, fort: 2.5 },
+    antecedents:  { aucun: 0, cardio: -3.0, cancer: -2.5, diabete: -2.0, multiple: -5.0 },
+  };
+  function syncRange(el, outId) {
+    document.getElementById(outId).textContent = el.value + ' ans';
+  }
+  function escHtml(s) {
+    return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function calculerEsperance() {
+    const sexe = document.querySelector('input[name="sexe"]:checked').value;
+    const age  = parseInt(document.getElementById('age').value);
+    const pays = document.getElementById('pays').value;
+    const base = (ESPERANCE_BASE[pays] || ESPERANCE_BASE.autre)[sexe];
+    let delta = 0;
+    const facteurs = [];
+    const champs = ['education','tabac','alcool','activite','imc','stress','alimentation','sommeil','lien_social','antecedents'];
+    const labels  = {
+      education: "Niveau d\'études", tabac: 'Tabac', alcool: 'Alcool',
+      activite: 'Activité physique', imc: 'Corpulence', stress: 'Stress',
+      alimentation: 'Alimentation', sommeil: 'Sommeil',
+      lien_social: 'Liens sociaux', antecedents: 'Antécédents familiaux',
+    };
+    champs.forEach(champ => {
+      const val   = document.getElementById(champ).value;
+      const modif = MODIF[champ][val] || 0;
+      delta += modif;
+      facteurs.push({ label: labels[champ], val, modif });
+    });
+    let esperance = base + delta;
+    if (age > 0) {
+      const gainAge = age * 0.05;
+      esperance = Math.max(esperance, age + 5) + gainAge * 0.1;
+    }
+    esperance = Math.min(Math.max(esperance, age + 2), 115);
+    const anneesRestantes = Math.max(0, Math.round(esperance - age));
+    document.getElementById('result-age').textContent    = Math.round(esperance) + ' ans';
+    document.getElementById('result-annees').textContent = 'Il vous reste environ ' + anneesRestantes + ' an' + (anneesRestantes > 1 ? 's' : '') + ' à vivre';
+    const barsEl = document.getElementById('result-bars');
+    barsEl.innerHTML = '';
+    facteurs
+      .filter(f => f.modif !== 0)
+      .sort((a, b) => Math.abs(b.modif) - Math.abs(a.modif))
+      .forEach(f => {
+        const isPos = f.modif > 0;
+        const pct   = Math.min(Math.abs(f.modif) / 10 * 100, 100);
+        const color = isPos ? 'var(--green)' : 'var(--red-light)';
+        const sign  = isPos ? '+' : '';
+        barsEl.innerHTML += '<div class="result-factor"><div class="result-factor-top"><span class="result-factor-label">' + escHtml(f.label) + '</span><span class="result-factor-val" style="color:' + color + '">' + sign + f.modif.toFixed(1) + ' ans</span></div><div class="result-factor-bar-wrap"><div class="result-factor-bar" style="width:' + pct + '%;background:' + color + '"></div></div></div>';
+      });
+    barsEl.innerHTML += '<div class="result-base-note">Base (' + pays + ', ' + (sexe === 'H' ? 'homme' : 'femme') + ') : ' + base + ' ans · Modificateur : ' + (delta >= 0 ? '+' : '') + delta.toFixed(1) + ' ans</div>';
+    document.getElementById('calc-result').classList.remove('hidden');
+    document.getElementById('calc-result').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+  </script>
+
 </body>
 </html>

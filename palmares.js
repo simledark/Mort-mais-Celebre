@@ -170,8 +170,7 @@ function buildCounters() {
   const list = document.getElementById('counters-list');
   list.innerHTML = '';
   const secs = secsSinceJan1();
-  const sorted = [...COMPTEURS].sort((a, b) => b.perYear - a.perYear);
-  sorted.forEach((c, i) => {
+  COMPTEURS.forEach((c, i) => {
     const div = document.createElement('div');
     div.className = 'palmares-row';
     div.dataset.cat = c.categorie;
@@ -222,85 +221,4 @@ function formatRate(perSec) {
   if (perSec * 60 >= 1)   return `≈ ${(perSec * 60).toFixed(1)} / minute`;
   if (perSec * 3600 >= 1) return `≈ ${(perSec * 3600).toFixed(1)} / heure`;
   return `≈ ${(perSec * 86400).toFixed(1)} / jour`;
-}
-
-/* ══════════════════════════════════════════════════════
-   CALCULATEUR D'ESPÉRANCE DE VIE
-   ══════════════════════════════════════════════════════ */
-function syncRange(el, outId) {
-  document.getElementById(outId).textContent = el.value + ' ans';
-}
-
-function calculerEsperance() {
-  const sexe  = document.querySelector('input[name="sexe"]:checked').value;
-  const age   = parseInt(document.getElementById('age').value);
-  const pays  = document.getElementById('pays').value;
-
-  const base  = (ESPERANCE_BASE[pays] || ESPERANCE_BASE.autre)[sexe];
-
-  // Calcul des modificateurs
-  let delta = 0;
-  const facteurs = [];
-  const champs = ['education','tabac','alcool','activite','imc','stress','alimentation','sommeil','lien_social','antecedents'];
-  const labels  = {
-    education: 'Niveau d\'études', tabac: 'Tabac', alcool: 'Alcool',
-    activite: 'Activité physique', imc: 'Corpulence', stress: 'Stress',
-    alimentation: 'Alimentation', sommeil: 'Sommeil',
-    lien_social: 'Liens sociaux', antecedents: 'Antécédents familiaux',
-  };
-
-  champs.forEach(champ => {
-    const val  = document.getElementById(champ).value;
-    const modif = MODIF[champ][val] || 0;
-    delta += modif;
-    facteurs.push({ label: labels[champ], val, modif });
-  });
-
-  // Espérance ajustée
-  let esperance = base + delta;
-  // Ajustement selon l'âge actuel (espérance conditionnelle simplifiée)
-  if (age > 0) {
-    const gainAge = age * 0.05; // chaque année vécue réduit légèrement l'incertitude
-    esperance = Math.max(esperance, age + 5) + gainAge * 0.1;
-  }
-  esperance = Math.min(Math.max(esperance, age + 2), 115);
-
-  const anneesRestantes = Math.max(0, Math.round(esperance - age));
-
-  // Affichage
-  document.getElementById('result-age').textContent   = Math.round(esperance) + ' ans';
-  document.getElementById('result-annees').textContent = `Il vous reste environ ${anneesRestantes} an${anneesRestantes > 1 ? 's' : ''} à vivre`;
-
-  // Barres des facteurs
-  const barsEl = document.getElementById('result-bars');
-  barsEl.innerHTML = '';
-  facteurs
-    .filter(f => f.modif !== 0)
-    .sort((a, b) => Math.abs(b.modif) - Math.abs(a.modif))
-    .forEach(f => {
-      const isPos   = f.modif > 0;
-      const pct     = Math.min(Math.abs(f.modif) / 10 * 100, 100);
-      const color   = isPos ? 'var(--green)' : 'var(--red-light)';
-      const sign    = isPos ? '+' : '';
-      barsEl.innerHTML += `
-        <div class="result-factor">
-          <div class="result-factor-top">
-            <span class="result-factor-label">${escHtml(f.label)}</span>
-            <span class="result-factor-val" style="color:${color}">${sign}${f.modif.toFixed(1)} ans</span>
-          </div>
-          <div class="result-factor-bar-wrap">
-            <div class="result-factor-bar" style="width:${pct}%;background:${color}"></div>
-          </div>
-        </div>`;
-    });
-
-  // Résumé base
-  barsEl.innerHTML += `<div class="result-base-note">Base de référence (${pays}, ${sexe === 'H' ? 'homme' : 'femme'}) : ${base} ans · Modificateur total : ${delta >= 0 ? '+' : ''}${delta.toFixed(1)} ans</div>`;
-
-  document.getElementById('calc-result').classList.remove('hidden');
-  document.getElementById('calc-result').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-}
-
-function escHtml(s) {
-  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
