@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prévisions 2026 — Mort &amp; Célèbre</title>
+  <meta name="description" content="Faites vos prévisions de disparitions de célébrités pour 2026. Jouez en solo ou en équipe." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Cormorant+SC:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="previsions.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5509319064903881" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="noise-overlay"></div>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-ornament top-left">✦</div>
+    <div class="header-ornament top-right">✦</div>
+    <div class="header-rule"></div>
+    <div class="header-inner">
+      <p class="header-kicker">Memento Mori · 2026</p>
+      <h1 class="site-title"><a href="index.html" style="text-decoration:none;color:inherit">Mort &amp; Célèbre</a></h1>
+      <p class="header-sub">Qui nous quittera en 2026 ? Faites vos prévisions.</p>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+
+  <!-- NAV -->
+  <nav class="date-nav">
+    <div class="date-nav-inner">
+      <a href="index.html" class="nav-btn">← Accueil</a>
+      <a href="palmares.html" class="nav-btn">Palmarès</a>
+      <a href="citations.html" class="nav-btn citations-btn">Citations</a>
+      <a href="a-propos.html" class="nav-btn about-btn">À propos</a>
+    </div>
+  </nav>
+
+  <!-- ÉCRAN : NON CONNECTÉ -->
+  <div id="screen-auth" class="prev-screen hidden">
+    <div class="prev-container prev-auth-wrap">
+      <div class="section-header">
+        <div class="section-rule"></div>
+        <h2 class="section-title">Prévisions 2026</h2>
+        <div class="section-rule"></div>
+      </div>
+      <p class="prev-intro">
+        Qui pensez-vous voir disparaître cette année ? Créez un compte, faites jusqu'à 20 prévisions,
+        jouez seul ou en équipe. Le palmarès sera révélé le 1er janvier 2027.
+      </p>
+
+      <!-- TABS -->
+      <div class="auth-tabs">
+        <button class="auth-tab active" data-tab="login">Se connecter</button>
+        <button class="auth-tab" data-tab="register">Créer un compte</button>
+      </div>
+
+      <!-- LOGIN -->
+      <div id="tab-login" class="auth-form">
+        <div class="prev-field">
+          <label class="prev-label">Adresse email</label>
+          <input type="email" id="login-email" class="prev-input" placeholder="votre@email.fr" autocomplete="email" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Mot de passe</label>
+          <input type="password" id="login-password" class="prev-input" placeholder="••••••••" autocomplete="current-password" />
+        </div>
+        <div id="login-error" class="prev-error hidden"></div>
+        <button class="prev-btn prev-btn-primary" onclick="doLogin()">Se connecter</button>
+      </div>
+
+      <!-- REGISTER -->
+      <div id="tab-register" class="auth-form hidden">
+        <div class="prev-field">
+          <label class="prev-label">Pseudonyme <span class="prev-hint">(visible publiquement)</span></label>
+          <input type="text" id="reg-pseudo" class="prev-input" placeholder="Ex : LeGrandProphète" maxlength="30" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Adresse email</label>
+          <input type="email" id="reg-email" class="prev-input" placeholder="votre@email.fr" autocomplete="email" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Mot de passe</label>
+          <input type="password" id="reg-password" class="prev-input" placeholder="8 caractères minimum" autocomplete="new-password" />
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Confirmer le mot de passe</label>
+          <input type="password" id="reg-password2" class="prev-input" placeholder="••••••••" autocomplete="new-password" />
+        </div>
+        <div class="prev-field" style="display:flex;align-items:center;gap:0.6rem;margin-top:0.25rem">
+          <input type="checkbox" id="reg-newsletter" checked style="width:16px;height:16px;accent-color:var(--gold);cursor:pointer;flex-shrink:0" />
+          <label for="reg-newsletter" style="font-size:0.85rem;color:var(--gray);cursor:pointer;font-style:italic">
+            Recevoir la newsletter annuelle de Mort &amp; Célèbre (résultats, palmarès)
+          </label>
+        </div>
+        <div id="reg-error" class="prev-error hidden"></div>
+        <button class="prev-btn prev-btn-primary" onclick="doRegister()">Créer mon compte</button>
+        <p class="prev-disclaimer">Vos données sont stockées de manière sécurisée. Email utilisé uniquement pour la confirmation de compte et la newsletter si vous y consentez.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ÉCRAN PRINCIPAL : CONNECTÉ -->
+  <div id="screen-main" class="prev-screen hidden">
+    <div class="prev-container">
+
+      <!-- BARRE UTILISATEUR -->
+      <div class="user-bar">
+        <div class="user-bar-left">
+          <span class="user-avatar" id="user-avatar-main">?</span>
+          <div>
+            <div class="user-pseudo" id="user-pseudo-display"></div>
+            <div class="user-mode" id="user-mode-display"></div>
+          </div>
+        </div>
+        <div class="user-bar-right">
+          <button class="prev-btn prev-btn-sm" onclick="showScreen('screen-add')">+ Prévision</button>
+          <button class="prev-btn prev-btn-sm prev-btn-ghost" onclick="doLogout()">Déconnexion</button>
+        </div>
+      </div>
+
+      <!-- ONGLETS PRINCIPAUX -->
+      <div class="main-tabs">
+        <button class="main-tab active" data-tab="mes-previsions">Mes prévisions</button>
+        <button class="main-tab" data-tab="mon-equipe" id="tab-equipe-btn">Mon équipe</button>
+        <button class="main-tab" data-tab="rejoindre">Rejoindre / Créer</button>
+      </div>
+
+      <!-- ONGLET : MES PRÉVISIONS -->
+      <div id="tab-mes-previsions" class="main-tab-content">
+        <div class="prev-score-bar">
+          <div class="prev-score-info">
+            <span id="score-count">0</span> / 20 prévisions
+          </div>
+          <div class="prev-score-track">
+            <div class="prev-score-fill" id="score-fill"></div>
+          </div>
+          <div class="prev-score-deadline">Clôture le 31 déc. 23h59</div>
+        </div>
+
+        <div id="my-predictions-list" class="predictions-list"></div>
+        <div id="my-predictions-empty" class="prev-empty hidden">
+          <div class="prev-empty-icon">✦</div>
+          <p>Aucune prévision pour l'instant.</p>
+          <button class="prev-btn prev-btn-primary" onclick="showScreen('screen-add')">Faire ma première prévision</button>
+        </div>
+      </div>
+
+      <!-- ONGLET : MON ÉQUIPE -->
+      <div id="tab-mon-equipe" class="main-tab-content hidden">
+        <div id="equipe-no-team" class="prev-empty">
+          <div class="prev-empty-icon">⚔</div>
+          <p>Vous n'appartenez à aucune équipe.</p>
+          <button class="prev-btn prev-btn-primary" onclick="switchMainTab('rejoindre')">Rejoindre ou créer une équipe</button>
+        </div>
+        <div id="equipe-content" class="hidden">
+          <!-- Infos équipe -->
+          <div class="equipe-header">
+            <div>
+              <div class="equipe-name" id="equipe-name-display"></div>
+              <div class="equipe-meta" id="equipe-meta-display"></div>
+            </div>
+            <div id="equipe-admin-badge" class="prev-badge prev-badge-gold hidden">Admin</div>
+          </div>
+
+          <!-- Paramètres admin -->
+          <div id="equipe-admin-panel" class="equipe-admin-panel hidden">
+            <div class="section-header" style="margin-top:1.5rem">
+              <div class="section-rule"></div>
+              <h3 class="section-title" style="font-size:1rem">Administration</h3>
+              <div class="section-rule"></div>
+            </div>
+            <div class="admin-controls">
+              <div class="admin-control-row">
+                <div>
+                  <div class="admin-label">Verrouiller les prévisions</div>
+                  <div class="admin-sub">Les membres ne peuvent plus modifier leurs prévisions</div>
+                </div>
+                <label class="toggle-switch">
+                  <input type="checkbox" id="toggle-lock" onchange="toggleTeamLock(this.checked)" />
+                  <span class="toggle-slider"></span>
+                </label>
+              </div>
+              <div class="admin-control-row">
+                <div>
+                  <div class="admin-label">Limite par membre</div>
+                  <div class="admin-sub">Nombre maximum de prévisions par membre</div>
+                </div>
+                <div class="limit-control">
+                  <button class="prev-btn prev-btn-sm" onclick="changeTeamLimit(-1)">−</button>
+                  <span id="limit-val-display">20</span>
+                  <button class="prev-btn prev-btn-sm" onclick="changeTeamLimit(1)">+</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Invitation -->
+            <div class="invite-block">
+              <div class="admin-label" style="margin-bottom:0.5rem">Lien d'invitation</div>
+              <div class="invite-link-wrap">
+                <code class="invite-link" id="invite-link-display"></code>
+                <button class="prev-btn prev-btn-sm" onclick="copyInviteLink()">Copier</button>
+              </div>
+              <div class="invite-qr-hint">Partagez ce lien ou le QR code ci-dessous :</div>
+              <div id="invite-qr" class="invite-qr"></div>
+            </div>
+
+            <!-- Membres -->
+            <div class="section-header" style="margin-top:1.5rem">
+              <div class="section-rule"></div>
+              <h3 class="section-title" style="font-size:1rem">Membres</h3>
+              <div class="section-rule"></div>
+            </div>
+            <div id="equipe-members-list" class="members-list"></div>
+          </div>
+
+          <!-- Prévisions de l'équipe -->
+          <div class="section-header" style="margin-top:1.5rem">
+            <div class="section-rule"></div>
+            <h3 class="section-title" style="font-size:1rem">Prévisions partagées</h3>
+            <div class="section-rule"></div>
+          </div>
+          <div id="equipe-predictions-list" class="predictions-list"></div>
+
+          <!-- Classement interne -->
+          <div class="section-header" style="margin-top:1.5rem">
+            <div class="section-rule"></div>
+            <h3 class="section-title" style="font-size:1rem">Classement de l'équipe</h3>
+            <div class="section-rule"></div>
+          </div>
+          <div id="equipe-ranking" class="ranking-list-prev"></div>
+        </div>
+      </div>
+
+      <!-- ONGLET : REJOINDRE / CRÉER -->
+      <div id="tab-rejoindre" class="main-tab-content hidden">
+        <!-- Créer -->
+        <div class="section-header">
+          <div class="section-rule"></div>
+          <h3 class="section-title">Créer une équipe</h3>
+          <div class="section-rule"></div>
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Nom de l'équipe</label>
+          <input type="text" id="new-team-name" class="prev-input" placeholder="Ex : Les Pythies" maxlength="40" />
+        </div>
+        <div id="create-team-error" class="prev-error hidden"></div>
+        <button class="prev-btn prev-btn-primary" onclick="createTeam()">Créer l'équipe</button>
+
+        <div class="prev-divider">ou</div>
+
+        <!-- Rejoindre -->
+        <div class="section-header">
+          <div class="section-rule"></div>
+          <h3 class="section-title">Rejoindre via un lien</h3>
+          <div class="section-rule"></div>
+        </div>
+        <div class="prev-field">
+          <label class="prev-label">Code ou lien d'invitation</label>
+          <input type="text" id="join-code" class="prev-input" placeholder="Collez le lien ou le code reçu" />
+        </div>
+        <div id="join-team-error" class="prev-error hidden"></div>
+        <button class="prev-btn prev-btn-primary" onclick="joinTeam()">Rejoindre l'équipe</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ÉCRAN : AJOUTER UNE PRÉVISION -->
+  <div id="screen-add" class="prev-screen hidden">
+    <div class="prev-container">
+      <div class="section-header">
+        <div class="section-rule"></div>
+        <h2 class="section-title">Nouvelle prévision</h2>
+        <div class="section-rule"></div>
+      </div>
+      <button class="prev-btn prev-btn-ghost" style="margin-bottom:1.5rem" onclick="showScreen('screen-main')">← Retour</button>
+
+      <!-- RECHERCHE -->
+      <div class="prev-field">
+        <label class="prev-label">Rechercher une célébrité encore en vie</label>
+        <div class="search-wrap">
+          <input type="text" id="search-input" class="prev-input" placeholder="Ex : Paul McCartney, Jane Fonda…" autocomplete="off" oninput="onSearchInput(this.value)" />
+          <div class="search-spinner hidden" id="search-spinner">⟳</div>
+        </div>
+        <p class="prev-hint-text">Seules les personnalités <strong>encore en vie</strong> apparaissent (vérifié via Wikidata).</p>
+      </div>
+
+      <!-- FILTRES PAR DOMAINE -->
+      <div class="domain-filters" id="domain-filters">
+        <button class="domain-btn active" data-domain="">Tous</button>
+        <button class="domain-btn" data-domain="music">Musique</button>
+        <button class="domain-btn" data-domain="cinema">Cinéma</button>
+        <button class="domain-btn" data-domain="politics">Politique</button>
+        <button class="domain-btn" data-domain="sport">Sport</button>
+        <button class="domain-btn" data-domain="literature">Littérature</button>
+        <button class="domain-btn" data-domain="science">Sciences</button>
+      </div>
+
+      <!-- RÉSULTATS -->
+      <div id="search-results" class="search-results"></div>
+      <div id="search-empty" class="prev-empty hidden">
+        <p>Aucune personnalité trouvée, ou cette personne est déjà décédée.</p>
+      </div>
+      <div id="search-suggestions" class="search-suggestions">
+        <div class="prev-hint-text" style="margin-bottom:0.75rem">Suggestions populaires</div>
+        <div id="suggestions-list" class="suggestions-grid"></div>
+      </div>
+
+      <!-- VISIBILITÉ -->
+      <div class="visibility-block" id="visibility-block" style="display:none">
+        <div class="prev-label">Visibilité de cette prévision</div>
+        <div class="visibility-opts">
+          <button class="vis-opt active" data-vis="public" onclick="setVisibility('public')">🌍 Visible par tous</button>
+          <button class="vis-opt" data-vis="group" onclick="setVisibility('group')">👥 Mon groupe seulement</button>
+          <button class="vis-opt" data-vis="private" onclick="setVisibility('private')">🔒 Privée</button>
+        </div>
+      </div>
+
+      <!-- CÉLÉBRITÉ SÉLECTIONNÉE -->
+      <div id="selected-celebrity" class="selected-celeb hidden">
+        <div class="selected-celeb-inner">
+          <img id="selected-img" src="" alt="" class="selected-celeb-img" onerror="this.style.display='none'" />
+          <div class="selected-celeb-info">
+            <div class="selected-celeb-name" id="selected-name"></div>
+            <div class="selected-celeb-meta" id="selected-meta"></div>
+            <div class="selected-celeb-wiki"><a id="selected-wiki" href="#" target="_blank" rel="noopener">Voir sur Wikipedia →</a></div>
+          </div>
+        </div>
+        <button class="prev-btn prev-btn-primary" onclick="confirmPrediction()">✦ Confirmer cette prévision</button>
+        <button class="prev-btn prev-btn-ghost" onclick="clearSelection()">Changer de célébrité</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- MODAL CONFIRMATION -->
+  <div id="modal-confirm" class="modal-backdrop hidden">
+    <div class="modal">
+      <div class="modal-body">
+        <div class="modal-name" id="modal-celeb-name"></div>
+        <div class="modal-dates">Prévision ajoutée avec succès ✦</div>
+        <div class="modal-desc">Cette prévision est enregistrée. Vous pouvez la modifier jusqu'au verrouillage ou au 31 décembre 2026.</div>
+        <button class="prev-btn prev-btn-primary" style="margin-top:1.2rem" onclick="closeModal()">Continuer</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-rule"></div>
+    <p>Sources : <a href="https://www.wikidata.org" target="_blank">Wikidata</a> · <a href="https://fr.wikipedia.org" target="_blank">Wikipédia</a></p>
+    <p class="footer-copy">Mort &amp; Célèbre · Prévisions 2026 · <span id="footer-year"></span></p>
+    <div class="footer-ornament">✦ ✦ ✦</div>
+  </footer>
+
+  <script src="previsions.js"></script>
+</body>
+</html>
