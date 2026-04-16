@@ -97,41 +97,6 @@ const COMPTEURS = [
   */
 ];
 
-/* ── DONNÉES ESPÉRANCE DE VIE DE BASE (OMS) ─────────── */
-const ESPERANCE_BASE = {
-  /* espérance à la naissance, H / F */
-  france:    { H: 79.5, F: 85.4 },
-  belgique:  { H: 79.2, F: 84.0 },
-  suisse:    { H: 81.9, F: 85.6 },
-  canada:    { H: 80.4, F: 84.4 },
-  usa:       { H: 75.1, F: 80.5 },
-  japon:     { H: 81.1, F: 87.1 },
-  allemagne: { H: 79.0, F: 83.6 },
-  uk:        { H: 79.4, F: 83.1 },
-  italie:    { H: 80.9, F: 85.2 },
-  espagne:   { H: 80.7, F: 86.2 },
-  maroc:     { H: 74.3, F: 77.1 },
-  algerie:   { H: 74.5, F: 77.2 },
-  russie:    { H: 67.5, F: 77.8 },
-  bresil:    { H: 72.5, F: 79.4 },
-  inde:      { H: 68.4, F: 71.1 },
-  autre:     { H: 70.0, F: 74.5 },
-};
-
-/* ── MODIFICATEURS (en années) ──────────────────────── */
-const MODIF = {
-  education: { primaire: -2.5, brevet: -1.5, bac: 0, bac2: +0.8, bac3: +1.5, bac5: +2.2, doctorat: +3.0 },
-  tabac:     { jamais: 0, ancien: -2.0, leger: -3.5, moyen: -6.0, fort: -10.0 },
-  alcool:    { jamais: +0.5, occasionnel: 0, modere: -1.5, excessif: -5.0 },
-  activite:  { sedentaire: -3.5, leger: -1.0, modere: +2.0, intense: +3.5 },
-  imc:       { maigreur: -2.0, normal: 0, surpoids: -1.5, obese1: -3.0, obese2: -6.0 },
-  stress:    { faible: +1.0, moyen: 0, eleve: -2.0, tres_eleve: -4.0 },
-  alimentation: { mauvaise: -3.0, moyenne: 0, bonne: +1.5, excellente: +3.0 },
-  sommeil:   { insuffisant: -2.5, correct: 0, optimal: +1.0, excessif: -1.0 },
-  lien_social: { isole: -3.0, modere: 0, fort: +2.5 },
-  antecedents: { aucun: 0, cardio: -3.0, cancer: -2.5, diabete: -2.0, multiple: -5.0 },
-};
-
 /* ══════════════════════════════════════════════════════
    MOTEUR
    ══════════════════════════════════════════════════════ */
@@ -233,4 +198,12 @@ function formatRate(perSec) {
   if (perSec * 60 >= 1)   return `≈ ${(perSec * 60).toFixed(1)} / minute`;
   if (perSec * 3600 >= 1) return `≈ ${(perSec * 3600).toFixed(1)} / heure`;
   return `≈ ${(perSec * 86400).toFixed(1)} / jour`;
+}
+
+function escHtml(s) {
+  return String(s||'')
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
 }
