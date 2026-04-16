@@ -16,7 +16,7 @@
   font-family: var(--font-body);
   font-style: italic;
   font-size: 0.95rem;
-  color: var(--gray-light);
+  color: var(--gray);
   text-align: center;
   max-width: 680px;
   margin: 0 auto;
@@ -33,12 +33,13 @@
 
 /* ── CARTE COMPTEUR ──────────────────────────────────── */
 .compteur-card {
-  background: linear-gradient(145deg, #1a2e1c, #142010);
+  background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 1.5rem 1.4rem 1.2rem;
   position: relative;
   overflow: hidden;
+  box-shadow: 0 2px 10px rgba(28,26,20,0.08);
   animation: fadeUp 0.5s ease both;
 }
 
@@ -49,8 +50,8 @@
   border-radius: 10px 10px 0 0;
 }
 
-.card-world::before   { background: linear-gradient(90deg, var(--green-dim), var(--green)); }
-.card-species::before { background: linear-gradient(90deg, #c68400, var(--gold-light)); }
+.card-world::before   { background: linear-gradient(90deg, var(--gold-dim2), var(--gold)); }
+.card-species::before { background: linear-gradient(90deg, #8A5A10, var(--gold-light)); }
 .card-france::before  { background: linear-gradient(90deg, #1565c0, #42a5f5); }
 .card-local::before   { background: linear-gradient(90deg, var(--red-death), var(--red-light)); }
 
@@ -91,10 +92,10 @@
   transition: color 0.3s;
 }
 
-.card-world   .compteur-value { color: var(--green-light); }
-.card-species .compteur-value { color: var(--gold-light); }
-.card-france  .compteur-value { color: #90caf9; }
-.card-local   .compteur-value { color: var(--red-light); }
+.card-world   .compteur-value { color: var(--cream); }
+.card-species .compteur-value { color: var(--gold-mid); }
+.card-france  .compteur-value { color: #1565c0; }
+.card-local   .compteur-value { color: var(--red-death); }
 
 .compteur-rate {
   font-family: var(--font-sc);
@@ -107,7 +108,7 @@
 
 .compteur-bar-wrap {
   height: 4px;
-  background: rgba(255,255,255,0.07);
+  background: rgba(28,26,20,0.08);
   border-radius: 2px;
   overflow: hidden;
   margin-bottom: 0.7rem;
@@ -120,7 +121,7 @@
   transition: width 1.5s ease;
 }
 
-.card-world   .compteur-bar { background: linear-gradient(90deg, var(--green-dim), var(--green)); }
+.card-world   .compteur-bar { background: linear-gradient(90deg, var(--gold-dim2), var(--gold)); }
 .card-species .compteur-bar { background: linear-gradient(90deg, #c68400, var(--gold-light)); }
 .card-france  .compteur-bar { background: linear-gradient(90deg, #1565c0, #42a5f5); }
 .card-local   .compteur-bar { background: linear-gradient(90deg, var(--red-death), var(--red-light)); }
@@ -138,7 +139,7 @@
 
 .local-select {
   width: 100%;
-  background: #0f1a14;
+  background: #FAF8F4;
   border: 1px solid var(--border);
   color: var(--cream);
   font-family: var(--font-body);
@@ -149,21 +150,22 @@
   cursor: pointer;
   transition: var(--transition);
   appearance: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%234caf50' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23B87A1A' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 0.8rem center;
   padding-right: 2.2rem;
 }
-.local-select:focus { border-color: var(--red-death); }
-.local-select optgroup { background: #142010; font-weight: 600; }
-.local-select option  { background: #1a2e1c; }
+.local-select:focus { border-color: var(--gold); }
+.local-select optgroup { background: #FAF8F4; font-weight: 600; }
+.local-select option  { background: #FFFFFF; }
 
 /* ── BLOC LIENS EXTERNES ─────────────────────────────── */
 .more-counters-block {
-  background: linear-gradient(145deg, #1a2e1c, #142010);
+  background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 2rem;
+  box-shadow: 0 2px 10px rgba(28,26,20,0.08);
 }
 
 .external-links-grid {
@@ -177,7 +179,7 @@
   align-items: flex-start;
   gap: 0.9rem;
   padding: 1rem 1.1rem;
-  background: rgba(76,175,80,0.06);
+  background: rgba(184,122,26,0.05);
   border: 1px solid var(--border);
   border-radius: 8px;
   text-decoration: none;
@@ -185,10 +187,10 @@
   position: relative;
 }
 .ext-link-card:hover {
-  border-color: var(--green);
-  background: rgba(76,175,80,0.12);
+  border-color: var(--gold);
+  background: rgba(184,122,26,0.08);
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(15,26,20,0.5);
+  box-shadow: 0 6px 20px rgba(28,26,20,0.12);
 }
 
 .ext-link-icon { font-size: 1.6rem; line-height: 1; flex-shrink: 0; }
@@ -204,7 +206,7 @@
 .ext-link-desc {
   font-family: var(--font-body);
   font-size: 0.82rem;
-  color: var(--gray-light);
+  color: var(--gray);
   font-style: italic;
   line-height: 1.4;
 }
@@ -213,10 +215,10 @@
   position: absolute;
   top: 1rem; right: 1rem;
   font-size: 1rem;
-  color: var(--green-dim);
+  color: var(--gold-dim2);
   transition: var(--transition);
 }
-.ext-link-card:hover .ext-link-arrow { color: var(--green-light); transform: translateX(3px); }
+.ext-link-card:hover .ext-link-arrow { color: var(--gold-mid); transform: translateX(3px); }
 
 /* ── RESPONSIVE ──────────────────────────────────────── */
 @media (max-width: 640px) {

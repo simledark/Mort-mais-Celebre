@@ -1,12 +1,12 @@
 
 /* ── BOUTON CITATIONS ────────────────────────────────── */
 .citations-btn {
-  border-color: var(--red-death);
-  color: #c0392b;
+  border-color: rgba(184,42,34,0.5);
+  color: var(--red-death);
 }
 .citations-btn:hover {
   background: var(--red-death);
-  color: var(--cream);
+  color: #FAF8F4;
   border-color: var(--red-death);
 }
 
@@ -21,9 +21,10 @@
   text-align: center;
   padding: 3rem 2rem 2.5rem;
   margin-bottom: 2.5rem;
-  background: linear-gradient(145deg, #1e1810, #150f0a);
+  background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(28,26,20,0.08);
   position: relative;
   overflow: hidden;
 }
@@ -33,8 +34,8 @@
   top: -0.5rem;
   left: 1.5rem;
   font-size: 8rem;
-  color: var(--red-death);
-  opacity: 0.06;
+  color: var(--gold-dim2);
+  opacity: 0.07;
   font-family: var(--font-display);
   line-height: 1;
   pointer-events: none;
@@ -44,7 +45,7 @@
   font-family: var(--font-sc);
   font-size: 0.72rem;
   letter-spacing: 0.35em;
-  color: var(--gold-dim);
+  color: var(--gold-dim2);
   text-transform: uppercase;
   margin-bottom: 1.5rem;
 }
@@ -69,7 +70,7 @@
   font-family: var(--font-sc);
   font-size: 0.85rem;
   letter-spacing: 0.2em;
-  color: var(--gold-light);
+  color: var(--gold-mid);
   transition: opacity 0.25s ease;
 }
 
@@ -87,8 +88,8 @@
   margin-top: 0.5rem;
 }
 .citation-shuffle-btn:hover {
-  border-color: var(--gold);
-  color: var(--gold);
+  border-color: var(--gold-mid);
+  color: var(--gold-mid);
 }
 
 /* ── RECHERCHE ───────────────────────────────────────── */
@@ -102,7 +103,7 @@
 }
 .citations-search {
   width: 100%;
-  background: #1a1510;
+  background: #FAF8F4;
   border: 1px solid var(--border);
   color: var(--cream);
   font-family: var(--font-body);
@@ -114,7 +115,7 @@
 }
 .citations-search:focus {
   border-color: var(--gold);
-  background: #201a12;
+  background: #FFFFFF;
 }
 .citations-search::placeholder { color: var(--gray); font-style: italic; }
 .search-icon {
@@ -132,7 +133,7 @@
   font-family: var(--font-sc);
   font-size: 0.65rem;
   letter-spacing: 0.15em;
-  color: var(--gold-dim);
+  color: var(--gold-dim2);
   pointer-events: none;
 }
 
@@ -153,9 +154,10 @@
 }
 
 .citation-card {
-  background: linear-gradient(145deg, #1e1810, #150f0a);
+  background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 3px;
+  box-shadow: 0 1px 6px rgba(28,26,20,0.07);
   padding: 1.5rem 1.4rem 1.1rem;
   cursor: pointer;
   transition: var(--transition);
@@ -172,16 +174,16 @@
   top: 0.4rem;
   right: 0.8rem;
   font-size: 2.5rem;
-  color: var(--red-death);
+  color: var(--gold-dim2);
   opacity: 0.07;
   font-family: var(--font-display);
   line-height: 1;
   pointer-events: none;
 }
 .citation-card:hover {
-  border-color: var(--gold-dim);
+  border-color: var(--gold);
   transform: translateY(-2px);
-  box-shadow: 0 8px 28px rgba(0,0,0,0.45);
+  box-shadow: 0 6px 18px rgba(28,26,20,0.12);
 }
 
 .citation-card-quote {
@@ -207,5 +209,5 @@
   font-family: var(--font-sc);
   font-size: 0.75rem;
   letter-spacing: 0.12em;
-  color: var(--gold-light);
+  color: var(--gold-mid);
 }
