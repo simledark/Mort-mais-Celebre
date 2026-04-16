@@ -128,3 +128,43 @@
   .palmares-calc { position: static; }
   .calc-form     { max-height: none; }
 }
+
+/* ══════════════════════════════════════════════════════
+   PALMARÈS — RESPONSIVE MOBILE
+   ══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  .palmares-main { padding: 1.2rem 0.9rem 2.5rem; }
+  .palmares-header { margin-bottom: 1.2rem; }
+  .palmares-intro { font-size: 0.88rem; }
+
+  /* Filtres catégories scrollables */
+  .cat-filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 0.3rem;
+    gap: 0.4rem;
+  }
+  .cat-filters::-webkit-scrollbar { display: none; }
+  .cat-filters .year-btn { flex-shrink: 0; font-size: 0.7rem; padding: 0.3rem 0.7rem; }
+
+  /* Lignes palmarès */
+  .palmares-row { padding: 0.7rem 0.75rem; gap: 0.5rem; }
+  .pal-icon { font-size: 1.1rem; }
+  .pal-label { font-size: 0.85rem; }
+  .pal-source { font-size: 0.58rem; }
+  .pal-row-right { min-width: 130px; }
+  .pal-val { font-size: 1.15rem; }
+  .pal-bar-wrap { width: 110px; }
+  .pal-rate { font-size: 0.58rem; }
+}
+
+@media (max-width: 480px) {
+  .palmares-row { flex-direction: row; gap: 0.4rem; padding: 0.6rem; }
+  .pal-row-right { min-width: 100px; }
+  .pal-val { font-size: 1rem; }
+  .pal-bar-wrap { width: 80px; }
+  .pal-label { font-size: 0.8rem; }
+}

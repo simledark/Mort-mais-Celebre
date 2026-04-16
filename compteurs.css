@@ -226,3 +226,27 @@
   .external-links-grid { grid-template-columns: 1fr; }
   .compteur-value { font-size: 2.2rem; }
 }
+
+/* ══════════════════════════════════════════════════════
+   COMPTEURS — RESPONSIVE MOBILE
+   ══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  .compteurs-main { padding: 1.2rem 0.9rem 2.5rem; }
+  .compteurs-grid { grid-template-columns: 1fr; gap: 1rem; }
+  .compteur-card { padding: 1.1rem 1rem 0.9rem; }
+  .compteur-value { font-size: 2.2rem; }
+  .compteur-label { font-size: 0.9rem; }
+  .more-counters-block { padding: 1.2rem 1rem; }
+  .external-links-grid { grid-template-columns: 1fr; gap: 0.75rem; }
+  .ext-link-card { padding: 0.85rem 0.9rem; }
+  .ext-link-title { font-size: 0.88rem; }
+  .ext-link-desc { font-size: 0.78rem; }
+}
+
+@media (max-width: 480px) {
+  .compteurs-grid { grid-template-columns: 1fr; }
+  .compteur-value { font-size: 2rem; }
+  .compteur-icon { font-size: 1.5rem; }
+  .local-select { font-size: 0.82rem; padding: 0.4rem 0.6rem; }
+}

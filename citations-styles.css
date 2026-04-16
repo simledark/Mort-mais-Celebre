@@ -211,3 +211,44 @@
   letter-spacing: 0.12em;
   color: var(--gold-mid);
 }
+
+/* ══════════════════════════════════════════════════════
+   CITATIONS — RESPONSIVE MOBILE
+   ══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  .citations-main { padding: 1.2rem 0.9rem 2.5rem; }
+
+  /* Hero */
+  .citation-hero { padding: 1.8rem 1rem 1.5rem; margin-bottom: 1.5rem; }
+  #hero-text { font-size: clamp(1rem, 4.5vw, 1.3rem); }
+  #hero-author { font-size: 0.78rem; letter-spacing: 0.15em; }
+  .citation-shuffle-btn { font-size: 0.68rem; padding: 0.4rem 1rem; }
+
+  /* Recherche */
+  .citations-search { font-size: 0.9rem; padding: 0.55rem 2.8rem 0.55rem 0.85rem; }
+
+  /* Filtres scrollables */
+  .citations-filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 0.3rem;
+  }
+  .citations-filters::-webkit-scrollbar { display: none; }
+  .citations-filters .year-btn { flex-shrink: 0; font-size: 0.68rem; }
+
+  /* Grille citations */
+  .citations-grid { grid-template-columns: 1fr; gap: 0.9rem; }
+  .citation-card { padding: 1.1rem 1rem 0.85rem; }
+  .citation-card-quote { font-size: 0.9rem; }
+  .citation-card-author { font-size: 0.7rem; }
+}
+
+@media (max-width: 480px) {
+  .citation-hero { padding: 1.4rem 0.85rem 1.2rem; }
+  #hero-text { font-size: 1rem; }
+  .citations-search-inner { max-width: 100%; }
+}
