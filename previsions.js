@@ -42,9 +42,13 @@ document.addEventListener('DOMContentLoaded', async () => {
   setupDomainFilters();
 
   const { data: { session } } = await sb.auth.getSession();
-  if (session) { currentUser = session.user; await loadProfileAndEnter(); }
-  else {
-    showScreen('screen-auth');
+  if (session) {
+    currentUser = session.user;
+    // Masquer l'écran auth avant de charger le profil
+    document.getElementById('screen-auth').classList.add('hidden');
+    await loadProfileAndEnter();
+  } else {
+    // screen-auth déjà visible par défaut dans le HTML
     loadPalmares();
   }
 
@@ -54,7 +58,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   sb.auth.onAuthStateChange(async (event, session) => {
     if (event === 'SIGNED_IN' && session && !currentUser) { currentUser = session.user; await loadProfileAndEnter(); }
-    if (event === 'SIGNED_OUT') { currentUser = null; currentProfile = null; currentTeam = null; currentUserTeams = []; showScreen('screen-auth'); loadPalmares(); }
+    if (event === 'SIGNED_OUT') { currentUser = null; currentProfile = null; currentTeam = null; currentUserTeams = [];
+    // Afficher screen-auth, masquer les autres
+    document.querySelectorAll('.prev-screen').forEach(function(s) { s.classList.add('hidden'); });
+    document.getElementById('screen-auth').classList.remove('hidden');
+    loadPalmares();
+  }
   });
 });
 
