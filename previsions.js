@@ -715,23 +715,90 @@ function onSearchInput(value) {
 
 async function performSearch(query) {
   try {
-    const url = new URL(WIKIDATA_API);
-    url.searchParams.set('action', 'wbsearchentities');
-    url.searchParams.set('search', query);
-    url.searchParams.set('language', 'fr');
-    url.searchParams.set('type', 'item');
-    url.searchParams.set('limit', '15');
-    url.searchParams.set('format', 'json');
-    url.searchParams.set('origin', '*');
+    // Lancer en parallele : recherche Wikidata + recherche dans le cache Supabase
+    const [wikidataResults, cacheResults] = await Promise.all([
+      searchWikidata(query),
+      searchCache(query),
+    ]);
 
-    const res  = await fetch(url);
-    const data = await res.json();
-    const qids = (data.search || []).map(function(r) { return r.id; });
-    if (qids.length === 0) { showSearchEmpty(); return; }
+    // Fusionner sans doublons — le cache en priorite (plus rapide et enrichi)
+    var seen = new Set();
+    var merged = [];
 
-    const { data: cached } = await sb.from('celebrities').select('*').in('wikidata_id', qids).eq('is_alive', true);
+    cacheResults.forEach(function(r) {
+      if (!seen.has(r.wikidataId)) { seen.add(r.wikidataId); merged.push(r); }
+    });
+    wikidataResults.forEach(function(r) {
+      if (!seen.has(r.wikidataId)) { seen.add(r.wikidataId); merged.push(r); }
+    });
+
+    if (merged.length === 0) showSearchEmpty();
+    else renderSearchResults(merged);
+  } catch (err) { console.error(err); showSearchEmpty(); }
+  finally { document.getElementById('search-spinner').classList.add('hidden'); }
+}
+
+// Recherche dans le cache Supabase — trouve "Eastwood" depuis "eastwood"
+async function searchCache(query) {
+  try {
+    // Recherche ILIKE sur le nom — trouve les noms contenant la chaine
+    const { data } = await sb
+      .from('celebrities')
+      .select('*')
+      .ilike('name', '%' + query + '%')
+      .eq('is_alive', true)
+      .limit(10);
+
+    return (data || []).map(function(c) { return {
+      wikidataId  : c.wikidata_id,
+      name        : c.name,
+      domain      : c.domain,
+      nationality : c.nationality,
+      birthDate   : c.birth_date,
+      age         : c.age,
+      imageUrl    : c.image_url,
+      wikipediaUrl: c.wiki_url,
+    }; });
+  } catch(e) {
+    return [];
+  }
+}
+
+// Recherche Wikidata — retourne les resultats enrichis pour les QIDs trouves
+async function searchWikidata(query) {
+  try {
+    // Essayer aussi avec le nom complet inverse (ex: "eastwood clint" -> "clint eastwood")
+    var queries = [query];
+    var parts = query.trim().split(/\s+/);
+    if (parts.length > 1) queries.push(parts.reverse().join(' '));
+
+    var allQids = [];
+    var seenQids = new Set();
+
+    for (var qi = 0; qi < queries.length; qi++) {
+      var url = new URL(WIKIDATA_API);
+      url.searchParams.set('action', 'wbsearchentities');
+      url.searchParams.set('search', queries[qi]);
+      url.searchParams.set('language', 'fr');
+      url.searchParams.set('type', 'item');
+      url.searchParams.set('limit', '15');
+      url.searchParams.set('format', 'json');
+      url.searchParams.set('origin', '*');
+
+      var res  = await fetch(url);
+      var data = await res.json();
+      (data.search || []).forEach(function(r) {
+        if (!seenQids.has(r.id)) { seenQids.add(r.id); allQids.push(r.id); }
+      });
+    }
+
+    if (allQids.length === 0) return [];
+
+    // Verifier lesquels sont dans le cache
+    const { data: cached } = await sb.from('celebrities').select('*').in('wikidata_id', allQids).eq('is_alive', true);
     const cachedIds = new Set((cached || []).map(function(c) { return c.wikidata_id; }));
-    const uncached  = qids.filter(function(q) { return !cachedIds.has(q); });
+    const uncached  = allQids.filter(function(q) { return !cachedIds.has(q); });
+
     var fresh = [];
     if (uncached.length > 0) fresh = await fetchLivingFromWikidata(uncached);
 
@@ -740,11 +807,14 @@ async function performSearch(query) {
       nationality: c.nationality, birthDate: c.birth_date, age: c.age,
       imageUrl: c.image_url, wikipediaUrl: c.wiki_url,
     }; });
-    const all     = cacheFormatted.concat(fresh);
-    const ordered = qids.map(function(id) { return all.find(function(r) { return r.wikidataId === id; }); }).filter(Boolean);
-    if (ordered.length === 0) showSearchEmpty(); else renderSearchResults(ordered);
-  } catch (err) { console.error(err); showSearchEmpty(); }
-  finally { document.getElementById('search-spinner').classList.add('hidden'); }
+
+    var all = cacheFormatted.concat(fresh);
+    return allQids.map(function(id) {
+      return all.find(function(r) { return r.wikidataId === id; });
+    }).filter(Boolean);
+  } catch(e) {
+    return [];
+  }
 }
 
 async function fetchLivingFromWikidata(qids) {
