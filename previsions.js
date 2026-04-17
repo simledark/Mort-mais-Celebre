@@ -6,6 +6,9 @@
 
 'use strict';
 
+function imgFallback(el, cls) { el.outerHTML = '<div class="' + cls + '">&#x271D;</div>'; }
+
+
 const SUPABASE_URL  = 'https://mudmucjhiclyukhebeqm.supabase.co';
 const SUPABASE_ANON = 'sb_publishable_AMBoNSWZ3iiagHK1G-OX4g_T-qYvTIB';
 const WIKIDATA_SPARQL = 'https://query.wikidata.org/sparql';
@@ -368,7 +371,7 @@ async function renderMyPredictions() {
     item.className = 'prediction-item';
     item.style.animationDelay = (i * 0.05) + 's';
     const imgHtml = p.celeb_image
-      ? '<img class="pred-thumb" src="' + esc(p.celeb_image) + '" alt="' + esc(p.celeb_name) + '" onerror="this.outerHTML=\'<div class=\\\'pred-thumb-placeholder\\\'>&#x271D;</div>\'">'
+      ? '<img class="pred-thumb" src="' + esc(p.celeb_image) + '" alt="' + esc(p.celeb_name) + '" onerror=\"imgFallback(this,\'pred-thumb-placeholder\')\">'
       : '<div class="pred-thumb-placeholder">&#x271D;</div>';
     const statusClass = p.status === 'correct' ? 'pred-status-correct' : p.status === 'wrong' ? 'pred-status-wrong' : 'pred-status-pending';
     const statusText  = p.status === 'correct' ? '&#x2713; Juste' : p.status === 'wrong' ? '&#x2717; Faux' : '&mdash;';
@@ -448,7 +451,7 @@ async function loadPublicPalmares() {
 
     if (!preds || preds.length === 0) {
       document.getElementById('public-palmares-list').innerHTML =
-        '<div class="prev-empty" style="padding:2rem 0"><p>Aucune prevision publique pour l'instant.<br>Soyez le premier !</p></div>';
+        '<div class="prev-empty" style="padding:2rem 0"><p>Aucune prevision publique pour l instant.<br>Soyez le premier !</p></div>';
       return;
     }
 
@@ -525,7 +528,7 @@ function renderPublicPalmares() {
     item.style.animationDelay = (i * 0.04) + 's';
 
     var imgHtml = p.imageUrl
-      ? '<img class="palmares-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror="this.outerHTML='<div class=\'palmares-img-placeholder\'>&#x271D;</div>'">'
+      ? '<img class="palmares-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror=\"imgFallback(this,\'palmares-img-placeholder\')\">'
       : '<div class="palmares-img-placeholder">&#x271D;</div>';
 
     var rankHtml = i < 3
@@ -782,7 +785,7 @@ async function renderTeamPredictions(members) {
     item.className = 'prediction-item';
     item.style.animationDelay = (i * 0.04) + 's';
     const imgHtml = p.celeb_image
-      ? '<img class="pred-thumb" src="' + esc(p.celeb_image) + '" alt="' + esc(p.celeb_name) + '" onerror="this.outerHTML=\'<div class=\\\'pred-thumb-placeholder\\\'>&#x271D;</div>\'">'
+      ? '<img class="pred-thumb" src="' + esc(p.celeb_image) + '" alt="' + esc(p.celeb_name) + '" onerror=\"imgFallback(this,\'pred-thumb-placeholder\')\">'
       : '<div class="pred-thumb-placeholder">&#x271D;</div>';
     const statusClass = p.status === 'correct' ? 'pred-status-correct' : p.status === 'wrong' ? 'pred-status-wrong' : 'pred-status-pending';
     const pseudo = (p.profiles && p.profiles.pseudo) ? p.profiles.pseudo : '-';
@@ -901,11 +904,26 @@ var palmaresData    = { citations: [], scores: [] };
 
 async function loadPalmares() {
   try {
-    // Récupérer toutes les prévisions (public + privées, sans pseudos)
-    const { data: preds } = await sb
-      .from('predictions')
-      .select('wikidata_id, celeb_name, celeb_domain, celeb_nationality, celeb_image, celeb_age, status')
-      .eq('year', 2026);
+    // Appel REST direct avec la clé anon — fonctionne sans session active
+    const res = await fetch(
+      SUPABASE_URL + '/rest/v1/predictions?year=eq.2026&select=wikidata_id,celeb_name,celeb_domain,celeb_nationality,celeb_image,celeb_age,status',
+      {
+        headers: {
+          'apikey': SUPABASE_ANON,
+          'Authorization': 'Bearer ' + SUPABASE_ANON,
+          'Content-Type': 'application/json',
+        }
+      }
+    );
+
+    if (!res.ok) {
+      console.error('Palmares HTTP error:', res.status, await res.text());
+      document.getElementById('palmares-list').innerHTML =
+        '<div class="palmares-empty">Palmarès indisponible (' + res.status + ').</div>';
+      return;
+    }
+
+    const preds = await res.json();
 
     if (!preds || preds.length === 0) {
       renderPalmares([]);
@@ -995,7 +1013,7 @@ function renderPalmares(items) {
       : '<div class="pub-rank">' + (i + 1) + '</div>';
 
     var imgHtml = item.imageUrl
-      ? '<img class="pub-thumb" src="' + esc(item.imageUrl) + '" alt="' + esc(item.name) + '" onerror="this.outerHTML='<div class=\'pub-thumb-placeholder\'>&#x271D;</div>'">'
+      ? '<img class="pub-thumb" src="' + esc(item.imageUrl) + '" alt="' + esc(item.name) + '" onerror=\"imgFallback(this,\'pub-thumb-placeholder\')\">'
       : '<div class="pub-thumb-placeholder">&#x271D;</div>';
 
     var barClass = palmaresTab === 'scores' ? 'pub-bar-fill confirmed' : 'pub-bar-fill';
@@ -1093,7 +1111,7 @@ function renderSearchResults(results) {
     item.className = 'search-result-item';
     item.style.animationDelay = (i * 0.04) + 's';
     const imgHtml = p.imageUrl
-      ? '<img class="result-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror="this.outerHTML=\'<div class=\\\'result-img-placeholder\\\'>&#x271D;</div>\'">'
+      ? '<img class="result-img" src="' + esc(p.imageUrl) + '" alt="' + esc(p.name) + '" onerror=\"imgFallback(this,\'result-img-placeholder\')\">'
       : '<div class="result-img-placeholder">&#x271D;</div>';
     item.innerHTML = imgHtml +
       '<div class="result-info"><div class="result-name">' + esc(p.name) + '</div>' +
