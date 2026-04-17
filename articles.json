@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-04-17T15:24:54.185311+00:00",
-  "count": 52,
+  "generated_at": "2026-04-17T20:09:38.945773+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "Attentat au marché de Noël de Strasbourg : la cour d’appel confirme la peine de 30 ans de prison contre Audrey Mondjehi",
+      "desc": "La cour d’assises spéciale d’appel de Paris a condamné dans les mêmes termes l’homme de 44 ans accusé d’avoir aidé le jihadiste Chérif Chekatt à se procurer une arme, avant l’attaque qui avait fait cinq morts à Strasbourg en 2018.",
+      "url": "https://www.liberation.fr/societe/police-justice/attentat-au-marche-de-noel-de-strasbourg-la-cour-dappel-confirme-la-peine-de-30-ans-de-prison-contre-audrey-mondjehi-20260417_2ZY7CTW4END6PFWO6MLKS435CA/",
+      "image": null,
+      "date": "2026-04-17T19:04:05+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Nos déchets plastique bientôt recyclés en hydrogène ?",
+      "desc": "Une équipe de chercheurs britanniques propose, dans des travaux publiés début avril dans la revue «Joule», un procédé utilisant deux déchets, le plastique et l’acide des batteries de voiture, pour produire le carburant vert.",
+      "url": "https://www.liberation.fr/environnement/pollution/nos-dechets-plastique-bientot-recycles-en-hydrogene-20260417_KPRHF5EADZBLTM6I4YB7YQEBL4/",
+      "image": null,
+      "date": "2026-04-17T17:32:28+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Accidents du travail : à Bagnols-sur-Cèze, un stagiaire de 15 ans meurt écrasé par un chariot élévateur",
+      "desc": "Une enquête a été ouverte pour déterminer les circonstances de la mort du lycéen, survenue ce vendredi dans le Gard. Ce drame pose à nouveau la question des conditions de sécurité de l’accueil des jeunes en entreprise.",
+      "url": "https://www.liberation.fr/economie/social/accidents-du-travail-a-bagnols-sur-ceze-un-stagiaire-de-15-ans-meurt-ecrase-par-un-chariot-elevateur-20260417_DFIT6ELT2JHNTABE3Z3GSCC4PQ/",
+      "image": null,
+      "date": "2026-04-17T16:58:42+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Espoir majeur dans le cancer du pancréas : un nouveau traitement double la survie des patients à un an",
       "desc": "Un nouveau traitement suscite l'espoir face au cancer du pancréas. Testé en association avec une chimiothérapie, il montre des résultats encourageants dans un essai clinique, avec une amélioration notable sur la survie des patients. Une avancée à confirmer, mais suffisamment solide pour attirer...",
@@ -11,6 +41,26 @@
       "date_formatted": "17 April 2026",
       "source": "Futura Santé",
       "type": "science"
+    },
+    {
+      "title": "Mort du journaliste Rico Rizzitelli, punk is dead",
+      "desc": "Le correspondant de «Libé» au Chili à l’écriture pop et baroque est mort mercredi à Santiago, à 64 ans. Ami fidèle et intransigeant, le «double R» représentait une époque où la folie était tolérée dans les rédactions et où la débrouille valait plus qu’un diplôme.",
+      "url": "https://www.liberation.fr/societe/mort-du-journaliste-rico-rizzitelli-punk-is-dead-20260417_4WSJS5OVTNFO5GRLKEUUIS5O4M/",
+      "image": null,
+      "date": "2026-04-17T16:05:53+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’affaire Robert Boulin pourrait atterrir au pôle cold case",
+      "desc": "La mort du ministre, en 1979, reste une énigme. Le transfert du dossier au pôle national des crimes sériels ou non élucidés satisferait sa famille qui craignait que la justice prononce un non-lieu.",
+      "url": "https://www.liberation.fr/societe/police-justice/laffaire-robert-boulin-pourrait-atterrir-au-pole-cold-case-20260417_ILB7BLUOKJF7HIVKU3MCWBRWVA/",
+      "image": null,
+      "date": "2026-04-17T15:54:42+00:00",
+      "date_formatted": "17 April 2026",
+      "source": "Libération",
+      "type": "presse"
     },
     {
       "title": "\"13h15 le samedi\". Sally, la joie de vivre jusqu'au bout",
@@ -31,16 +81,6 @@
       "date_formatted": "17 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "«Flip» Daudet, la mort comme dans un moulin",
-      "desc": "Jean-Jacques Salgon piste un «fils de» anarchiste, qui envisagea de tuer son père royaliste.",
-      "url": "https://www.liberation.fr/culture/livres/flip-daudet-la-mort-comme-dans-un-moulin-20260417_UJ46Q76HPNEGLGJOIY6IF5EMT4/",
-      "image": null,
-      "date": "2026-04-17T13:37:00+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Démence : un simple spray nasal serait capable de freiner, voire d'inverser le déclin cognitif !",
@@ -301,16 +341,6 @@
       "date_formatted": "13 April 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Punaises de lit : Cet insecticide est interdit en France depuis 2013 mais il continue de circuler… et de tuer",
-      "desc": "Un insecticide interdit en France pour lutter contre les punaises de lit continue à circuler et a fait quatre morts, alertent les autorités sanitaires",
-      "url": "https://www.20minutes.fr/sante/4218163-20260413-punaises-lit-attention-insecticide-interdit-france-continue-circuler-fait-quatre-morts?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/Z5pcP3-dQMOPYP7fl-xM8ik/1200x768_ecran-du-site-de-vente-d-un-sniper-1000-ec-ddvp-photo-de-philippe-turpin-photononstop-via-afp",
-      "date": "2026-04-13T12:46:29+00:00",
-      "date_formatted": "13 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Un insecticide interdit en France continue à circuler et fait quatre morts",
