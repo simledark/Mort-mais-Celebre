@@ -1,7 +1,127 @@
 {
-  "generated_at": "2026-04-18T08:08:18.417720+00:00",
-  "count": 55,
+  "generated_at": "2026-04-18T14:11:41.149659+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title": "Leslie Cheung, HK confidentiel",
+      "desc": "De sabre ou de romance, trois films exhumés et édités en Blu-ray montrent les débuts au cinéma de l’acteur hongkongais adulé, mort en 2003.",
+      "url": "https://www.liberation.fr/culture/cinema/leslie-cheung-hk-confidentiel-20260418_Z3I7M34NTBGA7E7R2CNF4YKADE/",
+      "image": null,
+      "date": "2026-04-18T14:07:00+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«On ne sait plus où on est, qui on est» : qu’est-ce que la maladie à corps de Lewy, dont souffrait Nathalie Baye ?",
+      "desc": "Cette maladie neurodégénérative, la deuxième plus fréquente après Alzheimer, comprend une grande variété de symptômes cognitifs et concerne environ 250 000 personnes en France. La comédienne de 77 ans en est morte le 17 avril.",
+      "url": "https://www.liberation.fr/societe/sante/on-ne-sait-plus-ou-on-est-qui-on-est-quest-ce-que-la-maladie-a-corps-de-lewy-dont-souffrait-nathalie-baye-20260418_YEQB6PGZPNFCVCB4NXRFFC4OSY/",
+      "image": null,
+      "date": "2026-04-18T14:06:38+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Nathalie Baye : Qu’est-ce que la maladie à corps de Lewy, dont est décédée l’actrice ?",
+      "desc": "Peu connue, cette maladie dégénérative, aux troubles proches de ceux de Parkinson et d’Alzheimer, toucherait pourtant près de 250.000 personnes en France",
+      "url": "https://www.20minutes.fr/sante/4219032-20260418-mort-nathalie-baye-maladie-corps-lewy-dont-decedee-actrice?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/yA8RkyuzQaSoGgrs2GYUSyk/1200x768_nathalie-baye-assiste-a-la-ceremonie-d-ouverture-du-72e-festival-international-du-film-de-cannes-au-palace-festival-a-cannes-en-france-le-15-mai-2019-03pariente-pariente0665-1905150803-credit-jp-pariente-sipa-1905150805",
+      "date": "2026-04-18T14:02:29+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Nathalie Baye en dix films",
+      "desc": "L’actrice multirécompensée est morte vendredi 17 avril. De Truffaut à Spielberg, en passant par Godard ou Blier, incontournable du cinéma français des années 80 et 90, elle a su étendre son univers, varier son jeu et ses choix les décennies suivantes. Rétro.",
+      "url": "https://www.liberation.fr/culture/cinema/nathalie-baye-en-dix-films-20260418_NAKEEK65FFBONPZB2Y7UFB6H6U/",
+      "image": null,
+      "date": "2026-04-18T12:21:25+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Nathalie Baye : qu’est-ce que la maladie à corps de Lewy, ce trouble neurodégénératif dont souffrait l’actrice ?",
+      "desc": "Cette maladie, peu connue mais fréquente, provoque notamment des changements d’humeur, des hallucinations et des troubles moteurs.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/18/mort-de-nathalie-baye-qu-est-ce-que-la-maladie-a-corps-de-lewy-ce-trouble-neurodegeneratif-dont-souffrait-l-actrice_6681141_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/18/123/0/700/350/644/322/60/0/7336608_upload-1-sh2xsw8rn6rc-lewy-body-stock-image-700x550.jpg",
+      "date": "2026-04-18T12:13:15+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Mort de Nathalie Baye : c'est quoi la maladie à corps de Lewy, qui a emporté l’actrice ?",
+      "desc": "L'actrice Nathalie Baye est morte vendredi à l'âge de 77 ans de suites d'une maladie neurodégénérative complexe, difficile à diagnostiquer et qui touche 200 000 personnes en France.",
+      "url": "https://www.franceinfo.fr/sante/mort-de-nathalie-baye-c-est-quoi-la-maladie-a-corps-de-lewy-qui-a-emporte-l-actrice_7947773.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1RUnLgbMgPKXSKLdub6tBjAUqac/0x61:4384x2525/432x243/filters:format(jpg)/2023/12/11/nathalie-baye-6577751b0ef9a116924466.jpg",
+      "date": "2026-04-18T11:56:00+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Peut-on être licencié en étant en arrêt maladie ? Ce qu’il faut savoir",
+      "desc": "Arrêt maladie rime souvent avec protection. Mais dans certains cas bien précis, le licenciement reste possible. Une nuance essentielle à connaître",
+      "url": "https://www.20minutes.fr/vie-pro/4219009-20260418-peut-etre-licencie-arret-maladie-faut-savoir?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/SDgFI8wdTyuIcmdj2vwteik/1200x768_open-space",
+      "date": "2026-04-18T11:02:37+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Faute de plan grand âge, le gouvernement prévoit une conférence nationale de l’autonomie en septembre",
+      "desc": "L’annonce de la ministre déléguée chargée de l’Autonomie et des Personnes handicapées, Camille Galliard-Minier, ce samedi 18 avril, intervient deux mois après le report sine die d’un plan, tandis que les acteurs du secteur réclament une loi.",
+      "url": "https://www.liberation.fr/societe/sante/faute-de-plan-grand-age-le-gouvernement-prevoit-une-conference-nationale-de-lautonomie-en-septembre-20260418_2Z5A6RRVLFAOZBHZE26J2INBUM/",
+      "image": null,
+      "date": "2026-04-18T10:58:05+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Il s’est pris pour un shérif» : à Plouasne, la consternation après la mort d’une femme au cours d’une intervention violente du maire",
+      "desc": "Le 7 avril, Michel Daugan, accompagné d’un conseiller municipal, a brutalement interpellé, hors de tout cadre légal, une femme atteinte de troubles psychiatriques, qui est morte au cours de l’incident. Ses voisins, aujourd’hui sidérés, avaient demandé à l’élu de l’hospitaliser d’office.",
+      "url": "https://www.liberation.fr/societe/il-sest-pris-pour-un-sherif-a-plouasne-la-consternation-apres-la-mort-dune-femme-au-cours-dune-intervention-violente-du-maire-20260418_T2LGNCOYGRC4LD4WVZELMUXNLU/",
+      "image": null,
+      "date": "2026-04-18T10:38:15+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’actrice Nathalie Baye est morte",
+      "desc": "La comédienne aux quatre césars est morte vendredi dans son domicile parisien à 77 ans, ont annoncé ses proches ce samedi 18 avril. Elle souffrait de la maladie à corps de Lewy.",
+      "url": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
+      "image": null,
+      "date": "2026-04-18T10:32:06+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "«Immense actrice», «aimée de tous», «lumineuse»… La mort de Nathalie Baye suscite une vive émotion",
+      "desc": "L’actrice multicésarisée est morte vendredi soir à l’âge de 77 ans, ont annoncé ses proches ce samedi 18 avril. Les hommages saluant ses cinquante ans de carrière, son talent et sa personnalité affluent.",
+      "url": "https://www.liberation.fr/culture/cinema/immense-actrice-aimee-de-tous-lumineuse-la-mort-de-nathalie-baye-suscite-une-vive-emotion-20260418_WQDPAZIKQJEQLMWK4KR5RAAKMA/",
+      "image": null,
+      "date": "2026-04-18T10:13:06+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Pas assez princesse et trop de gauche, la «comtesse rouge» remporte une victoire post-mortem face à «l’héritier du trône de France»",
+      "desc": "Saisie d’un litige funéraire entre descendants du roi Louis-Philippe, la Cour de cassation ouvre la voie au dépôt de l’urne d’Henryane de Chaponay dans la chapelle Saint-Louis de Dreux. Le comte de Paris ne voulait pas de cette lointaine tante altermondialiste parmi les dépouilles royales.",
+      "url": "https://www.liberation.fr/societe/pas-assez-princesse-et-trop-de-gauche-la-comtesse-rouge-remporte-une-victoire-post-mortem-face-a-lheritier-du-trone-de-france-20260418_PJ7LPKZMB5EM3GFDD25SS7IFUU/",
+      "image": null,
+      "date": "2026-04-18T10:13:00+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Quels sont les principaux motifs des arrêts de travail en 2025 ?",
       "desc": "Alors que le gouvernement vient de présenter un plan de réduction de l'absentéisme et des arrêts maladie, le cabinet de conseil Oasys-Diot Siaci et l'IFOP ont demandé à un panel de salariés s'ils avaient été arrêtés l'an dernier, pourquoi et quelles sont leurs conditions de travail ?",
@@ -20,36 +140,6 @@
       "date": "2026-04-18T10:00:05+00:00",
       "date_formatted": "18 April 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«Pragmata», de Lune à l’autre",
-      "desc": "Grisant et frénétique, le dernier né de Capcom superpose, avec un gameplay impeccable, un jeu dans le jeu au cœur d’une lutte à mort contre une IA sur une base lunaire.",
-      "url": "https://www.liberation.fr/culture/jeux-video/pragmata-de-lune-a-lautre-20260418_FLD5EGW4KRDVJGZYEGS75VUG2A/",
-      "image": null,
-      "date": "2026-04-18T08:01:00+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "L’actrice Nathalie Baye est morte, annonce sa famille",
-      "desc": "La comédienne aux quatre césars est morte à 77 ans, ont annoncé ses proches à l’AFP ce samedi 18 avril.",
-      "url": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
-      "image": null,
-      "date": "2026-04-18T07:58:39+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Accident de piscine : la comédienne Nadia Farès est morte à 57 ans",
-      "desc": "Plongée dans le coma depuis une semaine après avoir été remontée inconsciente d’un bassin parisien, l’actrice est morte vendredi 17 avril, ont annoncé ses filles.",
-      "url": "https://www.liberation.fr/culture/cinema/accident-de-piscine-la-comedienne-nadia-fares-est-morte-a-57-ans-20260418_AU2NURA6SFGGJJ45SJAI3OB72M/",
-      "image": null,
-      "date": "2026-04-18T06:41:38+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -121,16 +211,6 @@
       "date_formatted": "17 April 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Une femme enceinte frôle la mort après avoir contacté le SAMU qui ne l'a pas prise en charge",
-      "desc": "Erreur ou manque de moyens du SAMU ? Une femme enceinte a appelé le SAMU qui lui expliqué qu'il ne pouvait pas la prendre en charge. C'est finalement les parents de jeunes qui l'emmènent à l'hôpital où elle se réveillera en réanimation.",
-      "url": "https://www.franceinfo.fr/sante/une-femme-enceinte-frole-la-mort-apres-avoir-contacte-le-samu-qui-ne-l-a-pas-prise-en-charge_7943873.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/_-dXqpLcW1nZZft9xaembCD39d0/162x0:1483x743/432x243/filters:format(jpg)/2026/04/16/69e13ff08a0a6449569063.jpg",
-      "date": "2026-04-16T22:07:49+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
@@ -320,26 +400,6 @@
       "date": "2026-04-14T13:00:00+00:00",
       "date_formatted": "14 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Norvège : « C’était comme gagner deux fois à la loterie »… Une greffe de moelle osseuse le guérit du cancer et du sida",
-      "desc": "Un patient norvégien atteint du VIH et d’un cancer du sang est en rémission après une greffe de moelle osseuse, un cas rare qui relance l’espoir d’un traitement durable contre le virus",
-      "url": "https://www.20minutes.fr/monde/4218253-20260413-norvege-comme-gagner-deux-fois-loterie-greffe-moelle-osseuse-guerit-cancer-sida?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/LdIpQh1LSiCCnOXaMFhZeCk/1200x768_illustration-du-myelome-multiple-le-myelome-multiple-est-un-cancer-des-plasmocytes-un-type-de-globule-blanc-present-dans-la-moelle-osseuse-qui-produit-normalement-des-anticorps-dans-le-cas-du-myelome-multiple-des-plasmocytes-anormaux-s-accumulent-dans-la-moelle-osseuse-et-produisent-des-proteines-anormales-qui-peuvent-endommager-des-organes-notamment-les-reins-elle-provoque-des-symptomes-tels-que-des-douleurs-osseuses-une-anemie-des-infections-frequentes-et-des-problemes-renaux-le-traitement-comprend-l-immunotherapie-la-greffe-de-cellules-souches-et-la-chimiotherapie-photo-de-nemes-laszlo-science-photo-libra-nla-science-photo-library-via-afp",
-      "date": "2026-04-13T20:39:58+00:00",
-      "date_formatted": "13 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La peau artificielle, un objectif encore lointain pour les grands brûlés",
-      "desc": "Cultiver les propres cellules du patient, recourir à un antigène-clé dans la tolérance materno-fœtale ou encore utiliser des cellules souches pluripotentes : plusieurs équipes de recherche tentent de trouver une solution durable et bien tolérée par le système immunitaire.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/13/la-peau-artificielle-un-objectif-encore-lointain-pour-les-grands-brules_6679737_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/10/688/0/8256/4128/644/322/60/0/0482c0e_upload-1-jmdttsigf5e5-021.jpg",
-      "date": "2026-04-13T17:30:02+00:00",
-      "date_formatted": "13 April 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
