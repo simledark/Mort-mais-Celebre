@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-04-18T14:11:41.149659+00:00",
-  "count": 61,
+  "generated_at": "2026-04-18T19:55:24.637143+00:00",
+  "count": 58,
   "articles": [
+    {
+      "title": "Des poissons qui se clonent depuis 100 000 ans !",
+      "desc": "Bill François nous raconte le secret des mollys amazones, ce poisson qui se clone depuis 100 000 ans, une particularité qui défie les lois de la génétique.",
+      "url": "https://www.franceinfo.fr/sciences/des-poissons-qui-se-clonent-depuis-100-000-ans_7945781.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fA2fjA5TMlbmMSs98--v4IXmCJw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/17/69e23796a112a738365401.jpg",
+      "date": "2026-04-18T18:00:02+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Au moins cinq morts dans une fusillade à Kyiv : un suspect abattu",
+      "desc": "Un homme s’était retranché dans un supermarché de la capitale ukrainienne après avoir ouvert le feu ce samedi 18 avril dans le quartier de Demyïvka.",
+      "url": "https://www.liberation.fr/international/europe/ukraine-un-homme-a-ouvert-le-feu-dans-un-quartier-de-kyiv-et-fait-plusieurs-morts-20260418_VSEHGDQYZFCNVKUI6NSMKKJLOU/",
+      "image": null,
+      "date": "2026-04-18T15:39:43+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort de Nathalie Baye : l’art du grand écart d’une star discrète",
+      "desc": "De Truffaut à Tonie Marshall, en passant par Godard, Spielberg, Balasko… La comédienne aux quatre césars, incontournable du cinéma français durant cinq décennies, est morte vendredi chez elle à Paris, à 77 ans. Elle souffrait de la maladie à corps de Lewy.",
+      "url": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
+      "image": null,
+      "date": "2026-04-18T15:21:12+00:00",
+      "date_formatted": "18 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Leslie Cheung, HK confidentiel",
       "desc": "De sabre ou de romance, trois films exhumés et édités en Blu-ray montrent les débuts au cinéma de l’acteur hongkongais adulé, mort en 2003.",
@@ -33,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "Nathalie Baye en dix films",
-      "desc": "L’actrice multirécompensée est morte vendredi 17 avril. De Truffaut à Spielberg, en passant par Godard ou Blier, incontournable du cinéma français des années 80 et 90, elle a su étendre son univers, varier son jeu et ses choix les décennies suivantes. Rétro.",
-      "url": "https://www.liberation.fr/culture/cinema/nathalie-baye-en-dix-films-20260418_NAKEEK65FFBONPZB2Y7UFB6H6U/",
-      "image": null,
-      "date": "2026-04-18T12:21:25+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Mort de Nathalie Baye : qu’est-ce que la maladie à corps de Lewy, ce trouble neurodégénératif dont souffrait l’actrice ?",
       "desc": "Cette maladie, peu connue mais fréquente, provoque notamment des changements d’humeur, des hallucinations et des troubles moteurs.",
       "url": "https://www.lemonde.fr/sciences/article/2026/04/18/mort-de-nathalie-baye-qu-est-ce-que-la-maladie-a-corps-de-lewy-ce-trouble-neurodegeneratif-dont-souffrait-l-actrice_6681141_1650684.html",
@@ -70,56 +90,6 @@
       "date": "2026-04-18T11:02:37+00:00",
       "date_formatted": "18 April 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Faute de plan grand âge, le gouvernement prévoit une conférence nationale de l’autonomie en septembre",
-      "desc": "L’annonce de la ministre déléguée chargée de l’Autonomie et des Personnes handicapées, Camille Galliard-Minier, ce samedi 18 avril, intervient deux mois après le report sine die d’un plan, tandis que les acteurs du secteur réclament une loi.",
-      "url": "https://www.liberation.fr/societe/sante/faute-de-plan-grand-age-le-gouvernement-prevoit-une-conference-nationale-de-lautonomie-en-septembre-20260418_2Z5A6RRVLFAOZBHZE26J2INBUM/",
-      "image": null,
-      "date": "2026-04-18T10:58:05+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Il s’est pris pour un shérif» : à Plouasne, la consternation après la mort d’une femme au cours d’une intervention violente du maire",
-      "desc": "Le 7 avril, Michel Daugan, accompagné d’un conseiller municipal, a brutalement interpellé, hors de tout cadre légal, une femme atteinte de troubles psychiatriques, qui est morte au cours de l’incident. Ses voisins, aujourd’hui sidérés, avaient demandé à l’élu de l’hospitaliser d’office.",
-      "url": "https://www.liberation.fr/societe/il-sest-pris-pour-un-sherif-a-plouasne-la-consternation-apres-la-mort-dune-femme-au-cours-dune-intervention-violente-du-maire-20260418_T2LGNCOYGRC4LD4WVZELMUXNLU/",
-      "image": null,
-      "date": "2026-04-18T10:38:15+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "L’actrice Nathalie Baye est morte",
-      "desc": "La comédienne aux quatre césars est morte vendredi dans son domicile parisien à 77 ans, ont annoncé ses proches ce samedi 18 avril. Elle souffrait de la maladie à corps de Lewy.",
-      "url": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
-      "image": null,
-      "date": "2026-04-18T10:32:06+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Immense actrice», «aimée de tous», «lumineuse»… La mort de Nathalie Baye suscite une vive émotion",
-      "desc": "L’actrice multicésarisée est morte vendredi soir à l’âge de 77 ans, ont annoncé ses proches ce samedi 18 avril. Les hommages saluant ses cinquante ans de carrière, son talent et sa personnalité affluent.",
-      "url": "https://www.liberation.fr/culture/cinema/immense-actrice-aimee-de-tous-lumineuse-la-mort-de-nathalie-baye-suscite-une-vive-emotion-20260418_WQDPAZIKQJEQLMWK4KR5RAAKMA/",
-      "image": null,
-      "date": "2026-04-18T10:13:06+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Pas assez princesse et trop de gauche, la «comtesse rouge» remporte une victoire post-mortem face à «l’héritier du trône de France»",
-      "desc": "Saisie d’un litige funéraire entre descendants du roi Louis-Philippe, la Cour de cassation ouvre la voie au dépôt de l’urne d’Henryane de Chaponay dans la chapelle Saint-Louis de Dreux. Le comte de Paris ne voulait pas de cette lointaine tante altermondialiste parmi les dépouilles royales.",
-      "url": "https://www.liberation.fr/societe/pas-assez-princesse-et-trop-de-gauche-la-comtesse-rouge-remporte-une-victoire-post-mortem-face-a-lheritier-du-trone-de-france-20260418_PJ7LPKZMB5EM3GFDD25SS7IFUU/",
-      "image": null,
-      "date": "2026-04-18T10:13:00+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
