@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T20:09:38.945773+00:00",
-  "count": 55,
+  "generated_at": "2026-04-18T05:51:52.860463+00:00",
+  "count": 52,
   "articles": [
     {
       "title": "Attentat au marché de Noël de Strasbourg : la cour d’appel confirme la peine de 30 ans de prison contre Audrey Mondjehi",
@@ -23,16 +23,6 @@
       "type": "presse"
     },
     {
-      "title": "Accidents du travail : à Bagnols-sur-Cèze, un stagiaire de 15 ans meurt écrasé par un chariot élévateur",
-      "desc": "Une enquête a été ouverte pour déterminer les circonstances de la mort du lycéen, survenue ce vendredi dans le Gard. Ce drame pose à nouveau la question des conditions de sécurité de l’accueil des jeunes en entreprise.",
-      "url": "https://www.liberation.fr/economie/social/accidents-du-travail-a-bagnols-sur-ceze-un-stagiaire-de-15-ans-meurt-ecrase-par-un-chariot-elevateur-20260417_DFIT6ELT2JHNTABE3Z3GSCC4PQ/",
-      "image": null,
-      "date": "2026-04-17T16:58:42+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Espoir majeur dans le cancer du pancréas : un nouveau traitement double la survie des patients à un an",
       "desc": "Un nouveau traitement suscite l'espoir face au cancer du pancréas. Testé en association avec une chimiothérapie, il montre des résultats encourageants dans un essai clinique, avec une amélioration notable sur la survie des patients. Une avancée à confirmer, mais suffisamment solide pour attirer...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-pancreas-espoir-majeur-cancer-pancreas-nouveau-traitement-double-survie-patients-an-133829/#xtor%3DRSS-8",
@@ -41,26 +31,6 @@
       "date_formatted": "17 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort du journaliste Rico Rizzitelli, punk is dead",
-      "desc": "Le correspondant de «Libé» au Chili à l’écriture pop et baroque est mort mercredi à Santiago, à 64 ans. Ami fidèle et intransigeant, le «double R» représentait une époque où la folie était tolérée dans les rédactions et où la débrouille valait plus qu’un diplôme.",
-      "url": "https://www.liberation.fr/societe/mort-du-journaliste-rico-rizzitelli-punk-is-dead-20260417_4WSJS5OVTNFO5GRLKEUUIS5O4M/",
-      "image": null,
-      "date": "2026-04-17T16:05:53+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "L’affaire Robert Boulin pourrait atterrir au pôle cold case",
-      "desc": "La mort du ministre, en 1979, reste une énigme. Le transfert du dossier au pôle national des crimes sériels ou non élucidés satisferait sa famille qui craignait que la justice prononce un non-lieu.",
-      "url": "https://www.liberation.fr/societe/police-justice/laffaire-robert-boulin-pourrait-atterrir-au-pole-cold-case-20260417_ILB7BLUOKJF7HIVKU3MCWBRWVA/",
-      "image": null,
-      "date": "2026-04-17T15:54:42+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "\"13h15 le samedi\". Sally, la joie de vivre jusqu'au bout",
