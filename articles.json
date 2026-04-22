@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-04-21T20:36:37.649613+00:00",
-  "count": 40,
+  "generated_at": "2026-04-22T06:23:33.518431+00:00",
+  "count": 56,
   "articles": [
     {
+      "title": "Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?",
+      "desc": "Entre 2015 et 2024, le risque moyen global d'épidémie de dengue a augmenté de 297% sur le continent, par rapport à la période 1981-2010, rapportent les auteurs du \"Lancet Countdown\".",
+      "url": "https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/sayG_NHQOifhu7wgfd3JohN9tkM/0x53:1024x629/432x243/filters:format(jpg)/2026/04/17/69e2676250da5360955992.jpg",
+      "date": "2026-04-22T06:05:49+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La face cachée de la Fondation Brigitte-Bardot (2/3) : un colossal trésor hors de contrôle",
+      "desc": "«Libération» a enquêté sur les zones d’ombre de la Fondation Brigitte-Bardot, fer de lance de la protection animale, laissée par l’actrice à sa mort, le 28 décembre 2025. Dans le deuxième épisode : comment la gestion opaque et les dérives internes de l’institution, entre patrimoine faramineux, gouve",
+      "url": "https://www.liberation.fr/societe/la-face-cachee-de-la-fondation-brigitte-bardot-23-un-colossal-tresor-hors-de-controle-20260422_C2CMPHJ63JHD3G6KFIXXW7YHDI/",
+      "image": null,
+      "date": "2026-04-22T04:14:00+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Les vagues de chaleur sont le plus lourd fardeau pour la santé des Européens, alerte «The Lancet»",
+      "desc": "Un rapport majeur, publié ce mercredi 22 avril dans la prestigieuse revue, attire l’attention sur la dégradation de la santé des Européens en lien avec le réchauffement climatique. La mortalité due aux canicules connaît notamment une nette augmentation.",
+      "url": "https://www.liberation.fr/environnement/climat/les-vagues-de-chaleur-sont-le-plus-lourd-fardeau-pour-la-sante-des-europeens-alerte-the-lancet-20260422_I5CE3T4AM5EZ7NDTTEBFKCGLNM/",
+      "image": null,
+      "date": "2026-04-21T22:30:00+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Guerre au Moyen-Orient : Trump annonce une prolongation du cessez-le-feu jusqu’à ce que «l’Iran soumette une proposition»",
-      "desc": "La trêve entre les deux belligérants était censée prendre fin cette nuit à 2 heures du matin, heure de Paris, alors que les pourparlers entre Téhéran et Washington sont au point mort.",
+      "desc": "Alors que les pourparlers entre Téhéran et Washington sont au point mort, la trêve était censée prendre fin dans la nuit de mardi à mercredi. Le président américain dit toutefois maintenir le blocus des ports iraniens.",
       "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-en-suspens-20260421_J2FK7NZWNVER7NC52UQGDSQIHI/",
       "image": null,
-      "date": "2026-04-21T20:28:48+00:00",
+      "date": "2026-04-21T20:31:27+00:00",
       "date_formatted": "21 April 2026",
       "source": "Libération",
       "type": "presse"
@@ -30,16 +60,6 @@
       "date": "2026-04-21T18:00:32+00:00",
       "date_formatted": "21 April 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fous de Bassan, puffins des Baléares, guillemots de Troïl… Trois associations attaquent l’Etat français pour manquement à la protection d’oiseaux marins",
-      "desc": "Défense des milieux aquatiques, ClientEarth et Sea Shepherd France ont annoncé ce mardi 21 avril avoir déposé un recours devant le Conseil d’Etat afin d’endiguer la mort «silencieuse» de milliers d’oiseaux marins chaque année dans les eaux françaises, à cause des engins de pêche.",
-      "url": "https://www.liberation.fr/environnement/biodiversite/fous-de-bassan-puffins-des-baleares-guillemots-de-troil-trois-associations-attaquent-letat-francais-pour-manquement-a-la-protection-doiseaux-marins-20260421_J6VAHEZKKVATVISN2TXKZKOB2M/",
-      "image": null,
-      "date": "2026-04-21T16:49:47+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -73,6 +93,16 @@
       "type": "presse"
     },
     {
+      "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
+      "desc": "Entouré de nombreuses idées reçues, le traitement hormonal de la ménopause est aujourd’hui reconnu comme le plus efficace pour soulager ses symptômes. Mais il ne peut pas être proposé à toutes les femmes. L’article Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment",
+      "url": "https://presse.inserm.fr/canal-detox/le-traitement-hormonal-de-la-menopause-augmente-le-risque-de-cancer-du-sein-vraiment/",
+      "image": null,
+      "date": "2026-04-21T08:00:54+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Cancer du pancréas : un candidat-médicament double la survie des patients",
       "desc": "Une molécule innovante a permis à des malades en phase métastatique de voir leur espérance de vie doubler par rapport au groupe traité par la chimiothérapie standard. Du jamais-vu pour ces tumeurs très agressives.",
       "url": "https://www.lemonde.fr/sciences/article/2026/04/21/cancer-du-pancreas-un-candidat-medicament-double-la-survie-des-patients_6681959_1650684.html",
@@ -80,6 +110,16 @@
       "date": "2026-04-21T06:30:03+00:00",
       "date_formatted": "21 April 2026",
       "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
+      "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
+      "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
+      "image": null,
+      "date": "2026-04-21T00:00:17+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
@@ -183,16 +223,6 @@
       "type": "science"
     },
     {
-      "title": "De la mort-aux-rats découverte dans des pots de purée pour bébés en Autriche",
-      "desc": "Cette substance pourrait avoir été introduite dans le cadre d'une tentative d'extorsion, selon l'agence autrichienne de protection des aliments.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/de-la-mort-aux-rats-decouverte-dans-des-pots-de-puree-pour-bebes-en-autriche_7949612.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZTCpJrElXZ48CKdMIxUWungV8Dw/0x207:3988x2451/432x243/filters:format(jpg)/2026/04/19/69e4aa9e5f03a139734157.jpg",
-      "date": "2026-04-19T14:23:57+00:00",
-      "date_formatted": "19 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Mort de Nathalie Baye : Qu’est-ce que la maladie à corps de Lewy, dont est décédée l’actrice ?",
       "desc": "Peu connue, cette maladie dégénérative, aux troubles proches de ceux de Parkinson et d’Alzheimer, toucherait pourtant près de 250.000 personnes en France",
       "url": "https://www.20minutes.fr/sante/4219032-20260418-mort-nathalie-baye-maladie-corps-lewy-dont-decedee-actrice?at_medium=display&at_campaign=149",
@@ -270,6 +300,16 @@
       "date": "2026-04-17T06:00:13+00:00",
       "date_formatted": "17 April 2026",
       "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
+      "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
+      "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
+      "image": null,
+      "date": "2026-04-16T18:00:00+00:00",
+      "date_formatted": "16 April 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
@@ -353,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "VIH : « J’ai eu l’impression de gagner deux fois au loto »… pourquoi son cas sidère les médecins",
-      "desc": "Atteint du VIH puis d’une grave maladie du sang, cet homme pensait suivre un parcours médical classique, entre traitements et rechutes. Mais une décision prise au sein de sa propre famille va entraîner une suite d’événements aussi rares qu’inattendus…",
-      "url": "https://www.futura-sciences.com/sante/actualites/sida-vih-jai-eu-impression-gagner-deux-fois-loto-son-cas-sidere-medecins-133757/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/3/9/e/39e2c77a3e_50253966_hiv-virus.jpg",
-      "date": "2026-04-14T17:08:30+00:00",
-      "date_formatted": "14 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "VIH : un patient en rémission grâce à un coup de chance exceptionnel",
       "desc": "Un patient norvégien infecté par le VIH est en rémission après une greffe de moelle osseuse destinée à traiter un cancer du sang. Son donneur, son propre frère, s’est révélé porteur d’une mutation rare capable de bloquer le virus.",
       "url": "https://www.sciencesetavenir.fr/sante/vih-un-patient-en-remission-grace-a-un-coup-de-chance-exceptionnel_191946?xtor=RSS-16",
@@ -383,6 +413,16 @@
       "type": "presse"
     },
     {
+      "title": "Premiers résultats de l’enquête CSF-2023 dans les Outre-Mer : focus sur la Guyane, la Martinique, la Guadeloupe et La Réunion",
+      "desc": "Le volet Outre-mer de la 3e édition de l’enquête Contexte des sexualités en France (CSF-2023) décrit les pratiques et comportements en matière de sexualité et de santé sexuelle en Guyane, Guadeloupe, Martinique et à La Réunion. Réalisé entre mai 2023 et janvier 2024 à l’initiative de l’Inserm et de ",
+      "url": "https://presse.inserm.fr/premiers-resultats-de-lenquete-csf-2023-dans-les-outre-mer-focus-sur-la-guyane-la-martinique-la-guadeloupe-et-la-reunion-2/72601/",
+      "image": null,
+      "date": "2026-04-14T13:00:00+00:00",
+      "date_formatted": "14 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
       "title": "Un insecticide interdit en France continue à circuler et fait quatre morts",
       "desc": "\"Autrefois utilisé pour combattre les insectes dans les habitations, les entrepôts, les cultures et les élevages\", le dichlorvos, principale substance active biocide du \"Sniper 1000\", est interdit depuis 2013 en France, rappelle l'Anses.",
       "url": "https://www.sciencesetavenir.fr/sante/punaises-de-lit-un-insecticide-interdit-en-france-continue-a-circuler-et-a-fait-quatre-morts_191943?xtor=RSS-16",
@@ -400,6 +440,126 @@
       "date": "2026-04-12T09:00:00+00:00",
       "date_formatted": "12 April 2026",
       "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Les pouvoirs insoupçonnés des cellules de l’intestin sur le microbiote aux premiers stades de la vie",
+      "desc": "Les cellules immunitaires jouent un rôle clé dans la régulation des interactions entre microbiote et intestin, et donc dans le bon fonctionnement de ce dernier. Mais comment cette régulation se déroule-t-elle dans les stades de vie précoce, quand le système immunitaire est encore immature ? Une équi",
+      "url": "https://presse.inserm.fr/les-pouvoirs-insoupconnes-des-cellules-de-lintestin-sur-le-microbiote-aux-premiers-stades-de-la-vie/72504/",
+      "image": null,
+      "date": "2026-04-03T09:21:47+00:00",
+      "date_formatted": "3 April 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "« La tolérance aux maladies » : une nouvelle stratégie de défense activée par les vaccins à ARNm révélée",
+      "desc": "Malgré le déclin progressif des fonctions physiologiques lié à l’âge, l’organisme dispose de mécanismes de protection essentiels. Parmi eux, la « tolérance aux maladies » constitue une stratégie immunitaire encore largement méconnue, qui vise à limiter les dommages provoqués par les agents pathogène",
+      "url": "https://presse.inserm.fr/la-tolerance-aux-maladies-une-nouvelle-strategie-de-defense-activee-par-les-vaccins-a-arnm-revelee/72430/",
+      "image": null,
+      "date": "2026-03-26T16:00:46+00:00",
+      "date_formatted": "26 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Faut-il vraiment « réguler son cortisol » ?",
+      "desc": "Le cortisol est accusé de tous les maux. Pourtant, cette « hormone du stress » joue un rôle essentiel dans l’organisme et ne nécessite pas d’être « régulée » en l’absence de pathologie. L’article Faut-il vraiment « réguler son cortisol » ? est apparu en premier sur Salle de presse de l'Inserm .",
+      "url": "https://presse.inserm.fr/canal-detox/faut-il-vraiment-reguler-son-cortisol/",
+      "image": null,
+      "date": "2026-03-23T07:00:00+00:00",
+      "date_formatted": "23 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Une nouvelle piste thérapeutique contre l’hépatoblastome, principal cancer du foie chez l’enfant",
+      "desc": "Une équipe de l’Institut d’oncologie de Bordeaux (Inserm/université de Bordeaux) a mis au point un protocole associant un inhibiteur chimique d’EZH2, une protéine impliquée dans de nombreux cancers, et des statines (des médicaments anti-cholestérol) dans le but de cibler les cellules tumorales résis",
+      "url": "https://presse.inserm.fr/une-nouvelle-piste-therapeutique-contre-lhepatoblastome-principal-cancer-du-foie-chez-lenfant/72352/",
+      "image": null,
+      "date": "2026-03-19T08:30:45+00:00",
+      "date_formatted": "19 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Remonter le temps : des scientifiques rétablissent certaines propriétés des cellules souches âgées en restaurant leurs « centres de recyclage »",
+      "desc": "Dans une étude collaborative publiée dans Cell Stem Cell et dirigée par Mickaël Ménager (Institut Imagine, Inserm, Université Paris Cité | Paris, France) et Saghi Ghaffari (Icahn School of Medicine at Mount Sinai | New York, USA), des chercheurs ont exploré une piste prometteuse. En ciblant les « ce",
+      "url": "https://presse.inserm.fr/remonter-le-temps-des-scientifiques-retablissent-certaines-proprietes-des-cellules-souches-agees-en-restaurant-leurs-centres-de-recyclage/72303/",
+      "image": null,
+      "date": "2026-03-11T11:35:50+00:00",
+      "date_formatted": "11 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Alzheimer : découverte de l’implication de nouvelles cellules dans l’apparition et la progression de la maladie",
+      "desc": "Les patients atteints de la maladie d’Alzheimer présentent des altérations biologiques communes, notamment une accumulation anormale de la protéine Tau dans le cerveau. Les mécanismes derrière cette anomalie pourraient être sur le point d’être élucidés. Dans une nouvelle étude, une équipe de recherc",
+      "url": "https://presse.inserm.fr/alzheimer-decouverte-de-limplication-de-nouvelles-cellules-dans-lapparition-et-la-progression-de-la-maladie/72092/",
+      "image": null,
+      "date": "2026-03-05T16:00:32+00:00",
+      "date_formatted": "5 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Maladies inflammatoires et chroniques de l’intestin : le rôle anti-inflammatoire d’une bactérie du microbiote intestinal ouvre la voie vers de nouvelles pistes thérapeutiques",
+      "desc": "Une étude impliquant des chercheurs de Sorbonne Université, de l’Inserm, d’INRAE et de l’AP-HP, en collaboration avec la société de biotechnologie Exeliom Biosciences, apporte de nouveaux éléments sur le mode d’action de la bactérie Faecalibacterium prausnitzii. Cette bactérie, au rôle majeur dans l",
+      "url": "https://presse.inserm.fr/maladies-inflammatoires-et-chroniques-de-lintestin-le-role-anti-inflammatoire-dune-bacterie-du-microbiote-intestinal-ouvre-la-voie-vers-de-nouvelles-pistes-therapeutiques/72258/",
+      "image": null,
+      "date": "2026-03-03T09:47:33+00:00",
+      "date_formatted": "3 March 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Quand les apnées du sommeil mettent le métabolisme en décalage horaire",
+      "desc": "Les apnées du sommeil touchent près d’un milliard de personnes dans le monde et provoquent des épisodes répétés de manque d’oxygène pendant la nuit appelés hypoxie intermittente. Une étude menée par des scientifiques de l’Université Grenoble Alpes, de l’Inserm et du CHU Grenoble Alpes montre que ces",
+      "url": "https://presse.inserm.fr/quand-les-apnees-du-sommeil-mettent-le-metabolisme-en-decalage-horaire/72163/",
+      "image": null,
+      "date": "2026-02-25T19:00:07+00:00",
+      "date_formatted": "25 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "À Paris, les arbres atténuent la mortalité liée aux fortes chaleurs",
+      "desc": "À Paris, les arrondissements les plus végétalisés présentent un risque plus faible de décès lors des périodes de forte chaleur, tandis que les zones très minéralisées, avec peu d’espaces verts et un fort potentiel d’îlot de chaleur urbain, sont les plus exposées. Les scientifiques soulignent l’impor",
+      "url": "https://presse.inserm.fr/a-paris-les-arbres-attenuent-la-mortalite-liee-aux-fortes-chaleurs/72101/",
+      "image": null,
+      "date": "2026-02-16T08:30:59+00:00",
+      "date_formatted": "16 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Suivi des maladies chroniques : un patient sur deux serait ouvert à la téléconsultation",
+      "desc": "Les équipes de médecine interne de l’hôpital européen Georges-Pompidou AP-HP, du centre d’épidémiologie clinique de l’hôpital Hôtel-Dieu AP-HP, de l’Université Paris Cité, de l’université Sorbonne Paris-Nord, de l’Inserm, et INRAE (CRESS), en collaboration avec la cohorte ComPaRe et sous la coordina",
+      "url": "https://presse.inserm.fr/suivi-des-maladies-chroniques-un-patient-sur-deux-serait-ouvert-a-la-teleconsultation/72085/",
+      "image": null,
+      "date": "2026-02-11T10:18:52+00:00",
+      "date_formatted": "11 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Diabète–hypertension : la génétique identifie les personnes à haut risque et ouvre la voie à une prévention personnalisée",
+      "desc": "L’hypertension artérielle et le diabète sont souvent associés, augmentant fortement le risque d’AVC et d’atteinte rénale grave. Des chercheurs de Surrey (Royaume Uni) et de Lille au sein de l’unité « Multi-omique et physiopathologie des maladies métaboliques (Inserm/CNRS/Université de Lille/ CHU de ",
+      "url": "https://presse.inserm.fr/diabete-hypertension-la-genetique-identifie-les-personnes-a-haut-risque-et-ouvre-la-voie-a-une-prevention-personnalisee/72080/",
+      "image": null,
+      "date": "2026-02-10T14:43:21+00:00",
+      "date_formatted": "10 February 2026",
+      "source": "Inserm",
+      "type": "science"
+    },
+    {
+      "title": "Remodeler l’architecture de l’os du crâne pour renforcer les défenses immunitaires du cerveau",
+      "desc": "En cas de neuro-inflammation, le cerveau dispose d’une voie rapide de défense : de minuscules canaux osseux permettent aux cellules immunitaires de passer directement de l’os crânien aux méninges. Une étude récente de l’Inserm, du CNRS et d’Aix-Marseille Université, révèle que ces canaux se forment ",
+      "url": "https://presse.inserm.fr/remodeler-larchitecture-de-los-du-crane-pour-renforcer-les-defenses-immunitaires-du-cerveau/71989/",
+      "image": null,
+      "date": "2026-02-09T08:30:40+00:00",
+      "date_formatted": "9 February 2026",
+      "source": "Inserm",
       "type": "science"
     }
   ]
