@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-04-22T06:23:33.518431+00:00",
-  "count": 56,
+  "generated_at": "2026-04-22T15:58:17.452547+00:00",
+  "count": 55,
   "articles": [
+    {
+      "title": "\"Les Britanniques nous ouvrent la voie !\" : les associations françaises espèrent un sursaut, après l'adoption d'une loi \"génération sans tabac\" au Royaume-Uni",
+      "desc": "Le Royaume-Uni a adopté lundi une loi interdisant la vente de cigarettes aux personnes nées après 2008. En France, en 2023, le tabagisme a entraîné 68 000 décès, et plusieurs acteurs de la prévention défendent une proposition de loi pour une \"génération sans tabac\".",
+      "url": "https://www.franceinfo.fr/sante/drogue-addictions/lutte-contre-le-tabagisme/les-britanniques-nous-ouvrent-la-voie-les-associations-francaises-esperent-un-sursaut-apres-l-adoption-d-une-loi-generation-sans-tabac-au-royaume-uni_7956389.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/7wyF-htaIl7vorvPl87QW88Qyhg/0x109:2100x1291/432x243/filters:format(jpg)/2026/04/22/69e89e63dd242050162901.jpg",
+      "date": "2026-04-22T17:06:08+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Sud-Liban : un deuxième soldat français des Casques bleus est mort des suites de ses blessures",
+      "desc": "Le caporal-chef Anicet Girardin servait dans les rangs de la Force intérimaire des Nations unies au Liban (Finul) lorsqu’il a été pris pour cible samedi «par des combattants du Hezbollah», a déclaré Emmanuel Macron.",
+      "url": "https://www.liberation.fr/international/moyen-orient/liban-un-2e-soldat-francais-des-casques-bleus-est-mort-des-suites-de-ses-blessures-20260422_5KLYJ5IFBBFMJAYLH5PSJQSMK4/",
+      "image": null,
+      "date": "2026-04-22T14:09:25+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "On croyait connaître le vrai danger du sel : cette étude en révèle un autre, plus insidieux",
+      "desc": "Réduire le sel reste une recommandation de base en santé. Mais une nouvelle étude suggère que l’enjeu dépasse largement la tension artérielle. En stimulant certains signaux inflammatoires, le sel pourrait accélérer le vieillissement des vaisseaux sanguins et fragiliser leur fonctionnement sur le...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-on-croyait-connaitre-vrai-danger-sel-cette-etude-revele-autre-plus-insidieux-133920/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/8/e/a8edeac1ad_50254224_exces-sel.jpg",
+      "date": "2026-04-22T13:17:20+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Pourquoi certains insectes étaient-ils gigantesques il y a 300 millions d’années ? L’hypothèse de la teneur en oxygène s’envole",
+      "desc": "L’atmosphère riche en oxygène de la période du carbonifère peut-elle expliquer les dimensions impressionnantes de certains insectes fossiles ? Dans sa Carte blanche au « Monde », Alice Lebreton évoque l’étude menée par des chercheurs de l’université de Pretoria pour en avoir le cœur net.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/22/pourquoi-certains-insectes-etaient-ils-gigantesques-il-y-a-300-millions-d-annees-l-hypothese-de-la-teneur-en-oxygene-s-envole_6682385_1650684.html",
+      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
+      "date": "2026-04-22T12:30:10+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Maladies, rats… Travailler dans un centre de tri des déchets comporte de multiples risques",
+      "desc": "Les salariés des centres de tri des déchets ménagers sont exposés à de multiples risques pour leur santé, selon un rapport de l’Agence de sécurité sanitaire",
+      "url": "https://www.20minutes.fr/societe/4219681-20260422-maladies-rats-travailler-centre-tri-dechets-comporte-multiples-risques?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/lyGKq2vwSJiKukFUo_ebiSk/1200x768_strasbourg-le-9-octobre-2015-centre-de-tri-altem-alsacienne-de-tri-d-emballages-menagers",
+      "date": "2026-04-22T08:34:34+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Bouches-du-Rhône : Une épidémie de gastro frappe la ville de Rousset, la piste d’une contamination de l’eau privilégiée",
+      "desc": "Selon les investigations de l’ARS et de Santé publique France Paca-Corse, 750 personnes ont été victimes de la maladie",
+      "url": "https://www.20minutes.fr/sante/4219656-20260422-bouches-rhone-epidemie-gastro-frappe-ville-rousset-piste-contamination-eau-privilegiee?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/gF0FE2JvR1mVgiD7y7SqZSk/1200x768_un-robinet-qui-coule-540217484-frank-hoerman-sven-simon-dpa-sipa-2508061729",
+      "date": "2026-04-22T07:59:41+00:00",
+      "date_formatted": "22 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?",
       "desc": "Entre 2015 et 2024, le risque moyen global d'épidémie de dengue a augmenté de 297% sur le continent, par rapport à la période 1981-2010, rapportent les auteurs du \"Lancet Countdown\".",
@@ -10,36 +70,6 @@
       "date": "2026-04-22T06:05:49+00:00",
       "date_formatted": "22 April 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "La face cachée de la Fondation Brigitte-Bardot (2/3) : un colossal trésor hors de contrôle",
-      "desc": "«Libération» a enquêté sur les zones d’ombre de la Fondation Brigitte-Bardot, fer de lance de la protection animale, laissée par l’actrice à sa mort, le 28 décembre 2025. Dans le deuxième épisode : comment la gestion opaque et les dérives internes de l’institution, entre patrimoine faramineux, gouve",
-      "url": "https://www.liberation.fr/societe/la-face-cachee-de-la-fondation-brigitte-bardot-23-un-colossal-tresor-hors-de-controle-20260422_C2CMPHJ63JHD3G6KFIXXW7YHDI/",
-      "image": null,
-      "date": "2026-04-22T04:14:00+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Les vagues de chaleur sont le plus lourd fardeau pour la santé des Européens, alerte «The Lancet»",
-      "desc": "Un rapport majeur, publié ce mercredi 22 avril dans la prestigieuse revue, attire l’attention sur la dégradation de la santé des Européens en lien avec le réchauffement climatique. La mortalité due aux canicules connaît notamment une nette augmentation.",
-      "url": "https://www.liberation.fr/environnement/climat/les-vagues-de-chaleur-sont-le-plus-lourd-fardeau-pour-la-sante-des-europeens-alerte-the-lancet-20260422_I5CE3T4AM5EZ7NDTTEBFKCGLNM/",
-      "image": null,
-      "date": "2026-04-21T22:30:00+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Trump annonce une prolongation du cessez-le-feu jusqu’à ce que «l’Iran soumette une proposition»",
-      "desc": "Alors que les pourparlers entre Téhéran et Washington sont au point mort, la trêve était censée prendre fin dans la nuit de mardi à mercredi. Le président américain dit toutefois maintenir le blocus des ports iraniens.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-en-suspens-20260421_J2FK7NZWNVER7NC52UQGDSQIHI/",
-      "image": null,
-      "date": "2026-04-21T20:31:27+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -203,16 +233,6 @@
       "type": "science"
     },
     {
-      "title": "C’est inédit : un virus venu des océans est passé chez l’être humain",
-      "desc": "Dans une étude publiée fin mars 2026 dans la revue Nature Microbiology, des chercheurs chinois ont établi un lien inédit entre un virus identifié notamment chez les crevettes, les poissons et d’autres animaux marins, et une grave maladie de l’œil chez les humains, invitant à reconsidérer les risques",
-      "url": "https://www.franceinfo.fr/sciences/c-est-inedit-un-virus-venu-des-oceans-est-passe-chez-l-etre-humain_7945748.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/TNVmfWkN0aNCUFmlI3vdFbRXSZY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/17/69e22ff3d8ac0093116449.jpg",
-      "date": "2026-04-20T06:00:03+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Vous mangez du fromage ? Cette étude révèle un effet inattendu sur le cerveau",
       "desc": "Et si un simple morceau de fromage pouvait protéger votre cerveau ? Une étude japonaise publiée en octobre 2025 dans la revue Nutrients a mis en évidence une association surprenante. Les personnes âgées consommant du fromage chaque semaine présentaient un risque de démence réduit de 24 %.",
       "url": "https://www.futura-sciences.com/sante/actualites/demence-vous-mangez-fromage-cette-etude-revele-effet-inattendu-cerveau-k2m6-133581/#xtor%3DRSS-8",
@@ -293,16 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Une activité physique intense, même de courte durée, réduit le risque de développer huit maladies chroniques",
-      "desc": "« Dix mille pas et plus ». Une étude menée à partir de la cohorte britannique UK Biobank montre que la diminution du risque varie de 29 % à 63 % selon les pathologies, avec une baisse de 46 % pour la mortalité globale.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/17/meme-de-courte-duree-une-activite-intense-reduit-le-risque-de-developper-huit-maladies-chroniques_6680805_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/14/250/0/3600/1800/644/322/60/0/5d8ad0c_upload-1-fxt6pi0a0lir-063-1168515862.jpg",
-      "date": "2026-04-17T06:00:13+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
       "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
       "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
@@ -379,16 +389,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/6/e/66e0680872_50253991_alzheimer-vitamine-d.jpg",
       "date": "2026-04-15T12:29:13+00:00",
       "date_formatted": "15 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Pourquoi les lunettes de soleil sont indispensables dès le plus jeune âge",
-      "desc": "Avec l’arrivée des beaux jours, les adultes ont le réflexe de mettre des lunettes de soleil, mais pas forcément pour leurs enfants. Or, « si vous avez besoin de les porter en cas de lumière vive, l’enfant en a besoin deux fois plus », souligne Philippe Roncalli, opticien Optikid, le premier...",
-      "url": "https://www.futura-sciences.com/sante/actualites/yeux-lunettes-soleil-sont-indispensables-plus-jeune-age-133733/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/1/a/b1aa80e8d3_50253888_optikid-lunettes-soleil-enfants.jpg",
-      "date": "2026-04-14T20:00:00+00:00",
-      "date_formatted": "14 April 2026",
       "source": "Futura Santé",
       "type": "science"
     },
@@ -549,16 +549,6 @@
       "image": null,
       "date": "2026-02-10T14:43:21+00:00",
       "date_formatted": "10 February 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Remodeler l’architecture de l’os du crâne pour renforcer les défenses immunitaires du cerveau",
-      "desc": "En cas de neuro-inflammation, le cerveau dispose d’une voie rapide de défense : de minuscules canaux osseux permettent aux cellules immunitaires de passer directement de l’os crânien aux méninges. Une étude récente de l’Inserm, du CNRS et d’Aix-Marseille Université, révèle que ces canaux se forment ",
-      "url": "https://presse.inserm.fr/remodeler-larchitecture-de-los-du-crane-pour-renforcer-les-defenses-immunitaires-du-cerveau/71989/",
-      "image": null,
-      "date": "2026-02-09T08:30:40+00:00",
-      "date_formatted": "9 February 2026",
       "source": "Inserm",
       "type": "science"
     }
