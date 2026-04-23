@@ -1,25 +1,105 @@
 {
-  "generated_at": "2026-04-23T06:28:04.567514+00:00",
-  "count": 57,
+  "generated_at": "2026-04-23T17:03:47.822453+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "Faut-il craindre un nouvelle pandémie de Covid dans les prochaines années ? Un nouveau type de coronavirus capable d'infecter l'humain a été identifié",
-      "desc": "C'est au Kenya que ce nouveau type de coronavirus a été repéré. \"Pour le moment, il n'y a pas eu de transmission à l'homme\", déclare Stephen Graham, professeur de virologie à l'université de Cambridge, qui appelle quand même à la prudence.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/faut-il-craindre-un-nouvelle-pandemie-de-covid-dans-les-prochaines-annees-un-nouveau-type-de-coronavirus-capable-d-infecter-l-humain-a-ete-identifie_7957187.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/1v1b4kuu1qUqBfPVCQQAe04WTHw/0x0:2108x1185/432x243/filters:format(jpg)/2026/04/22/69e8f2f91a8ae532061711.jpg",
-      "date": "2026-04-23T08:00:01+00:00",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël attend le feu vert de Trump pour «ramener l’Iran à l’âge de pierre», assure un ministre de Nétanyahou",
+      "desc": "Beyrouth et l’Etat hébreu doivent se retrouver à Washington en fin de journée pour des pourparlers, au lendemain d’une frappe meurtrière de Tsahal à l’encontre de deux journalistes libanaises.",
+      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-donne-pas-de-date-limite-a-liran-pour-negocier-20260423_XO4SM6IJANFTXF4E6I7JJXXCDU/",
+      "image": null,
+      "date": "2026-04-23T16:59:04+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L’application européenne de vérification d’âge est-elle vraiment «anonyme» et sécurisée comme l’affirme Bruxelles ?",
+      "desc": "La Commission européenne a présenté la semaine dernière son outil pour attester l’âge des utilisateurs, censée respecter «les normes de confidentialité les plus élevées au monde». Mais des chercheurs ont déjà identifié certains problèmes de sécurité, l’obligeant à publier une mise à jour.",
+      "url": "https://www.liberation.fr/checknews/lapplication-europeenne-de-verification-dage-est-elle-vraiment-anonyme-et-securisee-comme-laffirme-bruxelles-20260423_CT2WZ7NSJ5GXZLF6SVS7EKHTWI/",
+      "image": null,
+      "date": "2026-04-23T16:14:45+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Succession de Patrick Buisson : son fils, s’estimant déshérité, porte plainte",
+      "desc": "L’ancien conseiller de Nicolas Sarkozy, mort fin 2023, a désigné une congrégation catholique traditionaliste basée en Mayenne, légataire universelle. Son unique descendant Georges, a déposé deux plaintes pour escroquerie et chantage.",
+      "url": "https://www.liberation.fr/politique/succession-de-patrick-buisson-son-fils-sestimant-desherite-porte-plainte-20260423_TSV4WWCEHJBIBHJZ6TGTQC3TCM/",
+      "image": null,
+      "date": "2026-04-23T15:50:03+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Emanuele Coccia : « L’amour n’est pas mort, c’est une force qui permet de refaçonner le monde»",
+      "desc": "Dans son «Traité de l’amour moderne», le philosophe débarrasse Eros de ses oripeaux égoïstes et romantiques pour en faire le carburant du monde, puissance créatrice et collective qui transforme la vie en société. De la famille à l’entreprise.",
+      "url": "https://www.liberation.fr/idees-et-debats/emanuele-coccia-lamour-nest-pas-mort-cest-une-force-qui-permet-de-refaconner-le-monde-20260423_IEOT42WCAJCF3C5DPHZYJZ2IEE/",
+      "image": null,
+      "date": "2026-04-23T15:42:08+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer : des chercheurs ont mis au point un piège qui se referme sur la tumeur au moment où elle résiste",
+      "desc": "Des chercheurs américains ont mis au point une stratégie expérimentale qui pousse les tumeurs à évoluer dans une direction précise, pour ensuite les frapper au moment où elles deviennent vulnérables.",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-lutte-cancer-nouvelle-methode-permet-retourner-capacites-adaptation-tumeurs-elles-133937/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/a/8/ea882e0b11_50254299_piege-tumeurs.jpg",
+      "date": "2026-04-23T15:18:44+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "A Toulon, France Travail se met en ordre de bataille pour recruter dans la défense",
+      "desc": "Ce jeudi 23 avril, le ministre du Travail a profité de la 3e édition du «Toulon Défense Event» dans le Var pour rappeler que 100 000 personnes doivent être recrutées d’ici 2030 dans les métiers de l’armée. Il était accompagné de la générale à la tête d’une nouvelle cellule chargée de faire le lien e",
+      "url": "https://www.liberation.fr/economie/social/a-toulon-france-travail-se-met-en-ordre-de-bataille-pour-recruter-dans-la-defense-20260423_7ND6LW25L5FQPFO2N74UOKHMKM/",
+      "image": null,
+      "date": "2026-04-23T14:58:29+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Protoxyde d’azote : Yannick Alléno attaque deux fabricants",
+      "desc": "Présentées comme du matériel pour boissons et cocktails, les bonbonnes de protoxyde d'azote sont aujourd'hui dans le viseur de Yannick Alléno. Le chef étoilé accuse le principal fabriquant de cibler les jeunes avec des formats géants, des parfums accrocheurs et un marketing festif. on fils a été mor",
+      "url": "https://www.franceinfo.fr/sante/protoxyde-d-azote-yannick-alleno-attaque-deux-fabricants_7959047.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/S87YePOMnYHGfXNEfgq-gaziaLk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/23/69e9dc98402fb444406123.jpg",
+      "date": "2026-04-23T12:00:02+00:00",
       "date_formatted": "23 April 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "A Montauban, un hommage rendu à Florian Montorio, casque bleu tué au Liban",
-      "desc": "La ministre des Armées, Catherine Vautrin, présidera la cérémonie. Mercredi 22 avril, Emmanuel Macron a informé qu’un deuxième soldat français, blessé au Liban dans une attaque attribuée au Hezbollah, était mort.",
-      "url": "https://www.liberation.fr/international/moyen-orient/a-montauban-un-hommage-rendu-a-florian-montorio-casque-bleu-tue-au-liban-20260423_SJOGVG5HG5GR3CL4KBFKFD3F6I/",
-      "image": null,
-      "date": "2026-04-23T06:22:14+00:00",
+      "title": "Le chimiste Raphaël Rodriguez et la biologiste Gaëlle Legube lauréats des prix de la Fondation ARC pour la recherche sur le cancer",
+      "desc": "Les travaux des deux lauréats ont permis de faire des avancées significatives dans la lutte contre le cancer.",
+      "url": "https://www.franceinfo.fr/sante/cancer/le-chimiste-raphael-rodriguez-et-la-biologiste-gaelle-legube-laureats-des-prix-de-la-fondation-arc-pour-la-recherche-sur-le-cancer_7958954.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/5tCwvBhkbwSOUvwkWXF5lDRD_mo/6x0:991x554/432x243/filters:format(jpg)/2026/04/23/69e9d58c9f9f0933976758.png",
+      "date": "2026-04-23T10:26:10+00:00",
       "date_formatted": "23 April 2026",
-      "source": "Libération",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
+      "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
+      "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69e9dfc59130c-pancreas.jpg",
+      "date": "2026-04-23T09:09:27+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Faut-il craindre une nouvelle pandémie de Covid après la découverte d’un coronavirus capable d’infecter l’humain ?",
+      "desc": "C'est au Kenya que ce nouveau type de coronavirus a été repéré. \"Pour le moment, il n'y a pas eu de transmission à l'homme\", déclare Stephen Graham, professeur de virologie à l'université de Cambridge, qui appelle quand même à la prudence.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/faut-il-craindre-un-nouvelle-pandemie-de-covid-dans-les-prochaines-annees-un-nouveau-type-de-coronavirus-capable-d-infecter-l-humain-a-ete-identifie_7957187.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1v1b4kuu1qUqBfPVCQQAe04WTHw/0x0:2108x1185/432x243/filters:format(jpg)/2026/04/22/69e8f2f91a8ae532061711.jpg",
+      "date": "2026-04-23T08:46:00+00:00",
+      "date_formatted": "23 April 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -113,26 +193,6 @@
       "type": "presse"
     },
     {
-      "title": "Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?",
-      "desc": "Entre 2015 et 2024, le risque moyen global d'épidémie de dengue a augmenté de 297% sur le continent, par rapport à la période 1981-2010, rapportent les auteurs du \"Lancet Countdown\".",
-      "url": "https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/sayG_NHQOifhu7wgfd3JohN9tkM/0x53:1024x629/432x243/filters:format(jpg)/2026/04/17/69e2676250da5360955992.jpg",
-      "date": "2026-04-22T06:05:49+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le médicament Qalsody, traitement contre une forme rare de la maladie de Charcot, désormais éligible au remboursement en France",
-      "desc": "L'intérêt potentiel du traitement, jugé pour l'heure \"faible\", devra toutefois être confirmé, souligne la Haute Autorité de santé.",
-      "url": "https://www.franceinfo.fr/sante/maladie-de-charcot-le-traitement-qalsody-desormais-eligible-au-remboursement-en-france_7954067.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/z2LjKKArFkYg-p-rrPUnD5bD8ds/0x30:5616x3189/432x243/filters:format(jpg)/2026/04/21/69e7af9630e4d465297628.jpg",
-      "date": "2026-04-21T19:27:32+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Maladie de Charcot : Après un revirement, un traitement devient éligible au remboursement en France",
       "desc": "La Haute Autorité de santé a opéré un revirement concernant un traitement d’une forme rare de la maladie de Charcot, tout en lui reconnaissant un intérêt limité. Sa décision « ouvre la voie à un possible remboursement »",
       "url": "https://www.20minutes.fr/sante/4219594-20260421-maladie-charcot-apres-revirement-traitement-devient-eligible-remboursement-france?at_medium=display&at_campaign=149",
@@ -140,16 +200,6 @@
       "date": "2026-04-21T18:00:32+00:00",
       "date_formatted": "21 April 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort-aux-rats, petits pots et grosse panique : on vous raconte l'affaire des purées pour bébés contaminées de la marque Hipp",
-      "desc": "De la mort-aux-rats a été découverte dans de la nourriture pour bébé en Autriche, en République tchèque et en Slovaquie. Selon les enquêteurs, la marque allemande pourrait être victime d'une tentative d'extorsion.",
-      "url": "https://www.franceinfo.fr/sante/mort-aux-rats-petits-pots-et-grosse-panique-on-vous-raconte-l-affaire-des-purees-pour-bebes-contaminees-de-la-marque-hipp_7953602.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/pECQmTOGX3ZYi055H32MzPEACPQ/0x300:5777x3550/432x243/filters:format(jpg)/2026/04/21/69e7688444006166202071.jpg",
-      "date": "2026-04-21T16:44:08+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -161,16 +211,6 @@
       "date_formatted": "21 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "\"On se lave beaucoup plus les mains\" : 700 malades et des analyses en cours, une épidémie foudroyante de gastro-entérite touche la commune de Rousset dans les Bouches-du-Rhône",
-      "desc": "Une épidémie fulgurante touche la commune de Rousset, près de Marseille (Bouches-du-Rhône). Près de 700 habitants ont été frappés en quelques jours par les symptômes de la gastro-entérite. En cause, l'eau du robinet et son système de filtration.",
-      "url": "https://www.franceinfo.fr/sante/on-se-lave-beaucoup-plus-les-mains-700-malades-et-des-analyses-en-cours-une-epidemie-foudroyante-de-gastro-enterite-touche-la-commune-de-rousset-dans-les-bouches-du-rhone_7953590.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/420t1tcE1iYYdp2sU19_JvxK2Fo/0x2:1389x784/432x243/filters:format(jpg)/2026/04/21/69e7613161dcd423986021.jpg",
-      "date": "2026-04-21T13:36:33+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Le traitement hormonal de la ménopause augmente le risque de cancer du sein, vraiment ?",
@@ -293,16 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Mort de Nathalie Baye : qu’est-ce que la maladie à corps de Lewy, ce trouble neurodégénératif dont souffrait l’actrice ?",
-      "desc": "Cette maladie, peu connue mais fréquente, provoque notamment des changements d’humeur, des hallucinations et des troubles moteurs.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/18/mort-de-nathalie-baye-qu-est-ce-que-la-maladie-a-corps-de-lewy-ce-trouble-neurodegeneratif-dont-souffrait-l-actrice_6681141_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/18/123/0/700/350/644/322/60/0/7336608_upload-1-sh2xsw8rn6rc-lewy-body-stock-image-700x550.jpg",
-      "date": "2026-04-18T12:13:15+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Peut-on être licencié en étant en arrêt maladie ? Ce qu’il faut savoir",
       "desc": "Arrêt maladie rime souvent avec protection. Mais dans certains cas bien précis, le licenciement reste possible. Une nuance essentielle à connaître",
       "url": "https://www.20minutes.fr/vie-pro/4219009-20260418-peut-etre-licencie-arret-maladie-faut-savoir?at_medium=display&at_campaign=149",
@@ -363,16 +393,6 @@
       "type": "science"
     },
     {
-      "title": "Démence : ces 3 habitudes très simples pourraient aider à protéger votre cerveau, selon une vaste étude",
-      "desc": "Trois gestes du quotidien, souvent négligés, pourraient pourtant peser lourd dans la balance face à la démence selon une méta-analyse récente. Des résultats qui renforcent l’idée qu’une partie de la prévention se joue bien avant les premiers symptômes.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-demence-ces-3-habitudes-tres-simple-pourraient-aider-proteger-votre-cerveau-selon-vaste-etude-133799/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/5/f/75fc958286_50254037_3-activite-physique.jpg",
-      "date": "2026-04-16T17:03:43+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Cancer de l'ovaire : deux traitements enregistrent de bons résultats",
       "desc": "Deux traitements permettent de légèrement améliorer la survie de patientes atteintes de cancers de l'ovaire qui sont devenus résistants à la thérapie habituelle, montrent des études publiées dans la revue médicale The Lancet.",
       "url": "https://www.sciencesetavenir.fr/sante/cancer/cancer-de-l-ovaire-deux-traitements-enregistrent-de-bons-resultats-face-a-une-forme-resistante_191938?xtor=RSS-16",
@@ -393,42 +413,12 @@
       "type": "presse"
     },
     {
-      "title": "Au Sénégal, l’homophobie d’Etat met en péril la lutte contre le sida",
-      "desc": "Après l’adoption mi-mars de la loi punissant plus sévèrement les relations entre personnes de même sexe, le combat contre le VIH marque le pas. Au grand dam des organisations sanitaires et humanitaires luttant contre le virus.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/04/15/au-senegal-l-homophobie-d-etat-met-en-peril-la-lutte-contre-le-sida_6680284_3212.html",
-      "image": "https://img.lemde.fr/2026/04/15/0/0/6000/3000/644/322/60/0/88e6fa8_upload-1-akxmq4i66klx-2026-02-14t202235z-840452778-rc2tlja64fua-rtrmadp-3-senegal-lgbt-protest.JPG",
-      "date": "2026-04-15T15:00:05+00:00",
-      "date_formatted": "15 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Faux arrêts-maladie : un homme mis en examen pour avoir vendu plus de 44 000 certificats sur Internet",
-      "desc": "Les investigations ont établi que « des arrêts de travail étaient générés systématiquement par la plateforme, pour la somme de 21 euros », selon le parquet de Paris. L’homme de 25 ans a été mis en examen au début d’avril à Paris, notamment pour exercice illégal de la médecine.",
-      "url": "https://www.lemonde.fr/societe/article/2026/04/15/faux-arrets-maladie-un-homme-mis-en-examen-pour-avoir-vendu-plus-de-44-000-certificats-sur-internet_6680276_3224.html",
-      "image": "https://img.lemde.fr/2026/04/15/242/0/7488/3744/644/322/60/0/4af452a_upload-1-t6cp0vzfz49a-000-a74k7tl.jpg",
-      "date": "2026-04-15T13:28:41+00:00",
-      "date_formatted": "15 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "L'essor de l'obésité éclipse les progrès en santé publique depuis 2010, selon un rapport de l'OCDE",
       "desc": "Malgré des avancées contre le tabagisme, la pollution ou l’alcool, les maladies chroniques continuent d’augmenter dans les pays de l’OCDE. En cause : la progression rapide de l’obésité, qui annule une grande partie des bénéfices sanitaires.",
       "url": "https://www.sciencesetavenir.fr/sante/l-essor-de-l-obesite-eclipse-les-progres-en-sante-publique-depuis-2010-selon-un-rapport-de-l-ocde_191967?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/15/cover-r4x3w1200-69df9b8ac4a5a-ff1ec4a979906d510b40addadf8ae399df45e75c-jpg.jpg",
       "date": "2026-04-15T13:19:50+00:00",
       "date_formatted": "15 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "VIH : un patient en rémission grâce à un coup de chance exceptionnel",
-      "desc": "Un patient norvégien infecté par le VIH est en rémission après une greffe de moelle osseuse destinée à traiter un cancer du sang. Son donneur, son propre frère, s’est révélé porteur d’une mutation rare capable de bloquer le virus.",
-      "url": "https://www.sciencesetavenir.fr/sante/vih-un-patient-en-remission-grace-a-un-coup-de-chance-exceptionnel_191946?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/13/cover-r4x3w1200-69dd4965443c3-8a59b84d9e874abac18fd9ed32f8c200fcda0e74-jpg.jpg",
-      "date": "2026-04-14T15:05:43+00:00",
-      "date_formatted": "14 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
@@ -440,26 +430,6 @@
       "date": "2026-04-14T13:00:00+00:00",
       "date_formatted": "14 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Un insecticide interdit en France continue à circuler et fait quatre morts",
-      "desc": "\"Autrefois utilisé pour combattre les insectes dans les habitations, les entrepôts, les cultures et les élevages\", le dichlorvos, principale substance active biocide du \"Sniper 1000\", est interdit depuis 2013 en France, rappelle l'Anses.",
-      "url": "https://www.sciencesetavenir.fr/sante/punaises-de-lit-un-insecticide-interdit-en-france-continue-a-circuler-et-a-fait-quatre-morts_191943?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/13/cover-r4x3w1200-69dcd5610d054-0bbdabc830f1fc64e84f41be2e5d186ecb427bcd-jpg.jpg",
-      "date": "2026-04-13T12:28:49+00:00",
-      "date_formatted": "13 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le daltonisme aggrave le pronostic du cancer de la vessie",
-      "desc": "Les patients daltoniens atteints d'un cancer de la vessie présentent un risque de mortalité largement supérieur aux autres, met en évidence une étude.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/le-daltonisme-aggrave-le-pronostic-du-cancer-de-la-vessie_191610?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/03/26/cover-r4x3w1200-69c4f45f06ca4-afp-20260325-f0464962-v1-highres-ishiharacolourblindnesstestillustration.jpg",
-      "date": "2026-04-12T09:00:00+00:00",
-      "date_formatted": "12 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
