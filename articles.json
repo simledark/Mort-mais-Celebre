@@ -1,33 +1,53 @@
 {
-  "generated_at": "2026-04-24T15:54:08.812283+00:00",
-  "count": 56,
+  "generated_at": "2026-04-24T20:06:24.466126+00:00",
+  "count": 55,
   "articles": [
     {
-      "title": "Mort de Michael Tilson-Thomas, le plus grand chef d’orchestre de sa génération",
-      "desc": "Immense chef d’orchestre américain, également compositeur et pianiste, a succombé, le 22 avril, à une tumeur au cerveau à l’âge de 81 ans.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-michael-tilson-thomas-le-plus-grand-chef-dorchestre-de-sa-generation-20260424_DL4VKLGRZRALJPTLOD5SX7QLEY/",
+      "title": "Les coupes dans l'aide américaine menacent des \"dizaines de milliers de vies d'enfants\" face au paludisme",
+      "desc": "Cette maladie cause chaque année quelque 600 000 décès, principalement des enfants, en Afrique.",
+      "url": "https://www.franceinfo.fr/monde/afrique/les-coupes-dans-l-aide-americaine-menacent-des-dizaines-de-milliers-de-vies-d-enfants-face-au-paludisme_7962104.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/x5RU0HE-hVhBPBz9E6am_FgEgUQ/0x215:2990x1897/432x243/filters:format(jpg)/2026/04/24/69ebb0779fcd3313840356.jpg",
+      "date": "2026-04-24T20:20:09+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Incendie de Crans-Montana : l’Italie affirme qu’elle ne paiera pas les factures d’hôpital de ses citoyens",
+      "desc": "L’incendie du bar Le Constellation à Crans-Montana dans la nuit du Nouvel an 2026 a fait 41 morts, dont six Italiens, et 115 blessés.",
+      "url": "https://www.liberation.fr/international/europe/incendie-de-crans-montana-litalie-affirme-quelle-ne-paiera-pas-les-factures-dhopital-de-ses-citoyens-20260424_HG7OIE5OABEFXG7PW6STYI7CI4/",
       "image": null,
-      "date": "2026-04-24T15:31:39+00:00",
+      "date": "2026-04-24T20:04:57+00:00",
       "date_formatted": "24 April 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Madame de Sévigné : sans mari dans le Marais",
-      "desc": "Dans l’hôtel où elle vécut, au musée Carnavalet, une exposition est consacrée à la grande épistolière, veuve et donc libre à 25 ans, pour le quadricentenaire de sa naissance. Un accrochage qui s’appuie sur le renouvellement de l’historiographie des femmes au XVIIe siècle.",
-      "url": "https://www.liberation.fr/culture/livres/madame-de-sevigne-sans-mari-dans-le-marais-20260424_C5UQULDLTJAAVC3UVCH53M7LTE/",
+      "title": "Paludisme : les coupes dans l’aide américaine menacent des «dizaines de milliers de vies d’enfants» dans le monde",
+      "desc": "Gavi, l’Alliance mondiale pour les vaccins et l’immunisation, prévient ce vendredi 24 avril sur les conséquences de la baisse du montant du soutien international. Le paludisme cause chaque année quelque 600 000 décès en Afrique.",
+      "url": "https://www.liberation.fr/societe/sante/paludisme-les-coupes-dans-laide-americaine-menacent-des-dizaines-de-milliers-de-vies-denfants-dans-le-monde-20260424_3MECIZJMGVGM7PTZNPKT6MDQ4Y/",
       "image": null,
-      "date": "2026-04-24T14:54:00+00:00",
+      "date": "2026-04-24T18:44:26+00:00",
       "date_formatted": "24 April 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Procès de la mort d’Agnès Lassalle : seize ans de réclusion requis contre l’élève",
-      "desc": "La cour d’assises des mineurs des Pyrénées-Atlantiques a rendu ce vendredi soir son verdict dans l’affaire de la professeure de Saint-Jean-de-Luz poignardée en plein cours en février 2023.",
-      "url": "https://www.liberation.fr/societe/police-justice/proces-de-la-mort-dagnes-lassalle-seize-ans-de-reclusion-requis-contre-leleve-20260424_LHI3X5PNNZBMTLF2KZR6M3PRWE/",
+      "title": "Au Royaume-Uni, le projet de loi sur l’aide à mourir en Angleterre et au Pays de Galles échoue au Parlement",
+      "desc": "Lors d’un vote historique en juin 2025, la Chambre des communes avait approuvé la légalisation de l’aide à mourir pour certains malades en phase terminale. Mais le projet de loi s’est enlisé à la Chambre des lords, rendant impossible son adoption à temps.",
+      "url": "https://www.lemonde.fr/international/article/2026/04/24/au-royaume-uni-le-projet-de-loi-sur-l-aide-a-mourir-en-angleterre-et-au-pays-de-galles-echoue-au-parlement_6683097_3210.html",
+      "image": "https://img.lemde.fr/2026/04/24/644/0/7726/3863/644/322/60/0/217b029_ftp-1-m6xtjyal9ljr-f7b36d886d6c43c2a4b0bcf9e224fcad-0-fb48191fdeb34083a96c9ee7e6aa3563.jpg",
+      "date": "2026-04-24T17:55:58+00:00",
+      "date_formatted": "24 April 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Le rapport est entièrement conçu pour blanchir les crimes du régime» : en Tanzanie, l’opposition dénonce un bilan sous-estimé de la répression d’octobre",
+      "desc": "Une commission d’enquête nommée par le régime a dénombré 518 décès et 2 390 blessés lors des violences qui ont suivi les élections. L’opposition dénonce une commission «partiale» et évoque un bilan de plus de 2 000 morts.",
+      "url": "https://www.liberation.fr/international/afrique/le-rapport-est-entierement-concu-pour-blanchir-les-crimes-du-regime-en-tanzanie-lopposition-denonce-un-bilan-sous-estime-de-la-repression-doctobre-20260424_L5L6LI2X4VHK5F5RW65OQPFBII/",
       "image": null,
-      "date": "2026-04-24T14:07:31+00:00",
+      "date": "2026-04-24T17:34:16+00:00",
       "date_formatted": "24 April 2026",
       "source": "Libération",
       "type": "presse"
@@ -41,26 +61,6 @@
       "date_formatted": "24 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "«Les Pêcheurs» de Raul Brandão : le Grand bleu en noir",
-      "desc": "Entre poésie et récit ethnographique, l’auteur portugais immortalise dans un ouvrage paru en 1923 le monde enfui des travailleurs de la mer.",
-      "url": "https://www.liberation.fr/culture/livres/les-pecheurs-de-raul-brandao-le-grand-bleu-en-noir-20260424_SSON5SJBGZBXRELIZXYX7EOY3M/",
-      "image": null,
-      "date": "2026-04-24T13:32:25+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Le Parquet antiterroriste annonce la mise en examen d’un adolescent qui projetait une «action violente» contre les communautés juive ou homosexuelle",
-      "desc": "Le mineur, 15 ans, a été interpellé le 17 avril dans le Rhône. D’après le Pnat ce vendredi, il a reconnu avoir «voulu mourir en martyr».",
-      "url": "https://www.liberation.fr/societe/police-justice/le-pnat-annonce-la-mise-en-examen-dun-adolescent-qui-projetait-une-action-violente-contre-les-communautes-juive-ou-homosexuelle-20260424_S6MDOIDHRRAKBOOBIZKZL3HEXY/",
-      "image": null,
-      "date": "2026-04-24T13:29:50+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Guadeloupe : plongée scientifique dans les gaz du volcan, au plus près du cratère",
@@ -183,16 +183,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Les Britanniques nous ouvrent la voie !\" : les associations françaises espèrent un sursaut, après l'adoption d'une loi \"génération sans tabac\" au Royaume-Uni",
-      "desc": "Le Royaume-Uni a adopté lundi une loi interdisant la vente de cigarettes aux personnes nées après 2008. En France, en 2023, le tabagisme a entraîné 68 000 décès, et plusieurs acteurs de la prévention défendent une proposition de loi pour une \"génération sans tabac\".",
-      "url": "https://www.franceinfo.fr/sante/drogue-addictions/lutte-contre-le-tabagisme/les-britanniques-nous-ouvrent-la-voie-les-associations-francaises-esperent-un-sursaut-apres-l-adoption-d-une-loi-generation-sans-tabac-au-royaume-uni_7956389.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/7wyF-htaIl7vorvPl87QW88Qyhg/0x109:2100x1291/432x243/filters:format(jpg)/2026/04/22/69e89e63dd242050162901.jpg",
-      "date": "2026-04-22T17:06:08+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Cancer du pancréas : Après 40 ans sans progrès, enfin des avancées pour augmenter l’espérance de vie des patients",
       "desc": "Plusieurs études mettent en exergue des pistes prometteuses pour faire gagner des mois de vie aux personnes atteintes par le cancer du pancréas",
       "url": "https://www.20minutes.fr/sante/4219793-20260422-cancer-pancreas-apres-40-ans-progres-enfin-avancees-augmenter-esperance-vie-patients?at_medium=display&at_campaign=149",
@@ -260,6 +250,16 @@
       "date": "2026-04-21T16:29:54+00:00",
       "date_formatted": "21 April 2026",
       "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Une étude française perce le mécanisme d’action d’un médicament innovant chez des patients atteints d’un cancer du poumon au stade avancé",
+      "desc": "L’étude française ICARUS-LUNG01, publiée le 17 avril dans la revue Cancer Cell par des médecins-chercheurs de l’Inserm, l’Université Paris-Saclay et Gustave Roussy, apporte des éléments de réponse sur la manière dont un nouvel anticorps conjugué (ADC), nouvelle génération de médicaments capables de ",
+      "url": "https://presse.inserm.fr/une-etude-francaise-perce-le-mecanisme-daction-dun-medicament-innovant-chez-des-patients-atteints-dun-cancer-du-poumon-au-stade-avance/72730/",
+      "image": null,
+      "date": "2026-04-21T15:30:59+00:00",
+      "date_formatted": "21 April 2026",
+      "source": "Inserm",
       "type": "science"
     },
     {
@@ -549,16 +549,6 @@
       "image": null,
       "date": "2026-02-16T08:30:59+00:00",
       "date_formatted": "16 February 2026",
-      "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Suivi des maladies chroniques : un patient sur deux serait ouvert à la téléconsultation",
-      "desc": "Les équipes de médecine interne de l’hôpital européen Georges-Pompidou AP-HP, du centre d’épidémiologie clinique de l’hôpital Hôtel-Dieu AP-HP, de l’Université Paris Cité, de l’université Sorbonne Paris-Nord, de l’Inserm, et INRAE (CRESS), en collaboration avec la cohorte ComPaRe et sous la coordina",
-      "url": "https://presse.inserm.fr/suivi-des-maladies-chroniques-un-patient-sur-deux-serait-ouvert-a-la-teleconsultation/72085/",
-      "image": null,
-      "date": "2026-02-11T10:18:52+00:00",
-      "date_formatted": "11 February 2026",
       "source": "Inserm",
       "type": "science"
     }
