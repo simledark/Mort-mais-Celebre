@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-24T20:06:24.466126+00:00",
-  "count": 55,
+  "generated_at": "2026-04-25T06:02:28.190868+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title": "« Le courage des enfants nous oblige à déplacer des montagnes » : les confidences d’une spécialiste du cancer du sang pédiatrique",
+      "desc": "« Mes patients, la maladie et moi ». Et si on prenait le pouls des médecins ? A la tête d’un réseau francilien de soins palliatifs infantiles, Béatrice Pellegrino, hémato-onco-pédiatre, met toute son énergie et sa foi au service de l’accompagnement de ses jeunes patients.",
+      "url": "https://www.lemonde.fr/intimites/article/2026/04/25/le-courage-des-enfants-nous-oblige-a-deplacer-des-montagnes-les-confidences-d-une-specialiste-du-cancer-du-sang-pediatrique_6683212_6190330.html",
+      "image": "https://img.lemde.fr/2026/04/01/167/0/3292/1646/644/322/60/0/54cde49_upload-1-ywmmdxj7iflh-capture-d-e-cran-2026-03-30-a-11-17-28.png",
+      "date": "2026-04-25T06:00:32+00:00",
+      "date_formatted": "25 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
     {
       "title": "Les coupes dans l'aide américaine menacent des \"dizaines de milliers de vies d'enfants\" face au paludisme",
       "desc": "Cette maladie cause chaque année quelque 600 000 décès, principalement des enfants, en Afrique.",
@@ -14,7 +24,7 @@
     },
     {
       "title": "Incendie de Crans-Montana : l’Italie affirme qu’elle ne paiera pas les factures d’hôpital de ses citoyens",
-      "desc": "L’incendie du bar Le Constellation à Crans-Montana dans la nuit du Nouvel an 2026 a fait 41 morts, dont six Italiens, et 115 blessés.",
+      "desc": "Les flammes dans le bar Le Constellation à Crans-Montana dans la nuit du Nouvel an 2026 ont fait 41 morts, dont six Italiens, et 115 blessés.",
       "url": "https://www.liberation.fr/international/europe/incendie-de-crans-montana-litalie-affirme-quelle-ne-paiera-pas-les-factures-dhopital-de-ses-citoyens-20260424_HG7OIE5OABEFXG7PW6STYI7CI4/",
       "image": null,
       "date": "2026-04-24T20:04:57+00:00",
@@ -43,13 +53,13 @@
       "type": "presse"
     },
     {
-      "title": "«Le rapport est entièrement conçu pour blanchir les crimes du régime» : en Tanzanie, l’opposition dénonce un bilan sous-estimé de la répression d’octobre",
-      "desc": "Une commission d’enquête nommée par le régime a dénombré 518 décès et 2 390 blessés lors des violences qui ont suivi les élections. L’opposition dénonce une commission «partiale» et évoque un bilan de plus de 2 000 morts.",
-      "url": "https://www.liberation.fr/international/afrique/le-rapport-est-entierement-concu-pour-blanchir-les-crimes-du-regime-en-tanzanie-lopposition-denonce-un-bilan-sous-estime-de-la-repression-doctobre-20260424_L5L6LI2X4VHK5F5RW65OQPFBII/",
-      "image": null,
-      "date": "2026-04-24T17:34:16+00:00",
+      "title": "Que sait-on sur ce nouveau coronavirus transmissible à l’homme identifié au Kenya ?",
+      "desc": "Une équipe de scientifiques vient de découvrir un nouveau coronavirus (CcCoV-KY43) transmissible à l’homme grâce à un récepteur jamais identifié encore chez les coronavirus. Si la découverte scientifique est majeure, le risque épidémique reste limité",
+      "url": "https://www.20minutes.fr/sante/4220115-20260424-sait-nouveau-coronavirus-transmissible-homme-identifie-kenya?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/rMGf9KITQhWfdtpjFu8GpSk/1200x768_illustration-d-un-coronavirus-montrant-les-structures-des-proteines-de-pointe-et-l-enveloppe-virale-photo-de-ruslanas-baranauskas-science-pho-rbu-bibliotheque-de-photos-scientifiques-via-afp",
+      "date": "2026-04-24T14:12:15+00:00",
       "date_formatted": "24 April 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -323,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Quand une maladie inventée piège l’intelligence artificielle et s’invite dans une revue médicale",
-      "desc": "En quelques mois, une maladie entièrement fictive s’est glissée dans les réponses de chatbots d’IA conversationnels, avant de faire irruption dans une revue médicale. Une dérive qui rappelle plusieurs canulars scientifiques restés célèbres.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/04/20/quand-une-maladie-inventee-piege-l-intelligence-artificielle-et-s-invite-dans-une-revue-medicale_6681698_6579630.html",
-      "image": "https://img.lemde.fr/2026/04/19/0/53/390/195/644/322/60/0/ad944bc_upload-1-4etvh1jakk7s-bixonimania-bixonimanie-maladie-fictive-imaginaire.png",
-      "date": "2026-04-20T11:33:01+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cancer : une nouvelle approche génétique cible les cellules malades sans toucher aux autres",
       "desc": "Serait-il possible d'attaquer une tumeur sans abîmer le reste de l’organisme ? C’est la piste explorée par des chercheurs qui ont mis au point un système capable de repérer une particularité propre aux cellules cancéreuses pour les cibler avec précision. Une avancée encore précoce, mais qui...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-nouvelle-approche-genetique-cible-cellules-malades-toucher-autres-133833/#xtor%3DRSS-8",
@@ -373,26 +373,6 @@
       "type": "science"
     },
     {
-      "title": "Mort de Nathalie Baye : Qu’est-ce que la maladie à corps de Lewy, dont est décédée l’actrice ?",
-      "desc": "Peu connue, cette maladie dégénérative, aux troubles proches de ceux de Parkinson et d’Alzheimer, toucherait pourtant près de 250.000 personnes en France",
-      "url": "https://www.20minutes.fr/sante/4219032-20260418-mort-nathalie-baye-maladie-corps-lewy-dont-decedee-actrice?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/yA8RkyuzQaSoGgrs2GYUSyk/1200x768_nathalie-baye-assiste-a-la-ceremonie-d-ouverture-du-72e-festival-international-du-film-de-cannes-au-palace-festival-a-cannes-en-france-le-15-mai-2019-03pariente-pariente0665-1905150803-credit-jp-pariente-sipa-1905150805",
-      "date": "2026-04-18T14:02:29+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Peut-on être licencié en étant en arrêt maladie ? Ce qu’il faut savoir",
-      "desc": "Arrêt maladie rime souvent avec protection. Mais dans certains cas bien précis, le licenciement reste possible. Une nuance essentielle à connaître",
-      "url": "https://www.20minutes.fr/vie-pro/4219009-20260418-peut-etre-licencie-arret-maladie-faut-savoir?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/SDgFI8wdTyuIcmdj2vwteik/1200x768_open-space",
-      "date": "2026-04-18T11:02:37+00:00",
-      "date_formatted": "18 April 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Espoir majeur dans le cancer du pancréas : un nouveau traitement double la survie des patients à un an",
       "desc": "Un nouveau traitement suscite l'espoir face au cancer du pancréas. Testé en association avec une chimiothérapie, il montre des résultats encourageants dans un essai clinique, avec une amélioration notable sur la survie des patients. Une avancée à confirmer, mais suffisamment solide pour attirer...",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-pancreas-espoir-majeur-cancer-pancreas-nouveau-traitement-double-survie-patients-an-133829/#xtor%3DRSS-8",
@@ -411,16 +391,6 @@
       "date_formatted": "17 April 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Pris dans un étau budgétaire, les départements en difficulté face au vieillissement de la population",
-      "desc": "Un rapport de la chambre régionale des comptes des Hauts-de-France étrille la gestion de l’allocation personnalisée d’autonomie par le département du Pas-de-Calais, illustrant les difficultés de ces collectivités locales face aux nécessités d’économie.",
-      "url": "https://www.lemonde.fr/sante/article/2026/04/17/pris-dans-un-etau-budgetaire-les-departements-en-difficulte-face-au-vieillissement-de-la-population_6680856_1651302.html",
-      "image": "https://img.lemde.fr/2026/04/16/432/0/5184/2592/644/322/60/0/8a8544e_upload-1-v5s293nqtrx4-maxstockworld391774.jpg",
-      "date": "2026-04-17T12:00:07+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
