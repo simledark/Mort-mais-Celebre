@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-26T06:29:46.902148+00:00",
-  "count": 53,
+  "generated_at": "2026-04-26T14:29:41.019956+00:00",
+  "count": 42,
   "articles": [
+    {
+      "title": "En Colombie, les dissidents des Farc ensanglantent la campagne présidentielle",
+      "desc": "Un attentat à la bombe a fait au moins 14 morts et 38 blessés samedi sur une route du sud-ouest de la Colombie, secouée par une série d’attaques à un peu plus d’un mois de la présidentielle.",
+      "url": "https://www.liberation.fr/international/amerique/en-colombie-les-dissidents-des-farc-ensanglantent-la-campagne-presidentielle-20260426_WTWYJCTAJNH4VBSJ7PNMFCSIX4/",
+      "image": null,
+      "date": "2026-04-26T10:11:32+00:00",
+      "date_formatted": "26 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "PMA : l’autorisation du diagnostic préimplantatoire des embryons en France de nouveau interrogée",
       "desc": "Dans le cadre des Etats généraux de la bioéthique, la question du recours à la technique génétique visant à écarter les embryons non viables pour améliorer les parcours de procréation médicalement assistée revient dans le débat. Toujours aussi clivante.",
@@ -41,16 +51,6 @@
       "date_formatted": "25 April 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Adieu les Ehpad, bonjour les Maisons France Autonomie",
-      "desc": "En changeant le nom des Etablissements d’hébergement pour personnes âgées dépendantes, l’exécutif espère «changer le regard sur le vieillissement» mais aussi la réputation des maisons de retraite abîmée par le scandale Orpea.",
-      "url": "https://www.liberation.fr/societe/sante/adieu-les-ehpad-bonjour-les-maisons-france-autonomie-20260425_CEZVBK2BLVCVDMVVUP6P53C4K4/",
-      "image": null,
-      "date": "2026-04-25T14:38:54+00:00",
-      "date_formatted": "25 April 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Comment savoir si on est concerné par le Compte professionnel de prévention ?",
@@ -113,16 +113,6 @@
       "type": "presse"
     },
     {
-      "title": "Cancer : pourquoi les tumeurs du coeur sont-elles si rares ?",
-      "desc": "Les tumeurs du coeur font partie des tumeurs les plus rares au monde. Pour comprendre ce qui protège cet organe, une équipe a mis le doigt sur un mécanisme clé. Plus qu'un mouvement mécanique, c'est toute une cascade biologique qui entre en jeu.",
-      "url": "https://www.sciencesetavenir.fr/sante/coeur-et-cardio/cancer-pourquoi-les-tumeurs-du-coeur-sont-elles-si-rares_192175?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb6f5dd4a86-afp-20240403-f0423593-v1-highres-humanheartvolumeandbloodsupplyillustration.jpg",
-      "date": "2026-04-24T14:03:46+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Guadeloupe : plongée scientifique dans les gaz du volcan, au plus près du cratère",
       "desc": "Une équipe transdisciplinaire de chercheurs part à l’assaut de la Soufrière pour mesurer en particulier les émissions de sulfure d’hydrogène et sa toxicité sur les populations vivant à proximité.",
       "url": "https://www.lemonde.fr/sciences/video/2026/04/24/guadeloupe-plongee-scientifique-dans-les-gaz-du-volcan-au-plus-pres-du-cratere_6683044_1650684.html",
@@ -130,16 +120,6 @@
       "date": "2026-04-24T11:20:15+00:00",
       "date_formatted": "24 April 2026",
       "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "L'OMS salue les résultats de sa campagne de \"grand rattrapage\" de vaccination des enfants",
-      "desc": "La pandémie de Covid-19 a profondément ébranlé les systèmes de santé et bouleversé les campagnes de vaccination à travers le monde. Résultat : des maladies contagieuses comme la rougeole ont connu un rebond inquiétant. Face à cette situation, l’OMS, l’Unicef et Gavi — l’alliance internationale pour ",
-      "url": "https://www.sciencesetavenir.fr/sante/l-oms-salue-les-resultats-de-sa-campagne-de-grand-rattrapage-de-vaccination-des-enfants_192164?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/24/cover-r4x3w1200-69eb32eea7b28-vaccination.jpg",
-      "date": "2026-04-24T09:26:26+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -170,26 +150,6 @@
       "date": "2026-04-23T15:18:44+00:00",
       "date_formatted": "23 April 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Protoxyde d’azote : Yannick Alléno attaque deux fabricants",
-      "desc": "Présentées comme du matériel pour boissons et cocktails, les bonbonnes de protoxyde d'azote sont aujourd'hui dans le viseur de Yannick Alléno. Le chef étoilé accuse le principal fabriquant de cibler les jeunes avec des formats géants, des parfums accrocheurs et un marketing festif. on fils a été mor",
-      "url": "https://www.franceinfo.fr/sante/protoxyde-d-azote-yannick-alleno-attaque-deux-fabricants_7959047.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/S87YePOMnYHGfXNEfgq-gaziaLk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/04/23/69e9dc98402fb444406123.jpg",
-      "date": "2026-04-23T12:00:02+00:00",
-      "date_formatted": "23 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Contre le cancer du pancréas, des avancées enfin prometteuses",
-      "desc": "Après plusieurs décennies de stagnation, la recherche avance face au cancer du pancréas, l'un des plus meurtriers qui soient. Si l'on reste bien loin de pouvoir guérir la plupart des patients, ces pistes promettent de rajouter de précieux mois à leur existence.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/contre-le-cancer-du-pancreas-des-avancees-enfin-prometteuses_192063?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/23/cover-r4x3w1200-69e9dfc59130c-pancreas.jpg",
-      "date": "2026-04-23T09:09:27+00:00",
-      "date_formatted": "23 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -303,16 +263,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer du pancréas : un candidat-médicament double la survie des patients",
-      "desc": "Une molécule innovante a permis à des malades en phase métastatique de voir leur espérance de vie doubler par rapport au groupe traité par la chimiothérapie standard. Du jamais-vu pour ces tumeurs très agressives.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/21/cancer-du-pancreas-un-candidat-medicament-double-la-survie-des-patients_6681959_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/20/324/0/3898/1949/644/322/60/0/016c946_upload-1-ny7s991b8cd8-sciencephoto-fr-c0529825-1.jpg",
-      "date": "2026-04-21T06:30:03+00:00",
-      "date_formatted": "21 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Leucémie aiguë myéloïde : découverte d’une nouvelle cible thérapeutique potentielle à la surface des cellules souches cancéreuses",
       "desc": "La leucémie aiguë myéloïde est un cancer du sang et de la moelle osseuse qui survient plus fréquemment après 60 ans. Des chercheurs et chercheuses de l’Inserm, de l’Université de Lille, du CHU de Lille et du CNRS mettent en évidence le rôle joué par une protéine spécifique présente en grande quantit",
       "url": "https://presse.inserm.fr/leucemie-aigue-myeloide-decouverte-dune-nouvelle-cible-therapeutique-potentielle-a-la-surface-des-cellules-souches-cancereuses/72630/",
@@ -330,16 +280,6 @@
       "date": "2026-04-20T15:23:53+00:00",
       "date_formatted": "20 April 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Qu'est-ce que la maladie à corps de Lewy ?",
-      "desc": "La maladie à corps de Lewy, dont souffrait l'actrice Nathalie Baye, décédée le 17 avril 2026, est une maladie neurodégénérative peu connue mais fréquente, aux troubles proches de ceux de Parkinson et d'Alzheimer.",
-      "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/la-maladie-a-corps-de-lewy-un-trouble-neurodegeneratif-peu-connu-mais-frequent_192006?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/18/cover-r4x3w1200-69e35b4df24b3-30f5f8df0cfc2e84cec0d49315306a34e7bf8ee2-jpg.jpg",
-      "date": "2026-04-20T14:58:36+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -373,36 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Ces robots composés d’ADN ciblent les cellules cancéreuses",
-      "desc": "Ce nouveau type de médicament s’active uniquement lorsque deux facteurs sont reconnus, assurant que seules les cellules tumorales sont attaquées.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/ces-robots-composes-d-adn-ciblent-les-cellules-cancereuses_192000?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e26290b91be-afp-20230323-f0337251-v1-highres-dnamoleculeillustration.jpg",
-      "date": "2026-04-20T07:46:43+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Vous mangez du fromage ? Cette étude révèle un effet inattendu sur le cerveau",
-      "desc": "Et si un simple morceau de fromage pouvait protéger votre cerveau ? Une étude japonaise publiée en octobre 2025 dans la revue Nutrients a mis en évidence une association surprenante. Les personnes âgées consommant du fromage chaque semaine présentaient un risque de démence réduit de 24 %.",
-      "url": "https://www.futura-sciences.com/sante/actualites/demence-vous-mangez-fromage-cette-etude-revele-effet-inattendu-cerveau-k2m6-133581/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/e/8/b/e8bf674cc5_50253608_demence-fromage-cerveau.jpg",
-      "date": "2026-04-19T18:00:00+00:00",
-      "date_formatted": "19 April 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : le sport sur ordonnance testé en remboursement",
-      "desc": "Le remboursement de l'activité physique sur ordonnance pour des malades du cancer, dans le cadre d'une expérimentation de deux ans, va finalement pouvoir entrer en vigueur avec la publication jeudi d'un décret sur cette mesure prévue au budget de la Sécurité sociale de 2024.",
-      "url": "https://www.sciencesetavenir.fr/sante/e-sante/sport-sur-ordonnance-une-experimentation-de-remboursement-lancee-pour-les-patients-atteints-de-cancer_191996?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/17/cover-r4x3w1200-69e228179c839-sport.jpg",
-      "date": "2026-04-17T13:50:35+00:00",
-      "date_formatted": "17 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Découverte d’un nouveau mécanisme clé de la progression des maladies rénales",
       "desc": "Les maladies rénales chroniques ont un point commun : une fois amorcées, quelle qu’en soit la cause et même si celle-ci est traitée, elles finissent toujours par s’aggraver. Deux équipes de l’Inserm, du CNRS et de l’Université Paris Cité viennent de découvrir le chef d’orchestre de ce mécanisme de p",
       "url": "https://presse.inserm.fr/decouverte-dun-nouveau-mecanisme-cle-de-la-progression-des-maladies-renales/72615/",
@@ -410,26 +320,6 @@
       "date": "2026-04-16T18:00:00+00:00",
       "date_formatted": "16 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Cancer de l'ovaire : deux traitements enregistrent de bons résultats",
-      "desc": "Deux traitements permettent de légèrement améliorer la survie de patientes atteintes de cancers de l'ovaire qui sont devenus résistants à la thérapie habituelle, montrent des études publiées dans la revue médicale The Lancet.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/cancer-de-l-ovaire-deux-traitements-enregistrent-de-bons-resultats-face-a-une-forme-resistante_191938?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/10/cover-r4x3w1200-69d968d170c8a-6b44a8d70a04c02d5b77d591103f378b9256c395-jpg.jpg",
-      "date": "2026-04-16T14:16:37+00:00",
-      "date_formatted": "16 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "L'essor de l'obésité éclipse les progrès en santé publique depuis 2010, selon un rapport de l'OCDE",
-      "desc": "Malgré des avancées contre le tabagisme, la pollution ou l’alcool, les maladies chroniques continuent d’augmenter dans les pays de l’OCDE. En cause : la progression rapide de l’obésité, qui annule une grande partie des bénéfices sanitaires.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-essor-de-l-obesite-eclipse-les-progres-en-sante-publique-depuis-2010-selon-un-rapport-de-l-ocde_191967?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/15/cover-r4x3w1200-69df9b8ac4a5a-ff1ec4a979906d510b40addadf8ae399df45e75c-jpg.jpg",
-      "date": "2026-04-15T13:19:50+00:00",
-      "date_formatted": "15 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
