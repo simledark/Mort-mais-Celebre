@@ -1,24 +1,64 @@
 {
-  "generated_at": "2026-04-26T19:59:46.802324+00:00",
-  "count": 50,
+  "generated_at": "2026-04-27T07:57:38.481972+00:00",
+  "count": 53,
   "articles": [
     {
-      "title": "Mort d’Yvan Colonna : Franck Elong Abé sera jugé pour assassinat en relation avec une entreprise terroriste",
-      "desc": "Le détenu radicalisé avait mortellement agressé, dans la prison d’Arles le 2 mars 2022, le militant nationaliste corse qui purgeait une peine à perpétuité pour l’assassinat du préfet Erignac en 1998.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-dyvan-colonna-franck-elong-abe-sera-juge-pour-assassinat-en-relation-avec-une-entreprise-terroriste-20260426_FDGSRGY66RDFRPEPVVSPLXFS3Y/",
+      "title": "Visite présidentielle en Andorre : Emmanuel Macron met l’avortement au centre des discussions",
+      "desc": "Le chef d’Etat, qui est par ailleurs coprince d’Andorre, entame ce lundi 27 avril une visite dans le petit pays dirigé par un évêque catholique. L’IVG y est encore interdite, même en cas de viol, d’inceste, de danger pour la mère ou de maladie du fœtus.",
+      "url": "https://www.liberation.fr/international/europe/visite-presidentielle-en-andorre-emmanuel-macron-met-lavortement-au-centre-des-discussions-20260427_IAWE756KF5BWDDAUHYDU5OIC3Y/",
       "image": null,
-      "date": "2026-04-26T18:21:32+00:00",
-      "date_formatted": "26 April 2026",
+      "date": "2026-04-27T07:38:13+00:00",
+      "date_formatted": "27 April 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "A l’ombre des attaques contre Donald Trump, la violence politique s’enracine aux Etats-Unis",
-      "desc": "Depuis la première élection du milliardaire en 2016, les attaques et menaces contre les élus de tous bords et de tous niveaux ont bondi. Elles ont fait plusieurs morts l’année dernière et menacent sérieusement la démocratie.",
-      "url": "https://www.liberation.fr/international/amerique/a-lombre-des-attaques-contre-trump-la-violence-politique-senracine-aux-etats-unis-20260426_ZMA5KLFYBBEMNDDMDG2EPZCJU4/",
+      "title": "Les vaccinations à la peine en France, la protection des adolescents prioritaire",
+      "desc": "La couverture vaccinale devrait être plus importante contre certaines maladies expliquent les autorités sanitaires",
+      "url": "https://www.20minutes.fr/sante/4220412-20260427-vaccinations-peine-france-protection-adolescents-prioritaire?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/6wtOEh0FQBOPglC5Nk_p7Ck/1200x768_depuis-ce-15-juin-les-adolescents-de-12-a-17-ans-et-plus-peuvent-se-faire-vacciner-pour-y-arriver-le-consentement-oral-de-l-adolescent-ainsi-que-celui-de-ses-parents-sera-obligatoire-douai-15-juin-2021-a-partir-du-15-juin-les-adolescents-ages-de-12-a-17-ans-et-plus-pourront-etre-vaccines-pour-y-parvenir-le-consentement-oral-de-l-adolescent-ainsi-que-celui-de-ses-parents-seront-requis-le-gouvernement-espere-ainsi-limiter-le-ralentissement-de-la-vaccination-en-france-gage-d-une-protection-collective-suffisante-a-douai-le-15-juin-2021-greuezfrancois-1-1553-2106151634-credit-francois-greuez-sipa-2106151637",
+      "date": "2026-04-27T07:12:27+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« La médecine, pour moi, c’est sauver les gens » : les confidences d’un généraliste des quartiers nord à Marseille",
+      "desc": "« Mes patients, la maladie et moi » (4/5). Et si on prenait le pouls des médecins ? C’est le sentiment d’utilité qui a toujours guidé la carrière de Saïd Ouichou, 62 ans, et qui l’a mené des urgences au 15ᵉ arrondissement de Marseille – un point chaud –, en passant par SOS-Médecins, comme il le raco",
+      "url": "https://www.lemonde.fr/intimites/article/2026/04/27/la-medecine-pour-moi-c-est-sauver-les-gens-les-confidences-d-un-generaliste-des-quartiers-nord-a-marseille_6683614_6190330.html",
+      "image": "https://img.lemde.fr/2026/04/01/461/0/6000/3000/644/322/60/0/ef311f5_upload-1-zdiodant4uzi-dsc-0111-copie.jpg",
+      "date": "2026-04-27T06:00:23+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "« Le fantasme d’un humain amélioré, sans maladies, super-performant, super-intelligent » : ces start-up qui rêvent de créer des bébés génétiquement modifiés",
+      "desc": "Nées dans la tech américaine, Preventive ou Origin Genomics entendent faire avancer la modification du génome d’embryons. Une technique très contestée, et largement interdite, qui fait craindre le retour d’une forme d’eugénisme.",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/27/le-fantasme-d-un-humain-ameliore-sans-maladies-super-performant-super-intelligent-ces-start-up-qui-revent-de-creer-des-bebes-genetiquement-modifies_6683602_3234.html",
+      "image": "https://img.lemde.fr/2026/04/24/2422/0/3200/1600/644/322/60/0/a326c9b_upload-1-rxamjejl51yi-conception-0280.jpg",
+      "date": "2026-04-27T05:30:06+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "«Au Caire, les rues sont mortes» : la guerre en Iran plonge l’Egypte dans le noir",
+      "desc": "Depuis le début du conflit, le gouvernement égyptien a mis en place un couvre-feu commercial et un télétravail partiel pour économiser l’énergie devenue hors de prix. La mégapole, qui d’ordinaire vit la nuit, est anormalement calme, pour le plus grand malheur des tenanciers de café.",
+      "url": "https://www.liberation.fr/international/afrique/au-caire-les-rues-sont-mortes-la-guerre-en-iran-plonge-legypte-dans-le-noir-20260427_VE2UIRNYA5FVXC3LKLRR3NDPDQ/",
       "image": null,
-      "date": "2026-04-26T18:11:55+00:00",
-      "date_formatted": "26 April 2026",
+      "date": "2026-04-27T04:21:00+00:00",
+      "date_formatted": "27 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : l’«économie de la mort» ou comment le Kremlin booste sa croissance en payant des soldats à mourir",
+      "desc": "L’économiste russe Vladislav Inozemtsev a forgé le concept de «deathonomics» pour désigner un nouveau phénomène : la transformation de vies humaines économiquement marginales en actifs financiers.",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-leconomie-de-la-mort-ou-comment-le-kremlin-booste-sa-croissance-en-payant-des-soldats-a-mourir-20260426_4YACHNU74BEOPGBXIPF67G4PNQ/",
+      "image": null,
+      "date": "2026-04-27T03:13:00+00:00",
+      "date_formatted": "27 April 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -240,16 +280,6 @@
       "date": "2026-04-22T13:17:20+00:00",
       "date_formatted": "22 April 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Pourquoi certains insectes étaient-ils gigantesques il y a 300 millions d’années ? L’hypothèse de la teneur en oxygène s’envole",
-      "desc": "L’atmosphère riche en oxygène de la période du carbonifère peut-elle expliquer les dimensions impressionnantes de certains insectes fossiles ? Dans sa Carte blanche au « Monde », Alice Lebreton évoque l’étude menée par des chercheurs de l’université de Pretoria pour en avoir le cœur net.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/22/pourquoi-certains-insectes-etaient-ils-gigantesques-il-y-a-300-millions-d-annees-l-hypothese-de-la-teneur-en-oxygene-s-envole_6682385_1650684.html",
-      "image": "https://img.lemde.fr/2023/03/30/326/0/4253/2126/644/322/60/0/4903a4d_1680167844315-le-monde-carte-blanche-def-01.jpg",
-      "date": "2026-04-22T12:30:10+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
