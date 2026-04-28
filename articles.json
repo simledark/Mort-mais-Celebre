@@ -1,24 +1,74 @@
 {
-  "generated_at": "2026-04-28T01:45:44.304529+00:00",
-  "count": 53,
+  "generated_at": "2026-04-28T08:03:05.424885+00:00",
+  "count": 54,
   "articles": [
     {
-      "title": "Deux morts par jour au travail : quelles mesures face à l’hécatombe ?",
-      "desc": "La France est l’un des pires pays européens en matière de mortalité dans les entreprises. A l’occasion de la Journée mondiale pour la santé et la sécurité au travail, l’heure d’une prise de conscience indispensable.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/deux-morts-par-jour-au-travail-quelles-mesures-face-a-lhecatombe-20260427_VCQCZNCI55CGDHETCKLXUMOUHM/",
+      "title": "« La politique de santé sur l’endométriose ne peut se résumer à la mise à disposition d’un test »",
+      "desc": "Dans une tribune au « Monde », un collectif de médecins dénonce l’absence d’une stratégie nationale, finançant la recherche, la formation de soignants et un maillage territorial adapté à cette pathologie.",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/28/la-politique-de-sante-sur-l-endometriose-ne-peut-se-resumer-a-la-mise-a-disposition-d-un-test_6683886_3232.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "date": "2026-04-28T08:59:50+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Erreurs médicales, infections, morts... Le rapport alarmant de la Cour des comptes sur la qualité des soins dans les établissements de santé",
+      "desc": "Selon le rapport de l'institution, la \"non-qualité\" des soins représente un \"enjeu majeur\" du secteur de la santé.",
+      "url": "https://www.franceinfo.fr/sante/hopital/crise/erreurs-medicales-infections-morts-le-rapport-alarmant-de-la-cour-des-comptes-sur-la-qualite-des-soins-dans-les-etablissements-de-sante_7969490.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Bd5CSNSg9er5yxQF1I7g18QZ2lU/0x226:4391x2696/432x243/filters:format(jpg)/2026/01/20/000-36ww7p4-696fc042e7fa0975219578.jpg",
+      "date": "2026-04-28T08:46:04+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Jeunes morts au travail : ce ne sont pas des accidents !",
+      "desc": "Après la mort de quatre jeunes au travail en moins d’une semaine, des élus communistes, dont Fabien Roussel, demandent l’interdiction des tâches sur des machines dangereuses pour les mineurs.",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/jeunes-morts-au-travail-ce-ne-sont-pas-des-accidents-20260428_VJCVC7KBIZAVVDKEBA2JBKFGAI/",
       "image": null,
-      "date": "2026-04-27T18:47:02+00:00",
-      "date_formatted": "27 April 2026",
+      "date": "2026-04-28T07:53:00+00:00",
+      "date_formatted": "28 April 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "Contre l’hécatombe de morts au travail, des solutions pour ne plus se tuer à la tâche",
-      "desc": "Sous-traitance, formation, inspection du travail… A l’occasion de la journée mondiale pour la santé et la sécurité au travail, ce mardi 27 avril, «Libé» met en avant des propositions pour lutter contre les accidents du travail, qui coûtent la vie à plus de 700 personnes chaque année en France.",
-      "url": "https://www.liberation.fr/economie/social/morts-au-travail-des-solutions-contre-lhecatombe-20260427_KEIRPEDU4BA6VBJ3PO2KMYTIIM/",
+      "title": "Des chercheurs testent un chewing-gum capable de piéger des microbes impliqués dans le cancer",
+      "desc": "Le cancer de la bouche fait partie des maladies pour lesquelles la prévention reste un enjeu majeur. Malgré les progrès médicaux, les facteurs qui favorisent son apparition ou son aggravation continuent d’être activement étudiés. Une découverte de l'Université de Pennsylvanie, de l'Ucla, du...",
+      "url": "https://www.futura-sciences.com/sante/actualites/prevention-cancers-chercheurs-testent-chewing-gum-capable-pieger-microbes-impliques-cancer-134066/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/f/5/ff5d231981_50254456_chewing-gum-medical.jpg",
+      "date": "2026-04-28T07:08:11+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Stress, harcèlement… Les risques psychosociaux sèment la mort chez les travailleurs",
+      "desc": "Selon l’OIT, les facteurs de risques psychosociaux liés au travail entraînent dans le monde « environ 840.000 décès annuels imputables à des maladies cardiovasculaires ou à des troubles mentaux »",
+      "url": "https://www.20minutes.fr/economie/4220734-20260428-stress-harcelement-risques-psychosociaux-sement-mort-chez-travailleurs?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/jJpK68O5TXeIGQmCydM6WSk/1200x768_homme-d-age-moyen-bouleverse-et-fatigue-avec-un-ordinateur-portable-en-bas-de-la-tete-ibxaii09325947-imagebroker-com-aleksei-isachenko-sipa-2306211641",
+      "date": "2026-04-28T06:44:08+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Carton mondial de «Michael» : malgré le biopic raté, une passion toxique pour Jackson",
+      "desc": "Ni les voix des victimes du chanteur, ni les critiques de la presse n’ont pu enrayer le succès de l’hagiographie pensée, formatée, et marketée par la succession de l’artiste mort en 2009.",
+      "url": "https://www.liberation.fr/culture/cinema/carton-mondial-de-michael-malgre-le-biopic-rate-une-passion-toxique-pour-jackson-20260428_VH7UXW4RKRD2ZJFLLWWR5CPDBI/",
       "image": null,
-      "date": "2026-04-27T18:12:00+00:00",
-      "date_formatted": "27 April 2026",
+      "date": "2026-04-28T05:02:00+00:00",
+      "date_formatted": "28 April 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Jeunes victimes d’accidents du travail : «Depuis, c’est la descente aux enfers»",
+      "desc": "A l’image de la mort récente dans le Gard d’un stagiaire de 15 ans, les accidents du travail touchent particulièrement les moins de 25 ans. Un maçon et une ex-aide soignante racontent leur expérience à «Libé».",
+      "url": "https://www.liberation.fr/economie/social/jeunes-victimes-daccidents-du-travail-depuis-cest-la-descente-aux-enfers-20260428_VFO65QE3MFCG3JPP33Y5JZYYS4/",
+      "image": null,
+      "date": "2026-04-28T04:38:00+00:00",
+      "date_formatted": "28 April 2026",
       "source": "Libération",
       "type": "presse"
     },
@@ -83,7 +133,7 @@
       "type": "science"
     },
     {
-      "title": "« Le fantasme d’un humain amélioré, sans maladies, super-performant, super-intelligent » : ces start-up qui rêvent de créer des bébés génétiquement modifiés",
+      "title": "Ces start-up qui rêvent de créer des bébés génétiquement modifiés : « Le fantasme d’un humain amélioré, sans maladies, super-performant, super-intelligent »",
       "desc": "Nées dans la tech américaine, Preventive ou Origin Genomics entendent faire avancer la modification du génome d’embryons. Une technique très contestée, et largement interdite, qui fait craindre le retour d’une forme d’eugénisme.",
       "url": "https://www.lemonde.fr/economie/article/2026/04/27/le-fantasme-d-un-humain-ameliore-sans-maladies-super-performant-super-intelligent-ces-start-up-qui-revent-de-creer-des-bebes-genetiquement-modifies_6683602_3234.html",
       "image": "https://img.lemde.fr/2026/04/24/2422/0/3200/1600/644/322/60/0/a326c9b_upload-1-rxamjejl51yi-conception-0280.jpg",
@@ -141,16 +191,6 @@
       "date_formatted": "25 April 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Comment savoir si on est concerné par le Compte professionnel de prévention ?",
-      "desc": "L'Assurance maladie a lancé récemment une campagne de communication sur le compte professionnel de prévention, le C2P, qu'on appelle aussi \"Compte pénibilité\". Dix ans après sa création, ce dispositif reste mal connu des salariés du privé.",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/comment-savoir-si-on-est-concerne-par-le-compte-professionnel-de-prevention_7940288.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/5JmtZWYOyXaglm7UP98U8OMChug/0x220:2121x1414/432x243/filters:format(jpg)/2026/04/23/69e9fe79d383e048241699.jpg",
-      "date": "2026-04-25T09:39:22+00:00",
-      "date_formatted": "25 April 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Pourquoi à un moment de leur vie, les hommes ont des poils qui sortent de leurs oreilles ?",
@@ -233,16 +273,6 @@
       "type": "presse"
     },
     {
-      "title": "« Même si je suis en larmes à l’intérieur, mon corps ne montre rien » : les confidences de Nacéra Ounnas-Verspieren, médecin généraliste dans le désert médical de la Nièvre",
-      "desc": "« Mes patients, la maladie et moi » (1/5). Et si on prenait le pouls des médecins ? Depuis qu’elle a elle-même été confrontée à un cancer, le regard de cette soignante sur la parole médicale a changé, comme elle l’explique dans un entretien au « Monde ».",
-      "url": "https://www.lemonde.fr/intimites/article/2026/04/24/meme-si-je-suis-en-larmes-a-l-interieur-mon-corps-ne-montre-rien-les-confidences-d-une-medecin-generaliste-dans-un-desert-medical_6683000_6190330.html",
-      "image": "https://img.lemde.fr/2026/04/06/1333/0/2667/1333/644/322/60/0/bae78f1_upload-1-mugzfg6sq68c-img-3519.jpg",
-      "date": "2026-04-24T06:00:08+00:00",
-      "date_formatted": "24 April 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Cancer : des chercheurs ont mis au point un piège qui se referme sur la tumeur au moment où elle résiste",
       "desc": "Des chercheurs américains ont mis au point une stratégie expérimentale qui pousse les tumeurs à évoluer dans une direction précise, pour ensuite les frapper au moment où elles deviennent vulnérables.",
       "url": "https://www.futura-sciences.com/sante/actualites/cancer-lutte-cancer-nouvelle-methode-permet-retourner-capacites-adaptation-tumeurs-elles-133937/#xtor%3DRSS-8",
@@ -271,16 +301,6 @@
       "date_formatted": "22 April 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Coronavirus de chauves-souris : une nouvelle porte d’entrée dans les cellules humaines vient d’être mise au jour",
-      "desc": "Cette découverte, réalisée par une équipe britannique, s’inscrit dans la recherche pour identifier et prévenir les futures pandémies.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/22/coronavirus-de-chauves-souris-une-nouvelle-porte-d-entree-dans-les-cellules-humaines-vient-d-etre-mise-au-jour_6682440_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/22/250/0/3000/1500/644/322/60/0/d218939_upload-1-szdyrs1j0tkk-2021-03-22t000000z-1086782415-rc2ngm9ta8l7-rtrmadp-3-health-coronavirus-philippines-bats.JPG",
-      "date": "2026-04-22T18:13:22+00:00",
-      "date_formatted": "22 April 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Cancer du pancréas : Après 40 ans sans progrès, enfin des avancées pour augmenter l’espérance de vie des patients",
@@ -370,16 +390,6 @@
       "date": "2026-04-21T00:00:17+00:00",
       "date_formatted": "21 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Maladie à corps de Lewy : quelle est cette maladie neurocognitive fréquente, mais peu connue, qui a emporté Nathalie Baye ?",
-      "desc": "Elle nous a quittés ce samedi 18 avril. La comédienne Nathalie Baye souffrait de la maladie à corps de Lewy. Encore méconnue du grand public, cette pathologie neurodégénérative questionne : de quoi s’agit-il, quels en sont les symptômes et comment est-elle prise en charge ?",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-maladie-corps-lewy-cette-maladie-neurocognitive-frequente-mais-peu-connue-emporte-nathalie-baye-133875/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/c/4/fc45796f79_50254136_neurones-maladie-corps-lewy.jpg",
-      "date": "2026-04-20T15:23:53+00:00",
-      "date_formatted": "20 April 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
