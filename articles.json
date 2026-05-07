@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-05-07T01:47:04.909701+00:00",
+  "generated_at": "2026-05-07T08:10:52.322115+00:00",
   "count": 85,
   "articles": [
     {
-      "title": "EN DIRECT, hantavirus sur un navire de croisière : l’évacuation des passagers devrait commencer lundi à partir des Canaries",
-      "desc": "Le bateau MV « Hondius », qui a quitté le Cap-Vert mercredi, est attendu samedi aux Canaries, selon Madrid. Les passagers resteront sur le navire jusqu’à l’arrivée des avions qui les rapatrieront dans leurs pays.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/07/en-direct-hantavirus-sur-un-navire-de-croisiere-l-evacuation-des-passagers-devrait-commencer-lundi-a-partir-des-canaries_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/06/182/0/3402/1701/644/322/60/0/ee1bce1_ftp-1-dy8ua0isxogd-5956871-01-06.jpg",
-      "date": "2026-05-07T00:13:13+00:00",
+      "title": "VIDEO. \"On n'est pas du tout enfermés\", raconte un passager du bateau de croisière touché par l'hantavirus",
+      "desc": "C’est peut-être la fin du cauchemar pour le navire contaminé à l'hantavirus. Trois passagers malades ont été évacués jeudi 6 mai vers le Cap-Vert puis vers les Pays-Bas. Un Français serait parmi les cas contacts. Le navire de croisière pourrait accoster prochainement aux Canaries. Deux Français à bo",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/hantavirus-a-bord-d-un-navire-de-croisiere-on-n-est-pas-du-tout-enfermes-un-passager-raconte_7987712.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/3iomMJwySvrKVLFDd9xlwGVorQQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/06/69fb8c1cd2429455724437.jpg",
+      "date": "2026-05-07T10:01:50+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Des traitements contre le cancer du sein exposent les femmes à un risque cardiovasculaire accru",
+      "desc": "Un collectif de médecins alerte sur l'urgence de mieux protéger les femmes face aux maladies cardiovasculaires. AVC, infarctus, facteurs de risque spécifiques et impact des traitements contre le cancer du sein : les spécialistes appellent à renforcer la prévention et le suivi, alors que près de 200 ",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/des-traitements-contre-le-cancer-du-sein-exposent-les-femmes-a-un-risque-cardiovasculaire-accru_7988792.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/3c_oE2qXkjIwNstvn2_bwuNmEyc/0x110:2121x1304/432x243/filters:format(jpg)/2026/05/07/69fc33410ca78800405315.jpg",
+      "date": "2026-05-07T09:12:23+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un lait infantile contaminé mis hors de cause dans la mort d'un bébé à Angers en décembre",
+      "desc": "Si l'enfant a bien été \"exposé au lait Guigoz\", les dernières analyses ont conclu à un décès par asphyxie.",
+      "url": "https://www.franceinfo.fr/sante/alimentation/lait-infantile-contamine/le-lait-infantile-contamine-mis-hors-de-cause-dans-la-mort-d-un-bebe-a-angers_7988801.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/owPgPcvwrJAZUIMKNiQbJrVjXA0/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/07/69fc173b7597a356327406.jpg",
+      "date": "2026-05-07T08:23:46+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus sur un navire de croisière : le début de l’évacuation des passagers prévu lundi aux îles Canaries ; deux passagers de retour au Royaume-Uni invités à se confiner",
+      "desc": "Le bateau MV « Hondius », qui a quitté le Cap-Vert mercredi, est attendu samedi aux Canaries, selon Madrid. Les pays de l’Union européenne doivent prendre en charge leurs ressortissants, éventuellement aidés par la Commission européenne, tandis que l’évacuation des passagers extra-européens est touj",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/07/en-direct-hantavirus-sur-un-navire-de-croisiere-le-debut-de-l-evacuation-des-passagers-prevu-lundi-aux-iles-canaries-deux-passagers-de-retour-au-royaume-uni-invites-a-se-confiner_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/06/332/0/3990/1995/644/322/60/0/447c44d_ftp-1-8akjzwpd8hen-5961477-01-06.jpg",
+      "date": "2026-05-07T08:15:43+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur «MV Hondius» : le débarquement du navire prévu lundi, un deuxième avion médicalisé a atterri à Amsterdam",
+      "desc": "La souche des Andes de l’hantavirus a été détectée chez un malade. Trois passagers du bateau sont morts, plusieurs autres personnes ont été contaminées ou sont susceptibles de l’avoir été.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-mv-hondius-le-debarquement-du-navire-prevu-lundi-lenquete-se-tourne-vers-des-rongeurs-a-ushuaia-20260507_N6IDDBAHBVECTC4PG325ZA542U/",
+      "image": null,
+      "date": "2026-05-07T07:44:01+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Affaire Epstein : une potentielle lettre de suicide divulguée par un juge fédéral",
+      "desc": "A la demande du «New York Times», la justice américaine a rendu publique ce jeudi 7 mai une note qui aurait été retrouvée dans la cellule de l’homme d’affaires pédocriminel en juillet 2019, après une possible première tentative de mettre fin à ses jours.",
+      "url": "https://www.liberation.fr/international/amerique/affaire-epstein-une-potentielle-lettre-de-suicide-divulguee-par-un-juge-federal-20260507_JCEJFAAVERFB5G7QBVDNYBUZMM/",
+      "image": null,
+      "date": "2026-05-07T05:58:37+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le PSG en finale de la Ligue des champions, collégienne tuée dans l’Aisne, prétendue lettre de suicide d’Epstein rendue publique… L’actu de ce jeudi 7 mai au matin",
+      "desc": "La rédaction de «Libération» compile les principales infos du jour",
+      "url": "https://www.liberation.fr/international/europe/le-psg-en-finale-de-la-ligue-des-champions-collegienne-tuee-dans-laisne-pretendue-lettre-de-suicide-depstein-rendue-publique-lactu-de-ce-jeudi-7-mai-au-matin-20260507_O6JLXYMBWVGILHRGFNLB75SC2E/",
+      "image": null,
+      "date": "2026-05-07T05:49:01+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Bienfaits de la nature sur la santé : que dit la science ?",
+      "desc": "Maladies cardio-vasculaires et inflammatoires, dépression, stress… La nature serait-elle un de nos meilleurs alliés pour améliorer notre santé mentale et physique ? Dans ce podcast, tour d’horizon des avancées de la science sur cette question, avec Florence Rosier, journaliste scientifique au « Mond",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/05/07/bienfaits-de-la-nature-sur-la-sante-que-dit-la-science_6686447_5463015.html",
+      "image": "https://img.lemde.fr/2026/04/17/0/0/1800/900/644/322/60/0/8849e8e_upload-1-kiuno8gmvxtl-calinsarbresok.jpg",
+      "date": "2026-05-07T05:00:27+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "Le \"MV Hondius\", suspecté d'être un foyer d'hantavirus, est en route pour Tenerife, arrivée prévue  \"dans trois jours\"",
@@ -19,16 +89,6 @@
       "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
       "date": "2026-05-07T00:00:21+00:00",
       "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "VIDEO. Hantavirus à bord d'un navire de croisière : \"On n'est pas du tout enfermés\", un passager raconte",
-      "desc": "C’est peut-être la fin du cauchemar pour le navire contaminé à l'hantavirus. Trois passagers malades ont été évacués jeudi 6 mai vers le Cap-Vert puis vers les Pays-Bas. Un Français serait parmi les cas contacts. Le navire de croisière pourrait accoster prochainement aux Canaries. Deux Français à bo",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/hantavirus-a-bord-d-un-navire-de-croisiere-on-n-est-pas-du-tout-enfermes-un-passager-raconte_7987712.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/3iomMJwySvrKVLFDd9xlwGVorQQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/06/69fb8c1cd2429455724437.jpg",
-      "date": "2026-05-06T23:44:53+00:00",
-      "date_formatted": "6 May 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
@@ -53,16 +113,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus sur le navire «MV Hondius» : un premier avion médical a atterri aux Pays-Bas ce mercredi",
-      "desc": "Un second appareil avait décollé du Cap Vert ce mercredi et devait atterrir à Amsterdam ce mercredi avec deux malades à bord. Mais une «panne technique» a contraint l’équipage à faire escale à Tenerife dans l’archipel espagnol.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-un-passager-de-la-croisiere-est-bien-infecte-par-la-souche-des-andes-transmissible-entre-humains-20260506_ULTWPVNSJ5BONHGAFTYRVEBVLY/",
-      "image": null,
-      "date": "2026-05-06T20:16:32+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Le lait contaminé mis hors de cause dans la mort d’un bébé à Angers en décembre",
       "desc": "Une enquête avait été ouverte en décembre pour rechercher les causes du décès d’une petite fille âgée de 27 jours, morte le 23 décembre 2025 au domicile familial.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/06/le-lait-contamine-hors-de-cause-dans-la-mort-d-un-bebe-a-angers-en-decembre_6686171_1651302.html",
@@ -83,17 +133,7 @@
       "type": "science"
     },
     {
-      "title": "Mort d’un nourrisson à Angers en décembre : le lait contaminé hors de cause",
-      "desc": "Le parquet a conclu que la petite fille de 27 jours était morte par asphyxie et non pas à cause de la toxine céréulide, présente dans le lait avec lequel avait été fait son biberon.",
-      "url": "https://www.liberation.fr/societe/sante/le-lait-contamine-hors-de-cause-dans-la-mort-dun-bebe-a-angers-en-decembre-20260506_HTKEI673LBDTNMNAWC4TRFMCBQ/",
-      "image": null,
-      "date": "2026-05-06T19:21:14+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : de la souche Andes au taux de létalité, le lexique pour comprendre les mots qui circulent avec ce virus",
+      "title": "Le lexique pour comprendre les mots qui circulent avec le hantavirus",
       "desc": "L’infection de passagers sur un bateau de croisière, le MV « Hondius », révélée début mai, met en lumière les hantavirus. Voici les principaux termes scientifiques à connaître pour comprendre la situation.",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/06/hantavirus-de-la-souche-andres-au-taux-de-letalite-le-lexique-pour-comprendre-les-mots-qui-circulent-avec-ce-virus_6686157_4355770.html",
       "image": "https://img.lemde.fr/2026/05/06/0/0/3045/1522/644/322/60/0/86241b1_ftp-1-g6opqjpcq8co-5958639-01-06.jpg",
@@ -106,7 +146,7 @@
       "title": "Hantavirus : de nombreuses inconnues autour d’un événement sanitaire « inédit et inquiétant » ; l’OMS veut rassurer sur le risque pandémique",
       "desc": "La souche des Andes, transmissible entre humains par des gouttelettes de salive, a été déterminée, mercredi, par séquençage chez trois malades ayant voyagé à bord du MV « Hondius », qui doit accoster dans les jours qui viennent aux Canaries. Le point sur les principales questions posées par ce foyer",
       "url": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-de-nombreuses-inconnues-autour-d-un-evenement-sanitaire-inedit-et-inquietant-l-oms-veut-rassurer-sur-le-risque-pandemique_6686152_3244.html",
-      "image": "https://img.lemde.fr/2026/05/06/350/0/4200/2100/644/322/60/0/164c58b_ftp-1-h8glu0jronha-5957887-01-06.jpg",
+      "image": "https://img.lemde.fr/2026/05/06/180/0/2160/1080/644/322/60/0/0420505_ftp-1-f4lfm0ljcws5-10130d6fab2440df98f2652c48370e83-0-a3f6789384884ee3a83ca69d19a3b42a.jpg",
       "date": "2026-05-06T18:56:36+00:00",
       "date_formatted": "6 May 2026",
       "source": "Le Monde Santé",
@@ -117,19 +157,9 @@
       "desc": "Le gouvernement espagnol défend une opération sanitaire coordonnée avec l’Union européenne, tandis que les autorités de l’archipel dénoncent une décision imposée sans concertation.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-madrid-et-les-canaries-s-affrontent-sur-l-arrivee-du-mv-hondius-a-tenerife_6686151_3244.html",
       "image": "https://img.lemde.fr/2026/05/06/639/0/7655/3827/644/322/60/0/fe4938f_ftp-1-0cjhfz1u6q9d-5959073-01-06.jpg",
-      "date": "2026-05-06T18:51:10+00:00",
+      "date": "2026-05-06T18:51:08+00:00",
       "date_formatted": "6 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Proposition de paix étudiée par Téhéran, l’OMS rassurante sur l’hantavirus, mort de Ted Turner… L’actu de ce mercredi 6 mai",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 6 mai.",
-      "url": "https://www.liberation.fr/international/europe/proposition-de-paix-etudiee-par-teheran-loms-rassurante-sur-lhantavirus-mort-de-ted-turner-lactu-de-ce-mercredi-6-mai-20260506_BRXGDPNXKJARRMDQXZEUIU2ZVM/",
-      "image": null,
-      "date": "2026-05-06T17:19:01+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -140,16 +170,6 @@
       "date": "2026-05-06T16:56:38+00:00",
       "date_formatted": "6 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de la journaliste libanaise Amal Khalil : son journal porte plainte contre un expert de BFMTV",
-      "desc": "Al-Akhbar reproche au général Philippe Sidos des propos qu’il a tenus sur le plateau de la chaîne française après la mort de sa reporter le 22 avril sous des frappes israéliennes. Le journal a porté plainte pour «apologie de crime de guerre».",
-      "url": "https://www.liberation.fr/international/moyen-orient/mort-de-la-journaliste-libanaise-amal-khalil-son-journal-porte-plainte-contre-un-expert-de-bfmtv-20260506_Y67PCG7A65A5ZHODWDYJUONU4A/",
-      "image": null,
-      "date": "2026-05-06T16:14:46+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -201,16 +221,6 @@
       "date_formatted": "6 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Un nouveau cas d'hantavirus identifié, trois malades évacués, des passagers confinés... Quelle est la situation à bord du navire de croisière toujours bloqué au Cap-Vert ?",
-      "desc": "La prise en charge des personnes à bord du \"MV Hondius\" nécessitant des soins a débuté mercredi, a déclaré l'Organisation mondiale de la santé. Le bateau doit ensuite mettre le cap vers l'Espagne pour faire débarquer le reste des passagers et de l'équipage.",
-      "url": "https://www.franceinfo.fr/sante/trois-malades-evacues-passagers-confines-un-nouveau-cas-d-hantavirus-identifie-quelle-est-la-situation-a-bord-du-navire-de-croisiere-toujours-bloque-au-cap-vert_7986635.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/tTQzyXDB5GCFJokaylFZGL9T2EU/0x53:1024x629/432x243/filters:format(jpg)/2026/05/06/69fafcbb1fd7c495993409.jpg",
-      "date": "2026-05-06T14:54:14+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Hantavirus à bord d'un navire de croisière : \"Il y a un virus qui a démontré une transmission possible d'un individu à l'autre\", explique Loïc Epelboin, infectiologue",
@@ -680,16 +690,6 @@
       "date": "2026-04-29T14:08:40+00:00",
       "date_formatted": "29 April 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Anthrax du soudeur : ce cas presque mortel relance les inquiétudes autour d’une maladie encore mal comprise",
-      "desc": "Un adolescent de 18 ans, soudeur apprenti en Louisiane, a failli mourir d'une maladie bactérienne rarissime en septembre 2024. Six des huit cas précédents ont été fatals. Ce syndrome mystérieux ne touche quasiment que les soudeurs et métallurgistes. Pourquoi eux, et pourquoi maintenant ?",
-      "url": "https://www.futura-sciences.com/sante/actualites/bacteries-anthrax-soudeur-ce-cas-presque-mortel-relance-inquietudes-autour-maladie-encore-mal-comprise-k2m6-134082/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/8/5/785dd700f4_50254476_anthrax-soudeur-metallurgistes.jpg",
-      "date": "2026-04-29T10:00:00+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
