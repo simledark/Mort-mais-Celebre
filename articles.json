@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-05-08T07:13:42.982083+00:00",
-  "count": 84,
+  "generated_at": "2026-05-08T13:04:37.412948+00:00",
+  "count": 81,
   "articles": [
+    {
+      "title": "Hantavirus sur un bateau de croisière : comment l'Argentine tente de retrouver l'origine du virus",
+      "desc": "Pour mieux comprendre le début de l'épidémie qui a fait trois morts à bord du MV Hondius, les autorités sanitaires ont notamment lancé une expédition pour mettre la main sur des \"rats à longue queue\".",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-sur-un-bateau-de-croisiere-comment-l-argentine-tente-de-retrouver-l-origine-du-virus_7991417.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Pd0mWrK0xRArzFdDatWtj3IyAJ8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/08/69fdbdea0c89b423300903.jpg",
+      "date": "2026-05-08T13:00:44+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un navire de croisière : \"Ce n’est pas une maladie aussi contagieuse que le Covid\", affirme le professeur Bruno Mégarbane",
+      "desc": "Le navire de croisière \"MV Hondius\" touché par un foyer d’hantavirus doit rester au large des Canaries. Si ce scénario rappelle pour certains le début de la pandémie de Covid-19, le professeur Bruno Mégarbane, chef du service de réanimation de l’hôpital Lariboisière à Paris, se veut rassurant sur le",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-sur-un-navire-de-croisiere-ce-n-est-pas-une-maladie-aussi-contagieuse-que-le-covid-affirme-un-medecin_7991477.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/nBhvPtvY98axFPn-gaR8Z7isaFw/0x218:4200x2581/432x243/filters:format(jpg)/2026/05/08/69fd9fbbbc811637815253.jpg",
+      "date": "2026-05-08T12:43:14+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : les premiers rapatriements vont commencer dimanche, annonce l’Espagne",
+      "desc": "Alors que le navire de croisière poursuit sa route vers les îles Canaries, l’Organisation mondiale de la santé s’est voulue rassurante vendredi : elle juge toujours le risque «extrêmement faible» pour la population mondiale.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-dautres-cas-dhantavirus-sont-possibles-a-prevenu-jeudi-lorganisation-mondiale-de-la-sante-20260508_6JNSMNOZC5AKZM6IJDUQPCCOFU/",
+      "image": null,
+      "date": "2026-05-08T12:39:46+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : le risque pour la population est « absolument faible », assure l’OMS ; des passagers du navire pourront être rapatriés dès dimanche",
+      "desc": "Le navire est attendu dimanche au large de Tenerife, dans l’archipel espagnol, en vue de l’évacuation des quelque 150 passagers et membres d’équipage en début de semaine prochaine.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/08/en-direct-hantavirus-le-risque-pour-la-population-est-absolument-faible-assure-l-oms-les-autorites-espagnoles-se-preparent-a-l-evacuation-du-navire-prevue-lundi_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/07/0/0/5000/2500/644/322/60/0/42c15a5_ftp-1-bztwbewvypc3-5969871-01-06.jpg",
+      "date": "2026-05-08T12:03:05+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un bateau de croisière : « Ce n’est pas un nouveau Covid », estime l’OMS",
+      "desc": "L’Organisation mondiale de la santé (OMS) a affirmé qu’un risque de propagation du virus pour la population mondiale était « absolument faible », alors que trois passagers du navire « MV Hondius » sont décédés",
+      "url": "https://www.20minutes.fr/sante/4222602-20260508-hantavirus-bateau-croisiere-nouveau-covid-estime-oms?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/2Cqpnk0HR0aA72lGIWwzOik/1200x768_ankara-turquie-06-mai-sur-cette-illustration-photo-des-echantillons-d-hantavirus-sont-vus-a-ankara-en-turquie-le-6-mai-2026-arman-onal-anadolu-photo-d-arman-onal-anadolu-via-afp",
+      "date": "2026-05-08T11:05:07+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un bateau de croisière : Un nouveau cas suspect décelé sur un Britannique",
+      "desc": "Un troisième ressortissant britannique a été diagnostiqué avec un cas suspect d’hantavirus, dans l’Atlantique Sud. Une hôtesse de l’air qui présentait des symptômes a de son côté été testée négative",
+      "url": "https://www.20minutes.fr/sante/4222587-20260508-hantavirus-bateau-croisiere-nouveau-cas-suspect-decele-britannique?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/j_X-iH9aRkqAQJ27YldNrik/1200x768_ankara-turquie-06-mai-sur-cette-illustration-photo-des-echantillons-d-hantavirus-sont-vus-a-ankara-en-turquie-le-6-mai-2026-arman-onal-anadolu-photo-d-arman-onal-anadolu-via-afp",
+      "date": "2026-05-08T08:38:14+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Vrai ou faux. Hantavirus : la biodiversité et le climat sont-ils responsables de la multiplication des zoonoses, comme l'affirme Jean-Luc Mélenchon ?",
       "desc": "Le leader insoumis affirme que la multiplication des zoonoses est liée à la chute de la biodiversité et au changement climatique. C'est vrai sur le premier point, plus nuancé sur le second.",
@@ -10,6 +70,16 @@
       "date": "2026-05-08T08:32:54+00:00",
       "date_formatted": "8 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Qui est vraiment l’hantavirus des Andes, qui tue 20 à 40 % des personnes qu’il infecte ?",
+      "desc": "Transmise par les rats, transmissible entre humains, rare mais virulente, à incubation lente, la souche responsable de trois morts, huit cas suspects et des centaines de cas contacts sur le bateau de croisière MV Hondius tient la planète en haleine alors que l’enquête épidémiologique se poursuit.",
+      "url": "https://www.liberation.fr/societe/sante/qui-est-vraiment-lhantavirus-des-andes-qui-tue-20-a-40-des-personnes-quil-infecte-20260508_OVGVVHI7OVF2RETWPGZNT245DE/",
+      "image": null,
+      "date": "2026-05-08T08:01:29+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -24,22 +94,12 @@
     },
     {
       "title": "Hantavirus : pour le spécialiste Gustavo Palacios, « le virus de l’espèce Andes n’est pas aussi transmissible que d’autres virus respiratoires »",
-      "desc": "Le virologue qui fait partie des rares experts à avoir travaillé sur une épidémie de ce type estime que le risque de propagation est limité si les mesures appropriées sont prises. Selon lui, les cas et leurs contacts doivent être strictement recherchés et les malades symptomatiques isolés.",
+      "desc": "Le virologue, qui fait partie des rares experts à avoir travaillé sur une épidémie de ce type, estime que le risque de propagation est limité si des mesures simples de distanciation sont prises. Selon lui, les cas et leurs contacts doivent être strictement recherchés et les malades symptomatiques is",
       "url": "https://www.lemonde.fr/planete/article/2026/05/08/hantavirus-pour-le-specialiste-gustavo-palacios-le-virus-de-l-espece-andes-n-est-pas-aussi-transmissible-que-d-autres-virus-respiratoires_6686959_3244.html",
       "image": "https://img.lemde.fr/2026/05/06/400/0/4797/2398/644/322/60/0/dde2d3c_ftp-1-r12e2jscpswz-5962691-01-06.jpg",
-      "date": "2026-05-08T06:55:18+00:00",
+      "date": "2026-05-08T06:55:17+00:00",
       "date_formatted": "8 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : D’autres cas d’hantavirus sont «possibles», a prévenu jeudi l’Organisation mondiale de la santé",
-      "desc": "Alors que le navire de croisière poursuit sa route vers les îles Canaries, l’Organisation mondiale de la santé s’est voulue rassurante jeudi sur le «faible» niveau de risque épidémique.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-dautres-cas-dhantavirus-sont-possibles-a-prevenu-jeudi-lorganisation-mondiale-de-la-sante-20260508_6JNSMNOZC5AKZM6IJDUQPCCOFU/",
-      "image": null,
-      "date": "2026-05-08T06:42:37+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -50,26 +110,6 @@
       "date": "2026-05-08T06:42:04+00:00",
       "date_formatted": "8 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : selon l’Argentine, à ce jour il n’est « pas possible de confirmer l’origine de la contagion »",
-      "desc": "Le navire est attendu dimanche à Tenerife, dans l’archipel espagnol, en vue de l’évacuation des quelque 150 passagers et membres d’équipage en début de semaine prochaine.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/08/en-direct-hantavirus-selon-l-argentine-il-n-est-a-ce-jour-pas-possible-de-confirmer-l-origine-de-la-contagion_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/06/340/0/4082/2041/644/322/60/0/4e32e5f_ftp-1-hzw6bjwrrax1-5962740-01-06.jpg",
-      "date": "2026-05-08T06:36:47+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Indonésie : Trois randonneurs sont morts après l’éruption d’un volcan sur l’île d’Halmahera",
-      "desc": "Dix personnes, dont plusieurs ressortissants de Singapour, sont encore portées disparus après l’éruption vendredi matin du volcan Dukono aux Moluques, dans l’est de l’archipel.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/indonesie-trois-randonneurs-sont-morts-apres-leruption-dun-volcan-sur-lile-dhalmahera-20260508_IB5JRCIE6NEWXLYRPJ2D5ZQZYA/",
-      "image": null,
-      "date": "2026-05-08T06:28:49+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -87,14 +127,14 @@
       "desc": "Madrid et les autorités régionales canariennes se sont accordés sur un transfert direct des passagers du navire vers l’aéroport du sud de Tenerife « avec toutes les garanties nécessaires » pour éviter des contagions locales.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/07/hantavirus-les-passagers-du-mv-hondius-seront-evacues-apres-un-triage-sanitaire-a-bord-du-navire-qui-n-accostera-pas-aux-canaries_6686608_3244.html",
       "image": "https://img.lemde.fr/2026/05/07/94/0/5733/2866/644/322/60/0/78b2a24_ftp-1-dml0mhwxr42v-5969746-01-06.jpg",
-      "date": "2026-05-07T21:58:14+00:00",
+      "date": "2026-05-07T21:58:13+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
     {
       "title": "Hantavirus sur un bateau de croisière : Un couple de passagers français racontent une « aventure improbable »",
-      "desc": "À bord du MV Hondius malgré trois décès, un couple décrit une situation « quasi‑normale » et appelle à ne « pas dramatiser »",
+      "desc": "À bord du MV Hondius, malgré trois décès, un couple décrit une situation « quasi‑normale » et appelle à ne « pas dramatiser »",
       "url": "https://www.20minutes.fr/societe/4222567-20260507-hantavirus-bateau-croisiere-couple-passagers-francais-racontent-aventure-improbable?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/r38WrqbdQSC9PkLkPaU6MSk/1200x768_le-navire-de-croisiere-mv-hondius-quitte-le-port-de-praia-au-cap-vert-le-mercredi-6-mai-2026-ap-photo-misper-apawu-xma121-26126635628911-2605061948",
       "date": "2026-05-07T21:34:37+00:00",
@@ -111,16 +151,6 @@
       "date_formatted": "7 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : Un Français cas contact présente des «symptômes»",
-      "desc": "La souche des Andes a été détectée chez un malade. Trois passagers du bateau sont morts, plusieurs autres personnes ont été contaminées ou sont susceptibles de l’avoir été.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-mv-hondius-le-debarquement-du-navire-prevu-lundi-lenquete-se-tourne-vers-des-rongeurs-a-ushuaia-20260507_N6IDDBAHBVECTC4PG325ZA542U/",
-      "image": null,
-      "date": "2026-05-07T20:00:32+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Hantavirus sur un bateau de croisière : pourquoi les autorités sanitaires restent rassurantes sur le risque d'épidémie",
@@ -140,26 +170,6 @@
       "date": "2026-05-07T17:50:08+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Prudence sur la propagation de l’hantavirus, information judiciaire contre Elon Musk à Paris, Sonia Delesalle-Stolper à la tête de «Libé»… L’actu de ce jeudi 7 mai",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
-      "url": "https://www.liberation.fr/international/europe/prudence-sur-la-propagation-de-lhantavirus-information-judiciaire-contre-elon-musk-a-paris-sonia-delesalle-stolper-a-la-tete-de-libe-lactu-de-ce-jeudi-7-mai-20260507_6NVE7B64ZVDYRAZY7LVPENQCTY/",
-      "image": null,
-      "date": "2026-05-07T17:41:34+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Après un scrutin test pour l’Inde, le Bengale-Occidental s’enfonce dans la violence",
-      "desc": "Dans cet ancien fief de l’opposition, la ministre en cheffe sortante refuse de démissionner malgré la victoire écrasante du BJP de Narendra Modi. Elle dénonce les manipulations du registre électoral. Les affrontements entre camps ont déjà fait plusieurs morts.",
-      "url": "https://www.liberation.fr/international/asie-pacifique/apres-un-scrutin-test-pour-linde-le-bengale-occidental-senfonce-dans-la-violence-20260507_FRHIMCPXENCWHMMIJ3EI7JYKLE/",
-      "image": null,
-      "date": "2026-05-07T17:38:40+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -291,16 +301,6 @@
       "date_formatted": "7 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Le \"MV Hondius\", suspecté d'être un foyer d'hantavirus, est en route pour Tenerife, arrivée prévue  \"dans trois jours\"",
-      "desc": "Immobilisé depuis dimanche, le bateau a quitté sa zone de mouillage au large du Cap-Vert, mercredi soir. L'évacuation des passagers démarrera lundi.",
-      "url": "https://www.franceinfo.fr/sante/le-mv-hondius-suspecte-d-etre-un-foyer-d-hantavirus-a-quitte-le-cap-vert-arrivee-prevue-a-tenerife-dans-trois-jours_7987703.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
-      "date": "2026-05-07T00:00:21+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Le lait contaminé mis hors de cause dans la mort d’un bébé à Angers en décembre",
@@ -453,16 +453,6 @@
       "type": "presse"
     },
     {
-      "title": "En France, le nombre de jeunes morts noyés en hausse en raison des fortes chaleurs",
-      "desc": "Au cours de l’été 2025, les noyades mortelles d’enfants et d’adolescents ont fortement augmenté par rapport à celui de 2024, fait savoir Santé publique France, qui pointe les vagues de canicule précoces.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/05/en-france-le-nombre-de-jeunes-morts-noyes-en-hausse-en-raison-des-fortes-chaleurs_6685596_3224.html",
-      "image": "https://img.lemde.fr/2026/05/05/585/0/5568/2784/644/322/60/0/bd2e2c3_upload-1-n2racg4xtvck-000-32h33gu.jpg",
-      "date": "2026-05-05T15:24:37+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus sur un bateau : l'OMS soupçonne une \"transmission interhumaine\"",
       "desc": "L’OMS alerte sur une possible transmission interhumaine d’hantavirus à bord du navire de croisière néerlandais MV Hondius, après trois décès. Un mode de propagation rare pour ce virus, habituellement transmis par les rongeurs.",
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-sur-un-bateau-l-oms-soupconne-une-transmission-interhumaine_192323?xtor=RSS-16",
@@ -518,26 +508,6 @@
       "url": "https://www.20minutes.fr/monde/4221992-20260505-foyer-hantavirus-bateau-espagne-va-accepter-non-accostage-navire-flou?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/E5aa1G1NRzqW4CepmfAtCik/1200x768_le-mv-hondius-un-navire-de-croisiere-battant-pavillon-neerlandais-transportant-pres-de-150-personnes-est-toujours-au-large-du-cap-vert-le-lundi-4-mai-2026-apres-la-mort-de-trois-passagers-et-la-chute-de-plusieurs-autres-gravement-malades-lors-d-une-epidemie-presumee-d-hantavirus-qasem-elhato-via-ap-han806-26125325169564-2605051126",
       "date": "2026-05-05T11:18:48+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Foyer d’hantavirus sur un bateau : Au moins deux cas confirmés, cinq autres suspectés",
-      "desc": "L’OMS a confirmé mardi deux cas d’hantavirus et cinq autres suspectés en lien avec le foyer décelé sur un bateau de croisière néerlandais bloqué depuis dimanche au Cap-Vert",
-      "url": "https://www.20minutes.fr/sante/4221927-20260505-foyer-hantavirus-bateau-moins-deux-cas-confirmes-cinq-autres-suspectes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/jvBjWd-9SmGlTVcgBwr22Ck/1200x768_le-navire-de-croisiere-mv-hondius-est-ancre-dans-un-port-de-praia-au-cap-vert-le-lundi-4-mai-2026-ap-photo-arilson-almeida-xma106-26124596267234-2605041853",
-      "date": "2026-05-05T09:31:49+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Georges Pompidou savait déjà qu’il était malade juste avant d’être élu à la présidentielle de 1969",
-      "desc": "Un livre révèle que Pompidou connaissait sa leucémie avant d’entrer à l’Élysée, que Mitterrand savait son cancer incurable dès 1981, et que Chirac a fait un arrêt cardiaque en 2005",
-      "url": "https://www.20minutes.fr/politique/4221957-20260505-georges-pompidou-savait-deja-malade-juste-avant-etre-elu-presidentielle-1969?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/FbJk-c0NQoK7Jr8fQy68Pik/1200x768_georges-pompidou",
-      "date": "2026-05-05T09:22:48+00:00",
       "date_formatted": "5 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
