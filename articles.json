@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-07T19:23:12.407694+00:00",
-  "count": 85,
+  "generated_at": "2026-05-08T01:50:57.172469+00:00",
+  "count": 72,
   "articles": [
+    {
+      "title": "Hantavirus : les passagers du MV « Hondius » seront évacués après un triage sanitaire à bord du navire, qui n’accostera pas aux Canaries",
+      "desc": "Madrid et les autorités régionales canariennes se sont accordés sur un transfert direct des passagers du navire vers l’aéroport du sud de Tenerife « avec toutes les garanties nécessaires » pour éviter des contagions locales.",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/07/hantavirus-les-passagers-du-mv-hondius-seront-evacues-apres-un-triage-sanitaire-a-bord-du-navire-qui-n-accostera-pas-aux-canaries_6686608_3244.html",
+      "image": "https://img.lemde.fr/2026/05/07/94/0/5733/2866/644/322/60/0/78b2a24_ftp-1-dml0mhwxr42v-5969746-01-06.jpg",
+      "date": "2026-05-07T21:58:14+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un bateau de croisière : Un couple de passagers français racontent une « aventure improbable »",
+      "desc": "À bord du MV Hondius malgré trois décès, un couple décrit une situation « quasi‑normale » et appelle à ne « pas dramatiser »",
+      "url": "https://www.20minutes.fr/societe/4222567-20260507-hantavirus-bateau-croisiere-couple-passagers-francais-racontent-aventure-improbable?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/r38WrqbdQSC9PkLkPaU6MSk/1200x768_le-navire-de-croisiere-mv-hondius-quitte-le-port-de-praia-au-cap-vert-le-mercredi-6-mai-2026-ap-photo-misper-apawu-xma121-26126635628911-2605061948",
+      "date": "2026-05-07T21:34:37+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "8 questions sur l’hantavirus : symptômes, transmission, risques… le point indispensable de l’Inserm",
       "desc": "Un foyer d’hantavirus détecté sur un navire ? Une souche capable de transmission humaine ? Pas de vaccin ni de traitement ? Il n’en fallait pas plus pour que l’OMS réagisse face à la menace d’une pandémie, dont le souvenir de la dernière s’est immédiatement ravivé dans les mémoires. Parce que,...",
@@ -13,13 +33,23 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT, hantavirus : huit Français ont été identifiés comme cas contact d’un ancien passager du navire de croisière, l’un d’entre eux est à l’isolement",
+      "title": "EN DIRECT, hantavirus : huit Français ont été identifiés comme cas contacts d’un ancien passager du navire de croisière, l’un d’entre eux est à l’isolement",
       "desc": "Le MV « Hondius » « n’accostera pas » aux Canaries, mais restera au large, selon le président du gouvernement régional, opposé à son arrivée. « L’évacuation des passagers se fera au moyen d’une vedette ou d’un petit vaisseau qui pourra les acheminer vers l’aéroport » de Tenerife Sud, a poursuivi le ",
       "url": "https://www.lemonde.fr/sante/live/2026/05/07/en-direct-hantavirus-sur-un-navire-de-croisiere-huit-francais-qui-n-ont-pas-voyage-sur-le-navire-ont-ete-identifies-comme-cas-contact-d-un-ancien-passager_6686093_1651302.html",
       "image": "https://img.lemde.fr/2026/05/07/921/0/5500/2750/644/322/60/0/9f57b63_ftp-1-qb3sl9m3mzvt-2026-05-07t091319z-785885512-rc294la6ojeh-rtrmadp-3-cruiseship-hantavirus-spain.JPG",
       "date": "2026-05-07T20:26:53+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Un Français cas contact présente des «symptômes»",
+      "desc": "La souche des Andes a été détectée chez un malade. Trois passagers du bateau sont morts, plusieurs autres personnes ont été contaminées ou sont susceptibles de l’avoir été.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-mv-hondius-le-debarquement-du-navire-prevu-lundi-lenquete-se-tourne-vers-des-rongeurs-a-ushuaia-20260507_N6IDDBAHBVECTC4PG325ZA542U/",
+      "image": null,
+      "date": "2026-05-07T20:00:32+00:00",
+      "date_formatted": "7 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -70,16 +100,6 @@
       "date": "2026-05-07T17:24:43+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus : Un Français cas contact présente des «symptômes»",
-      "desc": "La souche des Andes de l’hantavirus a été détectée chez un malade. Trois passagers du bateau sont morts, plusieurs autres personnes ont été contaminées ou sont susceptibles de l’avoir été.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-mv-hondius-le-debarquement-du-navire-prevu-lundi-lenquete-se-tourne-vers-des-rongeurs-a-ushuaia-20260507_N6IDDBAHBVECTC4PG325ZA542U/",
-      "image": null,
-      "date": "2026-05-07T17:18:00+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -191,16 +211,6 @@
       "date_formatted": "7 May 2026",
       "source": "France Info Santé",
       "type": "presse"
-    },
-    {
-      "title": "Dans les coulisses de la course au dépistage de l'hantavirus sur le bateau de croisière",
-      "desc": "Une vigilance de l’Institut national sud-africain des maladies transmissibles a permis d’alerter l’OMS sur l’épidémie de hantavirus à bord du MV Hondius, sauvant potentiellement des vies.",
-      "url": "https://www.sciencesetavenir.fr/sante/dans-les-coulisses-de-la-course-au-depistage-de-l-hantavirus-sur-le-bateau-de-croisiere_192353?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/07/cover-r4x3w1200-69fc55545d922-hantavirus-2.jpg",
-      "date": "2026-05-07T09:10:11+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
     },
     {
       "title": "Troubles de l’érection, sédatifs, stéroïdes… Des millions de médicaments contrefaits et potentiellement mortels saisis",
@@ -323,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Canicule et baignades sauvages : alarmante hausse des noyades mortelles en France en 2025",
-      "desc": "À l’été 2025, marqué par des épisodes de chaleur précoce et intense, la France a enregistré 409 décès par noyade. Nombre de ces drames sont survenus fin juin, dans des rivières et plans d’eau non surveillés, où la quête de fraîcheur face à la canicule s’est révélée fatale.",
-      "url": "https://www.sciencesetavenir.fr/sante/canicule-et-baignades-sauvages-alarmante-hausse-des-noyades-mortelles-en-france-en-2025_192344?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/06/cover-r4x3w1200-69fb4d79aacf6-baignade.jpg",
-      "date": "2026-05-06T14:58:21+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus sur un bateau de croisière : Quel protocole pour la prise en charge des passagers ?",
       "desc": "Alors que le MV Hondius doit relier Tenerife, dans les Îles Canaries, plusieurs passagers ont déjà été évacués selon des procédures sanitaires",
       "url": "https://www.20minutes.fr/monde/4222251-20260506-hantavirus-bateau-croisiere-protocole-prise-charge-passagers?at_medium=display&at_campaign=149",
@@ -353,16 +353,6 @@
       "type": "science"
     },
     {
-      "title": "Croisières : quelles modalités en cas de risque sanitaire ?",
-      "desc": "Les bateaux de croisières, qui accueillent une clientèle toujours plus nombreuse dans le monde, sont des lieux d'interactions en vase clos. Le protocole sanitaire en cas de maladie infectieuse, comme sur le navire bloqué face au Cap-Vert à la suite de plusieurs cas d'hantavirus, y est strict.",
-      "url": "https://www.sciencesetavenir.fr/sante/croisieres-quelles-modalites-en-cas-de-risque-sanitaire_192342?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/06/cover-r4x3w1200-69fb41f86cb52-hantavirus-urgence.jpg",
-      "date": "2026-05-06T13:45:04+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus : les passagers du navire de croisière attendent d’être fixés au large du Cap-Vert ; l’identification de la souche se précise",
       "desc": "L’évacuation de deux membres d’équipage malades et d’un cas contact est en cours via le Cap-Vert, a indiqué une représentante de l’OMS. La souche de hantavirus détectée sur un des passagers de la croisière évacué en Afrique du Sud est celle des Andes, transmissible entre humains, a par ailleurs décl",
       "url": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-les-passagers-du-navire-de-croisiere-attendent-d-etre-fixes-au-large-du-cap-vert-l-identification-de-la-souche-se-precise_6686087_3244.html",
@@ -371,16 +361,6 @@
       "date_formatted": "6 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
-    },
-    {
-      "title": "Hantavirus sur un bateau de croisière : un passager infecté par la souche des Andes",
-      "desc": "La souche d'hantavirus détectée sur un des passagers du navire MV Hondius et évacué en Afrique du Sud, est celle des Andes, transmissible entre humains, a déclaré le 6 mai 2026 le ministre sud-africain de la Santé devant une commission parlementaire.",
-      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-sur-un-bateau-de-croisiere-un-passager-infecte-par-la-souche-des-andes-transmissible-entre-humains_192334?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/06/cover-r4x3w1200-69fb0ed641156-afp-20260504-hl-jlbulcao-3148977-v1-highres-franceillustrationhantavirus.jpg",
-      "date": "2026-05-06T09:50:15+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
     },
     {
       "title": "L’Espagne va accueillir le navire touché par un foyer d’hantavirus aux Canaries",
@@ -433,16 +413,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus sur un bateau : l'OMS soupçonne une \"transmission interhumaine\"",
-      "desc": "L’OMS alerte sur une possible transmission interhumaine d’hantavirus à bord du navire de croisière néerlandais MV Hondius, après trois décès. Un mode de propagation rare pour ce virus, habituellement transmis par les rongeurs.",
-      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-sur-un-bateau-l-oms-soupconne-une-transmission-interhumaine_192323?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/05/cover-r4x3w1200-69f9f0751df8b-hantavirus.jpg",
-      "date": "2026-05-05T14:11:21+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Iran : La prix Nobel de la paix Narges Mohammadi, emprisonnée, « entre la vie et la mort », selon ses proches",
       "desc": "L’Iranienne Narges Mohammadi, lauréate du prix Nobel de la paix et détenue dans son pays, se trouve « entre la vie et la mort » après son hospitalisation en urgence le week-end dernier, selon ses proches",
       "url": "https://www.20minutes.fr/monde/4222031-20260505-iran-prix-nobel-paix-narges-mohammadi-emprisonnee-entre-vie-mort-selon-proches?at_medium=display&at_campaign=149",
@@ -481,16 +451,6 @@
       "date_formatted": "5 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : l’Espagne va accueillir le MV « Hondius » aux Canaries d’ici « trois à quatre jours »",
-      "desc": "Trois personnes malades se trouvant à bord du navire de croisière devaient être débarquées à Praia, au Cap-Vert, dans la nuit de mardi à mercredi, avant d’être évacuées par les airs. Le bateau doit ensuite faire route vers les Canaries, où son port d’arrivée n’est pas encore connu.",
-      "url": "https://www.lemonde.fr/sante/article/2026/05/05/foyer-de-hantavirus-sur-un-navire-de-croisiere-l-oms-soupconne-une-transmission-interhumaine-l-espagne-accepte-l-accostage-du-bateau-aux-canaries_6685571_1651303.html",
-      "image": "https://img.lemde.fr/2026/05/05/374/0/3024/1512/644/322/60/0/5d80895_ftp-1-g1szg5yn4dkc-64d2df8847ef4b35bcce36eebab2c8f7-0-2700b3aef12841ecab50ab25bba32114.jpg",
-      "date": "2026-05-05T11:57:31+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Foyer d’hantavirus sur un bateau : L’Espagne va-t-elle accepter l’accostage du navire ? C’est le flou",
@@ -543,16 +503,6 @@
       "type": "science"
     },
     {
-      "title": "Qu'est-ce qu'un hantavirus ?",
-      "desc": "Un navire de croisière présent dans l'Atlantique est devenu un potentiel foyer d'infection à hantavirus, causant la mort de trois personnes. Transmission, symptômes, traitements : Sciences et Avenir fait le point sur ces pathogènes.",
-      "url": "https://www.sciencesetavenir.fr/sante/qu-est-ce-que-l-infection-a-hantavirus-qui-aurait-fait-trois-morts-sur-un-bateau-de-croisiere_192302?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8abf1092ef-afp-20250604-f0450716-v1-highres-hantavirusantibodybloodtest.jpg",
-      "date": "2026-05-04T15:01:13+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus : pourquoi les 6 cas graves et décès sur le même navire intriguent autant les chercheurs",
       "desc": "En quelques jours, un couple de passagers britanniques a été frappé de plein fouet, suivi de quatre autres croisiéristes présentant les mêmes symptômes respiratoires sévères. Sur ce foyer mortel observé à bord du MV Hondius, un seul cas de hantavirus est confirmé à ce stade, mais cela suffit...",
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-6-cas-graves-deces-meme-navire-intriguent-autant-chercheurs-134228/#xtor%3DRSS-8",
@@ -560,56 +510,6 @@
       "date": "2026-05-04T14:03:57+00:00",
       "date_formatted": "4 May 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Royaume-Uni : « Nous sommes des miracles »… Des sœurs jumelles découvrent qu’elles n’ont pas le même père",
-      "desc": "A l’issue de tests ADN, les deux Britanniques ont appris qu’elles n’étaient que demi-sœurs et ont pu retrouver leurs pères biologiques",
-      "url": "https://www.20minutes.fr/sante/4221807-20260504-urs-jumelles-decouvrent-elles-pere-miracles?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/bdGMBtoBQmuJUwSsSsyDpSk/1200x768_jumelles",
-      "date": "2026-05-04T14:02:37+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Foyer présumé d’hantavirus : Les 149 passagers, dont cinq Français, du bateau pourraient débarquer aux Canaries",
-      "desc": "Les îles de Las Palmas et Tenerife des Canaries sont « envisagées comme porte d’entrée pour le débarquement » du bateau de croisière, présumé abriter un foyer d’hantavirus et sur lequel voyagent cinq Français",
-      "url": "https://www.20minutes.fr/monde/4221797-20260504-foyer-presume-hantavirus-149-passagers-bateau-pourraient-debarquer-canaries?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/tFV1iplDRQG9F7vpEn-lQyk/1200x768_vue-du-navire-de-croisiere-m-v-hondius-ancre-dans-un-port-de-praia-au-cap-vert-le-lundi-4-mai-2026-ap-photo-arilson-almeida-xma101-26124444323903-2605041434",
-      "date": "2026-05-04T13:37:33+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Il court 32 marathons en 32 jours consécutifs pour attirer l'attention sur la démence",
-      "desc": "Jordan Adams a couru le marathon de Londres le 3 mai 2026 avec un réfrigérateur de 25 kilos sur le dos. Ce n'était qu'une première étape : il s'est lancé dans 32 marathons sur 32 jours en Irlande pour attirer l'attention sur une forme de démence que lui et son frère sont quasiment certains de dévelo",
-      "url": "https://www.sciencesetavenir.fr/sante/il-court-32-marathons-en-32-jours-consecutifs-pour-attirer-l-attention-sur-la-demence_192269?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/30/cover-r4x3w1200-69f33328ee781-59ec65bb8cbfe77d781b77f77d92f0caa9c05c15-jpg.jpg",
-      "date": "2026-05-04T13:25:44+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Trois morts liés à un possible foyer de hantavirus sur un bateau de croisière dans l'Atlantique",
-      "desc": "L’Organisation mondiale de la santé (OMS) a annoncé le 3 mai 2026 trois décès potentiellement liés à un foyer d’infection à hantavirus, une maladie susceptible d’entraîner un syndrome respiratoire aigu, survenu à bord d’un navire de croisière dans l’Atlantique.",
-      "url": "https://www.sciencesetavenir.fr/sante/trois-morts-lies-a-un-possible-foyer-de-hantavirus-sur-un-bateau-de-croisiere-dans-l-atlantique_192299?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8730141eeb-croisiere.jpg",
-      "date": "2026-05-04T12:04:33+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Le lipœdème, la \"maladie des jambes poteaux\", toucherait une femme sur dix",
-      "desc": "Le lipœdème est une maladie chronique encore sous-diagnostiquée, marquée par une accumulation symétrique de graisse, surtout au niveau des jambes, souvent associée à un risque accru de bleus et d’hématomes. Reconnu depuis 2018, il reste pourtant sans prise en charge spécifique.",
-      "url": "https://www.sciencesetavenir.fr/sante/le-lipoedeme-la-maladie-des-jambes-poteaux-toucherait-une-femme-sur-dix_192297?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f86ebbb36ba-lipo.jpg",
-      "date": "2026-05-04T10:26:04+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
@@ -690,36 +590,6 @@
       "date": "2026-04-30T08:00:00+00:00",
       "date_formatted": "30 April 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "L'acteur Sam Neill annonce la rémission de son cancer après une thérapie génique",
-      "desc": "L'acteur a suivi une immunothérapie dite \"de cellules CAR-T\", qui utilise un virus inactivé pour reprogrammer génétiquement les globules T humains, leur permettant ainsi de cibler des cancers spécifiques.",
-      "url": "https://www.sciencesetavenir.fr/sante/cancer/sam-neill-la-star-de-jurassic-park-annonce-la-remission-de-son-cancer-apres-une-therapie-genique_192239?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/29/cover-r4x3w1200-69f210e7b124b-afp-20250207-2198098103-v3-highres-2025aactaawardsceremonypresentedbyfoxtelgrou.jpg",
-      "date": "2026-04-29T14:08:40+00:00",
-      "date_formatted": "29 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Au Royaume-Uni, baisse de l'espérance de vie en bonne santé",
-      "desc": "Le Royaume-Uni a enregistré en une décennie une baisse de plus de deux ans de l'espérance de vie en bonne santé, désormais inférieure à 61 ans, ce qui le place à l'avant-dernier rang parmi les pays riches, selon une étude de l'organisation Health Foundation.",
-      "url": "https://www.sciencesetavenir.fr/sante/au-royaume-uni-baisse-de-l-esperance-de-vie-en-bonne-sante_192222?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/28/cover-r4x3w1200-69f0918cc4226-food-bank.jpg",
-      "date": "2026-04-28T13:44:54+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "L'OMS alerte sur la lenteur des progrès dans la lutte contre les virus de l'hépatite",
-      "desc": "Selon le rapport mondial de l'OMS sur l'hépatite 2026, la transmission des hépatites B et C se poursuit à un rythme soutenu.",
-      "url": "https://www.sciencesetavenir.fr/sante/l-oms-alerte-sur-la-lenteur-des-progres-dans-la-lutte-contre-les-virus-de-l-hepatite_192221?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/28/cover-r4x3w1200-69f09155b9be0-f18b6d6f1baf235cebeb01110fe4cb74979b2f21-jpg.jpg",
-      "date": "2026-04-28T13:07:35+00:00",
-      "date_formatted": "28 April 2026",
-      "source": "Sciences & Avenir",
       "type": "science"
     },
     {
