@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-05-08T13:04:37.412948+00:00",
-  "count": 81,
+  "generated_at": "2026-05-08T19:01:30.061132+00:00",
+  "count": 84,
   "articles": [
+    {
+      "title": "Hantavirus : cinq Français rapatriés, un protocole sanitaire très encadré mis en place",
+      "desc": "Les cinq passagers français rapatriés des Îles Canaries vont être soumis à un protocole sanitaire strict dès leur arrivée. Dépistage sur place, transfert sécurisé vers Paris, puis examens à l’Institut Pasteur. Selon les résultats, isolement à domicile ou hospitalisation en chambres à pression négati",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-cinq-francais-rapatries-un-protocole-sanitaire-tres-encadre-mis-en-place_7992236.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/jBpw3ZlPyMrxW2G7rGWp9CKYooI/0x40:939x569/432x243/filters:format(jpg)/2026/05/08/69fe30c81f144048678804.jpg",
+      "date": "2026-05-08T20:51:54+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un navire de croisière : les cinq Français à bord rapatriés \"dans les 24 à 48 heures\" après l'arrivée du bateau aux Canaries",
+      "desc": "Ces cinq Français ne présentaient pas, jeudi, pas de symptômes inquiétants, d'après le ministère des Affaires étrangères. Ils seront réexaminés à leur retour en France.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-sur-un-navire-de-croisiere-les-cinq-francais-a-bord-rapatries-dans-les-24-a-48-heures-apres-l-arrivee-du-bateau-aux-canaries_7992179.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/hz6idnC65Q9kxaQwlOp0KenfoAU/0x80:1024x656/432x243/filters:format(jpg)/2026/05/08/69fe1d9b28545823786954.jpg",
+      "date": "2026-05-08T20:28:31+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Thomas Baillet : \"Ma sœur m'a dit : je préfère un frère chiant à un frère mort\"",
+      "desc": "Gymnaste puis acteur, Thomas Baillet est né avec la mucoviscidose, une maladie génétique qui affecte les fonctions respiratoires et digestives et ne lui laissait qu'une vingtaine d'années d'espérance de vie.",
+      "url": "https://www.franceinfo.fr/societe/thomas-baillet-ma-s-ur-m-a-dit-je-prefere-un-frere-chiant-a-un-frere-mort_7992071.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_1dlBdCCSta91Utq8Ua_6BdlAmU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/08/69fe06012f092690680442.png",
+      "date": "2026-05-08T20:00:02+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : les cinq Français à bord du MV « Hondius » seront rapatriés « dans les 24 à 48 heures » après l’arrivée du bateau aux Canaries",
+      "desc": "Le navire est attendu dimanche au large de Tenerife, dans l’archipel espagnol, en vue de l’évacuation des quelque 150 passagers et membres d’équipage en début de semaine prochaine.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/08/en-direct-hantavirus-les-cinq-francais-a-bord-du-mv-hondius-seront-rapatries-dans-les-24-a-48-heures-apres-l-arrivee-du-bateau-aux-canaries_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/06/790/0/7655/3827/644/322/60/0/fe4938f_ftp-1-0cjhfz1u6q9d-5959073-01-06.jpg",
+      "date": "2026-05-08T19:56:07+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pierre Chambon, pionnier de la biologie moléculaire, est mort",
+      "desc": "L’ancien professeur au Collège de France, qui avait accumulé les brillantes distinctions et plus de 900 publications, a également été un « bâtisseur d’institution ». Il s’est éteint jeudi 7 mai à l’âge de 95 ans.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/05/08/pierre-chambon-pionnier-de-la-biologie-moleculaire-est-mort_6687102_3382.html",
+      "image": "https://img.lemde.fr/2026/05/08/775/0/1299/649/644/322/60/0/52e4656_upload-1-ieidf2l4nqbc-andia-178875.JPG",
+      "date": "2026-05-08T19:49:08+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : le Français cas contact a été testé négatif",
+      "desc": "Alors que le navire de croisière poursuit sa route vers les îles Canaries, l’Organisation mondiale de la santé s’est voulue rassurante vendredi : elle juge toujours le risque «extrêmement faible» pour la population mondiale.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-dautres-cas-dhantavirus-sont-possibles-a-prevenu-jeudi-lorganisation-mondiale-de-la-sante-20260508_6JNSMNOZC5AKZM6IJDUQPCCOFU/",
+      "image": null,
+      "date": "2026-05-08T18:57:35+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Face à l’hantavirus, une fébrilité saine",
+      "desc": "Après la mort de trois passagers du «MV Hondius» dans l’Atlantique Sud, scientifiques et autorités tentent de comprendre l’origine de leur contamination et les conséquences possibles. Même si la létalité de cette souche «des Andes» est forte, l’OMS se veut rassurante.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/face-a-lhantavirus-une-febrilite-saine-20260508_6MFEGCQ4MVEXFPG35YF4IKBLMU/",
+      "image": null,
+      "date": "2026-05-08T18:39:21+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "DIRECT. \"Hantavirus, la croisière de la peur\" : regardez le documentaire de franceinfo qui retrace le voyage du navire touché par la maladie",
+      "desc": "Franceinfo retrace le voyage du \"MV Hondius\", à bord duquel un foyer d'hantavirus s'est déclaré, faisant trois morts parmi les passagers.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/direct-hantavirus-la-croisiere-de-la-peur-regardez-le-documentaire-de-franceinfo-qui-retrace-le-voyage-du-navire-touche-par-la-maladie_7991774.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
+      "date": "2026-05-08T18:00:01+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : comment le système sanitaire et les établissements de santé de référence français se préparent",
+      "desc": "Transport, tests virologiques, examens cliniques… Alors que le rapatriement des cinq Français embarqués sur le navire « Hondius », foyer de contamination de ce virus peu connu en Europe, pourrait avoir lieu dès dimanche, les protocoles de prise en charge se précisent.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/08/hantavirus-comment-le-systeme-sanitaire-et-les-etablissements-de-sante-de-reference-francais-se-preparent_6687083_3224.html",
+      "image": "https://img.lemde.fr/2026/05/06/350/0/4200/2100/644/322/60/0/fd46e03_ftp-1-35gg7azmuxou-5957858-01-06.jpg",
+      "date": "2026-05-08T17:59:34+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En Espagne, l’hantavirus provoque un bras de fer politique et sanitaire",
+      "desc": "Le «MV Hondius» et ses 145 passagers, issus de 22 nationalités, sont attendus dimanche ou lundi au large de Tenerife. Le président des Canaries s’oppose à cet accueil, décidé par le gouvernement de Pedro Sánchez et l’OMS.",
+      "url": "https://www.liberation.fr/international/europe/en-espagne-lhantavirus-provoque-un-bras-de-fer-politique-et-sanitaire-20260508_JI3DBXAUMRAELMYSXCMQXU6M5A/",
+      "image": null,
+      "date": "2026-05-08T16:31:05+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : la gestion de la crise nécessite une coordination internationale",
+      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il revient aujourd’hui sur les craintes suscitées par l’apparition de ce virus.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-la-gestion-de-la-crise-necessite-une-coordination-internationale-20260508_J7PBMAUKRVBEDHOAOV5TURRMRA/",
+      "image": null,
+      "date": "2026-05-08T15:53:54+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Césarienne : comment le sexe du bébé influence ses risques de maladies à long terme",
+      "desc": "Et si le mode d’accouchement influençait durablement la santé… mais pas de la même façon chez les filles et les garçons ? Des chercheurs français montrent que la césarienne modifie précocement le microbiote et pourrait orienter différemment les risques de maladies selon le sexe. Une piste qui...",
+      "url": "https://www.futura-sciences.com/sante/actualites/naissance-cesarienne-sexe-bebe-influence-risques-maladies-long-terme-134303/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/e/9/ae97a87ec6_50254823_bebe-cesarienne.jpg",
+      "date": "2026-05-08T15:08:37+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Hantavirus sur un bateau de croisière : Les premiers rapatriements débuteront dimanche au large de Tenerife",
+      "desc": "Cinq jours après l’alerte donnée par l’Organisation mondiale de la santé quant à l’existence d’un foyer d’infection à hantavirus sur un navire de croisière, les premiers rapatriements vont commencer",
+      "url": "https://www.20minutes.fr/societe/4222609-20260508-hantavirus-bateau-croisiere-premiers-rapatriements-debuteront-dimanche-large-tenerife?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Vkmufpo-QtiBBzwuNOfoSyk/1200x768_les-passagers-bloques-sur-le-navire-de-croisiere-mv-hondius-touche-par-un-foyer-d-hantavirus-vont-etre-rapatries-a-partir-de-dimanche",
+      "date": "2026-05-08T14:31:21+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus sur un bateau de croisière : comment l'Argentine tente de retrouver l'origine du virus",
       "desc": "Pour mieux comprendre le début de l'épidémie qui a fait trois morts à bord du MV Hondius, les autorités sanitaires ont notamment lancé une expédition pour mettre la main sur des \"rats à longue queue\".",
@@ -20,26 +150,6 @@
       "date": "2026-05-08T12:43:14+00:00",
       "date_formatted": "8 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : les premiers rapatriements vont commencer dimanche, annonce l’Espagne",
-      "desc": "Alors que le navire de croisière poursuit sa route vers les îles Canaries, l’Organisation mondiale de la santé s’est voulue rassurante vendredi : elle juge toujours le risque «extrêmement faible» pour la population mondiale.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-dautres-cas-dhantavirus-sont-possibles-a-prevenu-jeudi-lorganisation-mondiale-de-la-sante-20260508_6JNSMNOZC5AKZM6IJDUQPCCOFU/",
-      "image": null,
-      "date": "2026-05-08T12:39:46+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : le risque pour la population est « absolument faible », assure l’OMS ; des passagers du navire pourront être rapatriés dès dimanche",
-      "desc": "Le navire est attendu dimanche au large de Tenerife, dans l’archipel espagnol, en vue de l’évacuation des quelque 150 passagers et membres d’équipage en début de semaine prochaine.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/08/en-direct-hantavirus-le-risque-pour-la-population-est-absolument-faible-assure-l-oms-les-autorites-espagnoles-se-preparent-a-l-evacuation-du-navire-prevue-lundi_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/07/0/0/5000/2500/644/322/60/0/42c15a5_ftp-1-bztwbewvypc3-5969871-01-06.jpg",
-      "date": "2026-05-08T12:03:05+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -70,16 +180,6 @@
       "date": "2026-05-08T08:32:54+00:00",
       "date_formatted": "8 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Qui est vraiment l’hantavirus des Andes, qui tue 20 à 40 % des personnes qu’il infecte ?",
-      "desc": "Transmise par les rats, transmissible entre humains, rare mais virulente, à incubation lente, la souche responsable de trois morts, huit cas suspects et des centaines de cas contacts sur le bateau de croisière MV Hondius tient la planète en haleine alors que l’enquête épidémiologique se poursuit.",
-      "url": "https://www.liberation.fr/societe/sante/qui-est-vraiment-lhantavirus-des-andes-qui-tue-20-a-40-des-personnes-quil-infecte-20260508_OVGVVHI7OVF2RETWPGZNT245DE/",
-      "image": null,
-      "date": "2026-05-08T08:01:29+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -183,31 +283,11 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : ces formes, nettement moins préoccupantes mais sous surveillance, qui circulent en Europe",
-      "desc": "Après avoir contracté cette souche très rare et agressive du virus à bord du \"MV Hondius\", trois personnes sont décédées et cinq autres ont été contaminées.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus-ces-formes-nettement-moins-preoccupantes-mais-sous-surveillance-qui-circulent-en-europe_7989008.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/pUVjA5QMyp1Ce0nNG13NOBUKOPc/0x217:4176x2566/432x243/filters:format(jpg)/2026/05/07/69fc3f2bad73e970865809.jpg",
-      "date": "2026-05-07T15:27:56+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : \"Les mesures qui se mettent en place sont les bonnes\", souligne l'infectiologue Imad Kansau, qui rappelle qu'il \"n'existe pas de vaccin\" à l'heure actuelle",
       "desc": "Infectiologue à l'hôpital Antoine-Béclère de Clamart, dans les Hauts-de-Seine, le Dr. Imad Kansau revient, dans le \"11/13\" du jeudi 7 mai, sur les points essentiels du fonctionnement de l'hantavirus soupçonné d'avoir fait plusieurs morts sur un bateau de croisière au large du Cap-Vert.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-les-mesures-qui-se-mettent-en-place-sont-les-bonnes-souligne-l-infectiologue-imad-kansau-qui-rappelle-qu-il-n-existe-pas-de-vaccin-a-l-heure-actuelle_7989467.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/J5a_pvprD9HKCUdVljQEqhvK2s8/21x0:1415x784/432x243/filters:format(jpg)/2026/05/07/69fc875d7fd27454409106.jpg",
       "date": "2026-05-07T14:37:30+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus sur un navire de croisière : lors du débarquement, \"on va probablement décider d'isoler les passagers pendant six semaines\", selon un épidémiologiste",
-      "desc": "Touché par un foyer d'hantavirus responsable de trois décès à bord, le \"MV Hondius\" fait route vers les îles espagnoles des Canaries, où les 150 personnes encore présentes sur le bateau sont attendues samedi. Leur débarquement est \"parfaitement gérable\", estime Antoine Flahault, épidémiologiste à l'",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/c-est-totalement-gerable-comment-se-deroule-le-debarquement-des-passagers-du-navire-mv-hondius-foyer-d-un-hantavirus_7989053.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Amz3qJ9sDf2KJ3AtOOXt5ek3D80/0x137:2637x1621/432x243/filters:format(jpg)/2026/05/07/69fc664bd0fbf209845189.jpg",
-      "date": "2026-05-07T14:06:41+00:00",
       "date_formatted": "7 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -233,16 +313,6 @@
       "type": "science"
     },
     {
-      "title": "Foyer d'hantavirus sur un navire de croisière : l'origine de la contamination pourrait être antérieure au voyage",
-      "desc": "Le bateau de croisière touché par un foyer d'hantavirus fait route vers l'Espagne, jeudi 7 mai. Les passagers et personnels sont toujours confinés à bord du \"MV Hondius\", alors que trois personnes sont décédées et que trois autres ont été évacuées. Les experts sont à l'œuvre pour déterminer l'origin",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/foyer-d-hantavirus-sur-un-navire-de-croisiere-l-origine-de-la-contamination-pourrait-etre-anterieure-au-voyage_7989140.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/uZp2QJ4-A3NJaLgAo2W2-ASfjO8/0x43:1193x715/432x243/filters:format(jpg)/2026/05/07/69fc4e740a689673306243.jpg",
-      "date": "2026-05-07T11:00:03+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : l’Argentine cherche à retracer le parcours avant l’embarquement sur le MV « Hondius » des deux premiers passagers morts",
       "desc": "Les deux Néerlandais, premiers malades à bord du bateau, avaient sillonné le pays avant d’embarquer pour la croisière. Le pays d’Amérique du Sud enregistre une progression des cas de hantavirus depuis quelques années.",
       "url": "https://www.lemonde.fr/planete/article/2026/05/07/hantavirus-l-argentine-cherche-a-retracer-le-parcours-avant-l-embarquement-sur-le-hondius-des-deux-premiers-passagers-morts_6686528_3244.html",
@@ -250,16 +320,6 @@
       "date": "2026-05-07T10:50:54+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Des traitements contre le cancer du sein exposent les femmes à un risque cardiovasculaire accru",
-      "desc": "Un collectif de médecins alerte sur l'urgence de mieux protéger les femmes face aux maladies cardiovasculaires. AVC, infarctus, facteurs de risque spécifiques et impact des traitements contre le cancer du sein : les spécialistes appellent à renforcer la prévention et le suivi, alors que près de 200 ",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/des-traitements-contre-le-cancer-du-sein-exposent-les-femmes-a-un-risque-cardiovasculaire-accru_7988792.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/3c_oE2qXkjIwNstvn2_bwuNmEyc/0x110:2121x1304/432x243/filters:format(jpg)/2026/05/07/69fc33410ca78800405315.jpg",
-      "date": "2026-05-07T09:12:23+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -280,16 +340,6 @@
       "date": "2026-05-07T09:02:34+00:00",
       "date_formatted": "7 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Un lait infantile contaminé mis hors de cause dans la mort d'un bébé à Angers en décembre",
-      "desc": "Si l'enfant a bien été \"exposé au lait Guigoz\", les dernières analyses ont conclu à un décès par asphyxie.",
-      "url": "https://www.franceinfo.fr/sante/alimentation/lait-infantile-contamine/le-lait-infantile-contamine-mis-hors-de-cause-dans-la-mort-d-un-bebe-a-angers_7988801.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/owPgPcvwrJAZUIMKNiQbJrVjXA0/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/07/69fc173b7597a356327406.jpg",
-      "date": "2026-05-07T08:23:46+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -503,16 +553,6 @@
       "type": "science"
     },
     {
-      "title": "Foyer d’hantavirus sur un bateau : L’Espagne va-t-elle accepter l’accostage du navire ? C’est le flou",
-      "desc": "Le ministère espagnol de la Santé a annoncé que Madrid n’a pris « aucune décision » sur l’accostage du navire de croisière frappé par un foyer d’hantavirus, contredisant l’OMS",
-      "url": "https://www.20minutes.fr/monde/4221992-20260505-foyer-hantavirus-bateau-espagne-va-accepter-non-accostage-navire-flou?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/E5aa1G1NRzqW4CepmfAtCik/1200x768_le-mv-hondius-un-navire-de-croisiere-battant-pavillon-neerlandais-transportant-pres-de-150-personnes-est-toujours-au-large-du-cap-vert-le-lundi-4-mai-2026-apres-la-mort-de-trois-passagers-et-la-chute-de-plusieurs-autres-gravement-malades-lors-d-une-epidemie-presumee-d-hantavirus-qasem-elhato-via-ap-han806-26125325169564-2605051126",
-      "date": "2026-05-05T11:18:48+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Des poumons qui vont bien avec l’envie de mourir, ça n’a pas de sens » : le Kaftrio, médicament « miracle » contre la mucoviscidose, entraîne des troubles du comportement chez des enfants",
       "desc": "Autorisé en 2021 en France, cette trithérapie a changé la donne dans le traitement de la mucoviscidose. Mais, chez certains patients, elle provoque aussi d’importants troubles du comportement. Des parents expriment leur peur de devoir choisir entre la santé physique et la santé psychique de leurs en",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/05/mucoviscidose-du-miracle-au-mal-etre-des-parents-demunis-face-a-la-detresse-psychologique-de-leurs-enfants-avec-le-kaftrio_6685539_1650684.html",
@@ -640,16 +680,6 @@
       "date": "2026-04-30T09:44:28+00:00",
       "date_formatted": "30 April 2026",
       "source": "Inserm",
-      "type": "science"
-    },
-    {
-      "title": "Faire du sport ne suffit pas à protéger votre cerveau du déclin si vous restez trop longtemps assis",
-      "desc": "Une nouvelle étude vient bousculer les certitudes concernant l’importance de l’activité physique pour diminuer les risques de démence chez les personnes âgées. Une habitude simple mais plus puissante mériterait d’être adoptée.",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-faire-sport-ne-suffit-pas-proteger-votre-cerveau-declin-si-vous-restez-trop-longtemps-assis-w2t8-134093/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/8/c/58c4d59743_50254490_station-debout-sport-bien-vieillir.jpg",
-      "date": "2026-04-30T08:00:00+00:00",
-      "date_formatted": "30 April 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
