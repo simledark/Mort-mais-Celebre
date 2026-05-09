@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-05-08T19:01:30.061132+00:00",
-  "count": 84,
+  "generated_at": "2026-05-09T01:46:02.700685+00:00",
+  "count": 81,
   "articles": [
+    {
+      "title": "EN DIRECT, hantavirus : le nombre de cas confirmés s’élève à six, annonce l’OMS",
+      "desc": "Tous ont été identifiés « comme étant dus au virus des Andes », a précisé l’Organisation mondiale de la Santé, qui recense par ailleurs deux cas « probables ». Quatre patients sont hospitalisés : « un en soins intensifs à Johannesburg, en Afrique du Sud, deux dans différents hôpitaux aux Pays-Bas et",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/09/en-direct-hantavirus-le-nombre-de-cas-confirmes-s-eleve-a-six-annonce-l-oms_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/06/141/0/1112/556/644/322/60/0/5771086_ftp-1-xszoi7lml3id-ba6e864d51f5471e9638f38c0b7105f2-0-eed3900f404f4d6499ed8787f2432b54.jpg",
+      "date": "2026-05-09T01:14:10+00:00",
+      "date_formatted": "9 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPLAY. \"Hantavirus, la croisière de la peur\" : regardez le documentaire de franceinfo qui retrace le voyage du navire touché par la maladie",
+      "desc": "Franceinfo retrace le voyage du \"MV Hondius\", à bord duquel un foyer d'hantavirus s'est déclaré, faisant trois morts parmi les passagers.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/direct-hantavirus-la-croisiere-de-la-peur-regardez-le-documentaire-de-franceinfo-qui-retrace-le-voyage-du-navire-touche-par-la-maladie_7991774.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
+      "date": "2026-05-08T22:23:44+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : cinq Français rapatriés, un protocole sanitaire très encadré mis en place",
       "desc": "Les cinq passagers français rapatriés des Îles Canaries vont être soumis à un protocole sanitaire strict dès leur arrivée. Dépistage sur place, transfert sécurisé vers Paris, puis examens à l’Institut Pasteur. Selon les résultats, isolement à domicile ou hospitalisation en chambres à pression négati",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-cinq-francais-rapatries-un-protocole-sanitaire-tres-encadre-mis-en-place_7992236.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/jBpw3ZlPyMrxW2G7rGWp9CKYooI/0x40:939x569/432x243/filters:format(jpg)/2026/05/08/69fe30c81f144048678804.jpg",
-      "date": "2026-05-08T20:51:54+00:00",
+      "date": "2026-05-08T22:23:27+00:00",
       "date_formatted": "8 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur un bateau de croisière : Le chef de l’OMS aux Canaries pour coordonner l’évacuation des passagers",
+      "desc": "Le patron de l’Organisation mondiale de la Santé, Tedros Adhanom Ghebreyesus, se rend aux Canaries en pleine crise à propos du navire foyer d’hantavirus",
+      "url": "https://www.20minutes.fr/monde/espagne/4222637-20260508-hantavirus-bateau-croisiere-chef-oms-canaries-coordonner-evacuation-passagers?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/IpBJtVreS4OS13LWIzMtyik/1200x768_tedros-adhanom-ghebreyesus-directeur-general-de-l-organisation-mondiale-de-la-sante-oms-informe-les-medias-lors-d-une-conference-de-presse-organisee-par-l-association-des-correspondants-des-nations-unies-a-geneve-acanu-au-siege-de-l-organisation-mondiale-de-la-sante-oms-a-geneve-en-suisse-le-mercredi-29-avril-2026-martial-trezzini-keystone-via-ap-dsob111-26119509325415-credit-obligatoire-2604291612",
+      "date": "2026-05-08T21:04:09+00:00",
+      "date_formatted": "8 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -33,16 +63,6 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT, hantavirus : les cinq Français à bord du MV « Hondius » seront rapatriés « dans les 24 à 48 heures » après l’arrivée du bateau aux Canaries",
-      "desc": "Le navire est attendu dimanche au large de Tenerife, dans l’archipel espagnol, en vue de l’évacuation des quelque 150 passagers et membres d’équipage en début de semaine prochaine.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/08/en-direct-hantavirus-les-cinq-francais-a-bord-du-mv-hondius-seront-rapatries-dans-les-24-a-48-heures-apres-l-arrivee-du-bateau-aux-canaries_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/06/790/0/7655/3827/644/322/60/0/fe4938f_ftp-1-0cjhfz1u6q9d-5959073-01-06.jpg",
-      "date": "2026-05-08T19:56:07+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pierre Chambon, pionnier de la biologie moléculaire, est mort",
       "desc": "L’ancien professeur au Collège de France, qui avait accumulé les brillantes distinctions et plus de 900 publications, a également été un « bâtisseur d’institution ». Il s’est éteint jeudi 7 mai à l’âge de 95 ans.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/05/08/pierre-chambon-pionnier-de-la-biologie-moleculaire-est-mort_6687102_3382.html",
@@ -53,7 +73,7 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : le Français cas contact a été testé négatif",
+      "title": "Hantavirus sur le «MV Hondius» : la probabilité de contamination du patient zéro à Ushuaïa est «pratiquement» nulle, selon les autorités locales",
       "desc": "Alors que le navire de croisière poursuit sa route vers les îles Canaries, l’Organisation mondiale de la santé s’est voulue rassurante vendredi : elle juge toujours le risque «extrêmement faible» pour la population mondiale.",
       "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-dautres-cas-dhantavirus-sont-possibles-a-prevenu-jeudi-lorganisation-mondiale-de-la-sante-20260508_6JNSMNOZC5AKZM6IJDUQPCCOFU/",
       "image": null,
@@ -73,16 +93,6 @@
       "type": "presse"
     },
     {
-      "title": "DIRECT. \"Hantavirus, la croisière de la peur\" : regardez le documentaire de franceinfo qui retrace le voyage du navire touché par la maladie",
-      "desc": "Franceinfo retrace le voyage du \"MV Hondius\", à bord duquel un foyer d'hantavirus s'est déclaré, faisant trois morts parmi les passagers.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/direct-hantavirus-la-croisiere-de-la-peur-regardez-le-documentaire-de-franceinfo-qui-retrace-le-voyage-du-navire-touche-par-la-maladie_7991774.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/zXxWBR83-iwZR_o-ULcUmNrX7x8/0x86:3402x2000/432x243/filters:format(jpg)/2026/05/06/69fb0bc3c64e2252879881.jpg",
-      "date": "2026-05-08T18:00:01+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : comment le système sanitaire et les établissements de santé de référence français se préparent",
       "desc": "Transport, tests virologiques, examens cliniques… Alors que le rapatriement des cinq Français embarqués sur le navire « Hondius », foyer de contamination de ce virus peu connu en Europe, pourrait avoir lieu dès dimanche, les protocoles de prise en charge se précisent.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/08/hantavirus-comment-le-systeme-sanitaire-et-les-etablissements-de-sante-de-reference-francais-se-preparent_6687083_3224.html",
@@ -98,16 +108,6 @@
       "url": "https://www.liberation.fr/international/europe/en-espagne-lhantavirus-provoque-un-bras-de-fer-politique-et-sanitaire-20260508_JI3DBXAUMRAELMYSXCMQXU6M5A/",
       "image": null,
       "date": "2026-05-08T16:31:05+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : la gestion de la crise nécessite une coordination internationale",
-      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il revient aujourd’hui sur les craintes suscitées par l’apparition de ce virus.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-la-gestion-de-la-crise-necessite-une-coordination-internationale-20260508_J7PBMAUKRVBEDHOAOV5TURRMRA/",
-      "image": null,
-      "date": "2026-05-08T15:53:54+00:00",
       "date_formatted": "8 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -253,16 +253,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus sur un bateau de croisière : pourquoi les autorités sanitaires restent rassurantes sur le risque d'épidémie",
-      "desc": "L'identification, chez deux passagers du \"MV Hondius\", d'une souche du virus transmissible entre humains incite les autorités à redoubler de vigilance.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-sur-un-bateau-de-croisiere-pourquoi-les-autorites-sanitaires-restent-rassurantes-sur-le-risque-d-epidemie_7989254.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/AJw50E761yg3qkcLpZhLkJYr7vY/0x59:1024x635/432x243/filters:format(jpg)/2026/05/07/69fc623cf1e02629925315.jpg",
-      "date": "2026-05-07T18:40:33+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ce qu’il faut savoir sur les hantavirus : origine, moyens de transmission, symptômes potentiels…",
       "desc": "Selon l’Organisation mondiale de la santé, trois personnes qui se trouvaient à bord du navire de croisière MV « Hondius », dans l’Atlantique, sont mortes, liés à un foyer d’infection à hantavirus. Le type de hantavirus détecté sur un des passagers de la croisière est celui des Andes, transmissible e",
       "url": "https://www.lemonde.fr/sante/article/2026/05/07/ce-qu-il-faut-savoir-sur-les-hantavirus-origine-moyens-de-transmission-symptomes-potentiels_6685359_1651303.html",
@@ -280,16 +270,6 @@
       "date": "2026-05-07T17:24:43+00:00",
       "date_formatted": "7 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : \"Les mesures qui se mettent en place sont les bonnes\", souligne l'infectiologue Imad Kansau, qui rappelle qu'il \"n'existe pas de vaccin\" à l'heure actuelle",
-      "desc": "Infectiologue à l'hôpital Antoine-Béclère de Clamart, dans les Hauts-de-Seine, le Dr. Imad Kansau revient, dans le \"11/13\" du jeudi 7 mai, sur les points essentiels du fonctionnement de l'hantavirus soupçonné d'avoir fait plusieurs morts sur un bateau de croisière au large du Cap-Vert.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-les-mesures-qui-se-mettent-en-place-sont-les-bonnes-souligne-l-infectiologue-imad-kansau-qui-rappelle-qu-il-n-existe-pas-de-vaccin-a-l-heure-actuelle_7989467.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/J5a_pvprD9HKCUdVljQEqhvK2s8/21x0:1415x784/432x243/filters:format(jpg)/2026/05/07/69fc875d7fd27454409106.jpg",
-      "date": "2026-05-07T14:37:30+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -518,16 +498,6 @@
       "url": "https://www.20minutes.fr/monde/4222031-20260505-iran-prix-nobel-paix-narges-mohammadi-emprisonnee-entre-vie-mort-selon-proches?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/2qcl8LnDSr2WXnEu4dOEZCk/1200x768_narges-mohammadi-est-assise-dans-son-appartement-a-teheran-le-16-janvier-2025-elle-a-recu-le-prix-nobel-de-la-paix-2023-pour-avoir-defendu-les-droits-et-la-liberte-des-femmes-et-est-actuellement-en-conge-de-prison-middle-east-images-sipa-36795-credit-nooshin-jafari-sipa-2512141444",
       "date": "2026-05-05T14:00:07+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Grippe : L’Académie de médecine recommande l’obligation vaccinale pour les soignants",
-      "desc": "Alors que seuls 20 % des personnels soignants sont vaccinés contre la grippe chaque année, l’Académie de médecine recommande l’obligation vaccinale afin de diminuer les risques d’infections et la mortalité, ainsi que le coût financier pour la société",
-      "url": "https://www.20minutes.fr/sante/4222008-20260505-grippe-academie-medecine-recommande-obligation-vaccinale-soignants?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/pkIqJ72QROuwKlpx0b31Uyk/1200x768_12-novembre-2025-basse-saxe-hanovre-un-medecin-tient-une-seringue-contenant-le-vaccin-antigrippal-vaxigrip-lors-d-un-evenement-de-presse-sur-la-vaccination-antigrippale-au-ministere-de-la-sante-de-basse-saxe-l-office-de-la-sante-de-l-etat-de-basse-saxe-et-le-ministere-de-la-sante-appellent-a-la-vaccination-contre-la-grippe-photo-julian-stratenschulte-dpa-photo-de-julian-stratenschulte-dpa-picture-alliance-via-afp",
-      "date": "2026-05-05T12:51:11+00:00",
       "date_formatted": "5 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
