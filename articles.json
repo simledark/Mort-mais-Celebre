@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-05-09T01:46:02.700685+00:00",
-  "count": 81,
+  "generated_at": "2026-05-09T07:29:41.580381+00:00",
+  "count": 82,
   "articles": [
     {
-      "title": "EN DIRECT, hantavirus : le nombre de cas confirmés s’élève à six, annonce l’OMS",
-      "desc": "Tous ont été identifiés « comme étant dus au virus des Andes », a précisé l’Organisation mondiale de la Santé, qui recense par ailleurs deux cas « probables ». Quatre patients sont hospitalisés : « un en soins intensifs à Johannesburg, en Afrique du Sud, deux dans différents hôpitaux aux Pays-Bas et",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/09/en-direct-hantavirus-le-nombre-de-cas-confirmes-s-eleve-a-six-annonce-l-oms_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/06/141/0/1112/556/644/322/60/0/5771086_ftp-1-xszoi7lml3id-ba6e864d51f5471e9638f38c0b7105f2-0-eed3900f404f4d6499ed8787f2432b54.jpg",
-      "date": "2026-05-09T01:14:10+00:00",
+      "title": "REPORTAGE. \"Je ne vois pas ça d'un bon œil\" : l'inquiétude des habitants de Tenerife à l'arrivée du navire de croisière touché par l'hantavirus",
+      "desc": "Le chef de l'Organisation mondiale de la Santé se rend sur l'île espagnole samedi. L'OMS assure que le risque de large propagation est \"absolument faible\", mais sur place, beaucoup de Canariens sont dubitatifs, voire inquiets.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/reportage-je-ne-vois-pas-ca-d-un-bon-il-l-inquietude-des-habitants-de-tenerife-a-l-arrivee-du-navire-de-croisiere-touche-par-l-hantavirus_7993214.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/CxNrfyaMBVgriiBD6_w59q3Fl5w/0x218:4197x2579/432x243/filters:format(jpg)/2026/05/05/69f9c425afd37536296034.jpg",
+      "date": "2026-05-09T08:36:13+00:00",
+      "date_formatted": "9 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : l’OMS juge « modéré » le risque de contamination pour les passagers et l’équipage du MV « Hondius »",
+      "desc": "Le navire de croisière doit arriver dimanche à la mi-journée à Tenerife, dans l’archipel des Canaries. L’Organisation mondiale de la santé a annoncé par ailleurs vendredi « six cas confirmés » d’un hantavirus de la souche des Andes et deux « probables », parmi les huit qui étaient suspectés.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/09/en-direct-hantavirus-l-oms-juge-modere-le-risque-de-contamination-pour-les-passagers-et-l-equipage-du-mv-hondius_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/08/525/0/6000/3000/644/322/60/0/2f5419a_ftp-1-2ywcfogyibik-d3272e7c704a42e28cf9a2f5512e73b7-0-ce239e4b58144e60b9ba338f75a4e401.jpg",
+      "date": "2026-05-09T06:36:58+00:00",
       "date_formatted": "9 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : le chef de l’OMS attendu aux Canaries pour coordonner le débarquement des passagers",
+      "desc": "Le navire est attendu entre dimanche et lundi au large de Tenerife afin de pouvoir évacuer ses quelque 150 passagers et membres d’équipage.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-le-chef-de-loms-attendu-aux-canaries-pour-coordonner-20260509_OJGPFOYXRFCXPNCVBWCTLKBZ44/",
+      "image": null,
+      "date": "2026-05-09T06:22:54+00:00",
+      "date_formatted": "9 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Cleo Bertelsmeier, biologiste : « Les espèces animales commercialisées ont plus de risques de partager un pathogène avec l’humain »",
+      "desc": "Dans un entretien au « Monde », la chercheuse s’inquiète de l’explosion du commerce des animaux exotiques. A ce jour, aucune convention n’encadre leur vente, malgré le danger potentiel qu’ils représentent pour l’environnement et la santé humaine.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/09/cleo-bertelsmeier-biologiste-les-especes-animales-commercialisees-ont-plus-de-risques-de-partager-un-pathogene-avec-l-humain_6687245_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/07/1557/1038/2873/1437/644/322/60/0/1e6b329_upload-1-1yxl7issvuzp-cleobertelsmeier14.jpg",
+      "date": "2026-05-09T05:00:13+00:00",
+      "date_formatted": "9 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "REPLAY. \"Hantavirus, la croisière de la peur\" : regardez le documentaire de franceinfo qui retrace le voyage du navire touché par la maladie",
@@ -83,16 +113,6 @@
       "type": "presse"
     },
     {
-      "title": "Face à l’hantavirus, une fébrilité saine",
-      "desc": "Après la mort de trois passagers du «MV Hondius» dans l’Atlantique Sud, scientifiques et autorités tentent de comprendre l’origine de leur contamination et les conséquences possibles. Même si la létalité de cette souche «des Andes» est forte, l’OMS se veut rassurante.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/face-a-lhantavirus-une-febrilite-saine-20260508_6MFEGCQ4MVEXFPG35YF4IKBLMU/",
-      "image": null,
-      "date": "2026-05-08T18:39:21+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : comment le système sanitaire et les établissements de santé de référence français se préparent",
       "desc": "Transport, tests virologiques, examens cliniques… Alors que le rapatriement des cinq Français embarqués sur le navire « Hondius », foyer de contamination de ce virus peu connu en Europe, pourrait avoir lieu dès dimanche, les protocoles de prise en charge se précisent.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/08/hantavirus-comment-le-systeme-sanitaire-et-les-etablissements-de-sante-de-reference-francais-se-preparent_6687083_3224.html",
@@ -100,16 +120,6 @@
       "date": "2026-05-08T17:59:34+00:00",
       "date_formatted": "8 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "En Espagne, l’hantavirus provoque un bras de fer politique et sanitaire",
-      "desc": "Le «MV Hondius» et ses 145 passagers, issus de 22 nationalités, sont attendus dimanche ou lundi au large de Tenerife. Le président des Canaries s’oppose à cet accueil, décidé par le gouvernement de Pedro Sánchez et l’OMS.",
-      "url": "https://www.liberation.fr/international/europe/en-espagne-lhantavirus-provoque-un-bras-de-fer-politique-et-sanitaire-20260508_JI3DBXAUMRAELMYSXCMQXU6M5A/",
-      "image": null,
-      "date": "2026-05-08T16:31:05+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
