@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-05-10T01:46:49.565834+00:00",
-  "count": 87,
+  "generated_at": "2026-05-10T07:53:10.238703+00:00",
+  "count": 85,
   "articles": [
     {
-      "title": "EN DIRECT, hantavirus : l’évacuation du  MV « Hondius » prévue vers 8 heures ; une réunion annoncée à Matignon pour faire « un point de situation »",
-      "desc": "Les Canaries se préparent à l’arrivée du navire de croisière, foyer d’infection à hantavirus, attendu pour dimanche à l’aube. Cinq Français sont à bord et devraient être rapatriés.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-l-evacuation-du-mv-hondius-prevue-vers-8-heures-une-reunion-annoncee-a-matignon-pour-faire-un-point-de-situation_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/09/983/0/5900/2950/644/322/60/0/f740900_ftp-1-vhyzqivbikwd-2026-05-09t075918z-1633845950-rc2j5lahw8n1-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
-      "date": "2026-05-10T02:08:11+00:00",
+      "title": "Ces porcs génétiquement modifiés pourraient sauver des milliers de vies… mais leur utilisation dérange",
+      "desc": "Dans une vallée isolée des États-Unis, des porcs génétiquement modifiés pourraient révolutionner la médecine. Ces animaux élevés pour fournir des organes compatibles avec le corps humain pourraient ainsi répondre au manque dramatique de greffons de reins, voire de cœur. Mais cette avancée...",
+      "url": "https://www.futura-sciences.com/sante/actualites/organe-ces-porcs-genetiquement-modifies-pourraient-sauver-milliers-vies-mais-leur-utilisation-derange-w2t8-134251/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/5/7a594acdac_50225071_elevage-porcs.jpg",
+      "date": "2026-05-10T09:00:00+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : les Canaries s’apprêtent à voir débarquer les passagers",
+      "desc": "La majorité des passagers et des membres de l’équipage du navire de croisière ont retrouvé la terre ferme ce dimanche matin, autour de 7 heures du matin, à Granadilla, dans le sud de Tenerife. Ils vont être rapatriés dans la foulée.",
+      "url": "https://www.liberation.fr/societe/en-direct-hantavirus-le-mv-hondius-est-arrive-aux-canaries-20260510_EPP4GIXY3BELJHIAEUABHJPBGM/",
+      "image": null,
+      "date": "2026-05-10T07:47:44+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : le navire de croisière MV « Hondius » entre dans le port de Granadilla, aux Canaries ; les cinq passagers français rapatriés dimanche",
+      "desc": "Une fois l’ancre jetée, le débarquement de plus d’une centaine de passagers et membres d’équipage doit se faire en matinée par nationalité, sous la supervision du directeur général de l’OMS. « Ils seront immédiatement transférés vers leurs vols respectifs », a prévenu l’exploitant du bateau.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-le-navire-de-croisiere-mv-hondius-est-en-approche-des-canaries_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/10/416/0/5000/2500/644/322/60/0/42508f5_ftp-1-jbwagzjtdu6d-2026-05-10t064950z-1461535587-rc266la6t9wk-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
+      "date": "2026-05-10T06:37:54+00:00",
       "date_formatted": "10 May 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Retour en France ce dimanche des Français du navire touché par l’hantavirus",
+      "desc": "Alors que l’OMS considère l’ensemble des passagers du MV Hondius comme « des contacts à haut risque », ces cinq Français seront placés en quarantaine",
+      "url": "https://www.20minutes.fr/societe/4222706-20260510-retour-france-dimanche-francais-navire-touche-hantavirus?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/P65HH7BkRJeJvqEXfufr-Ck/1200x768_les-cinq-francais-a-bord-du-navire-mv-hondius-touche-par-un-foyer-d-hantavirus-vont-rentrer-en-france-ce-10-mai-2026",
+      "date": "2026-05-10T05:59:17+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -120,26 +150,6 @@
       "date": "2026-05-09T13:26:55+00:00",
       "date_formatted": "9 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : comment va se passer le débarquement du navire «MV Hondius» ?",
-      "desc": "Afin d’éviter toute contamination tôt ce dimanche matin, des vedettes feront la navette entre la terre et le bateau de croisière. Les passagers seront ensuite acheminés par bus à l’aéroport, pour être rapatriés.",
-      "url": "https://www.liberation.fr/societe/hantavirus-comment-va-se-passer-le-debarquement-du-navire-mv-hondius-prevu-dimanche-20260509_FVMYS7ZGZZGH3LY4K2NGUPDYDI/",
-      "image": null,
-      "date": "2026-05-09T13:17:31+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "A Assas, les saluts nazis d’un professeur pendant un cours sur la propagande lancent un débat sur la liberté pédagogique",
-      "desc": "Après avoir mimé des saluts nazis dans un cours sur les congrès de Nuremberg, un professeur de communication politique, auteur de plusieurs travaux sur l’extrême-droitisation du débat public, fait l’objet d’un signalement à la cellule d’alerte RéagirAssas. Tout en se défendant d’adhérer à cette idéo",
-      "url": "https://www.liberation.fr/societe/education/a-assas-les-saluts-nazis-dun-professeur-pendant-un-cours-sur-la-propagande-lancent-un-debat-sur-la-liberte-pedagogique-20260509_Q45WOQX2YZCEVEZCAEBP76XHWI/",
-      "image": null,
-      "date": "2026-05-09T12:47:51+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -318,16 +328,6 @@
       "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-hantavirus-la-biodiversite-et-le-climat-sont-ils-responsables-de-la-multiplication-des-zoonoses-comme-l-affirme-jean-luc-melenchon_7960952.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/Yxut4lSDagLwojZQViPKhE7O2qc/0x247:4743x2915/432x243/filters:format(jpg)/2026/05/08/69fd836c6385e349247990.jpg",
       "date": "2026-05-08T08:32:54+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Sur le terrain\" du 7 mai 2026 : la France est-elle prête en cas d'épidémie d'hantavirus ?",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 4ème partie aux déclarations de l'OMS sur la propagation éventuelle d'un hantavirus, qui pourrait être à l'origine de trois morts sur un bateau de croisière : faut-il s'inquiéter, la France pourrait-elle faire face à une nouvelle épidémie ? Une séquence à re",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-7-mai-2026-la-france-est-elle-prete-en-cas-d-epidemie-d-hantavirus_7991372.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/tVvvHdnu_6Lo6x6GVpBgRbA40BI/61x0:1469x792/432x243/filters:format(jpg)/2026/05/08/69fd736a080c4996496462.jpg",
-      "date": "2026-05-08T07:34:52+00:00",
       "date_formatted": "8 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -583,16 +583,6 @@
       "type": "science"
     },
     {
-      "title": "Iran : La prix Nobel de la paix Narges Mohammadi, emprisonnée, « entre la vie et la mort », selon ses proches",
-      "desc": "L’Iranienne Narges Mohammadi, lauréate du prix Nobel de la paix et détenue dans son pays, se trouve « entre la vie et la mort » après son hospitalisation en urgence le week-end dernier, selon ses proches",
-      "url": "https://www.20minutes.fr/monde/4222031-20260505-iran-prix-nobel-paix-narges-mohammadi-emprisonnee-entre-vie-mort-selon-proches?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/2qcl8LnDSr2WXnEu4dOEZCk/1200x768_narges-mohammadi-est-assise-dans-son-appartement-a-teheran-le-16-janvier-2025-elle-a-recu-le-prix-nobel-de-la-paix-2023-pour-avoir-defendu-les-droits-et-la-liberte-des-femmes-et-est-actuellement-en-conge-de-prison-middle-east-images-sipa-36795-credit-nooshin-jafari-sipa-2512141444",
-      "date": "2026-05-05T14:00:07+00:00",
-      "date_formatted": "5 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "« Nous entrons dans une médecine de la chronicité et de la fonction, mais l’accès aux soins est un angle mort »",
       "desc": "Dans une tribune au « Monde », le rhumatologue Christophe Hudry alerte sur la fragilisation de l’offre de soins proposée pour les patients concernés par des maladies ostéo-articulaires. Il insiste par ailleurs sur le développement de solutions simples, rappelant le bon rapport coût-efficacité des ma",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/05/nous-entrons-dans-une-medecine-de-la-chronicite-et-de-la-fonction-mais-l-acces-aux-soins-est-un-angle-mort_6685581_1650684.html",
@@ -680,16 +670,6 @@
       "date": "2026-05-04T10:26:04+00:00",
       "date_formatted": "4 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Cancer du sein : combiner les traitements conventionnels aux médecines alternatives diminue les chances de survie",
-      "desc": "Des chercheurs ont analysé les choix thérapeutiques de patientes atteintes d’un cancer du sein et leurs effets sur l’évolution de la maladie. Le recours aux traitements non conventionnels pourrait nuire de façon significative au taux de survie.",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-cancer-sein-combiner-traitements-conventionnels-medecines-alternatives-diminue-chances-survie-133460/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/9/5/295ccbdd42_50253505_4-cancer-sein.jpg",
-      "date": "2026-05-04T09:38:46+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
