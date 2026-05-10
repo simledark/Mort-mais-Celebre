@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-09T18:41:36.868214+00:00",
-  "count": 86,
+  "generated_at": "2026-05-10T01:46:49.565834+00:00",
+  "count": 87,
   "articles": [
+    {
+      "title": "EN DIRECT, hantavirus : l’évacuation du  MV « Hondius » prévue vers 8 heures ; une réunion annoncée à Matignon pour faire « un point de situation »",
+      "desc": "Les Canaries se préparent à l’arrivée du navire de croisière, foyer d’infection à hantavirus, attendu pour dimanche à l’aube. Cinq Français sont à bord et devraient être rapatriés.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-l-evacuation-du-mv-hondius-prevue-vers-8-heures-une-reunion-annoncee-a-matignon-pour-faire-un-point-de-situation_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/09/983/0/5900/2950/644/322/60/0/f740900_ftp-1-vhyzqivbikwd-2026-05-09t075918z-1633845950-rc2j5lahw8n1-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
+      "date": "2026-05-10T02:08:11+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : faut-il s'inquiéter ?",
+      "desc": "L'hantavirus, identifié sur un navire de croisières, fait l'objet d'une surveillance stricte en Europe alors que six cas sont confirmés par l'OMS. Les passagers français subissent des analyses à l'Institut Pasteur pour déterminer leur prise en charge.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-faut-il-s-inquieter_7993973.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/T8zL64-0_aZ9JiT1D164EUid2OI/38x0:1391x761/432x243/filters:format(jpg)/2026/05/09/69ff83158dc30899311011.jpg",
+      "date": "2026-05-09T20:56:59+00:00",
+      "date_formatted": "9 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Une réunion dimanche à Matignon pour faire « un point de situation »",
+      "desc": "Le navire de croisière MV Hondius est attendu dimanche à l’aube au large des îles Canaries, avant le début prévu des évacuations",
+      "url": "https://www.20minutes.fr/societe/4222688-20260509-hantavirus-reunion-dimanche-matignon-faire-point-situation?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/U6TNVRpKTbqz09A-lLsWtyk/1200x768_les-travailleurs-ont-installe-des-abris-temporaires-dans-la-zone-ou-les-passagers-du-bateau-de-croisiere-mv-hondius-devraient-arriver-au-port-de-granadilla-a-tenerife-dans-les-iles-canaries-en-espagne-le-samedi-9-mai-2026-ap-photo-manu-fernandez-mf104-26129403505749-2605091314",
+      "date": "2026-05-09T20:38:05+00:00",
+      "date_formatted": "9 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "REPORTAGE. \"Docteur, on ne risque vraiment rien ?\" : sur l'île de Tenerife, habitants et secours se préparent à l'arrivée du \"MV Hondius\" dans la crainte de l'hantavirus",
       "desc": "Après un interminable voyage depuis Ushuaïa, le navire de croisière va enfin pouvoir débarquer ses passagers, aux Canaries, où il arrive dimanche matin. Ce petit archipel espagnol au large des côtes africaines s'est barricadé.",
@@ -13,21 +43,11 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT, hantavirus : les passagers du MV « Hondius » sont des « contacts à haut risque », selon l’OMS ; pour Pedro Sanchez, les accueillir est « un devoir moral »",
-      "desc": "Les Canaries se préparent à l’arrivée du navire de croisière, foyer d’infection à hantavirus, attendu pour dimanche. Dans l’archipel espagnol doit aussi se rendre, dès samedi soir, le directeur général de l’OMS, Tedros Adhanom Ghebreyesus, pour coordonner l’évacuation des quelque 150 passagers et me",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/09/en-direct-hantavirus-les-passagers-du-mv-hondius-sont-des-contacts-a-haut-risque-selon-l-oms-pour-pedro-sanchez-les-accueillir-est-un-devoir-moral_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/09/983/0/5900/2950/644/322/60/0/f740900_ftp-1-vhyzqivbikwd-2026-05-09t075918z-1633845950-rc2j5lahw8n1-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
-      "date": "2026-05-09T18:00:20+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : à bord du MV « Hondius », les passagers embarqués « dans une aventure improbable »",
       "desc": "Les croisiéristes et une partie de l’équipage du navire touché par un foyer d’infections à hantavirus s’apprêtent à débarquer aux Canaries pour être transférés dans leurs pays respectifs.",
       "url": "https://www.lemonde.fr/sante/article/2026/05/09/hantavirus-a-bord-du-mv-hondius-les-passagers-embarques-dans-une-aventure-improbable_6687479_1651302.html",
       "image": "https://img.lemde.fr/2026/05/08/125/0/6000/3000/644/322/60/0/b9429b8_ftp-1-03h1iwajje3v-91f8f3ad90ac4d3180c465f1011d132d-0-f3961eec03f744ac84f04f333e7ed33e.jpg",
-      "date": "2026-05-09T18:00:09+00:00",
+      "date": "2026-05-09T18:00:08+00:00",
       "date_formatted": "9 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -320,16 +340,6 @@
       "date": "2026-05-08T06:55:17+00:00",
       "date_formatted": "8 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Sur le terrain\" du 7 mai 2026 : pas de \"début d'épidémie, ni de pandémie d'hantavirus\", assure l'OMS",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 1ère partie au foyer d'hantavirus qui serait à l'origine de la mort de trois personnes sur un navire de croisière : est-on en mesure d'affronter une situation qui s'aggraverait ? Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h e",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-7-mai-2026-pas-de-debut-d-epidemie-ni-de-pandemie-d-hantavirus-assure-l-oms_7991291.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/FF1ERQuv-YVhGEZgfMrg1np7xYY/269x0:1464x672/432x243/filters:format(jpg)/2026/05/08/69fd695d66356076245524.jpg",
-      "date": "2026-05-08T06:42:04+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
