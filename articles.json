@@ -1,7 +1,107 @@
 {
-  "generated_at": "2026-05-10T07:53:10.238703+00:00",
-  "count": 85,
+  "generated_at": "2026-05-10T12:50:09.074527+00:00",
+  "count": 87,
   "articles": [
+    {
+      "title": "Quel est le protocole qui attend les Français rapatriés de la croisière endeuillée par l'hantavirus ?",
+      "desc": "Les cinq Français à bord du MV Hondius, où ont été déclarés des cas d'hantavirus, ont débarqué, dimanche 10 mai dans la matinée. Ils seront rapatriés dans la journée par un vol sanitaire. Quel sera le protocole imposé ?",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/quel-est-le-protocole-qui-attend-les-francais-rapatries-de-la-croisiere-endeuillee-par-l-hantavirus_7995464.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/aTbA272wr0vOeTBIyQVmRQGURf8/86x0:1381x728/432x243/filters:format(jpg)/2026/05/10/6a007282b7bd7683874853.jpg",
+      "date": "2026-05-10T14:06:14+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Débarquement de la croisière touchée par l'hantavirus : comment se déroule cette \"opération sans précédent\" ?",
+      "desc": "Fin du périple pour le MV Hondius. Le navire où des cas d'hantavirus ont été détectés a fait son entrée dans le port de Granadilla, dimanche 10 mai. La centaine de passagers et membres d'équipage a commencé à être évacuée dès 8h, sous la supervision du directeur de l'OMS.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/debarquement-de-la-croisiere-touchee-par-l-hantavirus-comment-se-deroule-cette-operation-sans-precedent_7995452.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/nYKm_5T0eJ60p8wSJ7LlMYDCssE/13x0:1217x677/432x243/filters:format(jpg)/2026/05/10/6a006ebc98b9a645874982.jpg",
+      "date": "2026-05-10T13:48:08+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : les cinq passagers français arriveront à l’aéroport du Bourget vers 17 heures",
+      "desc": "Les passagers et membres de l’équipage du navire de croisière commencent à retrouver la terre ferme ce dimanche matin, à Granadilla, dans le sud de Tenerife. Les cinq Français à bord ont été débarqués.",
+      "url": "https://www.liberation.fr/societe/en-direct-hantavirus-le-mv-hondius-est-arrive-aux-canaries-20260510_EPP4GIXY3BELJHIAEUABHJPBGM/",
+      "image": null,
+      "date": "2026-05-10T12:35:58+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus à bord du \"MV Hondius\" : comment les cinq passagers français vont être rapatriés et surveillés après leur débarquement aux Canaries",
+      "desc": "Présents à bord du navire de croisière où s'est déclaré un foyer de ce virus rare, ils doivent être évacués vers la France dans le cadre d'un protocole sanitaire strict, qui prévoit notamment trois jours d'observation dans un hôpital.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-a-bord-du-mv-hondius-comment-les-cinq-passagers-francais-vont-etre-rapatries-et-pris-en-charge-apres-leur-debarquement-aux-canaries_7995194.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Gp5MKnmvlr9TAeJiKhDZyuQV9KQ/0x341:4000x2591/432x243/filters:format(jpg)/2026/05/10/6a003c2591842218116787.jpg",
+      "date": "2026-05-10T11:27:33+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Val d’Oise : un policier municipal soupçonné d’avoir tué son ex-compagne et leurs deux enfants avant de se suicider",
+      "desc": "Selon «le Parisien», qui révèle l’information, cet homme d’une quarantaine d’années s’est servi de son arme de service pour commettre ce triple homicide puis se suicider.",
+      "url": "https://www.liberation.fr/societe/police-justice/val-doise-un-policier-municipal-soupconne-davoir-tue-son-ex-compagne-et-leurs-deux-enfants-avant-de-se-suicider-20260510_DHGJDC2QCZAYDDB333TVTFQ3HY/",
+      "image": null,
+      "date": "2026-05-10T11:03:31+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : l’avion rapatriant les Français évacués du navire de croisière MV « Hondius » a décollé des Canaries",
+      "desc": "Un premier avion évacuant 14 Espagnols avait décollé auparavant de l’aéroport de Tenerife-Sud pour une base militaire près de Madrid, d’où les passagers seront transférés vers un hôpital militaire.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-l-evacuation-des-premiers-passagers-du-navire-de-croisiere-mv-hondius-a-commence_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/10/510/0/4067/2033/644/322/60/0/892662f_ftp-1-z1evlhmxdxiz-5995251-01-06.jpg",
+      "date": "2026-05-10T10:49:32+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "A Assas, les saluts nazis d’un professeur pendant un cours sur la propagande lancent un débat sur la liberté pédagogique",
+      "desc": "Après avoir mimé des saluts nazis dans un cours sur les congrès de Nuremberg, un professeur de communication politique, auteur de plusieurs travaux sur l’extrême-droitisation du débat public, fait l’objet d’un signalement à la cellule d’alerte RéagirAssas. Tout en se défendant d’adhérer à cette idéo",
+      "url": "https://www.liberation.fr/societe/education/a-assas-les-saluts-nazis-dun-professeur-pendant-un-cours-sur-la-propagande-lancent-un-debat-sur-la-liberte-pedagogique-20260509_Q45WOQX2YZCEVEZCAEBP76XHWI/",
+      "image": null,
+      "date": "2026-05-10T10:33:59+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Meurthe-et-Moselle : un père tue son fils de 7 ans et blesse grièvement son second enfant avant de se suicider",
+      "desc": "Dans la nuit de samedi 9 à dimanche 10 mai 2026, à Blénod-lès-Pont-à-Mousson (Meurthe-et-Moselle), un homme a tiré sur ses deux fils avant de retourner l’arme contre lui. Il aurait agi dans un contexte de séparation, indique le parquet, ce qui inscrirait ce geste dans le cadre de violences vicariant",
+      "url": "https://www.liberation.fr/societe/police-justice/meurthe-et-moselle-un-pere-tue-son-fils-de-7-ans-et-blesse-grievement-son-second-enfant-avant-de-se-suicider-20260510_3RGUZ65SCVHCXLIITXIWHHE5TQ/",
+      "image": null,
+      "date": "2026-05-10T10:27:58+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Un burn-out ne survient pas du jour au lendemain\", souligne un médecin du travail qui alerte sur des symptômes progressifs",
+      "desc": "En France le burn-out concerne \"12 à 15% de la population active\" soit \"plusieurs millions de personnes en situation de stress chronique\" souligne Clément Duret, médecin du travail et chef de l'unité des pathologies professionnelles de l'hôpital de Garches.",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/un-burn-out-ne-survient-pas-du-jour-au-lendemain-souligne-un-medecin-du-travail-qui-alerte-sur-des-symptomes-progressifs_7956788.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9Bqqy32e-8Wy1CvcGpyUXuWaSiE/0x110:2121x1304/432x243/filters:format(jpg)/2026/05/04/69f87e26f2482140599411.jpg",
+      "date": "2026-05-10T10:00:03+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Présidentielle 2027 : Mélenchon appelle les autres partis de gauche à «un bon usage de Mélenchon» plutôt que «le suicide anti-LFI»",
+      "desc": "Le leader insoumis, qui parie sur un échec de la primaire défendue par certains responsables de gauche, estime dans une interview à «la Tribune dimanche» qu’il faut «attendre que les situations se décantent».",
+      "url": "https://www.liberation.fr/politique/divisions-a-gauche-melenchon-appelle-les-autres-partis-a-un-bon-usage-de-melenchon-plutot-que-le-suicide-anti-lfi-20260510_HACJ422QMJDQZJVTXEYBDBDRQU/",
+      "image": null,
+      "date": "2026-05-10T09:35:17+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Ces porcs génétiquement modifiés pourraient sauver des milliers de vies… mais leur utilisation dérange",
       "desc": "Dans une vallée isolée des États-Unis, des porcs génétiquement modifiés pourraient révolutionner la médecine. Ces animaux élevés pour fournir des organes compatibles avec le corps humain pourraient ainsi répondre au manque dramatique de greffons de reins, voire de cœur. Mais cette avancée...",
@@ -11,26 +111,6 @@
       "date_formatted": "10 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : les Canaries s’apprêtent à voir débarquer les passagers",
-      "desc": "La majorité des passagers et des membres de l’équipage du navire de croisière ont retrouvé la terre ferme ce dimanche matin, autour de 7 heures du matin, à Granadilla, dans le sud de Tenerife. Ils vont être rapatriés dans la foulée.",
-      "url": "https://www.liberation.fr/societe/en-direct-hantavirus-le-mv-hondius-est-arrive-aux-canaries-20260510_EPP4GIXY3BELJHIAEUABHJPBGM/",
-      "image": null,
-      "date": "2026-05-10T07:47:44+00:00",
-      "date_formatted": "10 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : le navire de croisière MV « Hondius » entre dans le port de Granadilla, aux Canaries ; les cinq passagers français rapatriés dimanche",
-      "desc": "Une fois l’ancre jetée, le débarquement de plus d’une centaine de passagers et membres d’équipage doit se faire en matinée par nationalité, sous la supervision du directeur général de l’OMS. « Ils seront immédiatement transférés vers leurs vols respectifs », a prévenu l’exploitant du bateau.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-le-navire-de-croisiere-mv-hondius-est-en-approche-des-canaries_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/10/416/0/5000/2500/644/322/60/0/42508f5_ftp-1-jbwagzjtdu6d-2026-05-10t064950z-1461535587-rc266la6t9wk-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
-      "date": "2026-05-10T06:37:54+00:00",
-      "date_formatted": "10 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Retour en France ce dimanche des Français du navire touché par l’hantavirus",
@@ -93,53 +173,23 @@
       "type": "presse"
     },
     {
-      "title": "Cyril Dion, écrivain et réalisateur : « La soudaine notoriété d’hantavirus constitue une nouvelle alerte qu’il serait bien imprudent d’ignorer »",
-      "desc": "Certes, l’hantavirus ne représente qu’un risque « extrêmement faible » pour la population générale, selon l’Organisation mondiale de la santé. Toutefois, rappelle l’écrivain et réalisateur, malmener le monde sauvage comme nous le faisons menace de faire exploser le nombre d’épidémies de maladies inf",
+      "title": "Cyril Dion, écrivain et réalisateur : « La soudaine notoriété du hantavirus constitue une nouvelle alerte qu’il serait bien imprudent d’ignorer »",
+      "desc": "Certes, le hantavirus ne représente qu’un risque « extrêmement faible » pour la population générale, selon l’Organisation mondiale de la santé. Toutefois, rappelle l’écrivain et réalisateur, malmener le monde sauvage comme nous le faisons menace de faire exploser le nombre d’épidémies de maladies in",
       "url": "https://www.lemonde.fr/idees/article/2026/05/09/cyril-dion-ecrivain-et-realisateur-la-soudaine-notoriete-d-hantavirus-constitue-une-nouvelle-alerte-qu-il-serait-bien-imprudent-d-ignorer_6687477_3232.html",
       "image": "https://img.lemde.fr/2026/05/09/108/0/4944/2472/644/322/60/0/e6a4d0b_upload-1-jikdiawtpub0-000-36fj3ej.jpg",
-      "date": "2026-05-09T17:00:27+00:00",
+      "date": "2026-05-09T17:00:17+00:00",
       "date_formatted": "9 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
     {
       "title": "Hantavirus : à Tenerife, une course contre la montre pour accueillir le MV « Hondius »",
-      "desc": "Le navire de croisière frappé par un foyer d’infections à hantavirus mouillera au large de l’île canarienne dimanche 10 mai. Quelque 80 passagers seront évacués par zodiac et immédiatement rapatriés par avion. Une opération supervisée par le directeur général de l’Organisation mondiale de la santé.",
+      "desc": "Le navire de croisière frappé par un foyer d’infections à hantavirus mouillera au large de l’île canarienne dimanche 10 mai. Quelque 80 passagers seront évacués par Zodiac et immédiatement rapatriés par avion. Une opération supervisée par le directeur général de l’Organisation mondiale de la santé.",
       "url": "https://www.lemonde.fr/international/article/2026/05/09/hantavirus-a-tenerife-une-course-contre-la-montre-pour-accueillir-le-mv-hondius_6687468_3210.html",
       "image": "https://img.lemde.fr/2026/05/09/891/0/5392/2696/644/322/60/0/8d33da4_ftp-1-4c5s34uqcqww-5986118-01-06.jpg",
       "date": "2026-05-09T16:11:57+00:00",
       "date_formatted": "9 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus sur le «MV Hondius» : accueillir le navire aux Canaries est «un devoir moral» pour Pedro Sánchez",
-      "desc": "Le navire est attendu dimanche matin à l’aube au large de Tenerife afin de pouvoir évacuer ses quelque 150 passagers et membres d’équipage.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-sur-le-mv-hondius-le-chef-de-loms-attendu-aux-canaries-pour-coordonner-20260509_OJGPFOYXRFCXPNCVBWCTLKBZ44/",
-      "image": null,
-      "date": "2026-05-09T15:45:08+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "«Vous ne pouvez pas imaginer ce que cela a été» : aux Canaries, l’arrivée du «MV Hondius», foyer d’un hantavirus, ressuscite les fantômes du Covid",
-      "desc": "L’arrivée ce dimanche 10 mai du bateau de croisière, où ont été détectés trois cas mortels du virus, suscite une colère et un sentiment d’abandon chez les habitants interrogés par «Libération».",
-      "url": "https://www.liberation.fr/international/europe/vous-ne-pouvez-pas-imaginer-ce-que-cela-a-ete-aux-canaries-larrivee-du-mv-hondius-foyer-dun-hantavirus-ressuscite-les-fantomes-du-covid-20260509_H2IZD5M2K5EPVBY7O5OISRBVN4/",
-      "image": null,
-      "date": "2026-05-09T15:30:20+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ivermectine, complot des élites et confinement : avec l’hantavirus, les complotistes sont de sortie",
-      "desc": "L’émergence du virus andin sur le «MV Hondius», un navire de croisière traversant l’Atlantique, a ravivé le terreau des complotistes les plus médiatiques, jusqu’à un haut niveau de responsabilité aux Etats-Unis.",
-      "url": "https://www.liberation.fr/societe/sante/ivermectine-complot-des-elites-et-confinement-avec-lhantavirus-les-complotistes-sont-de-sortie-20260509_NZ4CSS5ETBGP5NE2SPZENZ6G7Q/",
-      "image": null,
-      "date": "2026-05-09T14:26:48+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -283,26 +333,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus sur un bateau de croisière : comment l'Argentine tente de retrouver l'origine du virus",
-      "desc": "Pour mieux comprendre le début de l'épidémie qui a fait trois morts à bord du MV Hondius, les autorités sanitaires ont notamment lancé une expédition pour mettre la main sur des \"rats à longue queue\".",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-sur-un-bateau-de-croisiere-comment-l-argentine-tente-de-retrouver-l-origine-du-virus_7991417.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Pd0mWrK0xRArzFdDatWtj3IyAJ8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/08/69fdbdea0c89b423300903.jpg",
-      "date": "2026-05-08T13:00:44+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus sur un navire de croisière : \"Ce n’est pas une maladie aussi contagieuse que le Covid\", affirme le professeur Bruno Mégarbane",
-      "desc": "Le navire de croisière \"MV Hondius\" touché par un foyer d’hantavirus doit rester au large des Canaries. Si ce scénario rappelle pour certains le début de la pandémie de Covid-19, le professeur Bruno Mégarbane, chef du service de réanimation de l’hôpital Lariboisière à Paris, se veut rassurant sur le",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-sur-un-navire-de-croisiere-ce-n-est-pas-une-maladie-aussi-contagieuse-que-le-covid-affirme-un-medecin_7991477.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/nBhvPtvY98axFPn-gaR8Z7isaFw/0x218:4200x2581/432x243/filters:format(jpg)/2026/05/08/69fd9fbbbc811637815253.jpg",
-      "date": "2026-05-08T12:43:14+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus sur un bateau de croisière : « Ce n’est pas un nouveau Covid », estime l’OMS",
       "desc": "L’Organisation mondiale de la santé (OMS) a affirmé qu’un risque de propagation du virus pour la population mondiale était « absolument faible », alors que trois passagers du navire « MV Hondius » sont décédés",
       "url": "https://www.20minutes.fr/sante/4222602-20260508-hantavirus-bateau-croisiere-nouveau-covid-estime-oms?at_medium=display&at_campaign=149",
@@ -320,16 +350,6 @@
       "date": "2026-05-08T08:38:14+00:00",
       "date_formatted": "8 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Vrai ou faux. Hantavirus : la biodiversité et le climat sont-ils responsables de la multiplication des zoonoses, comme l'affirme Jean-Luc Mélenchon ?",
-      "desc": "Le leader insoumis affirme que la multiplication des zoonoses est liée à la chute de la biodiversité et au changement climatique. C'est vrai sur le premier point, plus nuancé sur le second.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-hantavirus-la-biodiversite-et-le-climat-sont-ils-responsables-de-la-multiplication-des-zoonoses-comme-l-affirme-jean-luc-melenchon_7960952.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/Yxut4lSDagLwojZQViPKhE7O2qc/0x247:4743x2915/432x243/filters:format(jpg)/2026/05/08/69fd836c6385e349247990.jpg",
-      "date": "2026-05-08T08:32:54+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
