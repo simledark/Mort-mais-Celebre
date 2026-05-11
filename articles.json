@@ -1,35 +1,95 @@
 {
-  "generated_at": "2026-05-10T18:42:59.358950+00:00",
-  "count": 83,
+  "generated_at": "2026-05-11T01:54:09.656875+00:00",
+  "count": 86,
   "articles": [
     {
-      "title": "Les passagers du navire endeuillé par l'hantavirus sont sous surveillance dans un hôpital parisien",
+      "title": "EN DIRECT, hantavirus : le décret régissant les mesures d’isolement des passagers français rapatriés, dont l’un présente des symptômes, a été publié",
+      "desc": "Les premières évacuations d’une partie des passagers et membres d’équipage du MV « Hondius » ont eu lieu dimanche. Les cinq Français ayant séjourné à bord du navire sont arrivés à Paris et ont été placés « en quarantaine » le temps d’une « évaluation médicale et épidémiologique ».",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/11/en-direct-hantavirus-le-decret-regissant-les-mesures-d-isolement-des-passagers-francais-rapatries-dont-l-un-presente-des-symptomes-a-ete-publie_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/10/575/0/6898/3449/644/322/60/0/6dbefae_ftp-1-htyheupbpeph-c46c5db0cb664b5bb7c9dfa245e16477-0-0475f5f4fa90418ea68fa0f62c0358ef.jpg",
+      "date": "2026-05-11T03:01:52+00:00",
+      "date_formatted": "11 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : l’évacuation des passagers du MV « Hondius » à Tenerife, un succès politique pour le gouvernement espagnol",
+      "desc": "Après plusieurs jours de tensions avec le gouvernement régional des Canaries sur les conditions d’accueil du bateau de croisière touché par plusieurs infections, Madrid peut se targuer du bon déroulement du débarquement d’une majorité des passagers, dimanche.",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/11/hantavirus-l-evacuation-des-passagers-du-mv-hondius-a-tenerife-un-succes-politique-pour-le-gouvernement-espagnol_6687737_3244.html",
+      "image": "https://img.lemde.fr/2026/05/10/473/0/3259/1629/644/322/60/0/4d506ab_ftp-1-ddhkr3mpya2y-64eacfe646214f1facec5cd13b5ed328-0-e4a7f387f0f44fbe9f8e0f2e9b3c8472.jpg",
+      "date": "2026-05-11T00:00:16+00:00",
+      "date_formatted": "11 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les passagers français du navire endeuillé par l'hantavirus sont sous surveillance dans un hôpital parisien",
       "desc": "Ils rêvaient d'une croisière paisible entre Ushuaïa et le Cap Vert. La majorité des 150 passagers du navire Hondius ont été évacués sous très haute protection sanitaire jusqu’au port de Granadilla (Tenerife). Parmi eux, cinq Français placés en isolement strict à l'hôpital Bichat (Paris). L'un d'eux ",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/les-passagers-du-navire-endeuille-par-l-hantavirus-sont-sous-surveillance-dans-un-hopital-parisien_7995788.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/tLg4SXf4VShb3nb0ku-lxid9TP4/0x3:1241x702/432x243/filters:format(jpg)/2026/05/10/6a00cbd990d16406659324.jpg",
-      "date": "2026-05-10T20:23:41+00:00",
+      "date": "2026-05-10T23:52:05+00:00",
       "date_formatted": "10 May 2026",
       "source": "France Info Santé",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Hantavirus sur le «MV Hondius» : un des cinq Français rapatriés a des symptômes, les résultats de son test connus sous 24 heures",
-      "desc": "Les cinq Français sont arrivés à l’aéroport du Bourget vers 16h30, puis ont été emmenés par le SAMU à l’hôpital Bichat, à Paris. Les passagers et membres de l’équipage du navire sont débarqués au compte goutte depuis ce matin aux Canaries.",
-      "url": "https://www.liberation.fr/societe/en-direct-hantavirus-le-mv-hondius-est-arrive-aux-canaries-20260510_EPP4GIXY3BELJHIAEUABHJPBGM/",
+      "title": "\"Nous prenons les mesures les plus strictes de la zone européenne\" : la ministre de la Santé Stéphanie Rist répond aux inquiétudes sur l'hantavirus",
+      "desc": "Cinq Français du MV Hondius ont été placés à l'isolement dans un hôpital parisien alors que les interrogations se multiplient face aux infections à l'hantavirus. Stéphanie Rist, Ministre de la Santé, a répondu aux questions de Laurent Delahousse, dimanche 10 mai.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/nous-prenons-les-mesures-les-plus-strictes-de-la-zone-europeenne-stephanie-rist-repond-aux-inquietudes-sur-l-hantavirus_7995803.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/EhfQyR6G9w-fhal86hS_Xea55GM/0x32:1041x618/432x243/filters:format(jpg)/2026/05/10/6a00d54dbb219519804443.jpg",
+      "date": "2026-05-10T23:48:33+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : des parachutistes de l'armée britannique dépêchés sur l'Île Tristan da Cunha après la détection d'un cas suspect",
+      "desc": "L'île de Tristan da Cunha, territoire le plus isolé au monde, fait l'objet d'une opération militaire exceptionnelle après la détection d'un cas suspect d'antivirus.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-des-parachutistes-de-l-armee-britannique-depeches-sur-l-ile-tristan-da-cunha-apres-la-detection-d-un-cas-suspect_7995842.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/6SHPhuXzZq-oRpVRjZCOOZEMtK8/162x0:1002x472/432x243/filters:format(jpg)/2026/05/10/6a00e13d88def050307852.jpg",
+      "date": "2026-05-10T21:49:46+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"C'est plutôt l'entourage proche\" : comment la croisière du MV Hondius est devenue le théâtre de la contagion à l'hantavirus",
+      "desc": "Un virus, une bulle sanitaire, des cas contacts, le tout alimenté par une hypermédiatisation. Voilà de quoi inquiéter, quelques années après la pandémie du Covid. Quelle est la réelle dimension de l'épidémie d'hantavirus ?",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/c-est-plutot-l-entourage-proche-comment-la-croisiere-du-mv-hondius-est-devenue-le-theatre-de-la-contagion-a-l-hantavirus_7995791.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/X6awqOajFwDmwgT3bKQopoPdDh8/0x25:1036x608/432x243/filters:format(jpg)/2026/05/10/6a00d0d82a359339239174.jpg",
+      "date": "2026-05-10T20:43:36+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : aux Etats-Unis, les passagers américains du «MV Hondius» pourraient échapper à la quarantaine",
+      "desc": "La situation «n’est pas celle du Covid», a affirmé Jay Bhattacharya, directeur par intérim de la principale agence sanitaire du pays, connu pour ses positions covidosceptiques. Les 17 croisiéristes doivent tout de même être suivis dans un centre spécialisé.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-aux-etats-unis-les-passagers-americains-du-mv-hondius-pourraient-echapper-a-la-quarantaine-20260510_DOHVZ2LAKRHYDJSORD35VZWLYY/",
       "image": null,
-      "date": "2026-05-10T18:23:25+00:00",
+      "date": "2026-05-10T19:33:01+00:00",
       "date_formatted": "10 May 2026",
       "source": "Libération",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT, hantavirus : un des cinq Français rapatriés en France présente « des symptômes »",
-      "desc": "L’avion reconduisant les cinq passagers français évacués du MV « Hondius » a atterri à l’aéroport du Bourget. Ceux-ci doivent être transportés à l’hôpital Bichat, à Paris, où ils seront placés en quarantaine durant soixante-douze heures, le temps d’une évaluation complète.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/10/en-direct-hantavirus-un-des-cinq-francais-rapatries-en-france-presente-des-symptomes_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/10/708/0/5458/2729/644/322/60/0/7222133_ftp-1-vcmng4du2poy-1b087a338a6049b892763cbde123eb89-0-2dfa4426ae694125a8c1d5aae9dbd90d.jpg",
-      "date": "2026-05-10T18:22:20+00:00",
+      "title": "Hantavirus : que vont devenir les croisiéristes français à leur retour ?",
+      "desc": "Les passagers du navire de croisière arrivés par avion vers 16 h 30 ce dimanche 10 mai vont dans un premier temps être placés en quarantaine à l’hôpital. «Libé» détaille le protocole établi par les autorités.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-que-vont-devenir-les-croisieristes-francais-a-leur-retour-20260510_CK4GBACWSVCXDE44UD5ZX25MDU/",
+      "image": null,
+      "date": "2026-05-10T18:49:26+00:00",
       "date_formatted": "10 May 2026",
-      "source": "Le Monde Santé",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus sur le «MV Hondius» : un des cinq Français rapatriés a des symptômes, les résultats de son test connus sous 24 heures",
+      "desc": "Les Français sont arrivés à l’aéroport du Bourget vers 16h30, puis ont été emmenés par le SAMU à l’hôpital Bichat, à Paris. Les passagers et membres de l’équipage du navire sont débarqués au compte goutte depuis ce matin aux Canaries.",
+      "url": "https://www.liberation.fr/societe/en-direct-hantavirus-le-mv-hondius-est-arrive-aux-canaries-20260510_EPP4GIXY3BELJHIAEUABHJPBGM/",
+      "image": null,
+      "date": "2026-05-10T18:47:26+00:00",
+      "date_formatted": "10 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -68,16 +128,6 @@
       "url": "https://www.liberation.fr/international/europe/hantavirus-aux-canaries-une-operation-debarquement-sous-tres-haute-surveillance-20260510_TM56Y7DEPFFGZB66Z5HEA5VI3Y/",
       "image": null,
       "date": "2026-05-10T15:52:36+00:00",
-      "date_formatted": "10 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : que vont devenir les croisiéristes français à leur retour ?",
-      "desc": "Les passagers du navire de croisière arrivés par avion vers 16 h 30 ce dimanche 10 mai vont dans un premier temps être placés en quarantaine à l’hôpital. «Libé» détaille le protocole établi par les autorités.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-que-vont-devenir-les-croisieristes-francais-a-leur-retour-20260510_CK4GBACWSVCXDE44UD5ZX25MDU/",
-      "image": null,
-      "date": "2026-05-10T15:22:16+00:00",
       "date_formatted": "10 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -253,16 +303,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : cinq Français rapatriés, un protocole sanitaire très encadré mis en place",
-      "desc": "Les cinq passagers français rapatriés des Îles Canaries vont être soumis à un protocole sanitaire strict dès leur arrivée. Dépistage sur place, transfert sécurisé vers Paris, puis examens à l’Institut Pasteur. Selon les résultats, isolement à domicile ou hospitalisation en chambres à pression négati",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-cinq-francais-rapatries-un-protocole-sanitaire-tres-encadre-mis-en-place_7992236.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jBpw3ZlPyMrxW2G7rGWp9CKYooI/0x40:939x569/432x243/filters:format(jpg)/2026/05/08/69fe30c81f144048678804.jpg",
-      "date": "2026-05-08T22:23:27+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus sur un bateau de croisière : Le chef de l’OMS aux Canaries pour coordonner l’évacuation des passagers",
       "desc": "Le patron de l’Organisation mondiale de la Santé, Tedros Adhanom Ghebreyesus, se rend aux Canaries en pleine crise à propos du navire foyer d’hantavirus",
       "url": "https://www.20minutes.fr/monde/espagne/4222637-20260508-hantavirus-bateau-croisiere-chef-oms-canaries-coordonner-evacuation-passagers?at_medium=display&at_campaign=149",
@@ -270,16 +310,6 @@
       "date": "2026-05-08T21:04:09+00:00",
       "date_formatted": "8 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Thomas Baillet : \"Ma sœur m'a dit : je préfère un frère chiant à un frère mort\"",
-      "desc": "Gymnaste puis acteur, Thomas Baillet est né avec la mucoviscidose, une maladie génétique qui affecte les fonctions respiratoires et digestives et ne lui laissait qu'une vingtaine d'années d'espérance de vie.",
-      "url": "https://www.franceinfo.fr/societe/thomas-baillet-ma-s-ur-m-a-dit-je-prefere-un-frere-chiant-a-un-frere-mort_7992071.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/_1dlBdCCSta91Utq8Ua_6BdlAmU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/08/69fe06012f092690680442.png",
-      "date": "2026-05-08T20:00:02+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
