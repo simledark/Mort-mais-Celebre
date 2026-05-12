@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-05-11T19:24:47.989524+00:00",
-  "count": 95,
+  "generated_at": "2026-05-12T01:50:01.827235+00:00",
+  "count": 92,
   "articles": [
     {
+      "title": "Fin de vie : le Sénat rejette un article-clé de la loi sur l’aide à mourir, mais adopte un texte renforçant l’accès aux soins palliatifs",
+      "desc": "L’examen de la proposition de loi portée par Olivier Falorni doit se poursuivre jusqu’à mercredi, mais la suite des débats s’annonce décousue. Le gouvernement pourrait redonner la main à l’Assemblée nationale, favorable à la réforme.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/12/fin-de-vie-le-senat-rejette-un-article-cle-de-la-loi-sur-l-aide-a-mourir-mais-adopte-un-texte-renforcant-l-acces-aux-soins-palliatifs_6688114_3225.html",
+      "image": "https://img.lemde.fr/2026/05/11/451/0/2698/1349/644/322/60/0/c79a4fb_upload-1-l46s5eyxwlrl-capture-d-e-cran-2026-05-11-a-13-27-47.png",
+      "date": "2026-05-12T01:36:12+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : sept patients ont été diagnostiqués positifs, un autre est considéré comme cas « probable », selon le dernier bilan de l’OMS",
+      "desc": "Le « Hondius » a quitté Tenerife après le débarquement des 28 dernières personnes à évacuer. Le navire, à bord duquel se trouvent encore 25 membres d’équipage et deux membres du personnel médical, devrait arriver à Rotterdam, aux Pays-Bas, dimanche 17 mai au soir, selon son armateur.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/12/en-direct-hantavirus-sept-patients-ont-ete-diagnostiques-positifs-un-autre-est-considere-comme-cas-probable-selon-le-dernier-bilan-de-l-oms_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/11/0/0/2692/1346/644/322/60/0/fae1ec0_ftp-1-f7dsr5lah9nm-5003292-01-06.jpg",
+      "date": "2026-05-12T00:39:28+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'hantavirus est \"une infection à prendre très au sérieux\" selon l'ancienne ministre de la Santé, Roselyne Bachelot",
+      "desc": "Invitée de \"Tout est politique\" sur franceinfo ce lundi 11 mai, l'ancienne ministre de la Santé, Roselyne Bachelot, s'est exprimée sur les mesures prises du gouvernement concernant l'hantavirus.",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/l-hantavirus-est-une-infection-a-prendre-tres-au-serieux-estime-l-ancienne-ministre-de-la-sante-roselyne-bachelot_7997987.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/g_hB0Klz5WFgSpSEjycOp2Jmxw0/15x0:1356x754/432x243/filters:format(jpg)/2026/05/11/6a0243d0e176b731599668.jpg",
+      "date": "2026-05-11T23:12:12+00:00",
+      "date_formatted": "11 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
       "title": "Hantavirus : une quarantaine renforcée en milieu hospitalier pour les cas contacts",
-      "desc": "22 cas contacts de l'hantavirus ont été identifiés. Tous seront placés en quarantaine renforcée en milieu hospitalier comme l'a annoncé le Premier ministre Sébastien Lecornu ce lundi 11 mai.",
+      "desc": "Vingt-deux cas contacts de l'hantavirus ont été identifiés en France. Tous seront placés en quarantaine renforcée en milieu hospitalier comme l'a annoncé le Premier ministre, Sébastien Lecornu, lundi 11 mai.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-une-quarantaine-renforcee-en-milieu-hospitalier-pour-les-cas-contacts_7997891.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/gM9VWYprMyMMdKbQ_UK-jZaYiDo/0x11:1381x788/432x243/filters:format(jpg)/2026/05/11/6a02250289490731890866.jpg",
-      "date": "2026-05-11T20:51:13+00:00",
+      "date": "2026-05-11T22:36:58+00:00",
       "date_formatted": "11 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -17,9 +47,19 @@
       "desc": "Les cinq Français évacués du bateau de croisière ont passé leur première journée à l’hôpital Bichat sous très haute surveillance ce lundi 11 mai. Parmi eux, une femme a été testée positive et son état s’est vite dégradé. Elle est actuellement en réanimation.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-l-etat-de-sante-de-la-francaise-contaminee-inquiete_7997876.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/GnKAwAXhWR1XR1ZsDwCMkp82S0I/38x0:1342x733/432x243/filters:format(jpg)/2026/05/11/6a021f46b1a7d997764941.jpg",
-      "date": "2026-05-11T20:26:50+00:00",
+      "date": "2026-05-11T22:34:27+00:00",
       "date_formatted": "11 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : un passager espagnol du «MV Hondius» testé positif alors qu’il ne présente pas de symptômes",
+      "desc": "L’homme a été placé à l’isolement ce lundi dans un hôpital militaire à Madrid. A l’heure actuelle, «son état général est bon», a annoncé le ministère de la Santé, précisant que les 13 autres Espagnols ont, eux, été testés négatifs.",
+      "url": "https://www.liberation.fr/international/en-direct-hantavirus-un-des-passagers-americains-du-mv-hondius-teste-positif-20260511_V6XGOTHYNRHHPBH7MXXHEPPJ2Y/",
+      "image": null,
+      "date": "2026-05-11T21:06:56+00:00",
+      "date_formatted": "11 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -53,16 +93,6 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT, hantavirus : les cas contacts « à haut risque » identifiés en France ne présentent pas de symptômes, affirme Sébastien Lecornu",
-      "desc": "Le premier ministre a annoncé que « tous les cas contacts, sans exception », seraient mis en « quarantaine renforcée en milieu hospitalier » et que deux réunions interministérielles sur le sujet auraient lieu désormais chaque jour à Matignon. Le MV « Hondius » a par ailleurs quitté Tenerife après le",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/11/en-direct-hantavirus-les-cas-contacts-a-haut-risque-identifies-en-france-ne-presentent-pas-de-symptomes-affirme-sebastien-lecornu_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/11/459/0/5500/2750/644/322/60/0/3cd8d9c_ftp-1-mjmfszrzgf6y-2026-05-11t174536z-1655446682-rc257lan04y1-rtrmadp-3-cruiseship-hantavirus-tenerife.JPG",
-      "date": "2026-05-11T19:08:57+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : le Parlement adopte définitivement la proposition de loi renforçant l'accès aux soins palliatifs",
       "desc": "Le Sénat a approuvé ce texte, lundi, dans les mêmes termes que l'Assemblée nationale. La proposition de loi sur l'aide à mourir, en revanche, est encore loin d'être adoptée.",
       "url": "https://www.franceinfo.fr/societe/euthanasie/fin-de-vie-le-parlement-adopte-definitivement-la-proposition-de-loi-sur-les-soins-palliatifs_7997066.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -83,27 +113,7 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Hantavirus : le «Hondius» quitte Tenerife après le débarquement des 28 derniers évacués",
-      "desc": "Le navire de croisière est parti des Canaries vers 20 heures en direction des Pays-Bas avec 26 membres d’équipage à son bord. Le bateau battant pavillon néerlandais devrait mettre cinq jours environ pour rejoindre Rotterdam selon son propriétaire Oceanwide Expeditions.",
-      "url": "https://www.liberation.fr/international/en-direct-hantavirus-un-des-passagers-americains-du-mv-hondius-teste-positif-20260511_V6XGOTHYNRHHPBH7MXXHEPPJ2Y/",
-      "image": null,
-      "date": "2026-05-11T18:41:47+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : le Parlement adopte définitivement un texte renforçant l’accès aux soins palliatifs",
-      "desc": "Le Sénat examine pour la deuxième fois ce texte sensible, et avec 700 amendements déposés, la possibilité d’un nouveau blocage est sérieuse. Cela pourrait pousser l’exécutif à donner le dernier mot à l’Assemblée nationale, favorable à la réforme.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/11/fin-de-vie-le-parlement-adopte-definitivement-un-texte-renforcant-l-acces-aux-soins-palliatifs_6688114_3225.html",
-      "image": "https://img.lemde.fr/2026/05/11/451/0/2698/1349/644/322/60/0/c79a4fb_upload-1-l46s5eyxwlrl-capture-d-e-cran-2026-05-11-a-13-27-47.png",
-      "date": "2026-05-11T18:40:30+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’asthme, cette maladie banalisée qui tue encore, malgré l’arsenal thérapeutique",
+      "title": "L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique",
       "desc": "Entre 700 et 1 000 personnes meurent chaque année de cette affection respiratoire en France. Des décès pourtant évitables avec les traitements disponibles. Les innovations scientifiques et médicales autour de cette pathologie souvent d’origine allergique ou virale, ou liée à la pollution, se multipl",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/11/l-asthme-cette-maladie-banalisee-qui-tue-encore-malgre-l-arsenal-therapeutique_6688143_1650684.html",
       "image": "https://img.lemde.fr/2026/05/08/171/0/1801/900/644/322/60/0/d239e3f_upload-1-z53pabfbeiq2-media-appel.png",
@@ -213,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "«Ça fait deux semaines que ça tire, et pas que la nuit» : dans la banlieue de Lyon, un incendie mortel laisse des séquelles aux habitants",
-      "desc": "«Aucune hypothèse n’est écartée, notamment la piste criminelle», a indiqué le procureur de Lyon après le feu qui a fait trois morts ce lundi matin à Décines-Charpieu, touché par le narcotrafic. Choqués, les résidents se sentent aussi «abandonnés à l’insécurité».",
-      "url": "https://www.liberation.fr/societe/police-justice/ca-fait-deux-semaines-que-ca-tire-et-pas-que-la-nuit-dans-la-banlieue-de-lyon-un-incendie-mortel-laisse-des-sequelles-aux-habitants-20260511_I6BVIQII7ZAUFMYREL5WMGYI5Q/",
-      "image": null,
-      "date": "2026-05-11T16:05:21+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Quels sont les symptômes chez les personnes malades ?",
       "desc": "En Europe et en Asie, les hantavirus provoquent des fièvres hémorragiques à syndrome rénal (FHSR). Sur le continent américain, ils ont souvent tendance à entraîner un syndrome cardio-pulmonaire à hantavirus (SCPH) avec une plus forte létalité",
       "url": "https://www.20minutes.fr/sante/4222999-20260511-hantavirus-symptomes-chez-personnes-malades?at_medium=display&at_campaign=149",
@@ -293,31 +293,11 @@
       "type": "presse"
     },
     {
-      "title": "INFO FRANCEINFO. \"Je voyais la mort planer au-dessus de ma fille\" : 16 familles portent plainte contre TikTok pour \"abus de faiblesse\"",
-      "desc": "Seize familles, soit trente-neuf plaignants, portent plainte contre le géant chinois, ce lundi. Elles estiment que le réseau social profite de la vulnérabilité de leurs enfants, les poussant parfois jusqu'au suicide.",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/tiktok/info-franceinfo-je-voyais-la-mort-planer-au-dessus-de-ma-fille-16-familles-portent-plainte-contre-tiktok-pour-abus-de-faiblesse_7993922.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/E4RfL5zgSkpDOM1EZ8EaoS_WXIc/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/07/69fce2db57b44707256219.jpg",
-      "date": "2026-05-11T12:07:36+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Quarantaine des rapatriés, isolement des cas contacts... Face à l'hantavirus, ce que prévoit le nouveau décret détaillant le protocole sanitaire en France",
       "desc": "Un texte publié lundi précise les mesures d'isolement et de quarantaine à mettre en place pour les passagers du \"MV Hondius\", rapatriés dimanche, mais aussi les personnes ayant été en contact avec eux ou avec des malades.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/quarantaine-des-passagers-du-mv-hondius-isolement-des-cas-contacts-face-au-hantavirus-ce-que-prevoit-le-nouveau-decret-detaillant-le-protocole-sanitaire-en-france_7996916.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/BaWmUT7w7n-YUvhLIgsj5zaJFjQ/0x446:4285x2857/432x243/filters:format(jpg)/2026/05/11/6a017590b2016750758912.jpg",
       "date": "2026-05-11T11:26:57+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Test positif à l'hantavirus\" pour l'un des Français rapatriés, annonce la ministre de la Santé",
-      "desc": "Il s'agit du premier cas français. Les quatre autres Français rapatriés resteront finalement à l'hôpital \"au minimum 15 jours\", précise Stéphanie Rist. De plus, 22 cas contacts ont été mis à l'isolement ou en auto-isolement.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/test-positif-a-l-hantavirus-pour-l-un-des-francais-rapatries-annonce-la-ministre-de-la-sante_7996988.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/v-q-V1OhYQselzHtWsANTzmNx4w/24x0:1148x632/432x243/filters:format(jpg)/2026/05/11/6a017bf285f02358615545.jpg",
-      "date": "2026-05-11T10:54:30+00:00",
       "date_formatted": "11 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -363,7 +343,7 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT Hantavirus : La Française testée positive au virus est en réanimation, fin des évacuations aux Canaries...",
+      "title": "EN DIRECT Hantavirus : La Française testée positive au virus est en réanimation, le « MV Hondius » attendu dimanche à Rotterdam...",
       "desc": "Suivez avec nous les informations de ce lundi 11 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
       "url": "https://www.20minutes.fr/societe/4222900-20260511-direct-hantavirus-passager-francais-presente-symptomes-americain-teste-positif?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/0XDcpjX5TIudl-cyXP0y9ik/1200x768_le-navire-de-croisiere-mv-hondius-atteint-d-un-hantavirus-quitte-le-port-de-granadilla-de-abona-sur-l-ile-de-tenerife-dans-les-iles-canaries-espagnoles-le-11-mai-2026-en-raison-de-conditions-meteorologiques-defavorables-le-navire-de-croisiere-mv-hondius-touche-par-une-epidemie-mortelle-d-hantavirus-a-jete-l-ancre-au-large-des-iles-canaries-en-espagne-a-accoster-a-tenerife-le-11-mai-2026-avant-que-les-evacuations-ne-puissent-etre-terminees-a-indique-le-ministere-de-la-sante-photo-de-jorge-guerrero-afp",
@@ -590,16 +570,6 @@
       "date": "2026-05-08T08:38:14+00:00",
       "date_formatted": "8 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : pour le spécialiste Gustavo Palacios, « le virus de l’espèce Andes n’est pas aussi transmissible que d’autres virus respiratoires »",
-      "desc": "Le virologue, qui fait partie des rares experts à avoir travaillé sur une épidémie de ce type, estime que le risque de propagation est limité si des mesures simples de distanciation sont prises. Selon lui, les cas et leurs contacts doivent être strictement recherchés et les malades symptomatiques is",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/08/hantavirus-pour-le-specialiste-gustavo-palacios-le-virus-de-l-espece-andes-n-est-pas-aussi-transmissible-que-d-autres-virus-respiratoires_6686959_3244.html",
-      "image": "https://img.lemde.fr/2026/05/06/400/0/4797/2398/644/322/60/0/dde2d3c_ftp-1-r12e2jscpswz-5962691-01-06.jpg",
-      "date": "2026-05-08T06:55:17+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
