@@ -1,23 +1,213 @@
 {
-  "generated_at": "2026-05-12T13:48:09.362893+00:00",
-  "count": 88,
+  "generated_at": "2026-05-12T19:25:58.679671+00:00",
+  "count": 91,
   "articles": [
+    {
+      "title": "Hantavirus : 27 Français sous haute surveillance, le pronostic vital de la Française contaminée est engagé",
+      "desc": "L'inquiétude grandit face à l'hantavirus. La Française contaminée est toujours dans un état grave. Elle est intubée et ventilée en respiration artificielle. Quant aux 22 cas contacts, ils vont tous être hospitalisés en quarantaine renforcée.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-27-francais-sous-haute-surveillance-le-pronostic-vital-de-la-francaise-contaminee-est-engage_8000177.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/_JYYr9xePWhZPCCvClUGVoBtkPs/12x0:1419x791/432x243/filters:format(jpg)/2026/05/12/6a0373bfd2372223216315.jpg",
+      "date": "2026-05-12T20:42:06+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cas contacts identifiés, patiente française en réanimation... Ce qu'il faut retenir de la conférence de presse de la ministre de la Santé sur l'hantavirus",
+      "desc": "Stéphanie Rist a tenu une conférence de presse sur l'hantavirus aux côtés de spécialistes des maladies infectieuses.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/cas-contacts-patiente-en-reanimation-traitements-ce-qu-il-faut-retenir-de-la-conference-de-presse-de-la-ministre-de-la-sante-sur-l-hantavirus_7999856.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/osvaI_IoD9uSd9PJz7Dn_SQRj7s/0x0:5629x3166/432x243/filters:format(jpg)/2026/05/12/6a0367d7a24e9790428724.jpg",
+      "date": "2026-05-12T19:51:19+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus : la situation en France est «sous contrôle», assure Emmanuel Macron",
+      "desc": "Interrogée par les journalistes ce mardi après-midi, la ministre de la Santé, Stéphanie Rist, accompagnée de scientifiques, a répondu à un certain nombre de questions, notamment sur l’état de santé des voyageurs français concernés par l’infection.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-les-regles-disolement-durcies-en-france-20260512_OMMEQ2GGNBDEFHQAJQFGHXKJV4/",
+      "image": null,
+      "date": "2026-05-12T19:09:19+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Incubation, létalité, transmission… Ce que l’on sait après la conférence de la ministre de la Santé",
+      "desc": "La ministre de la Santé Stéphanie Rist a réuni ce mardi plusieurs infectiologues, virologues et épidémiologistes pour faire le point sur le foyer d’hantavirus détecté chez des croisiéristes du MV Hondius",
+      "url": "https://www.20minutes.fr/sante/4223263-20260512-hantavirus-incubation-letalite-transmission-sait-apres-conference-ministre-sante?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/OCPqMRh6RPS_RGpDsLGpVik/1200x768_la-ministre-francaise-de-la-sante-stephanie-rist-prononce-un-discours-lors-d-une-conference-de-presse-sur-la-situation-liee-a-l-hantavirus-au-ministere-de-la-sante-a-paris-le-12-mai-2026-le-navire-de-croisiere-touche-par-une-epidemie-mortelle-d-hantavirus-s-est-dirige-vers-les-pays-bas-mardi-apres-le-debarquement-de-ses-derniers-passagers-dans-les-iles-canaries-en-espagne-et-au-moins-sept-des-personnes-evacuees-ont-ete-testees-positives-au-virus-les-autorites-francaises-ont-indique-qu-une-femme-testee-positive-avait-ete-hospitalisee-et-que-son-etat-etait-stable-en-soins-intensifs-01accorsini-jeanne-hantavirus-conf-0010-credit-jeanne-accorsini-sipa-2605121828",
+      "date": "2026-05-12T19:07:09+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus des Andes : malgré les mauvais souvenirs du Covid, gardons confiance en la science",
+      "desc": "Si la comparaison avec la crise sanitaire du coronavirus est inévitable, il est préférable de s’en remettre à la rationalité scientifique, qui nous assure que nous sommes loin de la situation de 2020, plutôt qu’aux discours anxiogènes et complotistes.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/hantavirus-des-andes-malgre-les-mauvais-souvenirs-du-covid-gardons-confiance-en-la-science-20260512_LXGO2ND3EZB5FNLIWLCLJ4R3AY/",
+      "image": null,
+      "date": "2026-05-12T19:05:46+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : face à la crise, le gouvernement français opte pour des «précautions maximalistes»",
+      "desc": "La ministre de la Santé, Stéphanie Rist, a confirmé mardi que tous les cas contacts ayant voyagé en avion avec une malade sont ou vont être hospitalisés dans des chambres ultrasécurisées.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-face-a-la-crise-le-gouvernement-francais-opte-pour-des-precautions-maximalistes-20260512_FMJIH5RMINFWDIOS5RPEAGTIYI/",
+      "image": null,
+      "date": "2026-05-12T18:50:05+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"On n'est pas sur un virus mutant\" : ce que nous apprend le séquençage des cas d'hantavirus parmi les passagers du bateau",
+      "desc": "Les premières analyses montrent des génomes très proches de la souche des Andes, déjà détectée chez l'homme en 1997 et 2018 en Argentine, ce qui rassure les scientifiques.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/on-n-est-pas-sur-un-virus-mutant-ce-que-nous-apprend-le-sequencage-des-cas-d-hantavirus-parmi-les-passagers-du-bateau_7999643.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/OHMR8QAz6u2gwxOG_b6it6cqiKU/0x5:1024x581/432x243/filters:format(jpg)/2026/05/12/6a030dfc1addd093005908.jpg",
+      "date": "2026-05-12T18:49:29+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : Emmanuel Macron affirme que la « situation est sous contrôle »",
+      "desc": "La Française infectée par un hantavirus, soignée à l’hôpital Bichat, à Paris, « a aujourd’hui la forme la plus sévère » de la maladie, a déclaré l’infectiologue Xavier Lescure.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/12/en-direct-hantavirus-emmanuel-macron-affirme-que-la-situation-est-sous-controle-du-gouvernement_6686093_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/12/224/177/4042/2021/644/322/60/0/152f295_ftp-1-jmk5rue7mmnl-2026-05-12t073024z-463798858-rc2j7laerbtk-rtrmadp-3-africa-france-summit.JPG",
+      "date": "2026-05-12T18:39:32+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : comment un ornithologue néerlandais est devenu le possible « patient zéro » à bord du MV Hondius",
+      "desc": "Présenté par plusieurs médias, dont le New York Post, comme le possible « patient zéro » de l’épidémie d’hantavirus du MV Hondius, l’ornithologue néerlandais Leo Schilperoord aurait pu être contaminé lors d’une excursion près d’Ushuaia, dans le sud de l’Argentine. Une hypothèse qui n’a toutefois...",
+      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-ornithologue-neerlandais-devenu-possible-patient-zero-bord-mv-hondius-134472/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/4/a/44a4f03408_50255166_rongeur-hantavirus.jpg",
+      "date": "2026-05-12T18:27:10+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Fin de vie : le Sénat rejette de nouveau l’aide à mourir, Bruno Retailleau demande un référendum",
+      "desc": "Incapables de trouver un terrain d’entente, les sénateurs ont préféré rejeter en bloc, mardi, la proposition de loi portée par Olivier Falorni. Le dernier mot pourrait revenir à l’Assemblée nationale, où la réforme bénéficie de la majorité.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/12/fin-de-vie-le-senat-rejette-de-nouveau-l-aide-a-mourir-bruno-retailleau-demande-un-referendum_6688276_3224.html",
+      "image": "https://img.lemde.fr/2026/05/11/0/0/8192/4096/644/322/60/0/053acb4_ftp-1-clf5ahoayhrl-5001981-01-06.jpg",
+      "date": "2026-05-12T18:22:22+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Alzheimer : ce régime alimentaire pourrait freiner le déclin cognitif, selon la science",
+      "desc": "Quelque 93 000 personnes ont été suivies pendant onze ans. Un chiffre qui donne le vertige, et des résultats qui méritent qu'on s'y arrête. Ce que nous mangeons chaque jour influence peut-être bien plus notre cerveau qu'on ne le pensait. La bonne nouvelle, c'est qu'il n'est jamais trop tard pour...",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-regime-alimentaire-pourrait-freiner-declin-cognitif-selon-science-k2m6-134410/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/2/2/422ccb1eb0_50255025_legumes-cerveau-alzheimer.jpg",
+      "date": "2026-05-12T18:00:00+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Hantavirus : état de santé des croisiéristes français, cas contacts, virulence… L’essentiel de la conférence de presse de la ministre de la Santé",
+      "desc": "Stéphanie Rist a répondu ce mardi après-midi aux questions des journalistes, accompagnée de nombreux scientifiques. «Libé» fait le point sur l’état de santé des passagers français et l’état des connaissances sur le virus des Andes.",
+      "url": "https://www.liberation.fr/societe/sante/etat-de-sante-des-patients-cas-contacts-virulence-de-lhantavirus-ce-quil-faut-retenir-de-la-conference-de-presse-de-la-ministre-de-la-sante-20260512_AGU62YXYCRHEPPNQJEPZSL37GE/",
+      "image": null,
+      "date": "2026-05-12T17:54:29+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "#OnVousRépond. Etat grippal, problèmes pulmonaires et cardiaques, hémorragies... Quels sont les symptômes de l'hantavirus ?",
+      "desc": "Le virus, dont le temps d'incubation varie entre une et six semaines, provoque des symptômes grippaux et peut évoluer vers des complications cardiaques et pulmonaires.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-etat-grippal-problemes-pulmonaires-et-cardiaques-hemorragies-quels-sont-les-symptomes-de-l-hantavirus_7997732.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/roVt6QE0YhdRKOgTO32eg-u5cQw/0x472:2160x1687/432x243/filters:format(jpg)/2026/05/12/6a03252c52801833336798.jpg",
+      "date": "2026-05-12T17:54:21+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "#OnVousRépond. Outbreak, épidémie, pandémie… Quel terme faut-il utiliser pour définir la circulation de l'hantavirus ?",
+      "desc": "Lorsque le Covid-19 s'est propagé dans le monde, le terme de pandémie s'est rapidement imposé comme le plus approprié pour décrire le phénomène. Mais alors que l'hantavirus mobilise les autorités sanitaires mondiales, que signifie vraiment ce terme et pourquoi ne lui a-t-on pas préféré celui d'épidé",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-outbreak-epidemie-pandemie-quel-terme-faut-il-utiliser-pour-definir-la-circulation-de-l-hantavirus_7999667.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rgdwOKIRCLBO15OdTiJQcaAdmhA/0x53:1024x629/432x243/filters:format(jpg)/2026/05/12/6a03373b4e2ee230570108.jpg",
+      "date": "2026-05-12T17:53:52+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : la quarantaine des cas contacts, \"un élément important pour stopper les chaînes de transmission\"",
+      "desc": "L'inquiétude grandit en France, après un premier cas avéré d'hantavirus des Andes dans l'Hexagone. Lundi soir, le gouvernement a annoncé durcir le protocole de quarantaine pour les 22 cas contacts identifiés. Parmi eux, un homme transféré de Concarneau (Finistère) à l'hôpital de Rennes (Ille-et-Vila",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-la-quarantaine-des-cas-contacts-jusqu-a-42-jours-un-element-important-pour-stopper-les-chaines-de-transmission_7999652.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/HBHBTrKaMUx68jcPj1tulbkGx40/0x21:1522x878/432x243/filters:format(jpg)/2026/05/12/6a0310b154161120896525.jpg",
+      "date": "2026-05-12T17:53:22+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Décharge, cordillère des Andes, foyers d’hantavirus : itinéraire de Leo Schilperoord, premier mort à bord du «Hondius», avant le départ de la croisière",
+      "desc": "«CheckNews» a retracé le parcours du Néerlandais de 70 ans, soupçonné d’être à l’origine du cluster sur le bateau de croisière. Si plusieurs médias ont évoqué le passage du couple dans une déchetterie supposément envahie de rongeurs, l’hypothèse reste fragile.",
+      "url": "https://www.liberation.fr/checknews/decharge-cordillere-des-andes-foyers-dhantavirus-par-ou-est-passe-leo-schilperoord-premier-mort-a-bord-du-hondius-avant-le-depart-de-la-croisiere-20260512_X66Q2AOBOZCFDCDV6G2L2RQGVI/",
+      "image": null,
+      "date": "2026-05-12T17:43:58+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "L'hantavirus, c’est le nouveau Covid ?",
+      "desc": "Tout le monde en parle depuis plusieurs jours : l’hantavirus. Ce virus, plus mortel que le Covid, a été détecté à bord d’un bateau de croisière début avril. Mais de quoi s’agit-il exactement ? On fait le point.",
+      "url": "https://www.franceinfo.fr/sante/l-hantavirus-c-est-le-nouveau-covid_7999886.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fbZfLBND_6j6OtRkQYdKAADzdjM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/12/6a03415bba2d6435010555.jpg",
+      "date": "2026-05-12T17:37:11+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Sébastien Lecornu ne lésine pas sur le front de l’hantavirus des Andes : «Avec son expérience de gestion des crises, il les voit venir»",
+      "desc": "Alors que le souvenir de l’épidémie de Covid est encore vif, le Premier ministre surveille de près l’évolution du virus et a serré la vis sur l’isolement des cas contacts.",
+      "url": "https://www.liberation.fr/politique/sebastien-lecornu-ne-lesine-pas-sur-le-front-de-lhantavirus-des-andes-avec-son-experience-de-gestion-des-crises-il-les-voit-venir-20260512_JVE2W3Z6FVHIDNKNKGJWJ5XBZI/",
+      "image": null,
+      "date": "2026-05-12T17:12:58+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Gérald Darmanin exclut finalement tous les crimes sexuels de l’extension du «plaider-coupable»",
+      "desc": "Un courrier de la Chancellerie fait savoir que la mesure polémique de l’élargissement du «plaider-coupable» criminel sera désormais réduite aux braquages et coups mortels.",
+      "url": "https://www.liberation.fr/societe/police-justice/gerald-darmanin-exclut-finalement-tous-les-crimes-sexuels-de-lextension-du-plaider-coupable-20260512_FNUI6S52ZRAFFCRRXZDKBWC3VU/",
+      "image": null,
+      "date": "2026-05-12T17:08:13+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Réanimation, traitement… Comment soigner les patients testés positifs au hantavirus ?",
+      "desc": "Aucun traitement n’est actuellement homologué pour soigner ou prévenir le hantavirus des Andes. Les médecins peuvent intervenir sur les symptômes du virus, notamment la détresse respiratoire aiguë",
+      "url": "https://www.20minutes.fr/sante/4223172-20260512-reanimation-traitement-comment-soigner-patients-testes-positifs-hantavirus?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/4kaDKIToSQiXtvQm3bemJik/1200x768_les-passagers-sont-asperges-de-desinfectant-par-des-representants-du-gouvernement-espagnol-avant-de-monter-a-bord-d-un-avion-apres-avoir-debarque-du-navire-de-croisiere-mv-hondius-atteint-d-hantavirus-a-l-aeroport-de-tenerife-dans-les-iles-canaries-en-espagne-le-dimanche-10-mai-2026-ap-photo-arturo-rodriguez-em146-26131247068270-2605110908",
+      "date": "2026-05-12T15:28:08+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : stupeur à Concarneau, dans le Finistère, où un cas contact a été identifié",
       "desc": "Un premier cas d'hantavirus a été détecté en France. La patiente concernée est désormais dans un état stable, mais reste en réanimation, mardi. Les autorités françaises ont renforcé les règles d'isolement pour les cas contacts. Au moins 22 ont été recensés dans l'Hexagone.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-stupeur-a-concarneau-dans-le-finistere-ou-le-cas-contact-d-une-personne-decedee-du-virus-a-ete-identifie_7999445.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/OM3oa6Jn7uayapf0B5R203VLlyQ/42x0:1363x743/432x243/filters:format(jpg)/2026/05/12/6a02f36234b73967678787.jpg",
       "date": "2026-05-12T15:24:25+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "#OnVousRépond : Etat grippal, problèmes pulmonaires et cardiaques, hémorragies... Quels sont les symptômes de l'hantavirus ?",
-      "desc": "Le virus, dont le temps d'incubation varie entre une et six semaines, provoque des symptômes grippaux et peut évoluer vers des complications cardiaques et pulmonaires.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-etat-grippal-problemes-pulmonaires-et-cardiaques-hemorragies-quels-sont-les-symptomes-de-l-hantavirus_7997732.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/roVt6QE0YhdRKOgTO32eg-u5cQw/0x472:2160x1687/432x243/filters:format(jpg)/2026/05/12/6a03252c52801833336798.jpg",
-      "date": "2026-05-12T15:13:11+00:00",
       "date_formatted": "12 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -43,26 +233,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : pas de quarantaine eux Etats-Unis, isolement en France et en Espagne… quels sont les protocoles mis en place par les pays concernés ?",
-      "desc": "Alors qu’à ce stade, neuf cas ont été décomptés, dont sept confirmés par l’OMS, les modalités de la quarantaine diffèrent selon chaque pays. Et ne sont pas toujours alignées avec les recommandations de l’agence sanitaire mondiale.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-pas-de-quarantaine-eux-etats-unis-isolement-en-france-et-en-espagne-quels-sont-les-protocoles-mis-en-place-par-les-pays-concernes-20260512_3AJE4EI4W5CDJNJENENF7OKOM4/",
-      "image": null,
-      "date": "2026-05-12T13:42:44+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : la quarantaine des cas contacts jusqu'à 42 jours, \"un élément important pour stopper les chaînes de transmission\"",
-      "desc": "L'inquiétude grandit en France, après un premier cas avéré d'hantavirus des Andes dans l'Hexagone. Lundi soir, le gouvernement a annoncé durcir le protocole de quarantaine pour les 22 cas contacts identifiés. Parmi eux, un homme transféré de Concarneau (Finistère) à l'hôpital de Rennes (Ille-et-Vila",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-la-quarantaine-des-cas-contacts-jusqu-a-42-jours-un-element-important-pour-stopper-les-chaines-de-transmission_7999652.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HBHBTrKaMUx68jcPj1tulbkGx40/0x21:1522x878/432x243/filters:format(jpg)/2026/05/12/6a0310b154161120896525.jpg",
-      "date": "2026-05-12T13:37:40+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : ce virus mortel était connu depuis 30 ans, alors pourquoi l’a-t-on presque oublié ?",
       "desc": "Documenté comme transmissible entre humains dès 1996, le virus des Andes n’a pourtant provoqué que de rares épisodes épidémiques en trente ans. Le foyer du MV Hondius remet aujourd’hui sous les projecteurs ce hantavirus longtemps resté dans un angle mort de la surveillance mondiale. Faut-il...",
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-ce-virus-mortel-etait-connu-depuis-30-ans-alors-t-on-presque-oublie-134454/#xtor%3DRSS-8",
@@ -71,16 +241,6 @@
       "date_formatted": "12 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : les frappes israéliennes au Liban ont fait 380 morts depuis l’entrée en vigueur du cessez-le-feu",
-      "desc": "Le ministère de la Santé libanais a publié des chiffres ce mardi midi. Parallèlement, la voie diplomatique piétine entre Washington et Téhéran, après que le président américain a opposé une fin de non-recevoir aux exigences iraniennes.",
-      "url": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-pourrait-enrichir-de-luranium-a-des-fins-militaires-sil-etait-attaque-avertit-un-parlementaire-20260512_FV5VU6ZSN5DADCJLY4DI26HQIY/",
-      "image": null,
-      "date": "2026-05-12T13:15:47+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le gouvernement renforce la quarantaine face au hantavirus : \"On prend les précautions qu’il faut\", estime un immunologiste",
@@ -120,26 +280,6 @@
       "date": "2026-05-12T11:28:30+00:00",
       "date_formatted": "12 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus : la France demande une «coordination plus étroite» des protocoles sanitaires dans l’Union européenne",
-      "desc": "Après le rapatriement de cinq croisiéristes en France, dont une malade, le gouvernement a durci le protocole pour les cas contacts. Le chef de l’OMS espère que les pays suivront «les conseils et les recommandations» diffusés par l’agence.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-les-regles-disolement-durcies-en-france-20260512_OMMEQ2GGNBDEFHQAJQFGHXKJV4/",
-      "image": null,
-      "date": "2026-05-12T11:23:33+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : Sébastien Lecornu demande une « coordination plus étroite » des protocoles sanitaires dans l’UE",
-      "desc": "Tedros Adhanom Ghebreyesus, directeur de l’Organisation mondiale de la santé, dit « espérer » que les pays suivront « les conseils et les recommandations » de l’institution dans la lutte contre le hantavirus, après l’évacuation de plus de 120 passagers et membres de l’équipage du navire de croisière",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/12/en-direct-hantavirus-notre-travail-n-est-pas-termine-avertit-le-patron-de-l-oms-apres-l-evacuation-du-mv-hondius_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/08/559/0/8000/4000/644/322/60/0/a7c4081_upload-1-o0usjktuwjge-jmug260508081.jpg",
-      "date": "2026-05-12T11:07:52+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -223,20 +363,10 @@
       "type": "presse"
     },
     {
-      "title": "\"Sur le terrain\" du 11 mai 2026 : la France sur le pied de guerre face au hantavirus ?",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 1ère partie à la crise d’hantavirus et à la passagère française en réanimation après avoir été testée positive et vu son état se dégrader. Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h et 23 h sur la chaîne info, canal 16.",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-11-mai-2026-la-france-sur-le-pied-de-guerre-face-au-hantavirus_7999148.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jpc4Un15dlb2h---OABh3Gmsdv4/367x0:1391x576/432x243/filters:format(jpg)/2026/05/12/6a02af3a8bdc6139070442.jpg",
-      "date": "2026-05-12T06:42:02+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT Hantavirus : La patiente française dans un état critique, Lecornu veut une meilleure coordination…",
+      "title": "EN DIRECT Hantavirus : La Française hospitalisée oxygénée avec un « poumon artificiel »...",
       "desc": "Suivez avec nous les informations de ce mardi 12 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
       "url": "https://www.20minutes.fr/societe/4223067-20260512-direct-hantavirus-mv-hondius-fait-route-vers-pays-bas?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/rWlEg_mhS0-Bf28GcBykASk/1200x768_dpatop-12-mai-2026-pays-bas-eindhoven-les-membres-d-equipage-du-hondius-arrivent-a-l-aeroport-d-eindhoven-dans-la-soiree-a-bord-de-deux-avions-dont-un-membre-d-equipage-allemand-photo-christoph-reichwein-dpa-ur-newsml-dpa-com-20090101-260512-99-397462-christoph-reichwein-dpa-sipa-2605120449",
+      "image": "https://img.20mn.fr/R_ZCzKDWTnOVZdfkQYvTMyk/1200x768_des-medecins-escortent-un-patient-deuxieme-a-droite-evacue-du-navire-de-croisiere-mv-hondius-soupconne-d-etre-infecte-par-l-hantavirus-vers-une-ambulance-apres-avoir-ete-transporte-par-avion-a-l-aeroport-de-schiphol-a-amsterdam-aux-pays-bas-le-mercredi-6-mai-2026-ap-photo-peter-dejong-pdj115-26126675405592-2605062047",
       "date": "2026-05-12T04:29:00+00:00",
       "date_formatted": "12 May 2026",
       "source": "20 Minutes Santé",
@@ -250,46 +380,6 @@
       "date": "2026-05-12T01:36:11+00:00",
       "date_formatted": "12 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le personnel d'un hôpital néerlandais traitant un patient infecté par l'hantavirus mis en quarantaine après des erreurs de procédure",
-      "desc": "Douze personnes vont être confinées \"pendant six semaines à titre de précaution, même si le risque d'infection est faible\", a annoncé l'établissement.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-le-personnel-d-un-hopital-neerlandais-traitant-un-patient-infecte-par-l-hantavirus-mis-en-quarantaine-apres-des-erreurs-de-procedure_7997975.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/FFFZY7S5s_zUtJqwHm3vWfM0NK8/0x0:4996x2810/432x243/filters:format(jpg)/2026/05/11/6a023ce9b7fc0646552312.jpg",
-      "date": "2026-05-11T23:38:15+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L'hantavirus est \"une infection à prendre très au sérieux\" selon l'ancienne ministre de la Santé, Roselyne Bachelot",
-      "desc": "Invitée de \"Tout est politique\" sur franceinfo ce lundi 11 mai, l'ancienne ministre de la Santé, Roselyne Bachelot, s'est exprimée sur les mesures prises du gouvernement concernant l'hantavirus.",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/l-hantavirus-est-une-infection-a-prendre-tres-au-serieux-estime-l-ancienne-ministre-de-la-sante-roselyne-bachelot_7997987.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/g_hB0Klz5WFgSpSEjycOp2Jmxw0/15x0:1356x754/432x243/filters:format(jpg)/2026/05/11/6a0243d0e176b731599668.jpg",
-      "date": "2026-05-11T23:12:12+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : une quarantaine renforcée en milieu hospitalier pour les cas contacts",
-      "desc": "Vingt-deux cas contacts de l'hantavirus ont été identifiés en France. Tous seront placés en quarantaine renforcée en milieu hospitalier comme l'a annoncé le Premier ministre, Sébastien Lecornu, lundi 11 mai.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-une-quarantaine-renforcee-en-milieu-hospitalier-pour-les-cas-contacts_7997891.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/gM9VWYprMyMMdKbQ_UK-jZaYiDo/0x11:1381x788/432x243/filters:format(jpg)/2026/05/11/6a02250289490731890866.jpg",
-      "date": "2026-05-11T22:36:58+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : l'état de santé de la Française contaminée inquiète",
-      "desc": "Les cinq Français évacués du bateau de croisière ont passé leur première journée à l’hôpital Bichat sous très haute surveillance ce lundi 11 mai. Parmi eux, une femme a été testée positive et son état s’est vite dégradé. Elle est actuellement en réanimation.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-l-etat-de-sante-de-la-francaise-contaminee-inquiete_7997876.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GnKAwAXhWR1XR1ZsDwCMkp82S0I/38x0:1342x733/432x243/filters:format(jpg)/2026/05/11/6a021f46b1a7d997764941.jpg",
-      "date": "2026-05-11T22:34:27+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -453,16 +543,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : Un des cinq passagers français présente des « symptômes »… Quelles sont les mesures ?",
-      "desc": "Les cinq Français à bord du « MV Hondius », où un foyer d’hantavirus a été détecté, sont arrivés au Bourget en fin d’après-midi. L’un d’eux présente des symptômes, selon le Premier ministre",
-      "url": "https://www.20minutes.fr/sante/4222732-20260510-hantavirus-comment-pris-charge-cinq-passagers-francais-retour-hexagone?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/FHX0jY0LRsGMUf-1o1f0Nik/1200x768_des-employes-du-service-medical-d-urgence-du-samu-a-bord-de-vehicules-preparent-l-arrivee-d-un-avion-rapatriant-des-ressortissants-francais-passagers-du-mv-hondius-a-bord-duquel-un-foyer-d-hantavirus-a-ete-detecte-a-l-aeroport-de-paris-le-bourget-au-bourget-le-10-mai-2026-l-evacuation-des-quelque-150-passagers-et-membres-d-equipage-du-mv-hondius-ou-un-foyer-d-hantavirus-a-ete-detecte-a-debute-le-10-mai-2026-avec-les-ressortissants-espagnols-et-francais-dans-un-port-de-l-ile-de-tenerife-aux-iles-canaries-l-operation-qui-est-etroitement-surveillee-devrait-se-poursuivre-jusqu-au-11-mai-l-organisation-mondiale-de-la-sante-oms-a-identifie-six-cas-confirmes-d-hantavirus-sur-huit-cas-suspects-dont-trois-personnes-decedees-des-suites-de-ce-virus-connu-mais-rare-pour-lequel-il-n-existe-ni-vaccin-ni-traitement-photo-de-xavier-galiana-afp",
-      "date": "2026-05-10T14:46:59+00:00",
-      "date_formatted": "10 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ces porcs génétiquement modifiés pourraient sauver des milliers de vies… mais leur utilisation dérange",
       "desc": "Dans une vallée isolée des États-Unis, des porcs génétiquement modifiés pourraient révolutionner la médecine. Ces animaux élevés pour fournir des organes compatibles avec le corps humain pourraient ainsi répondre au manque dramatique de greffons de reins, voire de cœur. Mais cette avancée...",
       "url": "https://www.futura-sciences.com/sante/actualites/organe-ces-porcs-genetiquement-modifies-pourraient-sauver-milliers-vies-mais-leur-utilisation-derange-w2t8-134251/#xtor%3DRSS-8",
@@ -471,26 +551,6 @@
       "date_formatted": "10 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Retour en France ce dimanche des Français du navire touché par l’hantavirus",
-      "desc": "Alors que l’OMS considère l’ensemble des passagers du MV Hondius comme « des contacts à haut risque », ces cinq Français seront placés en quarantaine",
-      "url": "https://www.20minutes.fr/societe/4222706-20260510-retour-france-dimanche-francais-navire-touche-hantavirus?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/P65HH7BkRJeJvqEXfufr-Ck/1200x768_les-cinq-francais-a-bord-du-navire-mv-hondius-touche-par-un-foyer-d-hantavirus-vont-rentrer-en-france-ce-10-mai-2026",
-      "date": "2026-05-10T05:59:17+00:00",
-      "date_formatted": "10 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Une réunion dimanche à Matignon pour faire « un point de situation »",
-      "desc": "Le navire de croisière MV Hondius est attendu dimanche à l’aube au large des îles Canaries, avant le début prévu des évacuations",
-      "url": "https://www.20minutes.fr/societe/4222688-20260509-hantavirus-reunion-dimanche-matignon-faire-point-situation?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/U6TNVRpKTbqz09A-lLsWtyk/1200x768_les-travailleurs-ont-installe-des-abris-temporaires-dans-la-zone-ou-les-passagers-du-bateau-de-croisiere-mv-hondius-devraient-arriver-au-port-de-granadilla-a-tenerife-dans-les-iles-canaries-en-espagne-le-samedi-9-mai-2026-ap-photo-manu-fernandez-mf104-26129403505749-2605091314",
-      "date": "2026-05-09T20:38:05+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Hantavirus : à bord du MV « Hondius », les passagers embarqués « dans une aventure improbable »",
@@ -520,16 +580,6 @@
       "date": "2026-05-09T16:11:57+00:00",
       "date_formatted": "9 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Masques FFP2, vols de rapatriement… Comment se déroulera l’évacuation des passagers du navire",
-      "desc": "Le navire de croisière MV Hondius, touché par un foyer d’hantavirus, est attendu dimanche au large des îles Canaries, avant le début d’une opération qualifiée d’inédite par les autorités à Madrid pour évacuer les 150 passagers et membres d’équipage",
-      "url": "https://www.20minutes.fr/monde/4222670-20260509-hantavirus-masques-ffp2-vols-rapatriement-comment-deroulera-evacuation-passagers-navire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/OOzHCDScQoqcnfiJgzgUZik/1200x768_le-navire-de-croisiere-mv-hondius-est-ancre-dans-un-port-de-praia-au-cap-vert-le-mercredi-6-mai-2026-ap-photo-misper-apawu-xma101-26126376625918-2605061242",
-      "date": "2026-05-09T13:26:55+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -571,16 +621,6 @@
       "date_formatted": "8 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : comment le système sanitaire et les établissements de santé de référence français se préparent",
-      "desc": "Transport, tests virologiques, examens cliniques… Alors que le rapatriement des cinq Français embarqués sur le navire « Hondius », foyer d’infection à ce virus peu connu en Europe, pourrait avoir lieu dès dimanche, les protocoles de prise en charge se précisent.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/08/hantavirus-comment-le-systeme-sanitaire-et-les-etablissements-de-sante-de-reference-francais-se-preparent_6687083_3224.html",
-      "image": "https://img.lemde.fr/2026/05/06/350/0/4200/2100/644/322/60/0/fd46e03_ftp-1-35gg7azmuxou-5957858-01-06.jpg",
-      "date": "2026-05-08T17:59:34+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Césarienne : comment le sexe du bébé influence ses risques de maladies à long terme",
@@ -633,16 +673,6 @@
       "type": "science"
     },
     {
-      "title": "Cancer : des chercheurs découvrent comment redonner de la force aux cellules immunitaires épuisées",
-      "desc": "À force de combattre la tumeur, certaines cellules immunitaires finissent par s’encrasser de l’intérieur et par perdre leur puissance. En identifiant l’origine de ce « burn-out » cellulaire, des biologistes américains ouvrent une voie prometteuse pour rendre les traitements contre le cancer plus...",
-      "url": "https://www.futura-sciences.com/sante/actualites/systeme-immunitaire-cancer-chercheurs-decouvrent-redonner-force-cellules-immunitaires-epuisees-134273/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/2/8/6/286c1577a3_50254777_lymphocytes-cellules-cancer.jpg",
-      "date": "2026-05-06T20:08:50+00:00",
-      "date_formatted": "6 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
       "title": "Canicule et baignades sauvages : alarmante hausse des noyades mortelles en France en 2025",
       "desc": "À l’été 2025, marqué par des épisodes de chaleur précoce et intense, la France a enregistré 409 décès par noyade. Nombre de ces drames sont survenus fin juin, dans des rivières et plans d’eau non surveillés, où la quête de fraîcheur face à la canicule s’est révélée fatale.",
       "url": "https://www.sciencesetavenir.fr/sante/canicule-et-baignades-sauvages-alarmante-hausse-des-noyades-mortelles-en-france-en-2025_192344?xtor=RSS-16",
@@ -653,7 +683,7 @@
       "type": "science"
     },
     {
-      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Huit questions sur l’hantavirus",
+      "title": "Symptômes, modes de contamination, espoirs pour la recherche… Neuf questions sur l’hantavirus",
       "desc": "Le 3 mai 2026, l’Organisation mondiale de la santé (OMS) a signalé un possible foyer d’infection à hantavirus à bord du navire de croisière MV « Hondius », parti d’Argentine à destination du Cap-Vert et transportant 147 passagers et membres d’équipage. Que sait-on aujourd’hui de ce virus, dont l’OMS",
       "url": "https://presse.inserm.fr/canal-detox/symptomes-modes-de-contamination-espoirs-pour-la-recherche-huit-questions-sur-lhantavirus/",
       "image": null,
