@@ -1,7 +1,147 @@
 {
-  "generated_at": "2026-05-13T14:01:21.058187+00:00",
-  "count": 91,
+  "generated_at": "2026-05-13T19:28:06.430567+00:00",
+  "count": 92,
   "articles": [
+    {
+      "title": "Croisières  : pourquoi les virus se propagent-ils autant ?",
+      "desc": "Comment expliquer qu'en moins d'une semaine, deux bateaux de croisière aient été victimes d'une possible épidémie ? La promiscuité à bord semble être un terrain idéal de propagation des virus. Explications.",
+      "url": "https://www.franceinfo.fr/sante/croisieres-pourquoi-les-virus-se-propagent-ils-autant_8002331.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/9o2eIC6cTjTqvXmxIo3XzJZ1-EY/0x88:1676x1031/432x243/filters:format(jpg)/2026/05/13/6a04cc56a79b7984625212.png",
+      "date": "2026-05-13T21:09:15+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Paquebot en escale à Bordeaux : la suspicion d’une épidémie de gastro-entérite confirmée par les autorités sanitaires ; levée partielle de la quarantaine",
+      "desc": "Parmi les 1 233 passagers, 80 « ont été touchés par des symptômes compatibles avec une infection digestive aiguë ». Les résultats d’analyse vont permettre aux personnes non-symptomatiques de débarquer, tandis que les personnes contaminées seront maintenues à l’isolement.",
+      "url": "https://www.lemonde.fr/societe/article/2026/05/13/paquebot-en-escale-a-bordeaux-la-suspicion-d-une-epidemie-de-gastro-enterite-confirmee-par-les-autorites-sanitaires-levee-partielle-de-la-quarantaine_6688681_3225.html",
+      "image": "https://img.lemde.fr/2026/05/13/1062/0/7015/3507/644/322/60/0/427bfb7_upload-1-aset56071ywe-000-73hf89e.jpg",
+      "date": "2026-05-13T20:50:20+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été diagnostiqués négatifs",
+      "desc": "La ministre de la santé, Stéphanie Rist, a affirmé plus tôt dans la journée que seraient connus mercredi les résultats des tests des 22 cas contacts français n’ayant pas été passagers du navire « Hondius ».",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/13/en-direct-hantavirus-parmi-les-26-cas-contacts-francais-les-quatre-enfants-ont-tous-ete-testes-negatifs_6688609_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/11/893/0/5619/2809/644/322/60/0/0fb03db_ftp-1-ckyauwhwcfob-2026-05-11t123355z-1364666045-rc2z6la8d94w-rtrmadp-3-cruiseship-hantavirus-france.JPG",
+      "date": "2026-05-13T20:22:01+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"On peut encore se promener, mais il y a des règles\" : un paquebot, sur lequel s'est propagée une épidémie de gastro-entérite, confiné à Bordeaux avec 1 700 personnes à bord",
+      "desc": "Un paquebot, avec à son bord 1 700 personnes, est immobilisé ce mercredi 13 mai au large de Bordeaux, après le décès d’un passager et une épidémie de gastro-entérite. Au moins 80 personnes seraient malades.",
+      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/on-peut-encore-se-promener-mais-il-y-a-des-regles-un-paquebot-sur-lequel-s-est-propagee-une-epidemie-de-gastro-enterite-confine-a-bordeaux-avec-1-700-personnes-a-bord_8002310.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/kqpTjnnELpj_q6ZjESqddw6NaHg/0x78:1626x993/432x243/filters:format(jpg)/2026/05/13/6a04c0556cc18458165007.png",
+      "date": "2026-05-13T20:19:54+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse ?",
+      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il s’interroge sur la prise de «bonnes décisions» de la France sur la souche des Andes et son protocole devenu l’un des plus stricts du monde.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-emmanuel-macron-peut-il-cette-fois-revendiquer-une-gestion-sanitaire-rigoureuse-20260513_26LOUUEN3VA2DM63EQEATDNXR4/",
+      "image": null,
+      "date": "2026-05-13T18:38:43+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Suède : comment la généalogie génétique a permis de résoudre, seize ans plus tard, le double meurtre de Linköping",
+      "desc": "La généalogie génétique a permis d’élucider une affaire criminelle non résolue pendant plus de quinze ans. Des chercheurs suédois en médecine légale retracent les étapes de l’enquête et en analysent les enjeux légaux, éthiques et sociétaux.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/13/suede-comment-la-genealogie-genetique-a-permis-de-resoudre-seize-ans-plus-tard-le-double-meurtre-de-linkoping_6688732_6579630.html",
+      "image": "https://img.lemde.fr/2026/05/08/223/0/537/268/644/322/60/0/34c99bc_upload-1-0dm60zmc5u4z-linko-ping-double-meurtre-genealogie-genetique-gene-alogie-forensique-police-scientifique-adn-snp.png",
+      "date": "2026-05-13T18:18:28+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus : les 26 cas contacts français ne présentent aucun symptôme, annonce le gouvernement ce mercredi soir",
+      "desc": "L’Institut Pasteur analyse également le séquençage du virus pour savoir si une mutation l’aurait rendu plus contagieux. Les premiers résultats sont «rassurants», a estimé ce mercredi l’infectiologue Yazdan Yazdanpanah.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-la-patiente-francaise-est-dans-un-etat-grave-20260513_5FZTZTBXJ5E3ZEPUYNPY55O7OQ/",
+      "image": null,
+      "date": "2026-05-13T18:05:39+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le syndrome des ovaires polykystiques officiellement renommé pour \"refléter enfin la complexité de cette pathologie\"",
+      "desc": "La Congrès européen d'endocrinologie a décidé d'identifier ce trouble qui touche de nombreuses femmes comme un \"syndrome métabolique ovarien polyendocrinien\".",
+      "url": "https://www.franceinfo.fr/sante/le-syndrome-des-ovaires-polykystiques-officiellement-renomme-pour-refleter-enfin-la-complexite-de-cette-pathologie_8001878.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/cGKzhXtm8N_2MpSw3vZQbkuHRVo/0x0:1024x576/432x243/filters:format(jpg)/2026/05/13/6a048be855cac109717636.jpg",
+      "date": "2026-05-13T17:55:23+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "#OnVousRépond. Quand l'hantavirus a-t-il été découvert et a-t-il déjà causé des épidémies ?",
+      "desc": "La souche des Andes à l'origine du foyer de contamination sur le \"MV Hondius\", de la famille des hantavirus, a été découverte pour la première fois en 1995 en Argentine, où environ 100 cas sont signalés chaque année.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-quand-l-hantavirus-a-t-il-ete-decouvert-et-a-t-il-deja-cause-des-epidemies_8001731.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/hDHvCkw64iGbdr_4u8S6v6zto8Y/0x0:1024x576/432x243/filters:format(jpg)/2026/05/13/6a04749fc51e9126990280.jpg",
+      "date": "2026-05-13T17:54:24+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancers pédiatriques : Les députés veulent taxer les laboratoires pharmaceutiques",
+      "desc": "Les députés ont adopté, ce mercredi, une proposition de loi créant un fonds pour financer la recherche sur les cancers pédiatriques et les maladies rares infantiles, via une taxe sur les laboratoires pharmaceutiques",
+      "url": "https://www.20minutes.fr/sante/4223487-20260513-cancers-pediatriques-deputes-veulent-taxer-laboratoires-pharmaceutiques?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/eXrhcWZsQ4WlpMSLeJykVSk/1200x768_le-premier-ministre-francais-sebastien-lecornu-assiste-a-une-seance-de-questions-au-gouvernement-a-l-assemblee-nationale-a-paris-le-15-avril-2026-tephane-le-mouton-sipa-lemouton-stephane-260415b016-credit-stephane-lemouton-sipa-2604151744",
+      "date": "2026-05-13T17:47:00+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le Viagra, un traitement pour une maladie neurologique pédiatrique rare",
+      "desc": "Le sildénafil, connu surtout pour traiter les troubles de l’érection, agirait sur le syndrome de Leigh, une maladie génétique rare jusque-là sans traitement. Un espoir né des travaux d’une équipe internationale qui a testé des milliers de molécules sur des cellules reprogrammées.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/13/le-viagra-un-traitement-pour-une-maladie-neurologique-pediatrique-rare_6688723_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/08/371/0/4581/2290/644/322/60/0/f20a6bd_upload-1-87kavgun3xv0-ap18228649370817.jpg",
+      "date": "2026-05-13T17:30:11+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril ?",
+      "desc": "Trente passagers avaient quitté le navire lors d’une escale, alors qu’on ignorait encore tout de la présence du virus à bord. Depuis, la majorité d’entre eux est à l’isolement, mais plusieurs ont continué à voyager.",
+      "url": "https://www.liberation.fr/checknews/hantavirus-a-lisolement-ou-encore-en-voyage-que-sont-devenus-les-passagers-du-mv-hondius-debarques-a-sainte-helene-le-24-avril-20260513_OV7R6YXN7BCZJGVMY62CACI2EE/",
+      "image": null,
+      "date": "2026-05-13T17:11:22+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : la barrière naturelle contre certains virus est peut-être en train de céder",
+      "desc": "La mort d’un ornithologue, soupçonné d’être le patient zéro d’une épidémie d’hantavirus à bord d’un navire de croisière, révèle bien plus qu’un simple accident sanitaire : elle raconte les liens fragiles entre biodiversité, activités humaines et émergence des zoonoses.",
+      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-barriere-naturelle-certains-virus-peut-etre-train-ceder-134502/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/2/d/f2dc287ca0_50255223_biodiversite-virus.jpg",
+      "date": "2026-05-13T17:07:09+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Hantavirus, Nagui arrête son émission sur France Inter, Cannes Jour 2… L’actu de ce mercredi 13 mai",
+      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 13 mai 2026.",
+      "url": "https://www.liberation.fr/international/europe/hantavirus-nagui-arrete-son-emission-sur-france-inter-cannes-jour-2-lactu-de-ce-mercredi-13-mai-20260513_NSTLNWC2NVG7RI7KFHJUZRO32E/",
+      "image": null,
+      "date": "2026-05-13T16:26:35+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "#OnVousRépond. Vaccins expérimentaux, pistes à l'étude... Où en est la recherche de traitements contre l'hantavirus ?",
       "desc": "Si l'hantavirus est connu depuis plusieurs décennies, aucun traitement ou vaccin n'existent actuellement, faute de recherches et de nombre de cas suffisant.",
@@ -56,11 +196,21 @@
       "title": "Hantavirus : \"Ce n'est pas le retour des masques\", assure Philippe Tabarot, ministre des Transports",
       "desc": "Selon le ministre, invité politique de franceinfo ce 13 mai, aucune \"mesure de restriction sur l'utilisation des transports en commun\" n'est pour l'heure prévue en France pour faire face à la propagation de l'hantavirus.",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-13-mai-2026_7958528.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/W14nZX5GQoT7dHRksvRyrUUFIXs/7x0:1254x701/432x243/filters:format(jpg)/2026/05/13/6a0478023efe6912487101.jpg",
+      "image": "https://www.franceinfo.fr/pictures/5P5gujfYP7DuLVaS6IAGfhhnUAg/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/13/6a048df1bed0a356517800.jpg",
       "date": "2026-05-13T14:33:30+00:00",
       "date_formatted": "13 May 2026",
       "source": "France Info Santé",
       "type": "presse"
+    },
+    {
+      "title": "Hantavirus : ce qui le différencie vraiment du Covid-19",
+      "desc": "Alors que plusieurs cas suscitent l’inquiétude depuis le début de l’épidémie sur le MV Hondius, les autorités sanitaires appellent à la prudence. Moins transmissible que le Covid-19, l’hantavirus des Andes reste toutefois beaucoup plus mortel. Les analyses en cours doivent encore préciser s’il s’agi",
+      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-ce-qui-le-differencie-vraiment-du-covid-19_192440?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a0489556bea8-afp-20260512-b2ka3ke-v2-highres-topshotspainhealthhantavirusillnesstourism.jpg",
+      "date": "2026-05-13T14:25:14+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "\"C'est une urgence sanitaire\" : l'examen à l'Assemblée nationale d'un texte pour réduire l'exposition au cadmium prévu début juin",
@@ -73,50 +223,10 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT, hantavirus : ce qu’il faut retenir de l’audition de la ministre de la santé, Stéphanie Rist, devant la commission des affaires sociales de l’Assemblée nationale",
-      "desc": "Stéphanie Rist espère que « dans les jours qui viennent », « on aura la certitude de la non-mutation de ce virus », a-t-elle déclaré mercredi à la mi-journée devant les députés, insistant sur l’importance de la « coordination internationale ». Une réunion des ministres de la santé européens doit se ",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/13/en-direct-hantavirus-ce-qu-il-faut-retenir-de-l-audition-de-la-ministre-de-la-sante-stephanie-rist-devant-la-commission-des-affaires-sociales-de-l-assemblee-nationale_6688609_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/13/54/0/5044/2522/644/322/60/0/1b8322a_ftp-1-bfyhrog464or-5016907-01-06.jpg",
-      "date": "2026-05-13T13:53:08+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«L’Abandon» : malgré la justesse du film, des inexactitudes sur l’attitude des profs dans l’affaire Samuel Paty",
-      "desc": "Si le long-métrage dissèque avec précision l’engrenage mortifère qui a conduit à l’assassinat du professeur, quelques omissions subsistent concernant le soutien de ses collègues. Une réécriture de l’affaire qui perdure depuis six ans et qui a conduit au harcèlement de plusieurs d’entre eux.",
-      "url": "https://www.liberation.fr/societe/labandon-malgre-la-justesse-du-film-des-inexactitudes-sur-lattitude-des-profs-dans-laffaire-samuel-paty-20260513_SUVYIRFQYVBDPPZKU3FYPHIL3E/",
-      "image": null,
-      "date": "2026-05-13T13:43:09+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus : les résultats des tests sur les 22 cas contacts français connus ce mercredi",
-      "desc": "Le virus «ne circule pas actuellement en France», a rappelé la ministre de la Santé devant la commission des Affaires sociales ce mercredi matin. Les cinq croisiéristes français et les 22 cas contacts sont hospitalisés à l’isolement. Une seule personne a été testée positive, aujourd’hui en réanimati",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-la-patiente-francaise-est-dans-un-etat-grave-20260513_5FZTZTBXJ5E3ZEPUYNPY55O7OQ/",
-      "image": null,
-      "date": "2026-05-13T13:28:14+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "A Bordeaux, plus de 1 700 personnes confinées dans un paquebot après la mort d’un passager et une suspicion d’épidémie de gastro-entérite",
-      "desc": "Parmi les 1 233 passagers, en majorité des Britanniques et des Irlandais, outre la victime morte qui avait 90 ans, une cinquantaine ont manifesté des symptômes et des analyses sont en cours pour détecter la présence éventuelle de norovirus.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/13/a-bordeaux-plus-de-1-700-personnes-confinees-dans-un-paquebot-apres-le-deces-d-un-passager-et-une-suspicion-d-epidemie-de-gastro-enterite_6688681_3224.html",
-      "image": "https://img.lemde.fr/2026/05/13/1062/0/7015/3507/644/322/60/0/427bfb7_upload-1-aset56071ywe-000-73hf89e.jpg",
-      "date": "2026-05-13T12:58:50+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : les 22 Français cas contacts sont \"actuellement hospitalisés\"",
       "desc": "Ces cas contacts devraient être testés le 13 mai afin de savoir s'ils ont été infectés par l'hantavirus.",
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-les-22-francais-cas-contacts-sont-actuellement-hospitalises_192434?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a0471fc9874f-afp-20260512-b2mc2hk-v2-highres-francepoliticshealthhantavirus.jpg",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/13/cover-r4x3w1200-6a04a9dd77d11-8eed7963b648b0ea8d8da8cf22b1bf1a10ea77f1-jpg.jpg",
       "date": "2026-05-13T12:43:53+00:00",
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
@@ -153,16 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "Bordeaux : plus de 1 700 personnes confinées dans un paquebot après la mort d’un passager, suspicion de gastro-entérite",
-      "desc": "Le bateau «Ambition» a signalé à 2 heures du matin la mort d’un croisiériste âgé de plus de 90 ans ainsi qu’une cinquantaine de personnes malades. Passagers et membres de l’équipage doivent rester confinés en attendant les résultats des analyses lancées dans la nuit.",
-      "url": "https://www.liberation.fr/societe/sante/bordeaux-plus-de-1-700-personnes-confinees-dans-un-paquebot-apres-un-deces-suspicion-de-gastro-enterite-20260513_VOMGQ2ECMVELHBWAB4JPSKWPJM/",
-      "image": null,
-      "date": "2026-05-13T11:18:21+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "\"Pas du tout rassurés\", \"prudents\"... Pour les soignants de l’hôpital Bichat, la délicate gestion de l’hantavirus",
       "desc": "La ministre de la Santé Stéphanie Rist s'est voulue rassurante, mardi, en écartant toute \"circulation diffuse\" du hantavirus sur le territoire national. Mais à l'hôpital Bichat, où se trouvent, en grande partie, les patients et les cas contact à l'isolement, une certaine fébrilité entoure le service",
       "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/pas-du-tout-rassures-prudents-pour-les-soignants-de-l-hopital-bichat-la-delicate-gestion-de-l-hantavirus_8001227.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -170,26 +270,6 @@
       "date": "2026-05-13T11:12:21+00:00",
       "date_formatted": "13 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Bordeaux : 1.700 personnes confinées sur un paquebot après le décès d’un passager souffrant de « troubles intestinaux »",
-      "desc": "Après le décès d’un passager d’un bateau de croisière, celui-ci a été immobilisé à Bordeaux. Les autorités sanitaires évoquent les signes d’une infection digestive aïgue, en l’attente des résultats des prélèvements réalisés à bord",
-      "url": "https://www.20minutes.fr/societe/4223372-20260513-bordeaux-1-700-personnes-confinees-paquebot-cause-epidemie-gastro?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/U7Rq2Gw1Sd2WA4ePjcz8vik/1200x768_les-passagers-du-bateau-de-croisiere-sont-confines-a-bord-dans-l-attente-des-resultats-de-prelevements-realises-par-une-equipe-medicale-un-passager-est-decede-d-une-infection",
-      "date": "2026-05-13T10:52:30+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Elias, 14 ans, à Paris : le parquet demande un procès devant la cour d’assises des mineurs pour les auteurs présumés",
-      "desc": "Le ministère public a aussi demandé le maintien des accusés en détention provisoire jusqu’au procès, dans cette affaire remontant à fin janvier 2025 qui avait suscité un fort émoi et un vif débat politique sur la justice des mineurs.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-delias-14-ans-a-paris-le-parquet-demande-un-proces-devant-la-cour-dassises-des-mineurs-pour-les-auteurs-presumes-20260513_GLKGLTFVWFABDNJRZ5MH6TL64I/",
-      "image": null,
-      "date": "2026-05-13T10:43:03+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -211,16 +291,6 @@
       "date_formatted": "13 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Mort de Fleury Di Nallo à 83 ans : une légende de l’Olympique lyonnais is Gone",
-      "desc": "Le club rhodanien a annoncé par communiqué, ce mercredi 13 mai, le décès du meilleur buteur de son histoire, auteur de 222 buts en 489 matchs disputés entre 1960 et 1974.",
-      "url": "https://www.liberation.fr/sports/football/mort-de-fleury-di-nallo-a-83-ans-une-legende-de-lolympique-lyonnais-is-gone-20260513_4VE5WEUKMRCIPDNH42QKBUDFWM/",
-      "image": null,
-      "date": "2026-05-13T10:14:00+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Symptômes, transmission, incubation : que sait-on vraiment du hantavirus ?",
@@ -273,26 +343,6 @@
       "type": "presse"
     },
     {
-      "title": "\"Sur le terrain\" du 12 mai 2026 : la France sous la menace d'un variant du hantavirus ?",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 3ème partie au hantavirus : le gouvernement a-t-il raison de rassurer ? Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h et 23 h sur la chaîne info, canal 16.",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-12-mai-2026-la-france-sous-la-menace-d-un-variant-du-hantavirus_8001269.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/28YTiCIgnOzw1dXnAa3S8ncaWtM/193x0:1303x624/432x243/filters:format(jpg)/2026/05/13/6a04051d77547112575140.jpg",
-      "date": "2026-05-13T07:29:25+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Sur le terrain\" du 12 mai 2026 : l'hantavirus, une situation \"sous contrôle\" en France ?",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 1ère partie à l'évolution de la circulation du hantavirus en France, en Europe et aux États-Unis, ainsi qu'aux dernières informations sur le virus. Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h et 23 h sur la chaîne info, cana",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-12-mai-2026-l-hantavirus-une-situation-sous-controle-en-france_8001233.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/XF97QX8rGFf4-wP9tTk0ZfAgpT8/269x0:1489x686/432x243/filters:format(jpg)/2026/05/13/6a03ffb51a758285081759.jpg",
-      "date": "2026-05-13T06:36:58+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Les apnées du sommeil ont des conséquences sur le foie",
       "desc": "L’étude d’une équipe de recherche de l’université de Grenoble montre que la privation temporaire d’oxygène, ou hypoxie intermittente, court-circuite l’horloge biologique du foie et pourrait perturber l’ensemble de l’organisme.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/13/les-apnees-du-sommeil-ont-des-consequences-sur-le-foie_6688613_1650684.html",
@@ -323,23 +373,13 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT Hantavirus : Les résultats des cas contacts seront connus d'ici ce soir…",
+      "title": "EN DIRECT Hantavirus : Les quatre enfants cas contacts testé négatifs…",
       "desc": "Suivez avec nous les informations de ce mercredi 13 mai 2026 sur les cas d'hantavirus, après le décès de trois passagers d’un bateau de croisière",
       "url": "https://www.20minutes.fr/societe/4223300-20260513-direct-hantavirus-emmanuel-macron-estime-situation-sous-controle-france?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/990oqQxlSh2HLU-UChOuvCk/1200x768_la-ministre-francaise-de-la-sante-stephanie-rist-prononce-un-discours-lors-d-une-conference-de-presse-sur-la-situation-liee-a-l-hantavirus-au-ministere-de-la-sante-a-paris-le-12-mai-2026-le-navire-de-croisiere-touche-par-une-epidemie-mortelle-d-hantavirus-s-est-dirige-vers-les-pays-bas-mardi-apres-le-debarquement-de-ses-derniers-passagers-dans-les-iles-canaries-en-espagne-et-au-moins-sept-des-personnes-evacuees-ont-ete-testees-positives-au-virus-les-autorites-francaises-ont-indique-qu-une-femme-testee-positive-avait-ete-hospitalisee-et-que-son-etat-etait-stable-en-soins-intensifs-01accorsini-jeanne-hantavirus-conf-0037-credit-jeanne-accorsini-sipa-2605121833",
+      "image": "https://img.20mn.fr/HBqtJ57oQ8a3psWjZyA35Ck/1200x768_une-pancarte-avec-un-dessin-du-rongeur-qui-transmet-l-hantavirus-et-des-informations-sur-les-mesures-preventives-est-affichee-a-l-hopital-zonal-ramon-carrillo-de-bariloche-en-argentine-le-mardi-12-mai-2026-ap-photo-euge-neme-xnp502-26132686009983-2605122106",
       "date": "2026-05-13T04:10:19+00:00",
       "date_formatted": "13 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : aux Pays-Bas, 12 soignants confinés à leur domicile pendant 45 jours à cause d'un protocole pas respecté",
-      "desc": "L'hantavirus suscite l'inquiétude aux Pays-Bas après une faille de protocole à l'hôpital de Nimègue. Douze soignants ont été placés en quarantaine suite à un risque de contamination lors de prélèvements biologiques.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-aux-pays-bas-12-soignants-confines-a-leur-domicile-pendant-45-jours-a-cause-d-un-protocole-pas-respecte_8000246.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/IYEYSFtbBHhwewPLaWdwLCzIIXQ/7x0:1383x774/432x243/filters:format(jpg)/2026/05/12/6a0384ae9a6f5554317996.jpg",
-      "date": "2026-05-12T23:07:52+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -573,16 +613,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : De quels pays viennent les cas confirmés ou probables de la maladie ?",
-      "desc": "Huit cas confirmés et deux cas probables d’infection par l’hantavirus ont été recensés suite à l’épidémie sur le navire de croisière « MV Hondius »",
-      "url": "https://www.20minutes.fr/sante/4222974-20260511-hantavirus-six-pays-ressortissant-touche-maladie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/o072uCjaSbWeoXmXgAWK4ik/1200x768_credit-obligatoire-photo-de-vincenzo-izzo-shutterstock-16869174ab-sur-cette-photo-d-illustration-un-tube-a-essai-de-laboratoire-contenant-du-sang-a-analyser-pour-detecter-l-epidemie-d-hantavirus-orthohantavirus-il-s-agit-de-virus-a-arn-transmis-a-l-homme-principalement-par-des-rongeurs-sauvages-souris-et-rats-illustration-hantavirus-naples-campanie-italie-10-mai-2026-shutterstock-editorial-illustration-hantavirus-napol-16869174ab-2605102320",
-      "date": "2026-05-11T12:50:49+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Acide hyaluronique en gélules : est-ce une vraie solution anti-âge et pour le confort articulaire ?",
       "desc": "L’acide hyaluronique est un produit omniprésent dans les cosmétiques et la médecine esthétique, plébiscité pour limiter les rides et redonner de l’élasticité à la peau. Depuis quelques années, il s’invite au rayon des compléments alimentaires, promettant un meilleur confort articulaire. Focus...",
       "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-acide-hyaluronique-gelules-ce-vraie-solution-anti-age-confort-articulaire-133890/#xtor%3DRSS-8",
@@ -639,16 +669,6 @@
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/5/7a594acdac_50225071_elevage-porcs.jpg",
       "date": "2026-05-10T09:00:00+00:00",
       "date_formatted": "10 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Masques à lumière rouge : la promesse beauté qui affole TikTok résiste-t-elle vraiment à la science ?",
-      "desc": "Portée par les influenceurs et les dispositifs à domicile, cette thérapie par la lumière rouge promet de lutter contre les rides, l’acné et les cicatrices. Le masque facial est-il la nouvelle arme anti-âge ou un simple effet de mode ? Entre promesses marketing de la « Beauty tech » et preuves...",
-      "url": "https://www.futura-sciences.com/sante/actualites/beaute-masques-lumiere-rouge-promesse-beaute-affole-tiktok-resiste-t-elle-vraiment-science-134288/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/6/1/f/61f527bb00_50254798_masque-lumiere-rouge-beaute.jpg",
-      "date": "2026-05-09T11:13:53+00:00",
-      "date_formatted": "9 May 2026",
       "source": "Futura Santé",
       "type": "science"
     },
@@ -758,16 +778,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/il-court-32-marathons-en-32-jours-consecutifs-pour-attirer-l-attention-sur-la-demence_192269?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/30/cover-r4x3w1200-69f33328ee781-59ec65bb8cbfe77d781b77f77d92f0caa9c05c15-jpg.jpg",
       "date": "2026-05-04T13:25:44+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Trois morts liés à un possible foyer de hantavirus sur un bateau de croisière dans l'Atlantique",
-      "desc": "L’Organisation mondiale de la santé (OMS) a annoncé le 3 mai 2026 trois décès potentiellement liés à un foyer d’infection à hantavirus, une maladie susceptible d’entraîner un syndrome respiratoire aigu, survenu à bord d’un navire de croisière dans l’Atlantique.",
-      "url": "https://www.sciencesetavenir.fr/sante/trois-morts-lies-a-un-possible-foyer-de-hantavirus-sur-un-bateau-de-croisiere-dans-l-atlantique_192299?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8730141eeb-croisiere.jpg",
-      "date": "2026-05-04T12:04:33+00:00",
       "date_formatted": "4 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
