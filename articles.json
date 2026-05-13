@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-05-12T19:25:58.679671+00:00",
-  "count": 91,
+  "generated_at": "2026-05-13T01:54:41.726625+00:00",
+  "count": 89,
   "articles": [
+    {
+      "title": "Masques, tests... : la France est-elle prête à faire face à l'hantavirus ?",
+      "desc": "Le port du masque réapparaît dans les transports face à la menace de l'hantavirus, tandis que les stocks nationaux interrogent. Si la France dispose de 2,1 milliards de masques, plus de 700 millions sont déjà périmés.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/masques-tests-la-france-est-elle-prete-a-faire-face-a-l-hantavirus_8000228.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/b319Mc3ydt2X6HzmkLYgEq0M2aE/28x0:1412x778/432x243/filters:format(jpg)/2026/05/12/6a037e50cd864898675612.jpg",
+      "date": "2026-05-12T23:53:54+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : 27 Français sous haute surveillance, le pronostic vital de la Française contaminée est engagé",
       "desc": "L'inquiétude grandit face à l'hantavirus. La Française contaminée est toujours dans un état grave. Elle est intubée et ventilée en respiration artificielle. Quant aux 22 cas contacts, ils vont tous être hospitalisés en quarantaine renforcée.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-27-francais-sous-haute-surveillance-le-pronostic-vital-de-la-francaise-contaminee-est-engage_8000177.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/_JYYr9xePWhZPCCvClUGVoBtkPs/12x0:1419x791/432x243/filters:format(jpg)/2026/05/12/6a0373bfd2372223216315.jpg",
-      "date": "2026-05-12T20:42:06+00:00",
+      "date": "2026-05-12T23:48:38+00:00",
+      "date_formatted": "12 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : aux Pays-Bas, 12 soignants confinés à leur domicile pendant 45 jours à cause d'un protocole pas respecté",
+      "desc": "L'hantavirus suscite l'inquiétude aux Pays-Bas après une faille de protocole à l'hôpital de Nimègue. Douze soignants ont été placés en quarantaine suite à un risque de contamination lors de prélèvements biologiques.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-aux-pays-bas-12-soignants-confines-a-leur-domicile-pendant-45-jours-a-cause-d-un-protocole-pas-respecte_8000246.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/IYEYSFtbBHhwewPLaWdwLCzIIXQ/7x0:1383x774/432x243/filters:format(jpg)/2026/05/12/6a0384ae9a6f5554317996.jpg",
+      "date": "2026-05-12T23:07:52+00:00",
       "date_formatted": "12 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -23,11 +43,11 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT - Hantavirus : la situation en France est «sous contrôle», assure Emmanuel Macron",
+      "title": "Hantavirus : la situation en France est «sous contrôle», assure Emmanuel Macron",
       "desc": "Interrogée par les journalistes ce mardi après-midi, la ministre de la Santé, Stéphanie Rist, accompagnée de scientifiques, a répondu à un certain nombre de questions, notamment sur l’état de santé des voyageurs français concernés par l’infection.",
       "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-les-regles-disolement-durcies-en-france-20260512_OMMEQ2GGNBDEFHQAJQFGHXKJV4/",
       "image": null,
-      "date": "2026-05-12T19:09:19+00:00",
+      "date": "2026-05-12T19:37:06+00:00",
       "date_formatted": "12 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -173,26 +193,6 @@
       "type": "presse"
     },
     {
-      "title": "Sébastien Lecornu ne lésine pas sur le front de l’hantavirus des Andes : «Avec son expérience de gestion des crises, il les voit venir»",
-      "desc": "Alors que le souvenir de l’épidémie de Covid est encore vif, le Premier ministre surveille de près l’évolution du virus et a serré la vis sur l’isolement des cas contacts.",
-      "url": "https://www.liberation.fr/politique/sebastien-lecornu-ne-lesine-pas-sur-le-front-de-lhantavirus-des-andes-avec-son-experience-de-gestion-des-crises-il-les-voit-venir-20260512_JVE2W3Z6FVHIDNKNKGJWJ5XBZI/",
-      "image": null,
-      "date": "2026-05-12T17:12:58+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Gérald Darmanin exclut finalement tous les crimes sexuels de l’extension du «plaider-coupable»",
-      "desc": "Un courrier de la Chancellerie fait savoir que la mesure polémique de l’élargissement du «plaider-coupable» criminel sera désormais réduite aux braquages et coups mortels.",
-      "url": "https://www.liberation.fr/societe/police-justice/gerald-darmanin-exclut-finalement-tous-les-crimes-sexuels-de-lextension-du-plaider-coupable-20260512_FNUI6S52ZRAFFCRRXZDKBWC3VU/",
-      "image": null,
-      "date": "2026-05-12T17:08:13+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Réanimation, traitement… Comment soigner les patients testés positifs au hantavirus ?",
       "desc": "Aucun traitement n’est actuellement homologué pour soigner ou prévenir le hantavirus des Andes. Les médecins peuvent intervenir sur les symptômes du virus, notamment la détresse respiratoire aiguë",
       "url": "https://www.20minutes.fr/sante/4223172-20260512-reanimation-traitement-comment-soigner-patients-testes-positifs-hantavirus?at_medium=display&at_campaign=149",
@@ -293,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : \"Il faut avoir une politique européenne commune\", estime Rafik Masmoudi, médecin urgentiste, qui prône une \"quarantaine complète, comme l'Espagne le fait\"",
-      "desc": "Invité de \"La Matinale\" ce mardi 12 mai, le médecin Rafik Masmoudi appelle à \"rassurer\" face à la propagation de l'hantavirus, sans pour autant \"prendre les choses à la légère\". \"L'installation de la maladie est assez rapide et assez critique\", même si sa \"transmission est moindre\" par rapport à cel",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-il-faut-avoir-une-politique-europeenne-commune-estime-rafik-masmoudi-medecin-urgentiste-qui-prone-une-quarantaine-complete-comme-l-espagne-le-fait_7999334.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/0KyimtY4xU2SlYFRdnU4iyL0eVA/0x0:1332x749/432x243/filters:format(jpg)/2026/05/12/6a02e7bc02e89141378029.jpg",
-      "date": "2026-05-12T10:42:32+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "En Indonésie, une flambée de rougeole... et de désinformation",
       "desc": "La recrudescence des cas de rougeole en Indonésie inquiète Fitri Fransiskha, une mère au foyer, mais pas suffisamment pour la convaincre de faire vacciner ses quatre enfants contre ce virus hautement contagieux et mortel.",
       "url": "https://www.sciencesetavenir.fr/sante/en-indonesie-une-flambee-de-rougeole-et-de-desinformation_192399?xtor=RSS-16",
@@ -350,16 +340,6 @@
       "date": "2026-05-12T07:27:39+00:00",
       "date_formatted": "12 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Sur le terrain\" du 11 mai 2026 : quelle gestion de crise à l'étranger contre l'hantavirus ?",
-      "desc": "Loïc de La Mornais s'intéresse dans cette 3ème partie à l'évolution du foyer d'hantavirus : un nouveau cas positif a été détecté en Espagne, et le personnel d'un hôpital a été mis en quarantaine aux Pays-Bas. Une séquence à retrouver dans l'émission \"Sur le terrain\" diffusée entre 21 h et 23 h sur l",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-11-mai-2026-quelle-gestion-de-crise-a-l-etranger-contre-l-hantavirus_7999184.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mggzQAOjcEC8v0XwLHFtdh14eAk/189x0:1450x709/432x243/filters:format(jpg)/2026/05/12/6a02b6064877b398843834.jpg",
-      "date": "2026-05-12T07:24:35+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
