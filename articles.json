@@ -1,15 +1,105 @@
 {
-  "generated_at": "2026-05-14T01:57:20.734260+00:00",
+  "generated_at": "2026-05-14T08:24:48.879815+00:00",
   "count": 91,
   "articles": [
     {
-      "title": "EN DIRECT, hantavirus : l’OMS confirme que huit cas sont associés au virus des Andes",
+      "title": "Comment l’émail de dents vieilles de 400 000 ans révèle des croisements de populations d’hominines",
+      "desc": "L’analyse de protéines anciennes permet de remonter dans le temps plus loin que l’ADN. Elle fournit pour la première fois une signature spécifique pour distinguer des « Homo erectus » de Chine. Elle suggère des métissages avec des dénisoviens.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/14/comment-l-email-de-dents-vieilles-de-400-000-ans-revele-des-croisements-de-populations-d-hominines_6689053_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/14/333/0/4000/2000/644/322/60/0/23c68be_upload-1-ic0airqbafuk-tooth-1.jpeg",
+      "date": "2026-05-14T10:11:41+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "\"On soupçonne que les stocks ont pu se périmer\" : quelques semaines avant l'hantavirus, le Conseil économique, social et environnemental préconisait un renforcement des réserves de masques et de médic",
+      "desc": "Alors que l'actualité réveille les mauvais souvenirs de la pandémie de Covid-19, le Cese a présenté, en avril, un rapport qui préconise notamment une meilleure anticipation des crises de la part des autorités sanitaires.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/on-soupconne-que-les-stocks-ont-pu-se-perimer-quelques-semaines-avant-l-hantavirus-le-conseil-economique-social-et-environnemental-preconisait-un-renforcement-des-reserves-de-masques-et-de-medicaments_8002442.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/WphG8UODYBr9hQ-d1ZgY1Qa-9ck/0x223:4299x2642/432x243/filters:format(jpg)/2026/05/13/6a04f2d45bfc7250039491.jpg",
+      "date": "2026-05-14T09:38:25+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’OMS animale alerte sur le risque d’une nouvelle pandémie d'origine animale",
+      "desc": "Alors que l’inquiétude grandit autour de l’hantavirus, l’Organisation mondiale de la santé animale estime que le monde n’investit pas suffisamment dans la prévention des maladies transmises par les animaux aux humains.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/l-oms-animale-alerte-sur-le-risque-d-une-nouvelle-pandemie-d-origine-animale_8003486.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/fax-_SYUL9xq5M9B_wVMxf5kLNA/0x260:5000x3073/432x243/filters:format(jpg)/2026/05/14/6a0579b7f13f3392855612.jpg",
+      "date": "2026-05-14T09:35:15+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "INFO RADIO FRANCE. Hantavirus : la demande de masques FFP2 multipliée par cinq en une semaine",
+      "desc": "Selon des informations de France Inter, les principaux grossistes peinent à fournir les pharmacies depuis ces derniers jours.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-avec-cinq-fois-plus-de-demandes-de-masques-ffp2-en-une-semaine-les-principaux-grossistes-peinent-a-fournir-les-pharmacies_8003528.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/RlO1HViIGyfQkMbMmm3gzAGS3dY/0x0:1023x577/432x243/filters:format(jpg)/2022/01/07/phpaUphR9.jpg",
+      "date": "2026-05-14T08:38:15+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT - Hantavirus : les résultats des tests de 18 cas contacts français sont attendus ce jeudi",
+      "desc": "Quatre adolescents ont été déjà été testés négatifs. Les 22 cas contacts dans l’Hexagone sont hospitalisés, et ne présentent aucun symptôme. «Il n’y a pas de circulation du virus dans la population», a répété mercredi la ministre de la Santé.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-les-resultats-des-tests-de-18-cas-contacts-francais-sont-attendus-ce-jeudi-20260514_7XDRFZNZEBA25BGU56ZFCS35EA/",
+      "image": null,
+      "date": "2026-05-14T08:14:19+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : les fausses informations des «meilleurs experts», on en parle ?",
+      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Aujourd’hui, il se penche sur la circulation actuelle des informations non validées scientifiquement qui se transmettent, avec ou sans masque.",
+      "url": "https://www.liberation.fr/societe/sante/hantavirus-a-demi-mot-les-fausses-informations-des-meilleurs-experts-20260514_KX3YWH6U4NDKZOLEBN3MR42NII/",
+      "image": null,
+      "date": "2026-05-14T08:07:01+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : l’OMS confirme que huit cas sont associés au virus des Andes ; des « investigations sont en cours » pour trouver la source de la flambée épidémique",
       "desc": "Deux autres cas sont « probables » et un cas, non concluant, « fait l’objet d’analyses complémentaires », explique l’Organisation mondiale de la santé. L’agence considère toujours le risque « modéré » pour la santé des passagers et de l’équipage du « Hondius », et « faible » pour le reste de la popu",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/14/en-direct-hantavirus-l-oms-confirme-que-huit-cas-sont-associes-au-virus-des-andes_6688609_1651302.html",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/14/en-direct-hantavirus-l-oms-confirme-que-huit-cas-sont-associes-au-virus-des-andes-des-investigations-sont-en-cours-pour-trouver-la-source-de-la-flambee-epidemique_6688609_1651302.html",
       "image": "https://img.lemde.fr/2026/05/13/323/0/4420/2210/644/322/60/0/65e64e8_ftp-1-i2os7ntiofgd-5021733-01-06.jpg",
-      "date": "2026-05-14T03:37:54+00:00",
+      "date": "2026-05-14T07:34:54+00:00",
       "date_formatted": "14 May 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le sucre, à l’origine de la myélinisation des neurones",
+      "desc": "Une étude chez la souris montre que c’est le glucose qui donnerait le signal aux cellules précurseuses des oligodendrocytes, à l’origine de la gaine de myéline qui entoure les neurones, de se spécialiser.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/14/le-sucre-a-l-origine-de-la-myelinisation-des-neurones_6689040_1650684.html",
+      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/da14771_upload-1-guf00w5igs9j-frame-455.jpg",
+      "date": "2026-05-14T06:30:08+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "TEMOIGNAGES. \"Il ne faut pas paniquer à la moindre annonce\" : face à l'hantavirus, entre anxiété et critique des médias, les Français tentent de relativiser",
+      "desc": "Les lecteurs de franceinfo se montrent très partagés face à l'émergence de ce nouveau virus. Une courte majorité d'entre eux se disent rassurés par les mesures prises par les autorités, mais ils sont également plusieurs à avoir déjà mis en place des mesures pour se protéger d'une potentielle contami",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/temoignages-il-ne-faut-pas-paniquer-a-la-moindre-annonce-face-a-l-hantavirus-entre-anxiete-et-critique-des-medias-les-francais-tentent-de-relativiser_8001617.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/66t-t3DLF0qcBrWgJ63P7y0H3ns/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a04869f4e23d065304277.jpg",
+      "date": "2026-05-14T05:54:20+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "#OnVousRépond. Hantavirus : est-il utile de porter le masque dans les transports ou dans les lieux publics ?",
+      "desc": "Alors qu'une Française a été testée positive à l'hantavirus des Andes et que 26 autres personnes ont été placées à l'isolement, vous êtes nombreux à nous interroger sur la nécessité de porter à nouveau un masque. En l'absence de circulation du virus en population générale, ce n'est pourtant pas néce",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-hantavirus-est-il-utile-de-porter-le-masque-dans-les-transports-ou-dans-les-lieux-publics_8001782.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/qzYc2b0mhQnp2BJtNuowX-vwmE0/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a0496ced00c7720782506.jpg",
+      "date": "2026-05-14T05:54:05+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -48,16 +138,6 @@
       "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-la-patiente-francaise-est-dans-un-etat-grave-20260513_5FZTZTBXJ5E3ZEPUYNPY55O7OQ/",
       "image": null,
       "date": "2026-05-13T20:04:06+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Emmanuel Macron peut-il cette fois revendiquer une gestion sanitaire rigoureuse ?",
-      "desc": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il s’interroge sur la prise de «bonnes décisions» de la France sur la souche des Andes et son protocole devenu l’un des plus stricts du monde.",
-      "url": "https://www.liberation.fr/societe/sante/hantavirus-emmanuel-macron-peut-il-cette-fois-revendiquer-une-gestion-sanitaire-rigoureuse-20260513_26LOUUEN3VA2DM63EQEATDNXR4/",
-      "image": null,
-      "date": "2026-05-13T18:38:43+00:00",
       "date_formatted": "13 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -113,16 +193,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : à l’isolement ou encore en voyage, que sont devenus les passagers du «MV Hondius» débarqués à Sainte-Hélène le 24 avril ?",
-      "desc": "Trente passagers avaient quitté le navire lors d’une escale, alors qu’on ignorait encore tout de la présence du virus à bord. Depuis, la majorité d’entre eux est à l’isolement, mais plusieurs ont continué à voyager.",
-      "url": "https://www.liberation.fr/checknews/hantavirus-a-lisolement-ou-encore-en-voyage-que-sont-devenus-les-passagers-du-mv-hondius-debarques-a-sainte-helene-le-24-avril-20260513_OV7R6YXN7BCZJGVMY62CACI2EE/",
-      "image": null,
-      "date": "2026-05-13T17:11:22+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : la barrière naturelle contre certains virus est peut-être en train de céder",
       "desc": "La mort d’un ornithologue, soupçonné d’être le patient zéro d’une épidémie d’hantavirus à bord d’un navire de croisière, révèle bien plus qu’un simple accident sanitaire : elle raconte les liens fragiles entre biodiversité, activités humaines et émergence des zoonoses.",
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-barriere-naturelle-certains-virus-peut-etre-train-ceder-134502/#xtor%3DRSS-8",
@@ -131,16 +201,6 @@
       "date_formatted": "13 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus, Nagui arrête son émission sur France Inter, Cannes Jour 2… L’actu de ce mercredi 13 mai",
-      "desc": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 13 mai 2026.",
-      "url": "https://www.liberation.fr/international/europe/hantavirus-nagui-arrete-son-emission-sur-france-inter-cannes-jour-2-lactu-de-ce-mercredi-13-mai-20260513_NSTLNWC2NVG7RI7KFHJUZRO32E/",
-      "image": null,
-      "date": "2026-05-13T16:26:35+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "#OnVousRépond. Vaccins expérimentaux, pistes à l'étude... Où en est la recherche de traitements contre l'hantavirus ?",
@@ -196,7 +256,7 @@
       "title": "Hantavirus : \"Ce n'est pas le retour des masques\", assure Philippe Tabarot, ministre des Transports",
       "desc": "Selon le ministre, invité politique de franceinfo ce 13 mai, aucune \"mesure de restriction sur l'utilisation des transports en commun\" n'est pour l'heure prévue en France pour faire face à la propagation de l'hantavirus.",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-13-mai-2026_7958528.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/CPJMZBISHwUC4O3sm4UTmctZ8yc/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/14/6a05005c4f8af130893345.jpg",
+      "image": "https://www.franceinfo.fr/pictures/5Z0b4aubqvatPgFD9HcDnDGxlpY/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/14/6a05475234f74436567093.jpg",
       "date": "2026-05-13T14:33:30+00:00",
       "date_formatted": "13 May 2026",
       "source": "France Info Santé",
@@ -233,41 +293,11 @@
       "type": "science"
     },
     {
-      "title": "\"On a subi le coronavirus, on sait ce que c'est\" : les Français rassurés mais prudents face à la transparence du gouvernement sur l'hantavirus",
-      "desc": "Depuis que l'hantavirus a fait irruption dans l'actualité, le gouvernement mise sur la transparence, alors que beaucoup s'inquiètent d'une nouvelle pandémie. Vingt-deux cas contacts, une patiente en réanimation, et énormément de questions… France Télévisions a tendu le micro aux Français ce mercredi",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/on-a-subi-le-coronavirus-on-sait-ce-que-c-est-les-francais-rassures-mais-prudents-face-a-la-transparence-du-gouvernement-sur-l-hantavirus_8001455.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/p73uHS1lHeFEEwI2YIuciTnvZwg/0x13:1471x841/432x243/filters:format(jpg)/2026/05/13/6a0433cb83f16207958058.jpg",
-      "date": "2026-05-13T12:18:33+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Il y a une mobilisation générale de la recherche\" sur l'hantavirus, assure Didier Samuel, président de l'Inserm",
-      "desc": "Invité de \"La Matinale\" ce 13 mai, le président de l'Institut national de la santé et de la recherche médicale (Inserm) indique avoir mobilisé les équipes de recherche autour de l'hantavirus, qui, rappelle-t-il, \"est connu en Amérique du Sud depuis 1996\".",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-il-y-a-actuellement-une-mobilisation-generale-de-la-recherche-parce-qu-on-est-dans-un-element-nouveau-souligne-didier-samuel-pdg-de-l-inserm_8001416.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/2EaN8AaCbqhDFT-ewDM4RJ76kSs/42x0:1353x737/432x243/filters:format(jpg)/2026/05/13/6a042d9ca0640899393430.jpg",
-      "date": "2026-05-13T12:15:10+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "#OnVousRépond. Hantavirus : pourquoi les passagers du \"MV Hondius\" ne sont-ils pas restés à l'isolement sur le bateau ?",
       "desc": "Le navire de croisière parti d'Ushuaïa, à bord duquel un foyer du virus des Andes a tué trois personnes, n'est pas adapté pour accueillir des soins lourds, expliquent les médecins interrogés par franceinfo.",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-hantavirus-pourquoi-les-passagers-du-mv-hondius-ne-sont-ils-pas-restes-a-l-isolement-sur-le-bateau_7999961.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/AZ8zL6-OoziKkrAv_7XE_HKC7BA/0x5:1024x581/432x243/filters:format(jpg)/2026/05/13/6a043832041a9450469872.jpg",
       "date": "2026-05-13T12:11:04+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Pas du tout rassurés\", \"prudents\"... Pour les soignants de l’hôpital Bichat, la délicate gestion de l’hantavirus",
-      "desc": "La ministre de la Santé Stéphanie Rist s'est voulue rassurante, mardi, en écartant toute \"circulation diffuse\" du hantavirus sur le territoire national. Mais à l'hôpital Bichat, où se trouvent, en grande partie, les patients et les cas contact à l'isolement, une certaine fébrilité entoure le service",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/pas-du-tout-rassures-prudents-pour-les-soignants-de-l-hopital-bichat-la-delicate-gestion-de-l-hantavirus_8001227.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ddGLkZpDGzVP2DkFCzIgic9qQp8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a042a390776a372380085.jpg",
-      "date": "2026-05-13T11:12:21+00:00",
       "date_formatted": "13 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -303,16 +333,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : les théories et les figures complotistes du Covid refont surface sur les réseaux sociaux",
-      "desc": "Les contenus de désinformation autour de l'hantavirus explosent sur les réseaux sociaux ces derniers jours. Comme une sorte de calque des théories complotistes de la pandémie de 2020-2021.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/hantavirus-les-theories-et-les-figures-complotistes-du-covid-refont-surface-sur-les-reseaux-sociaux_7971398.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZVe3qGfWb7t_Ukw8FEiLXUQWdZQ/0x391:7490x4605/432x243/filters:format(jpg)/2026/05/13/6a04174dbbafb903814362.jpg",
-      "date": "2026-05-13T09:01:22+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : la recherche de traitements encore à ses débuts",
       "desc": "Pour l'instant, aucun traitement spécifique ni aucun vaccin ne sont disponibles contre le virus des Andes, qui peut dégénérer en quelques jours en syndrome de détresse respiratoire aiguë et dont la létalité est de l'ordre de 40%.",
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-la-recherche-de-traitements-encore-a-ses-debuts_192430?xtor=RSS-16",
@@ -321,16 +341,6 @@
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : \"C'est rassurant\", estime un infectiologue après les premières analyses pour rechercher une mutation du virus",
-      "desc": "\"Quand on a un virus connu\", on essaye \"de voir si le virus a bougé\", a expliqué mercredi sur franceinfo Yazdan Yazdanpanah, rappelant que l'hantavirus est identifié depuis 30 ans.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-c-est-rassurant-estime-un-infectiologue-apres-les-premieres-analyses-pour-rechercher-une-mutation-du-virus_8001356.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/apllw2wYho2zgPsAbh4dweK_n6E/0x0:1280x720/432x243/filters:format(jpg)/2026/05/13/6a041e083ecb1292902088.jpg",
-      "date": "2026-05-13T08:48:51+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Aide à mourir : pourquoi le Sénat a rejeté à nouveau le texte",
@@ -373,8 +383,8 @@
       "type": "presse"
     },
     {
-      "title": "EN DIRECT Hantavirus : Les quatre enfants cas contacts testé négatifs…",
-      "desc": "Suivez avec nous les informations de ce mercredi 13 mai 2026 sur les cas d'hantavirus, après le décès de trois passagers d’un bateau de croisière",
+      "title": "Hantavirus : L'OMS confirme huit infections par le virus des Andes à bord du « MV Hondius »",
+      "desc": "Revivez avec nous les informations de ce mercredi 13 mai 2026 sur les cas d'hantavirus, après le décès de trois passagers d’un bateau de croisière",
       "url": "https://www.20minutes.fr/societe/4223300-20260513-direct-hantavirus-emmanuel-macron-estime-situation-sous-controle-france?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/HBqtJ57oQ8a3psWjZyA35Ck/1200x768_une-pancarte-avec-un-dessin-du-rongeur-qui-transmet-l-hantavirus-et-des-informations-sur-les-mesures-preventives-est-affichee-a-l-hopital-zonal-ramon-carrillo-de-bariloche-en-argentine-le-mardi-12-mai-2026-ap-photo-euge-neme-xnp502-26132686009983-2605122106",
       "date": "2026-05-13T04:10:19+00:00",
@@ -690,16 +700,6 @@
       "date": "2026-05-07T09:10:11+00:00",
       "date_formatted": "7 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Bienfaits de la nature sur la santé : que dit la science ?",
-      "desc": "Maladies cardio-vasculaires et inflammatoires, dépression, stress… La nature serait-elle un de nos meilleurs alliés pour améliorer notre santé mentale et physique ? Dans ce podcast, tour d’horizon des avancées de la science sur cette question, avec Florence Rosier, journaliste scientifique au « Mond",
-      "url": "https://www.lemonde.fr/podcasts/article/2026/05/07/bienfaits-de-la-nature-sur-la-sante-que-dit-la-science_6686447_5463015.html",
-      "image": "https://img.lemde.fr/2026/04/17/0/0/1800/900/644/322/60/0/8849e8e_upload-1-kiuno8gmvxtl-calinsarbresok.jpg",
-      "date": "2026-05-07T05:00:27+00:00",
-      "date_formatted": "7 May 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
