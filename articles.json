@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-13T19:28:06.430567+00:00",
-  "count": 92,
+  "generated_at": "2026-05-14T01:57:20.734260+00:00",
+  "count": 91,
   "articles": [
+    {
+      "title": "EN DIRECT, hantavirus : l’OMS confirme que huit cas sont associés au virus des Andes",
+      "desc": "Deux autres cas sont « probables » et un cas, non concluant, « fait l’objet d’analyses complémentaires », explique l’Organisation mondiale de la santé. L’agence considère toujours le risque « modéré » pour la santé des passagers et de l’équipage du « Hondius », et « faible » pour le reste de la popu",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/14/en-direct-hantavirus-l-oms-confirme-que-huit-cas-sont-associes-au-virus-des-andes_6688609_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/13/323/0/4420/2210/644/322/60/0/65e64e8_ftp-1-i2os7ntiofgd-5021733-01-06.jpg",
+      "date": "2026-05-14T03:37:54+00:00",
+      "date_formatted": "14 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "\"On peut encore se promener, mais il y a des règles\" : un paquebot, sur lequel s'est propagée une épidémie de gastro-entérite, confiné à Bordeaux avec 1 700 personnes à bord",
+      "desc": "Un paquebot, avec à son bord 1 700 personnes, est immobilisé ce mercredi 13 mai au large de Bordeaux, après le décès d’un passager et une épidémie de gastro-entérite. Au moins 80 personnes seraient malades.",
+      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/on-peut-encore-se-promener-mais-il-y-a-des-regles-un-paquebot-sur-lequel-s-est-propagee-une-epidemie-de-gastro-enterite-confine-a-bordeaux-avec-1-700-personnes-a-bord_8002310.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/kqpTjnnELpj_q6ZjESqddw6NaHg/0x78:1626x993/432x243/filters:format(jpg)/2026/05/13/6a04c0556cc18458165007.png",
+      "date": "2026-05-13T22:58:43+00:00",
+      "date_formatted": "13 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Croisières  : pourquoi les virus se propagent-ils autant ?",
       "desc": "Comment expliquer qu'en moins d'une semaine, deux bateaux de croisière aient été victimes d'une possible épidémie ? La promiscuité à bord semble être un terrain idéal de propagation des virus. Explications.",
@@ -14,32 +34,22 @@
     },
     {
       "title": "Paquebot en escale à Bordeaux : la suspicion d’une épidémie de gastro-entérite confirmée par les autorités sanitaires ; levée partielle de la quarantaine",
-      "desc": "Parmi les 1 233 passagers, 80 « ont été touchés par des symptômes compatibles avec une infection digestive aiguë ». Les résultats d’analyse vont permettre aux personnes non-symptomatiques de débarquer, tandis que les personnes contaminées seront maintenues à l’isolement.",
+      "desc": "Parmi les 1 233 passagers, 80 « ont été touchés par des symptômes compatibles avec une infection digestive aiguë ». Les résultats d’analyse vont permettre aux personnes non symptomatiques de débarquer, tandis que les personnes contaminées seront maintenues à l’isolement.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/13/paquebot-en-escale-a-bordeaux-la-suspicion-d-une-epidemie-de-gastro-enterite-confirmee-par-les-autorites-sanitaires-levee-partielle-de-la-quarantaine_6688681_3225.html",
       "image": "https://img.lemde.fr/2026/05/13/1062/0/7015/3507/644/322/60/0/427bfb7_upload-1-aset56071ywe-000-73hf89e.jpg",
-      "date": "2026-05-13T20:50:20+00:00",
+      "date": "2026-05-13T20:50:18+00:00",
       "date_formatted": "13 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
     },
     {
-      "title": "EN DIRECT, hantavirus : parmi les 26 cas contacts français, les quatre enfants ont tous été diagnostiqués négatifs",
-      "desc": "La ministre de la santé, Stéphanie Rist, a affirmé plus tôt dans la journée que seraient connus mercredi les résultats des tests des 22 cas contacts français n’ayant pas été passagers du navire « Hondius ».",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/13/en-direct-hantavirus-parmi-les-26-cas-contacts-francais-les-quatre-enfants-ont-tous-ete-testes-negatifs_6688609_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/11/893/0/5619/2809/644/322/60/0/0fb03db_ftp-1-ckyauwhwcfob-2026-05-11t123355z-1364666045-rc2z6la8d94w-rtrmadp-3-cruiseship-hantavirus-france.JPG",
-      "date": "2026-05-13T20:22:01+00:00",
+      "title": "Hantavirus : les 26 cas contacts français ne présentent aucun symptôme, annonce le gouvernement ce mercredi soir",
+      "desc": "L’Institut Pasteur analyse également le séquençage du virus pour savoir si une mutation l’aurait rendu plus contagieux. Les premiers résultats sont «rassurants», a estimé ce mercredi l’infectiologue Yazdan Yazdanpanah.",
+      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-la-patiente-francaise-est-dans-un-etat-grave-20260513_5FZTZTBXJ5E3ZEPUYNPY55O7OQ/",
+      "image": null,
+      "date": "2026-05-13T20:04:06+00:00",
       "date_formatted": "13 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"On peut encore se promener, mais il y a des règles\" : un paquebot, sur lequel s'est propagée une épidémie de gastro-entérite, confiné à Bordeaux avec 1 700 personnes à bord",
-      "desc": "Un paquebot, avec à son bord 1 700 personnes, est immobilisé ce mercredi 13 mai au large de Bordeaux, après le décès d’un passager et une épidémie de gastro-entérite. Au moins 80 personnes seraient malades.",
-      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/on-peut-encore-se-promener-mais-il-y-a-des-regles-un-paquebot-sur-lequel-s-est-propagee-une-epidemie-de-gastro-enterite-confine-a-bordeaux-avec-1-700-personnes-a-bord_8002310.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/kqpTjnnELpj_q6ZjESqddw6NaHg/0x78:1626x993/432x243/filters:format(jpg)/2026/05/13/6a04c0556cc18458165007.png",
-      "date": "2026-05-13T20:19:54+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -61,16 +71,6 @@
       "date_formatted": "13 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "EN DIRECT - Hantavirus : les 26 cas contacts français ne présentent aucun symptôme, annonce le gouvernement ce mercredi soir",
-      "desc": "L’Institut Pasteur analyse également le séquençage du virus pour savoir si une mutation l’aurait rendu plus contagieux. Les premiers résultats sont «rassurants», a estimé ce mercredi l’infectiologue Yazdan Yazdanpanah.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-la-patiente-francaise-est-dans-un-etat-grave-20260513_5FZTZTBXJ5E3ZEPUYNPY55O7OQ/",
-      "image": null,
-      "date": "2026-05-13T18:05:39+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Libération",
-      "type": "presse"
     },
     {
       "title": "Le syndrome des ovaires polykystiques officiellement renommé pour \"refléter enfin la complexité de cette pathologie\"",
@@ -196,7 +196,7 @@
       "title": "Hantavirus : \"Ce n'est pas le retour des masques\", assure Philippe Tabarot, ministre des Transports",
       "desc": "Selon le ministre, invité politique de franceinfo ce 13 mai, aucune \"mesure de restriction sur l'utilisation des transports en commun\" n'est pour l'heure prévue en France pour faire face à la propagation de l'hantavirus.",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-13-mai-2026_7958528.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/5P5gujfYP7DuLVaS6IAGfhhnUAg/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/13/6a048df1bed0a356517800.jpg",
+      "image": "https://www.franceinfo.fr/pictures/CPJMZBISHwUC4O3sm4UTmctZ8yc/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/14/6a05005c4f8af130893345.jpg",
       "date": "2026-05-13T14:33:30+00:00",
       "date_formatted": "13 May 2026",
       "source": "France Info Santé",
@@ -648,16 +648,6 @@
       "url": "https://www.lemonde.fr/planete/article/2026/05/11/hantavirus-comment-le-gouvernement-entend-briser-les-chaines-de-transmission-du-virus_6687870_3244.html",
       "image": "https://img.lemde.fr/2026/05/10/300/0/2241/1120/644/322/60/0/faaa43a_ftp-1-ukdsuup8s2eg-5996151-01-06.jpg",
       "date": "2026-05-11T05:00:04+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : l’évacuation des passagers du « Hondius » à Tenerife, un succès politique pour le gouvernement espagnol",
-      "desc": "Après plusieurs jours de tension avec le gouvernement régional des Canaries sur les conditions d’accueil du bateau de croisière touché par plusieurs infections, Madrid peut se targuer du bon déroulement du débarquement d’une majorité des passagers, dimanche.",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/11/hantavirus-l-evacuation-des-passagers-du-mv-hondius-a-tenerife-un-succes-politique-pour-le-gouvernement-espagnol_6687737_3244.html",
-      "image": "https://img.lemde.fr/2026/05/10/473/0/3259/1629/644/322/60/0/4d506ab_ftp-1-ddhkr3mpya2y-64eacfe646214f1facec5cd13b5ed328-0-e4a7f387f0f44fbe9f8e0f2e9b3c8472.jpg",
-      "date": "2026-05-11T00:00:13+00:00",
       "date_formatted": "11 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
