@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-05-15T01:55:47.496252+00:00",
-  "count": 93,
+  "generated_at": "2026-05-15T08:36:06.821885+00:00",
+  "count": 91,
   "articles": [
+    {
+      "title": "Une nouvelle épidémie d'Ebola est déclarée en République démocratique du Congo",
+      "desc": "La dernière épidémie de cette fièvre hémorragique dans le pays avait été déclarée en août 2025 et éradiquée en décembre, après avoir fait au moins 34 morts.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/une-nouvelle-epidemie-d-ebola-est-declaree-en-republique-democratique-du-congo_8005652.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/GG7rJHMmFjEcVc5KGKJ9htrbwG8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/15/6a06cb4e91b8a775230426.jpg",
+      "date": "2026-05-15T09:45:30+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Fin de vie : \"Ce type de sujet n'est absolument pas adapté pour un référendum où on répond 'oui', 'non'\", juge Agnès Buzyn, ex-ministre de la Santé",
+      "desc": "Alors que le texte sur la fin de vie vient d'être rejeté une nouvelle fois par le Sénat, l'ancienne ministre des Solidarités et de la Santé rappelle, ce vendredi 15 mai sur franceinfo, qu'elle est \"extrêmement prudente sur l'aide à mourir\", et que le sujet \"nécessite de ne pas avoir une vision très ",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-15-mai-2026_7963265.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/jZJOYmzfREs3qHYHWBMnQYh7CUw/8x0:1402x784/432x243/filters:format(jpg)/2026/05/15/6a06cded24b85250086240.jpg",
+      "date": "2026-05-15T09:22:26+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : \"La désinformation médicale fait des ravages\", déplore Frédéric Valletoux, président de la commission des affaires sociales de l'Assemblée",
+      "desc": "Interrogé ce vendredi 15 mai dans les \"4 Vérités\", l'élu Horizons, qui relaie les informations sur la crise du hantavirus en tant que président de la commission des affaires sociales de l'Assemblée nationale, regrette une recrudescence de la désinformation en ligne, et de la \"défiance\" croissante de",
+      "url": "https://www.franceinfo.fr/politique/hantavirus-la-desinformation-medicale-fait-des-ravages-deplore-frederic-valletoux-president-de-la-commission-des-affaires-sociales-de-l-assemblee_8005607.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/8QREVUQWirkrnA9T_fDGDDsAKCk/41x0:1361x742/432x243/filters:format(jpg)/2026/05/15/6a06c8183ce24759221966.jpg",
+      "date": "2026-05-15T09:15:49+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Guerre en Ukraine : journée de deuil à Kyiv après au moins 24 morts dans une série de frappes la veille",
+      "desc": "Le nouveau bilan donné par les secours vendredi 15 mai fait également état de 47 blessés. De son côté, l’armée russe dit avoir abattu 355 drones ukrainiens dans la nuit de jeudi à vendredi, notamment au-dessus de régions frontalières de l’Ukraine et de celle de Moscou.",
+      "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-journee-de-deuil-a-kyiv-apres-au-moins-24-morts-dans-une-serie-de-frappes-la-veille-20260515_NO7FS3FBJRAOHBDB2OH76BULRI/",
+      "image": null,
+      "date": "2026-05-15T08:22:52+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : tous les cas contacts testés négatifs en France",
+      "desc": "Ces 26 personnes peuvent encore développer le virus si elles en sont porteuses. Mais ces tests indiquent, en l'état actuel des connaissances, qu'elles n'ont jamais été contagieuses.",
+      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-tous-les-cas-contacts-testes-negatifs-en-france_192452?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/15/cover-r4x3w1200-6a06d369b090e-afp-20260512-hl-gbedrignans-3156673-v1-highres-franceparisbichathospitalhantavi.jpg",
+      "date": "2026-05-15T08:03:54+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "En Haute-Saône, un maire saisit l’Arcom après le traitement médiatique «écœurant» d’un fait divers par CNews et Frontières",
+      "desc": "Il dénonce le «portrait anxiogène» de la commune de Gy dressé par le chroniqueur d’extrême droite Jordan Florentin, rapporte «l’Est Républicain» le 14 mai, huit jours après le meurtre à l’arme blanche de l’un des habitants.",
+      "url": "https://www.liberation.fr/economie/medias/en-haute-saone-un-maire-saisit-larcom-apres-le-traitement-mediatique-ecoeurant-dun-fait-divers-par-cnews-et-frontieres-20260515_PZO4RQWFWVDDNG7XOZ4JB2GBTA/",
+      "image": null,
+      "date": "2026-05-15T07:31:47+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : comment les autorités sanitaires définissent-elles un \"cas contact\" ?",
+      "desc": "La ministre de la Santé a annoncé, jeudi, que les 26 personnes identifiées \"cas contact\" du hantavirus en France ont été toutes testées négatifs. Toutefois, ceux-ci n'étaient pas à bord du \"MV Hondius\". Comment définir une \"personne contact\" ?",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-qu-est-ce-qu-un-cas-contact-selon-les-autorites-sanitaires_8003687.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/vUbf90_hGA-vl5oyBNe87Bz5kCU/0x297:5715x3512/432x243/filters:format(jpg)/2026/05/14/6a05b8ba58665335581694.jpg",
+      "date": "2026-05-15T06:22:50+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "A Nantes, un adolescent de 15 ans tué dans une fusillade sur fond de narcotrafic, un autre de 13 ans entre la vie et la mort",
+      "desc": "La victime est tombée sous les balles de deux tireurs venus à scooter, dans le hall d’un immeuble du quartier populaire du nord de la ville, dans la soirée du jeudi 14 mai. Deux autres adolescents, âgés de 13 et 14 ans, ont été blessés, le premier se trouvant entre la vie et la mort.",
+      "url": "https://www.liberation.fr/societe/police-justice/a-nantes-un-adolescent-de-15-ans-tue-dans-une-fusillade-sur-fond-de-narcotrafic-20260515_ETGDKKQJBNA4RGB6Y7ZN7WLXXA/",
+      "image": null,
+      "date": "2026-05-15T06:15:25+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : les autorités américaines surveillent 41 personnes en lien avec le foyer d’infection",
+      "desc": "Sont concernés les 18 passagers du navire récemment rapatriés aux Etats-Unis, mais aussi ceux qui étaient rentrés chez eux plus tôt après avoir quitté le bateau avant la détection du foyer et d’autres personnes considérées comme cas contacts.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-les-autorites-americaines-surveillent-41-personnes-en-lien-avec-le-foyer-d-infection_6688609_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/11/292/0/3381/1690/644/322/60/0/6ea2fa9_ftp-1-ykkjfjxn6pyx-2026-05-11t120912z-2107686791-rc2y6laxfuln-rtrmadp-3-cruiseship-hantavirus-usa.JPG",
+      "date": "2026-05-15T05:58:57+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : une mission scientifique argentine envoyée à Ushuaïa pour enquêter sur l'origine de la contamination du \"MV Hondius\"",
       "desc": "La ville touristique d'Ushuaïa en Argentine, d'où est parti le 1er avril le navire de croisière sur lequel a éclaté un foyer d'hantavirus, se défend d'avoir été l'origine de la contagion du passager cas zéro.",
@@ -10,16 +100,6 @@
       "date": "2026-05-14T23:52:49+00:00",
       "date_formatted": "14 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : les Etats-Unis renforcent, discrètement, leur dispositif sanitaire",
-      "desc": "Selon le « Wall Street Journal », les autorités ont notamment réalloué des forces pour la prévention. En France, les tests des 26 cas contacts de la passagère morte d’une infection sont revenus négatifs.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/14/en-direct-hantavirus-les-etats-unis-renforcent-discretement-leur-dispositif-sanitaire_6688609_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/11/292/0/3381/1690/644/322/60/0/6ea2fa9_ftp-1-ykkjfjxn6pyx-2026-05-11t120912z-2107686791-rc2y6laxfuln-rtrmadp-3-cruiseship-hantavirus-usa.JPG",
-      "date": "2026-05-14T19:40:15+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -53,26 +133,6 @@
       "type": "presse"
     },
     {
-      "title": "Des chercheurs espèrent lutter contre le commerce illégal de pangolins grâce à leur ADN",
-      "desc": "Mammifères sauvages les plus braconnés au monde, ces animaux protégés sont convoités pour leurs écailles et leur viande. Une équipe menée par l’Institut national de recherche pour le développement a mis au point une nouvelle méthode de traçage génomique pour remonter les réseaux de trafic.",
-      "url": "https://www.liberation.fr/environnement/biodiversite/des-chercheurs-esperent-lutter-contre-le-commerce-illegal-de-pangolins-grace-a-leur-adn-20260514_K3KLL7TL7JFMZJE3WX5B4B3L5Y/",
-      "image": null,
-      "date": "2026-05-14T17:59:34+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ukraine : au moins dix morts et une quarantaine de blessés dans une vaste attaque nocturne sur Kyiv",
-      "desc": "Les opérations de sauvetage sont toujours en cours dans la capitale, alors qu’un drone a touché un immeuble de neuf étages dans la nuit du mercredi 13 au jeudi 14 mai. Un véhicule d’une mission humanitaire de l’ONU a été frappé par des drones russes, selon Zelensky.",
-      "url": "https://www.liberation.fr/international/europe/ukraine-un-mort-et-31-blesses-dans-une-vaste-attaque-nocturne-sur-kyiv-20260514_FX45XBJCSJCEPFTLJRQN7HJQZI/",
-      "image": null,
-      "date": "2026-05-14T17:57:09+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Paquebot confiné à Bordeaux en raison d’une épidémie de gastro-entérite : le navire, qui devait quitter la ville jeudi soir, reste finalement une nuit de plus à quai",
       "desc": "La compagnie Ambassador Cruise Line explique avoir reporté le départ pour « le confort des passagers et le bien-être de l’équipage », en évitant ainsi des « conditions météorologiques perturbées » dans le golfe de Gascogne.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/14/paquebot-confine-a-bordeaux-en-raison-d-une-epidemie-de-gastro-enterite-le-navire-qui-devait-quitter-la-ville-jeudi-soir-reste-finalement-une-nuit-de-plus-a-quai_6689089_3225.html",
@@ -80,16 +140,6 @@
       "date": "2026-05-14T17:11:17+00:00",
       "date_formatted": "14 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : comment les autorités sanitaires définissent-elles un \"cas contact\" ?",
-      "desc": "La ministre de la Santé a annoncé, jeudi, que les 26 personnes identifiées \"cas contact\" du hantavirus en France ont été toutes testées négatifs. Toutefois, ceux-ci n'étaient pas à bord du \"MV Hondius\". Comment définir une \"personne contact\" ?",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-qu-est-ce-qu-un-cas-contact-selon-les-autorites-sanitaires_8003687.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/vUbf90_hGA-vl5oyBNe87Bz5kCU/0x297:5715x3512/432x243/filters:format(jpg)/2026/05/14/6a05b8ba58665335581694.jpg",
-      "date": "2026-05-14T16:01:38+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -253,26 +303,6 @@
       "type": "presse"
     },
     {
-      "title": "\"On peut encore se promener, mais il y a des règles\" : un paquebot, sur lequel s'est propagée une épidémie de gastro-entérite, confiné à Bordeaux avec 1 700 personnes à bord",
-      "desc": "Un paquebot, avec à son bord 1 700 personnes, est immobilisé ce mercredi 13 mai au large de Bordeaux, après le décès d’un passager et une épidémie de gastro-entérite. Au moins 80 personnes seraient malades.",
-      "url": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/on-peut-encore-se-promener-mais-il-y-a-des-regles-un-paquebot-sur-lequel-s-est-propagee-une-epidemie-de-gastro-enterite-confine-a-bordeaux-avec-1-700-personnes-a-bord_8002310.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/kqpTjnnELpj_q6ZjESqddw6NaHg/0x78:1626x993/432x243/filters:format(jpg)/2026/05/13/6a04c0556cc18458165007.png",
-      "date": "2026-05-13T22:58:43+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Croisières  : pourquoi les virus se propagent-ils autant ?",
-      "desc": "Comment expliquer qu'en moins d'une semaine, deux bateaux de croisière aient été victimes d'une possible épidémie ? La promiscuité à bord semble être un terrain idéal de propagation des virus. Explications.",
-      "url": "https://www.franceinfo.fr/sante/croisieres-pourquoi-les-virus-se-propagent-ils-autant_8002331.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/9o2eIC6cTjTqvXmxIo3XzJZ1-EY/0x88:1676x1031/432x243/filters:format(jpg)/2026/05/13/6a04cc56a79b7984625212.png",
-      "date": "2026-05-13T21:09:15+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Paquebot en escale à Bordeaux : la suspicion d’une épidémie de gastro-entérite confirmée par les autorités sanitaires ; levée partielle de la quarantaine",
       "desc": "Parmi les 1 233 passagers, 80 « ont été touchés par des symptômes compatibles avec une infection digestive aiguë ». Les résultats d’analyse vont permettre aux personnes non symptomatiques de débarquer, tandis que les personnes contaminées seront maintenues à l’isolement.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/13/paquebot-en-escale-a-bordeaux-la-suspicion-d-une-epidemie-de-gastro-enterite-confirmee-par-les-autorites-sanitaires-levee-partielle-de-la-quarantaine_6688681_3225.html",
@@ -287,30 +317,10 @@
       "desc": "La généalogie génétique a permis d’élucider une affaire criminelle non résolue pendant plus de quinze ans. Des chercheurs suédois en médecine légale retracent les étapes de l’enquête et en analysent les enjeux légaux, éthiques et sociétaux.",
       "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/13/suede-comment-la-genealogie-genetique-a-permis-de-resoudre-seize-ans-plus-tard-le-double-meurtre-de-linkoping_6688732_6579630.html",
       "image": "https://img.lemde.fr/2026/05/08/223/0/537/268/644/322/60/0/34c99bc_upload-1-0dm60zmc5u4z-linko-ping-double-meurtre-genealogie-genetique-gene-alogie-forensique-police-scientifique-adn-snp.png",
-      "date": "2026-05-13T18:18:28+00:00",
+      "date": "2026-05-13T18:18:25+00:00",
       "date_formatted": "13 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Le syndrome des ovaires polykystiques officiellement renommé pour \"refléter enfin la complexité de cette pathologie\"",
-      "desc": "La Congrès européen d'endocrinologie a décidé d'identifier ce trouble qui touche de nombreuses femmes comme un \"syndrome métabolique ovarien polyendocrinien\".",
-      "url": "https://www.franceinfo.fr/sante/le-syndrome-des-ovaires-polykystiques-officiellement-renomme-pour-refleter-enfin-la-complexite-de-cette-pathologie_8001878.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/cGKzhXtm8N_2MpSw3vZQbkuHRVo/0x0:1024x576/432x243/filters:format(jpg)/2026/05/13/6a048be855cac109717636.jpg",
-      "date": "2026-05-13T17:55:23+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "#OnVousRépond. Quand l'hantavirus a-t-il été découvert et a-t-il déjà causé des épidémies ?",
-      "desc": "La souche des Andes à l'origine du foyer de contamination sur le \"MV Hondius\", de la famille des hantavirus, a été découverte pour la première fois en 1995 en Argentine, où environ 100 cas sont signalés chaque année.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-quand-l-hantavirus-a-t-il-ete-decouvert-et-a-t-il-deja-cause-des-epidemies_8001731.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/hDHvCkw64iGbdr_4u8S6v6zto8Y/0x0:1024x576/432x243/filters:format(jpg)/2026/05/13/6a04749fc51e9126990280.jpg",
-      "date": "2026-05-13T17:54:24+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Cancers pédiatriques : Les députés veulent taxer les laboratoires pharmaceutiques",
@@ -703,26 +713,6 @@
       "type": "science"
     },
     {
-      "title": "Cleo Bertelsmeier, biologiste : « Les espèces animales commercialisées ont plus de risques de partager un pathogène avec l’humain »",
-      "desc": "Dans un entretien au « Monde », la chercheuse s’inquiète de l’explosion du commerce des animaux exotiques. A ce jour, aucune convention n’encadre leur vente, malgré le danger potentiel qu’ils représentent pour l’environnement et la santé humaine.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/09/cleo-bertelsmeier-biologiste-les-especes-animales-commercialisees-ont-plus-de-risques-de-partager-un-pathogene-avec-l-humain_6687245_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/07/1557/1038/2873/1437/644/322/60/0/1e6b329_upload-1-1yxl7issvuzp-cleobertelsmeier14.jpg",
-      "date": "2026-05-09T05:00:13+00:00",
-      "date_formatted": "9 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Pierre Chambon, pionnier de la biologie moléculaire, est mort",
-      "desc": "L’ancien professeur au Collège de France, qui avait accumulé les brillantes distinctions et plus de 900 publications, a également été un « bâtisseur d’institution ». Il s’est éteint jeudi 5 mai à l’âge de 95 ans.",
-      "url": "https://www.lemonde.fr/disparitions/article/2026/05/08/pierre-chambon-pionnier-de-la-biologie-moleculaire-est-mort_6687102_3382.html",
-      "image": "https://img.lemde.fr/2026/05/08/775/0/1299/649/644/322/60/0/52e4656_upload-1-ieidf2l4nqbc-andia-178875.JPG",
-      "date": "2026-05-08T19:49:08+00:00",
-      "date_formatted": "8 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Dans les coulisses de la course au dépistage de l'hantavirus sur le bateau de croisière",
       "desc": "Une vigilance de l’Institut national sud-africain des maladies transmissibles a permis d’alerter l’OMS sur l’épidémie de hantavirus à bord du MV Hondius, sauvant potentiellement des vies.",
       "url": "https://www.sciencesetavenir.fr/sante/dans-les-coulisses-de-la-course-au-depistage-de-l-hantavirus-sur-le-bateau-de-croisiere_192353?xtor=RSS-16",
@@ -788,16 +778,6 @@
       "url": "https://www.sciencesetavenir.fr/sante/qu-est-ce-que-l-infection-a-hantavirus-qui-aurait-fait-trois-morts-sur-un-bateau-de-croisiere_192302?xtor=RSS-16",
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8abf1092ef-afp-20250604-f0450716-v1-highres-hantavirusantibodybloodtest.jpg",
       "date": "2026-05-04T15:01:13+00:00",
-      "date_formatted": "4 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Il court 32 marathons en 32 jours consécutifs pour attirer l'attention sur la démence",
-      "desc": "Jordan Adams a couru le marathon de Londres le 3 mai 2026 avec un réfrigérateur de 25 kilos sur le dos. Ce n'était qu'une première étape : il s'est lancé dans 32 marathons sur 32 jours en Irlande pour attirer l'attention sur une forme de démence que lui et son frère sont quasiment certains de dévelo",
-      "url": "https://www.sciencesetavenir.fr/sante/il-court-32-marathons-en-32-jours-consecutifs-pour-attirer-l-attention-sur-la-demence_192269?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/30/cover-r4x3w1200-69f33328ee781-59ec65bb8cbfe77d781b77f77d92f0caa9c05c15-jpg.jpg",
-      "date": "2026-05-04T13:25:44+00:00",
       "date_formatted": "4 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
