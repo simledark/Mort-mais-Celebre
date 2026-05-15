@@ -1,12 +1,112 @@
 {
-  "generated_at": "2026-05-15T08:36:06.821885+00:00",
-  "count": 91,
+  "generated_at": "2026-05-15T13:23:48.055225+00:00",
+  "count": 89,
   "articles": [
+    {
+      "title": "Aucun des cas contacts à l'hantavirus n'a développé de symptômes : doit-on s'attendre à une fin de l'épidémie ?",
+      "desc": "La menace hantavirus est-elle en train de s’éloigner ? Il n'y aurait pas de cas positifs parmi les cas contacts français isolés. Alors la question se pose : comment un virus peut-il s’éteindre ? Est-ce bientôt la fin de l'épidémie ?",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/aucun-des-cas-contacts-a-l-hantavirus-n-a-developpe-de-symptomes-doit-on-s-attendre-a-une-fin-de-l-epidemie_8006003.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/kH2Z5Dp0kQ782khDwY1NxpMuXgo/0x15:1352x776/432x243/filters:format(jpg)/2026/05/15/6a071c7120876354021362.jpg",
+      "date": "2026-05-15T15:19:08+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Huit cas confirmés, deux probables... Qui sont les personnes infectées par le variant des Andes de l'hantavirus dans le monde ?",
+      "desc": "Trois d'entre elles sont mortes et sept sont hospitalisées en Afrique du Sud, aux Pays-Bas, en Espagne, en Suisse et en France. Un cas probable a aussi été détecté sur une île de l'Atlantique.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/huit-cas-confirmes-deux-probables-qui-sont-les-personnes-infectees-par-le-variant-des-andes-de-l-hantavirus-dans-le-monde_8005706.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mWYKNqeu8nRRlrrdMW6ELzjhKHw/0x551:5300x3533/432x243/filters:format(jpg)/2026/05/15/6a07008866080641952501.jpg",
+      "date": "2026-05-15T15:03:10+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "EN DIRECT, hantavirus : le point sur la situation dans le monde à la mi-journée",
+      "desc": "Une passagère américaine du « MV Hondius » a été placée en quarantaine à son arrivée sur la petite île britannique de Pitcairn, dans le Pacifique, après être passée par la Polynésie française, ont annoncé les autorités locales.",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-le-point-sur-la-situation-dans-le-monde-a-la-mi-journee_6688609_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/13/432/0/5184/2592/644/322/60/0/f28f642_ftp-1-qu5n2ct4nzwk-5021734-01-06.jpg",
+      "date": "2026-05-15T14:14:17+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "« Les petites et moyennes entreprises sont l’angle mort du financement de l’innovation française »",
+      "desc": "La France n’investit pas assez dans l’innovation, et la majeure partie des aides d’Etat en matière de recherche et développement sont orientées vers les grandes entreprises qui disposent d’équipes se consacrant à l’obtention de ces subsides, constate, dans une tribune au « Monde », Brice Obadia, spé",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/15/les-petites-et-moyennes-entreprises-sont-l-angle-mort-du-financement-de-l-innovation-francaise_6689440_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/48f8e23_upload-1-cupttdbvkahu-frame-842.jpg",
+      "date": "2026-05-15T14:00:15+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Un laboratoire sur fibre optique pour diagnostiquer les cancers in vivo",
+      "desc": "Ces capteurs multifonctions permettront d’analyser des cellules de façon peu invasive et en temps réel. L’équipe pluridisciplinaire à l’origine de cet examen du futur a été inspirée par des travaux en photo physique.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/15/un-laboratoire-sur-fibre-optique-pour-diagnostiquer-les-cancers-in-vivo_6689432_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/08/100/0/1200/600/644/322/60/0/5997e76_upload-1-54v82lvzpl1m-scie2026-capteur-microscopique-appel.png",
+      "date": "2026-05-15T12:30:12+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Des leçons du Covid-19 à l’heure du hantavirus",
+      "desc": "La mobilisation des autorités de santé en France et la réactivité européenne sont à saluer, mais l’alerte suscitée par la contamination à un hantavirus devrait être mise à profit pour tirer enfin de l’ornière l’accord mondial sur la prévention, la préparation et la riposte aux pandémies.",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/15/des-lecons-du-covid-19-a-l-heure-du-hantavirus_6689424_3232.html",
+      "image": "https://img.lemde.fr/2026/05/13/476/0/5715/2857/644/322/60/0/1a423b9_ftp-1-0sricmd7jfhc-5016673-01-06.jpg",
+      "date": "2026-05-15T11:30:05+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un paquebot immobilisé à Bordeaux après des cas de gastro-entérite",
+      "desc": "Après 24 heures confinés à bord d’un paquebot touché par une épidémie de gastro-entérite, des croisiéristes britanniques et irlandais ont enfin pu débarquer à Bordeaux ce 14 mai. Si aucun cas grave n’est signalé, la compagnie maintient un protocole sanitaire strict.",
+      "url": "https://www.franceinfo.fr/sante/un-paquebot-immobilise-a-bordeaux-apres-des-cas-de-gastro-enterite_8003966.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/HM4VsBq6wr-qFKBHR2xFPF3J18E/0x12:948x546/432x243/filters:format(jpg)/2026/05/14/6a05c49af1678252832099.jpg",
+      "date": "2026-05-15T11:17:56+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Une nouvelle épidémie d’Ebola déclarée en République démocratique du Congo, selon l’Africa CDC",
+      "desc": "Quatre morts ont été attribuées au virus alors que l’agence sanitaire de l’Union africaine confirme, ce vendredi 15 mai, sa circulation dans l’est du pays.",
+      "url": "https://www.liberation.fr/international/afrique/une-nouvelle-epidemie-debola-declaree-en-republique-democratique-du-congo-selon-lafrica-cdc-20260515_TAQUI5CU3RBFNBYTSMXRK7KMTI/",
+      "image": null,
+      "date": "2026-05-15T11:11:46+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "\"Ça me rappelle mes nuits de garde quand j'étais interne\" : Stéphanie Rist, une ministre de la Santé en première ligne dans la lutte contre l'hantavirus",
+      "desc": "Les Français découvrent le visage de cette macroniste de la première heure avec l'émergence du virus des Andes. Peut-elle rester associée à cette maladie, comme ce fut le cas pour Olivier Véran avec le Covid-19 ?",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/ca-me-rappelle-mes-nuits-de-garde-quand-j-etais-interne-stephanie-rist-une-ministre-de-la-sante-en-premiere-ligne-dans-la-lutte-contre-l-hantavirus_8001440.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/R01Hd62p1wEGw77WMZY54tZyZ_k/0x260:5000x3073/432x243/filters:format(jpg)/2026/05/14/6a058a7dda452749298198.jpg",
+      "date": "2026-05-15T11:01:49+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "En RDC, une nouvelle épidémie d’Ebola fait quatre morts dans l’est du pays",
+      "desc": "L’épidémie de ce virus, qui est souvent mortel malgré les vaccins et traitements, s’est déclarée dans la province de l’Ituri, selon l’agence sanitaire de l’Union africaine, qui a recensé 246 cas suspects dont 65 mortels.",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/15/en-rdc-une-nouvelle-epidemie-d-ebola-fait-quatre-morts-dans-l-est-du-pays_6689415_3212.html",
+      "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/115f9c2_upload-1-ouozwo6tjbtx-ap25034672987020.jpg",
+      "date": "2026-05-15T10:45:45+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
     {
       "title": "Une nouvelle épidémie d'Ebola est déclarée en République démocratique du Congo",
       "desc": "La dernière épidémie de cette fièvre hémorragique dans le pays avait été déclarée en août 2025 et éradiquée en décembre, après avoir fait au moins 34 morts.",
       "url": "https://www.franceinfo.fr/sante/maladie/ebola/une-nouvelle-epidemie-d-ebola-est-declaree-en-republique-democratique-du-congo_8005652.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/GG7rJHMmFjEcVc5KGKJ9htrbwG8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/15/6a06cb4e91b8a775230426.jpg",
+      "image": "https://www.franceinfo.fr/pictures/aF8wGKfOwQfLIRggfd54XL0WYv0/0x100:1024x676/432x243/filters:format(jpg)/2026/05/15/6a06cb4e91b8a775230426.jpg",
       "date": "2026-05-15T09:45:30+00:00",
       "date_formatted": "15 May 2026",
       "source": "France Info Santé",
@@ -16,7 +116,7 @@
       "title": "Fin de vie : \"Ce type de sujet n'est absolument pas adapté pour un référendum où on répond 'oui', 'non'\", juge Agnès Buzyn, ex-ministre de la Santé",
       "desc": "Alors que le texte sur la fin de vie vient d'être rejeté une nouvelle fois par le Sénat, l'ancienne ministre des Solidarités et de la Santé rappelle, ce vendredi 15 mai sur franceinfo, qu'elle est \"extrêmement prudente sur l'aide à mourir\", et que le sujet \"nécessite de ne pas avoir une vision très ",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-15-mai-2026_7963265.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/jZJOYmzfREs3qHYHWBMnQYh7CUw/8x0:1402x784/432x243/filters:format(jpg)/2026/05/15/6a06cded24b85250086240.jpg",
+      "image": "https://www.franceinfo.fr/pictures/CtYnb63P0IGg9ZiFYuls3QjWynU/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/15/6a071d628608c053018213.jpg",
       "date": "2026-05-15T09:22:26+00:00",
       "date_formatted": "15 May 2026",
       "source": "France Info Santé",
@@ -33,11 +133,51 @@
       "type": "presse"
     },
     {
+      "title": "Une passagère du «MV Hondius» en quarantaine dans le Pacifique, d’autres atterrissent en Australie, un Américain testé positif finalement négatif… Le point sur l’hantavirus",
+      "desc": "L’essentiel des informations du jour sur le foyer d’hantavirus.",
+      "url": "https://www.liberation.fr/societe/sante/une-passagere-du-mv-hondius-en-quarantaine-dans-le-pacifique-dautres-atterrissent-en-australie-un-americain-teste-positif-finalement-negatif-le-point-sur-lhantavirus-20260515_GRNKIZ7RX5A2PBUSEBBR6HS5IA/",
+      "image": null,
+      "date": "2026-05-15T09:11:59+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Guerre en Ukraine : journée de deuil à Kyiv après au moins 24 morts dans une série de frappes la veille",
       "desc": "Le nouveau bilan donné par les secours vendredi 15 mai fait également état de 47 blessés. De son côté, l’armée russe dit avoir abattu 355 drones ukrainiens dans la nuit de jeudi à vendredi, notamment au-dessus de régions frontalières de l’Ukraine et de celle de Moscou.",
       "url": "https://www.liberation.fr/international/europe/guerre-en-ukraine-journee-de-deuil-a-kyiv-apres-au-moins-24-morts-dans-une-serie-de-frappes-la-veille-20260515_NO7FS3FBJRAOHBDB2OH76BULRI/",
       "image": null,
-      "date": "2026-05-15T08:22:52+00:00",
+      "date": "2026-05-15T09:00:29+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : ce que l'Argentine sait, et ne sait pas, de son expérience du virus",
+      "desc": "Endémique depuis des décennies dans certaines régions d'Argentine, l'hantavirus, y compris la souche \"Andes\", a conféré aux scientifiques locaux une certaine expertise de la maladie.",
+      "url": "https://www.sciencesetavenir.fr/sante/hantavirus-ce-que-l-argentine-sait-et-ne-sait-pas-de-son-experience-du-virus_192457?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/15/cover-r4x3w1200-6a06dfcc3c7c7-afp-20260513-b2rf6bq-v1-highres-argentinahealthhantavirusillness.jpg",
+      "date": "2026-05-15T08:56:44+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Sciences & Avenir",
+      "type": "science"
+    },
+    {
+      "title": "Une mission scientifique doit se rendre à Ushuaïa pour remonter la piste de la première contamination",
+      "desc": "Les scientifiques vont essayer de déterminer si des rats porteurs du virus vivent dans la ville d'où est parti le \"MV Hondius\", et où la première victime a séjourné 48 heures.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-une-mission-scientifique-est-prevue-a-ushuaia-pour-remonter-la-piste-de-la-premiere-contamination_8005595.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/u01mLk_IrVKtmQuQkDnNT_x5rU0/0x0:1024x576/432x243/filters:format(jpg)/2026/05/15/6a06c0e5d115a084065083.jpg",
+      "date": "2026-05-15T08:47:58+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Mme H., la mystérieuse morte de la rue d’Auteuil",
+      "desc": "Le 31 mars était découvert dans son appartement du XVIe arrondissement de Paris le cadavre d’une sexagénaire, décédée quelques années plus tôt sans que personne ne s’en aperçoive. Portrait d’une ancienne prof de vietnamien au lycée Louis-le-Grand, passée à l’oubli.",
+      "url": "https://www.liberation.fr/societe/mme-h-la-mysterieuse-morte-de-la-rue-dauteuil-20260515_7NSTSSUVRVCIVPVG6G4VWFBGLI/",
+      "image": null,
+      "date": "2026-05-15T08:37:55+00:00",
       "date_formatted": "15 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -53,16 +193,6 @@
       "type": "science"
     },
     {
-      "title": "En Haute-Saône, un maire saisit l’Arcom après le traitement médiatique «écœurant» d’un fait divers par CNews et Frontières",
-      "desc": "Il dénonce le «portrait anxiogène» de la commune de Gy dressé par le chroniqueur d’extrême droite Jordan Florentin, rapporte «l’Est Républicain» le 14 mai, huit jours après le meurtre à l’arme blanche de l’un des habitants.",
-      "url": "https://www.liberation.fr/economie/medias/en-haute-saone-un-maire-saisit-larcom-apres-le-traitement-mediatique-ecoeurant-dun-fait-divers-par-cnews-et-frontieres-20260515_PZO4RQWFWVDDNG7XOZ4JB2GBTA/",
-      "image": null,
-      "date": "2026-05-15T07:31:47+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : comment les autorités sanitaires définissent-elles un \"cas contact\" ?",
       "desc": "La ministre de la Santé a annoncé, jeudi, que les 26 personnes identifiées \"cas contact\" du hantavirus en France ont été toutes testées négatifs. Toutefois, ceux-ci n'étaient pas à bord du \"MV Hondius\". Comment définir une \"personne contact\" ?",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-qu-est-ce-qu-un-cas-contact-selon-les-autorites-sanitaires_8003687.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -73,43 +203,13 @@
       "type": "presse"
     },
     {
-      "title": "A Nantes, un adolescent de 15 ans tué dans une fusillade sur fond de narcotrafic, un autre de 13 ans entre la vie et la mort",
-      "desc": "La victime est tombée sous les balles de deux tireurs venus à scooter, dans le hall d’un immeuble du quartier populaire du nord de la ville, dans la soirée du jeudi 14 mai. Deux autres adolescents, âgés de 13 et 14 ans, ont été blessés, le premier se trouvant entre la vie et la mort.",
-      "url": "https://www.liberation.fr/societe/police-justice/a-nantes-un-adolescent-de-15-ans-tue-dans-une-fusillade-sur-fond-de-narcotrafic-20260515_ETGDKKQJBNA4RGB6Y7ZN7WLXXA/",
-      "image": null,
-      "date": "2026-05-15T06:15:25+00:00",
+      "title": "EN DIRECT Hantavirus : Une quarantaine débute en Australie, aucun symptôme chez les cas contacts français...",
+      "desc": "Suivez avec nous toutes les informations de la journée du vendredi 15 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
+      "url": "https://www.20minutes.fr/societe/4223598-20260515-direct-hantavirus-patron-oms-salue-habitants-tenerife-aide-lors-evacuation-mv-hondius?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/JYhX6ZfHR_qhF8WjUtffISk/1200x768_illustration-montrant-un-tube-a-essai-etiquete-hantavirus-a-cote-d-un-rongeur-et-du-logo-de-l-organisation-mondiale-de-la-sante-oms-avec-des-representations-graphiques-du-virus-en-arriere-plan-soulignant-les-preoccupations-sanitaires-mondiales-liees-aux-infections-a-hantavirus-le-12-mai-2026-yassine-mahjoub-sipa-mahjoubyassine-by2f1556-credit-yassine-mahjoub-sipa-2605121212",
+      "date": "2026-05-15T05:20:49+00:00",
       "date_formatted": "15 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : les autorités américaines surveillent 41 personnes en lien avec le foyer d’infection",
-      "desc": "Sont concernés les 18 passagers du navire récemment rapatriés aux Etats-Unis, mais aussi ceux qui étaient rentrés chez eux plus tôt après avoir quitté le bateau avant la détection du foyer et d’autres personnes considérées comme cas contacts.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-les-autorites-americaines-surveillent-41-personnes-en-lien-avec-le-foyer-d-infection_6688609_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/11/292/0/3381/1690/644/322/60/0/6ea2fa9_ftp-1-ykkjfjxn6pyx-2026-05-11t120912z-2107686791-rc2y6laxfuln-rtrmadp-3-cruiseship-hantavirus-usa.JPG",
-      "date": "2026-05-15T05:58:57+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : une mission scientifique argentine envoyée à Ushuaïa pour enquêter sur l'origine de la contamination du \"MV Hondius\"",
-      "desc": "La ville touristique d'Ushuaïa en Argentine, d'où est parti le 1er avril le navire de croisière sur lequel a éclaté un foyer d'hantavirus, se défend d'avoir été l'origine de la contagion du passager cas zéro.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/direct-hantavirus-en-france-une-francaise-toujours-en-reanimation-les-resultats-des-tests-sur-les-cas-contacts-attendus-ce-jeudi_8003306.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/pjWgD2oQX7EQ6FoxJqbV72df86o/0x100:1024x676/432x243/filters:format(jpg)/2026/05/14/6a0603c24f1bb407977602.jpg",
-      "date": "2026-05-14T23:52:49+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : une mission scientifique en quête de l’origine de la contamination attendue à Ushuaïa la semaine prochaine",
-      "desc": "Les cas contacts dans l’Hexagone, tous négatifs, sont hospitalisés et ne présentent aucun symptôme. «Il n’y a pas de circulation du virus dans la population», a répété mercredi la ministre de la Santé.",
-      "url": "https://www.liberation.fr/societe/sante/en-direct-hantavirus-les-resultats-des-tests-de-18-cas-contacts-francais-sont-attendus-ce-jeudi-20260514_7XDRFZNZEBA25BGU56ZFCS35EA/",
-      "image": null,
-      "date": "2026-05-14T19:01:49+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -120,16 +220,6 @@
       "date": "2026-05-14T19:00:02+00:00",
       "date_formatted": "14 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’artiste féministe autrichienne Valie Export est morte à 85 ans",
-      "desc": "Dans un communiqué publié ce jeudi 14 mai, sa fondation salue «une artiste remarquable […] et un être humain incroyable». Waltraud Lehner avait choisi son nom d’artiste pour s’opposer aux règles patriarcales.",
-      "url": "https://www.liberation.fr/culture/lartiste-feministe-autrichienne-valie-export-est-morte-a-85-ans-20260514_63EOS3RAFZGT3H2GLCC7M4GMGA/",
-      "image": null,
-      "date": "2026-05-14T18:47:29+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -167,20 +257,10 @@
       "desc": "Les innovations technologiques et les progrès de la médecine pour mieux comprendre l’origine des cancers changeront la donne en matière de prévention et de dépistage des 20 millions de nouveaux cas chaque année dans le monde.",
       "url": "https://www.lemonde.fr/idees/article/2026/05/14/la-recherche-sur-la-genese-des-cancers-sera-la-cle-d-une-meilleure-prevention_6689086_3232.html",
       "image": "https://img.lemde.fr/2026/05/13/295/0/5135/2567/644/322/60/0/b916c4f_upload-1-5wpbis10zhvc-000-a88c99e.jpg",
-      "date": "2026-05-14T14:50:07+00:00",
+      "date": "2026-05-14T14:50:05+00:00",
       "date_formatted": "14 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Un paquebot immobilisé à Bordeaux après des cas de gastro-entérite",
-      "desc": "Après 24 heures confinés à bord d’un paquebot touché par une épidémie de gastro-entérite, des croisiéristes britanniques et irlandais ont enfin pu débarquer à Bordeaux ce 14 mai. Si aucun cas grave n’est signalé, la compagnie maintient un protocole sanitaire strict.",
-      "url": "https://www.franceinfo.fr/sante/un-paquebot-immobilise-a-bordeaux-apres-des-cas-de-gastro-enterite_8003966.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HM4VsBq6wr-qFKBHR2xFPF3J18E/0x12:948x546/432x243/filters:format(jpg)/2026/05/14/6a05c49af1678252832099.jpg",
-      "date": "2026-05-14T14:49:49+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Hantavirus : la France ne produit pas assez de masques \"pour faire face à une pandémie\" comme le Covid, alertent les fabricants français",
@@ -213,16 +293,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus, gastro sur un paquebot à Bordeaux, liste de Didier Deschamps pour le Mondial : ça dit quoi ce 14 mai ?",
-      "desc": "Ce jeudi 14 mai, des passagers confinés sur un bateau de croisière à Bordeaux... mais pour une gastro, l'hantavirus fait craindre que le monde n'a pas suffisamment tiré les leçons du Covid-19, et Didier Deschamps doit dévoiler sa liste pour la Coupe du monde aux États-Unis.",
-      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/hantavirus-gastro-sur-un-paquebot-a-bordeaux-liste-de-didier-deschamps-pour-le-mondial-ca-dit-quoi-ce-14-mai_7997336.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/YpspsHlDEAg4cmiNWU76AcPtu8M/0x0:1024x576/432x243/filters:format(jpg)/2026/05/13/6a04d66606807420222757.jpg",
-      "date": "2026-05-14T10:30:27+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Comment l’émail de dents vieilles de 400 000 ans révèle des croisements de populations d’hominines",
       "desc": "L’analyse de protéines anciennes permet de remonter dans le temps plus loin que l’ADN. Elle fournit pour la première fois une signature spécifique pour distinguer des « Homo erectus » de Chine. Elle suggère des métissages avec des dénisoviens.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/14/comment-l-email-de-dents-vieilles-de-400-000-ans-revele-des-croisements-de-populations-d-hominines_6689053_1650684.html",
@@ -233,38 +303,8 @@
       "type": "science"
     },
     {
-      "title": "\"On soupçonne que les stocks ont pu se périmer\" : quelques semaines avant l'hantavirus, le Conseil économique, social et environnemental préconisait un renforcement des réserves de masques et de médic",
-      "desc": "Alors que l'actualité réveille les mauvais souvenirs de la pandémie de Covid-19, le Cese a présenté, en avril, un rapport qui préconise notamment une meilleure anticipation des crises de la part des autorités sanitaires.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/on-soupconne-que-les-stocks-ont-pu-se-perimer-quelques-semaines-avant-l-hantavirus-le-conseil-economique-social-et-environnemental-preconisait-un-renforcement-des-reserves-de-masques-et-de-medicaments_8002442.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/WphG8UODYBr9hQ-d1ZgY1Qa-9ck/0x223:4299x2642/432x243/filters:format(jpg)/2026/05/13/6a04f2d45bfc7250039491.jpg",
-      "date": "2026-05-14T09:38:25+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "L’OMS animale alerte sur le risque d’une nouvelle pandémie d'origine animale",
-      "desc": "Alors que l’inquiétude grandit autour de l’hantavirus, l’Organisation mondiale de la santé animale estime que le monde n’investit pas suffisamment dans la prévention des maladies transmises par les animaux aux humains.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-billet-vert/l-oms-animale-alerte-sur-le-risque-d-une-nouvelle-pandemie-d-origine-animale_8003486.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/fax-_SYUL9xq5M9B_wVMxf5kLNA/0x260:5000x3073/432x243/filters:format(jpg)/2026/05/14/6a0579b7f13f3392855612.jpg",
-      "date": "2026-05-14T09:35:15+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "INFO RADIO FRANCE. Hantavirus : la demande de masques FFP2 multipliée par cinq en une semaine",
-      "desc": "Selon des informations de France Inter, les principaux grossistes peinent à fournir les pharmacies depuis ces derniers jours.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-avec-cinq-fois-plus-de-demandes-de-masques-ffp2-en-une-semaine-les-principaux-grossistes-peinent-a-fournir-les-pharmacies_8003528.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/RlO1HViIGyfQkMbMmm3gzAGS3dY/0x0:1023x577/432x243/filters:format(jpg)/2022/01/07/phpaUphR9.jpg",
-      "date": "2026-05-14T08:38:15+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT Hantavirus : Le risque pour les Européens est « très faible », selon le Centre de prévention et de contrôle des maladies…",
-      "desc": "Vivez avec nous les informations de ce jeudi 14 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
+      "title": "Hantavirus : Une mission scientifique en quête de l'origine de la contamination envoyée à Ushuaïa la semaine prochaine",
+      "desc": "Revivez toutes les informations de la journée du jeudi 14 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
       "url": "https://www.20minutes.fr/societe/4223525-20260514-direct-hantavirus-26-cas-contacts-francais-symptomes?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/PLNviq6-S4-hQYWox9eHeCk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
       "date": "2026-05-14T07:53:21+00:00",
@@ -281,26 +321,6 @@
       "date_formatted": "14 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "TEMOIGNAGES. \"Il ne faut pas paniquer à la moindre annonce\" : face à l'hantavirus, entre anxiété et critique des médias, les Français tentent de relativiser",
-      "desc": "Les lecteurs de franceinfo se montrent très partagés face à l'émergence de ce nouveau virus. Une courte majorité d'entre eux se disent rassurés par les mesures prises par les autorités, mais ils sont également plusieurs à avoir déjà pris des dispositions pour se protéger d'une potentielle contaminat",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/temoignages-il-ne-faut-pas-paniquer-a-la-moindre-annonce-face-a-l-hantavirus-entre-anxiete-et-critique-des-medias-les-francais-tentent-de-relativiser_8001617.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/66t-t3DLF0qcBrWgJ63P7y0H3ns/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a04869f4e23d065304277.jpg",
-      "date": "2026-05-14T05:54:20+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "#OnVousRépond. Hantavirus : est-il utile de porter le masque dans les transports ou dans les lieux publics ?",
-      "desc": "Alors qu'une Française a été testée positive à l'hantavirus des Andes et que 26 autres personnes ont été placées à l'isolement, vous êtes nombreux à nous interroger sur la nécessité de porter à nouveau un masque. En l'absence de circulation du virus en population générale, ce n'est pourtant pas néce",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/onvousrepond-hantavirus-est-il-utile-de-porter-le-masque-dans-les-transports-ou-dans-les-lieux-publics_8001782.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/qzYc2b0mhQnp2BJtNuowX-vwmE0/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a0496ced00c7720782506.jpg",
-      "date": "2026-05-14T05:54:05+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Paquebot en escale à Bordeaux : la suspicion d’une épidémie de gastro-entérite confirmée par les autorités sanitaires ; levée partielle de la quarantaine",
@@ -603,16 +623,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : La Française hospitalisée oxygénée avec un « poumon artificiel »",
-      "desc": "Revivez avec nous les informations de ce mardi 12 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
-      "url": "https://www.20minutes.fr/societe/4223067-20260512-direct-hantavirus-mv-hondius-fait-route-vers-pays-bas?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/R_ZCzKDWTnOVZdfkQYvTMyk/1200x768_des-medecins-escortent-un-patient-deuxieme-a-droite-evacue-du-navire-de-croisiere-mv-hondius-soupconne-d-etre-infecte-par-l-hantavirus-vers-une-ambulance-apres-avoir-ete-transporte-par-avion-a-l-aeroport-de-schiphol-a-amsterdam-aux-pays-bas-le-mercredi-6-mai-2026-ap-photo-peter-dejong-pdj115-26126675405592-2605062047",
-      "date": "2026-05-12T04:29:00+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Fin de vie : le Sénat rejette un article-clé de la loi sur l’aide à mourir, mais adopte un texte renforçant l’accès aux soins palliatifs",
       "desc": "L’examen de la proposition de loi portée par Olivier Falorni doit se poursuivre jusqu’à mercredi, mais la suite des débats s’annonce décousue. Le gouvernement pourrait redonner la main à l’Assemblée nationale, favorable à la réforme.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/12/fin-de-vie-le-senat-rejette-un-article-cle-de-la-loi-sur-l-aide-a-mourir-mais-adopte-un-texte-renforcant-l-acces-aux-soins-palliatifs_6688114_3225.html",
@@ -661,26 +671,6 @@
       "date_formatted": "11 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Hantavirus : Ce que l’on sait de la passagère française en réanimation après avoir contracté le virus",
-      "desc": "Une Française rapatriée dimanche après une croisière à bord du « MV Hondius » a été testée positive à l’hantavirus",
-      "url": "https://www.20minutes.fr/sante/4223034-20260511-hantavirus-sait-passagere-francaise-contracte-maladie?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/5Rb4-vcPQm2qpnxduDzmPCk/1200x768_photos-illustrant-l-hantavirus-une-famille-de-virus-transmise-par-des-rongeurs-11-mai-2025-greuezfrancois-0g4a6555-credit-francois-greuez-sipa-2605111152",
-      "date": "2026-05-11T17:14:32+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Dix-huit passagers américains, dont un cas positif, ont été rapatriés aux Etats-Unis",
-      "desc": "Dix-huit passagers du MV Hondius ont été rapatriés ce lundi 11 mai aux Etats-Unis après une exposition potentielle à l’hantavirus Andes. Une personne est positive. Les autorités américaines assurent que le risque de transmission reste faible",
-      "url": "https://www.20minutes.fr/monde/etats-unis/4223035-20260511-hantavirus-dix-huit-passagers-americains-dont-cas-positif-rapatries-etats-unis?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/4Vge5m8JSOKwEhwSRQk_ayk/1200x768_omaha-nebraska-11-mai-le-davis-global-center-du-campus-du-centre-medical-de-l-universite-du-nebraska-qui-abrite-l-unite-nationale-de-quarantaine-est-visite-le-11-mai-2026-a-omaha-au-nebraska-le-navire-de-croisiere-mv-hondius-dont-trois-passagers-sont-morts-du-hantavirus-le-mois-dernier-et-huit-autres-cas-ont-ete-signales-est-arrive-le-dimanche-10-mai-a-tenerife-dans-les-iles-canaries-en-espagne-ou-les-autres-passagers-ont-ete-rapatries-dans-leurs-pays-respectifs-16-passagers-americains-dont-aucun-ne-presentait-de-symptomes-d-hantavirus-ont-ete-emmenes-a-l-unite-nationale-de-quarantaine-du-centre-medical-de-l-universite-du-nebraska-base-a-omaha-pour-etre-isoles-et-surveilles-dylan-widger-getty-images-afp-photo-de-dylan-widger-getty-images-amerique-du-nord-getty-images-via-afp",
-      "date": "2026-05-11T17:03:00+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Acide hyaluronique en gélules : est-ce une vraie solution anti-âge et pour le confort articulaire ?",
@@ -769,16 +759,6 @@
       "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/05/cover-r4x3w1200-69f9f0751df8b-hantavirus.jpg",
       "date": "2026-05-05T14:11:21+00:00",
       "date_formatted": "5 May 2026",
-      "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Qu'est-ce qu'un hantavirus ?",
-      "desc": "Un navire de croisière présent dans l'Atlantique est devenu un potentiel foyer d'infection à hantavirus, causant la mort de trois personnes. Transmission, symptômes, traitements : Sciences et Avenir fait le point sur ces pathogènes.",
-      "url": "https://www.sciencesetavenir.fr/sante/qu-est-ce-que-l-infection-a-hantavirus-qui-aurait-fait-trois-morts-sur-un-bateau-de-croisiere_192302?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/04/cover-r4x3w1200-69f8abf1092ef-afp-20250604-f0450716-v1-highres-hantavirusantibodybloodtest.jpg",
-      "date": "2026-05-04T15:01:13+00:00",
-      "date_formatted": "4 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
     },
