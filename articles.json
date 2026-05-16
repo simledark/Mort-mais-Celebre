@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-05-15T19:13:14.235845+00:00",
-  "count": 90,
+  "generated_at": "2026-05-16T01:48:46.304060+00:00",
+  "count": 92,
   "articles": [
     {
-      "title": "DIRECT. \"Hantavirus, la semaine de tous les dangers\" : regardez le documentaire de franceinfo consacré aux derniers développements autour du virus des Andes",
+      "title": "Hantavirus : la patiente française probablement pas atteinte par un nouveau variant, annonce la ministre de la Santé",
+      "desc": "\"Aucun élément ne laisse penser à l'apparition d'un variant susceptible d'être plus transmissible ou plus dangereux\", a affirmé Stéphanie Rist vendredi.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-patiente-francaise-probablement-pas-atteinte-par-un-nouveau-variant-annonce-la-ministre-de-la-sante_8007293.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/O9Y-Y-wC7Ilr7YA21oNhpTAi82I/0x53:1024x629/432x243/filters:format(jpg)/2026/05/16/6a0797aab1f82801990279.jpg",
+      "date": "2026-05-16T00:04:17+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : retrouvez notre direct du 13 au 15 mai",
+      "desc": "La souche de hantavirus détectée chez la passagère française, diagnostiquée positive et actuellement dans un état grave, ne comprend « aucun élément » qui « laisse penser à l’apparition d’un variant susceptible d’être plus transmissible ou plus dangereux », a annoncé la ministre de la santé, Stéphan",
+      "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-les-dernieres-informations_6688609_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/11/630/0/3657/1828/644/322/60/0/91342af_ftp-1-zfiamyyoy7ag-2026-05-11t123428z-430528301-rc2z6laogw1l-rtrmadp-3-cruiseship-hantavirus-france.JPG",
+      "date": "2026-05-15T22:20:17+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPLAY. \"Hantavirus, la semaine de tous les dangers\" : regardez le documentaire de franceinfo consacré aux derniers développements autour du virus des Andes",
       "desc": "Du quai de Tenerife aux coulisses de la gestion de crise en France, le documentaire vous résume ce qu'il s'est passé ces derniers jours dans la prise en charge de l'hantavirus.",
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/direct-hantavirus-la-semaine-de-tous-les-dangers-regardez-le-documentaire-de-franceinfo-consacre-aux-derniers-developpements-autour-du-virus-des-andes_8005676.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/66t-t3DLF0qcBrWgJ63P7y0H3ns/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a04869f4e23d065304277.jpg",
@@ -13,13 +33,43 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : une nouvelle épidémie s’est déclarée en RDC et en Ouganda ; cinq personnes sont mortes selon un bilan provisoire",
+      "title": "Ebola : une nouvelle épidémie s’est déclarée en RDC et touche l’Ouganda ; cinq personnes sont mortes selon un bilan provisoire",
       "desc": "L’épidémie due à ce virus, souvent mortel malgré les vaccins et traitements, s’est déclarée dans la province de l’Ituri, selon l’agence sanitaire de l’Union africaine, qui a recensé 246 cas suspects dont 65 mortels.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/15/ebola-une-nouvelle-epidemie-s-est-declaree-en-rdc-et-en-ouganda-cinq-personnes-sont-mortes-selon-un-bilan-provisoire_6689415_3213.html",
       "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/115f9c2_upload-1-ouozwo6tjbtx-ap25034672987020.jpg",
-      "date": "2026-05-15T20:45:32+00:00",
+      "date": "2026-05-15T20:45:29+00:00",
       "date_formatted": "15 May 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : « Aucun élément ne suggère » un nouveau variant plus dangereux selon la ministre de la Santé",
+      "desc": "Le séquençage de la souche « Andes » de l’hantavirus détectée chez une passagère française du « MV Hondius » n’a révélé aucun variant plus transmissible ou plus dangereux, selon l’Institut Pasteur et le ministère de la Santé",
+      "url": "https://www.20minutes.fr/societe/4223731-20260515-hantavirus-aucun-element-suggere-nouveau-variant-plus-dangereux-selon-ministre-sante?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/OCPqMRh6RPS_RGpDsLGpVik/1200x768_la-ministre-francaise-de-la-sante-stephanie-rist-prononce-un-discours-lors-d-une-conference-de-presse-sur-la-situation-liee-a-l-hantavirus-au-ministere-de-la-sante-a-paris-le-12-mai-2026-le-navire-de-croisiere-touche-par-une-epidemie-mortelle-d-hantavirus-s-est-dirige-vers-les-pays-bas-mardi-apres-le-debarquement-de-ses-derniers-passagers-dans-les-iles-canaries-en-espagne-et-au-moins-sept-des-personnes-evacuees-ont-ete-testees-positives-au-virus-les-autorites-francaises-ont-indique-qu-une-femme-testee-positive-avait-ete-hospitalisee-et-que-son-etat-etait-stable-en-soins-intensifs-01accorsini-jeanne-hantavirus-conf-0010-credit-jeanne-accorsini-sipa-2605121828",
+      "date": "2026-05-15T19:33:32+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Lutte contre le narcotrafic : d’ici à la présidentielle, à la gauche de convaincre",
+      "desc": "En une semaine, la violence liée au trafic de drogue a fait six morts, dont un adolescent de 15 ans tué à Nantes le 14 mai. Face à la surenchère de mesures de la droite et l’extrême droite qui ne donne aucun résultat, la gauche doit profiter de la fenêtre présidentielle pour faire valoir ses idées.",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/lutte-contre-le-narcotrafic-dici-a-la-presidentielle-a-la-gauche-de-convaincre-20260515_MEICQYOQYFF7BIQBZTPU6Q46AY/",
+      "image": null,
+      "date": "2026-05-15T19:22:56+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Johanna Rolland, maire de Nantes : «Il faut créer un service de renseignement dédié au narcotrafic»",
+      "desc": "Alors qu’un jeune homme de 15 ans est mort dans une fusillade sur un point de deal le jeudi 14 mai à Nantes, la maire socialiste de la ville appelle à renforcer les moyens alloués pour démanteler les réseaux de trafiquants.",
+      "url": "https://www.liberation.fr/politique/johanna-rolland-maire-de-nantes-il-faut-creer-un-service-de-renseignement-dedie-au-narcotrafic-20260515_AQY2A5IM7NFRBBBKPUEOE55NRU/",
+      "image": null,
+      "date": "2026-05-15T19:22:33+00:00",
+      "date_formatted": "15 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -50,16 +100,6 @@
       "date": "2026-05-15T18:50:24+00:00",
       "date_formatted": "15 May 2026",
       "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "EN DIRECT, hantavirus : l’Institut Pasteur a réalisé le séquençage complet du hantavirus ayant infecté la passagère française du « Hondius » ; il s’agit de souches surveillées en Amérique du Sud",
-      "desc": "La ministre de la santé, Stéphanie Rist, a affirmé vendredi soir que le virus analysé « correspond aux souches déjà connues et surveillées », ce qui permet à ce stade d’écarter l’« apparition d’un variant susceptible d’être plus transmissible ou plus dangereux ».",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/15/en-direct-hantavirus-l-oms-espere-pouvoir-faire-le-point-tres-bientot-sur-la-mission-a-ushuaia_6688609_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/11/630/0/3657/1828/644/322/60/0/91342af_ftp-1-zfiamyyoy7ag-2026-05-11t123428z-430528301-rc2z6laogw1l-rtrmadp-3-cruiseship-hantavirus-france.JPG",
-      "date": "2026-05-15T18:22:43+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Le Monde Santé",
       "type": "presse"
     },
     {
@@ -183,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Un paquebot immobilisé à Bordeaux après des cas de gastro-entérite",
-      "desc": "Après 24 heures confinés à bord d’un paquebot touché par une épidémie de gastro-entérite, des croisiéristes britanniques et irlandais ont enfin pu débarquer à Bordeaux ce 14 mai. Si aucun cas grave n’est signalé, la compagnie maintient un protocole sanitaire strict.",
-      "url": "https://www.franceinfo.fr/sante/un-paquebot-immobilise-a-bordeaux-apres-des-cas-de-gastro-enterite_8003966.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/HM4VsBq6wr-qFKBHR2xFPF3J18E/0x12:948x546/432x243/filters:format(jpg)/2026/05/14/6a05c49af1678252832099.jpg",
-      "date": "2026-05-15T11:17:56+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "\"Ça me rappelle mes nuits de garde quand j'étais interne\" : Stéphanie Rist, une ministre de la Santé en première ligne dans la lutte contre l'hantavirus",
       "desc": "Les Français découvrent le visage de cette macroniste de la première heure avec l'émergence du virus des Andes. Peut-elle rester associée à cette maladie, comme ce fut le cas pour Olivier Véran avec le Covid-19 ?",
       "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/ca-me-rappelle-mes-nuits-de-garde-quand-j-etais-interne-stephanie-rist-une-ministre-de-la-sante-en-premiere-ligne-dans-la-lutte-contre-l-hantavirus_8001440.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -263,7 +293,7 @@
       "type": "science"
     },
     {
-      "title": "EN DIRECT Hantavirus : Une quarantaine débute en Australie, aucun symptôme chez les cas contacts français...",
+      "title": "EN DIRECT Hantavirus : Le Centre européen rassure sur le niveau de menace dans l’Union européenne...",
       "desc": "Suivez avec nous toutes les informations de la journée du vendredi 15 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
       "url": "https://www.20minutes.fr/societe/4223598-20260515-direct-hantavirus-patron-oms-salue-habitants-tenerife-aide-lors-evacuation-mv-hondius?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/JYhX6ZfHR_qhF8WjUtffISk/1200x768_illustration-montrant-un-tube-a-essai-etiquete-hantavirus-a-cote-d-un-rongeur-et-du-logo-de-l-organisation-mondiale-de-la-sante-oms-avec-des-representations-graphiques-du-virus-en-arriere-plan-soulignant-les-preoccupations-sanitaires-mondiales-liees-aux-infections-a-hantavirus-le-12-mai-2026-yassine-mahjoub-sipa-mahjoubyassine-by2f1556-credit-yassine-mahjoub-sipa-2605121212",
@@ -648,16 +678,6 @@
       "url": "https://www.20minutes.fr/sante/4223083-20260512-hantavirus-francais-cas-contact-transfere-chu-rennes?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/3e539KpVQbSPQMWkyPW3jik/1200x768_illustration-d-un-vehicule-du-samu-devant-les-urgences-du-chu-pontchaillou-de-rennes-ici-en-janvier-2026",
       "date": "2026-05-12T07:57:01+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : Le personnel d’un hôpital des Pays-Bas placé en quarantaine après des erreurs de procédures",
-      "desc": "Des erreurs de procédure ont été commises pendant un prélèvement sanguin et l’élimination de l’urine du patient positif à l’hantavirus. Conséquence ? Douze membres d’un hôpital néerlandais sont placés en quarantaine pendant six semaines",
-      "url": "https://www.20minutes.fr/monde/4223074-20260512-hantavirus-personnel-hopital-pays-bas-place-quarantaine-apres-erreurs-procedures?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/AO1U1ehmSnScos90ThLDqyk/1200x768_une-police-des-frontieres-de-la-garde-civile-monte-la-garde-apres-l-arrivee-du-navire-de-croisiere-mv-hondius-frappe-par-le-hantavirus-au-port-de-granadilla-a-tenerife-dans-les-iles-canaries-en-espagne-le-dimanche-10-mai-2026-photo-ap-em121-26130252240600-2605100902",
-      "date": "2026-05-12T07:27:39+00:00",
       "date_formatted": "12 May 2026",
       "source": "20 Minutes Santé",
       "type": "presse"
