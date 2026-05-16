@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-05-16T07:45:55.388921+00:00",
-  "count": 84,
+  "generated_at": "2026-05-16T12:53:59.174230+00:00",
+  "count": 82,
   "articles": [
+    {
+      "title": "Hantavirus : pas d'indice d'un nouveau variant, bientôt de nouvelles informations sur l'origine de la contamination",
+      "desc": "Les nouvelles sont rassurantes sur le hantavirus, samedi 16 mai. Selon les autorités sanitaires françaises, rien ne laisse penser qu'un nouveau variant a émergé sur le paquebot. Par ailleurs, les 26 cas contacts français encore à l'isolement pour 42 jours, ont tous été testés négatif.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-pas-d-indice-d-un-nouveau-variant-bientot-de-nouvelles-informations-sur-l-origine-de-la-contamination_8007989.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/54ZBSVhUUd6DxIqb201JzsqjURg/0x110:1512x961/432x243/filters:format(jpg)/2026/05/16/6a085c0cc905c304434278.png",
+      "date": "2026-05-16T14:39:06+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : la patiente française probablement pas atteinte par un nouveau variant, annonce la ministre de la Santé",
+      "desc": "\"Aucun élément ne laisse penser à l'apparition d'un variant susceptible d'être plus transmissible ou plus dangereux\", a affirmé Stéphanie Rist vendredi.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-patiente-francaise-probablement-pas-atteinte-par-un-nouveau-variant-annonce-la-ministre-de-la-sante_8007293.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/O9Y-Y-wC7Ilr7YA21oNhpTAi82I/0x53:1024x629/432x243/filters:format(jpg)/2026/05/16/6a0797aab1f82801990279.jpg",
+      "date": "2026-05-16T12:47:34+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cannes 2026 : avec «la Gradiva», Marine Atlan pose un regard tendre sur l’âge dur",
+      "desc": "Dans un premier long réussi, la cinéaste filme librement les intimes rapports de force, entre charme et pouvoir, d’un groupe d’adolescents découvrant les ruines de Pompéi en voyage scolaire.",
+      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-avec-la-gradiva-marine-atlan-pose-un-regard-tendre-sur-lage-dur-20260516_HAWVPWTJ65FANA4V43KW62LMXI/",
+      "image": null,
+      "date": "2026-05-16T12:25:26+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Gaza : présenté comme un des derniers cerveaux du 7 Octobre, le chef de la branche armée du Hamas tué par Israël",
+      "desc": "Ezzedine al-Haddad, qui était à la tête des Brigades Ezzedine Al-Qassam responsables des massacres du 7 octobre 2023, serait mort dans une frappe israélienne sur un immeuble résidentiel de la ville de Gaza vendredi.",
+      "url": "https://www.liberation.fr/international/moyen-orient/gaza-presente-comme-un-des-derniers-cerveaux-du-7-octobre-le-chef-de-la-branche-armee-du-hamas-tue-par-israel-20260516_BOZZO7OBABEQ3C3H7DUECXKPXU/",
+      "image": null,
+      "date": "2026-05-16T11:45:54+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Mort d’Emile : la maison des grands-parents au Haut-Vernet cible de plusieurs départs de feu, un homme en garde à vue",
+      "desc": "Aucune victime n’est à déplorer après les faits commis dans la nuit de vendredi à samedi 16 mai, dans le hameau des Alpes-de-Haute-Provence. La personne interpellée est un homme de 78 ans.",
+      "url": "https://www.liberation.fr/societe/police-justice/mort-demile-la-maison-des-grands-parents-au-haut-vernet-cible-de-plusieurs-departs-de-feu-un-homme-en-garde-a-vue-20260516_AAVQGGWFLFAZ5FWTJMT3GWRVH4/",
+      "image": null,
+      "date": "2026-05-16T10:21:31+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Yazdan Yazdanpanah, spécialiste des maladies infectieuses et optimsite invétéré",
       "desc": "Figure médiatique lors de la crise du Covid-19, le chef du service des maladies infectieuses à l'hôpital Bichat à Paris cultive une empathie pour ses patients et un engagement intense dans son travail.",
@@ -13,13 +63,13 @@
       "type": "presse"
     },
     {
-      "title": "La semaine vue par Coco : Narges Mohammadi libérée, la gauche désunie, l’hantavirus et le Festival de Cannes",
-      "desc": "L’actualité croquée par notre dessinatrice.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-narges-mohammadi-liberee-la-gauche-desunie-lhantavirus-et-le-festival-de-cannes-20260516_4KG3GCJRZJCZFBZUMHWWUQHH7M/",
-      "image": null,
-      "date": "2026-05-16T07:26:00+00:00",
+      "title": "Hantavirus EN DIRECT : Aucun nouveau cas contact identifié en France ni de nouveau variant…",
+      "desc": "Suivez avec nous les évènements autour du hantavirus de ce samedi 16 mai…",
+      "url": "https://www.20minutes.fr/sante/4223756-20260516-hantavirus-direct-aucun-nouveau-cas-contact-identifie-france-ni-nouveau-variant?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/KiyTZWcYQka9Kc7q2ThflCk/1200x768_des-agents-de-sante-en-equipement-de-protection-evacuent-des-patients-du-navire-de-croisiere-mv-hondius-vers-une-ambulance-dans-un-port-de-praia-au-cap-vert-le-mercredi-6-mai-2026-ap-photo-misper-apawu-xma104-26126409107830-2605061323",
+      "date": "2026-05-16T08:30:31+00:00",
       "date_formatted": "16 May 2026",
-      "source": "Libération",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -50,16 +100,6 @@
       "date": "2026-05-16T05:00:01+00:00",
       "date_formatted": "16 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : la patiente française probablement pas atteinte par un nouveau variant, annonce la ministre de la Santé",
-      "desc": "\"Aucun élément ne laisse penser à l'apparition d'un variant susceptible d'être plus transmissible ou plus dangereux\", a affirmé Stéphanie Rist vendredi.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-patiente-francaise-probablement-pas-atteinte-par-un-nouveau-variant-annonce-la-ministre-de-la-sante_8007293.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/O9Y-Y-wC7Ilr7YA21oNhpTAi82I/0x53:1024x629/432x243/filters:format(jpg)/2026/05/16/6a0797aab1f82801990279.jpg",
-      "date": "2026-05-16T00:04:17+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -100,16 +140,6 @@
       "date": "2026-05-15T19:33:32+00:00",
       "date_formatted": "15 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Lutte contre le narcotrafic : d’ici à la présidentielle, à la gauche de convaincre",
-      "desc": "En une semaine, la violence liée au trafic de drogue a fait six morts, dont un adolescent de 15 ans tué à Nantes le 14 mai. Face à la surenchère de mesures de la droite et l’extrême droite qui ne donne aucun résultat, la gauche doit profiter de la fenêtre présidentielle pour faire valoir ses idées.",
-      "url": "https://www.liberation.fr/idees-et-debats/editorial/lutte-contre-le-narcotrafic-dici-a-la-presidentielle-a-la-gauche-de-convaincre-20260515_MEICQYOQYFF7BIQBZTPU6Q46AY/",
-      "image": null,
-      "date": "2026-05-15T19:22:56+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -270,16 +300,6 @@
       "date": "2026-05-15T05:20:49+00:00",
       "date_formatted": "15 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Croisières : pourquoi les virus se propagent-ils autant ?",
-      "desc": "Comment expliquer qu'en moins d'une semaine, deux bateaux de croisière aient été victimes d'une possible épidémie ? La promiscuité à bord semble être un terrain idéal de propagation des virus. Explications.",
-      "url": "https://www.franceinfo.fr/sante/croisieres-pourquoi-les-virus-se-propagent-ils-autant_8003996.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/ZE3ki_TCwI-Ta5SXXaV0lVk383M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/14/6a05c82ce508f686214355.jpg",
-      "date": "2026-05-14T19:00:02+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -583,26 +603,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : Epuyén, le petit village argentin décimé par le virus en 2018 après une fête d'anniversaire",
-      "desc": "En 2018, après une fête d’anniversaire à Epuyén, un village du sud de l’Argentine, onze personnes étaient mortes, contaminées par l’hantavirus",
-      "url": "https://www.20minutes.fr/sante/4223140-20260512-hantavirus-epuyen-petit-village-argentin-decime-virus-2018-apres-fete-anniversaire?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/ETvC8jllTKeSPWwboM48dCk/1200x768_une-femme-travaille-dans-sa-boutique-d-epuyen-en-argentine-le-vendredi-11-janvier-2019-un-juge-argentin-a-ordonne-a-85-habitants-d-une-ville-reculee-de-patagonie-de-rester-chez-eux-pendant-au-moins-30-jours-afin-de-mettre-fin-a-une-epidemie-d-hantavirus-au-cours-de-laquelle-neuf-personnes-sont-decedees-photo-ap-gustavo-zaninelli-xnp103-19011784322845-1901112259",
-      "date": "2026-05-12T11:28:30+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : C’est quoi le caracara de Darwin, l’oiseau rare que le probable patient zéro est allé observer à Ushuaia ?",
-      "desc": "Le caracara de Darwin est un oiseau rare et endémique du sud du Chili et de l’Argentine. Il peut notamment être observé dans une décharge près d’Ushuaia, probable source de l’épidémie de l’hantavirus du MV Hondius",
-      "url": "https://www.20minutes.fr/monde/4223106-20260512-hantavirus-quoi-caracara-darwin-oiseau-rare-probable-patient-zero-alle-observer-ushuaia?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/RZL4RHSrQjKa8L5XjsqDESk/1200x768_un-caracara-survole-le-parc-de-la-memoire-a-buenos-aires-en-argentine-le-11-avril-2018-le-premier-ministre-espagnol-mariano-rajoy-a-visite-le-parc-de-la-memoire-pour-rendre-hommage-aux-personnes-disparues-et-assassinees-entre-1960-et-1983-en-argentine-en-raison-du-terrorisme-d-etat-efe-david-fernandez-efe-20180411-636590708213342253-credit-david-fernandez-efe-sipa-1804111922",
-      "date": "2026-05-12T10:52:29+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "En Indonésie, une flambée de rougeole... et de désinformation",
       "desc": "La recrudescence des cas de rougeole en Indonésie inquiète Fitri Fransiskha, une mère au foyer, mais pas suffisamment pour la convaincre de faire vacciner ses quatre enfants contre ce virus hautement contagieux et mortel.",
       "url": "https://www.sciencesetavenir.fr/sante/en-indonesie-une-flambee-de-rougeole-et-de-desinformation_192399?xtor=RSS-16",
@@ -628,16 +628,6 @@
       "url": "https://www.lemonde.fr/sciences/article/2026/05/11/hantavirus-tout-savoir-sur-le-rat-pygmee-de-riziere-a-longue-queue_6688150_1650684.html",
       "image": "https://img.lemde.fr/2026/05/11/158/0/1024/512/644/322/60/0/952206b_upload-1-pe1s7fnlfcml-large.jpeg",
       "date": "2026-05-11T19:14:31+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "L’asthme, une maladie banalisée qui tue encore, malgré l’arsenal thérapeutique",
-      "desc": "Entre 700 et 1 000 personnes meurent chaque année de cette affection respiratoire en France. Des décès pourtant évitables avec les traitements disponibles. Les innovations scientifiques et médicales autour de cette pathologie souvent d’origine allergique ou virale, ou liée à la pollution, se multipl",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/11/l-asthme-cette-maladie-banalisee-qui-tue-encore-malgre-l-arsenal-therapeutique_6688143_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/08/171/0/1801/900/644/322/60/0/d239e3f_upload-1-z53pabfbeiq2-media-appel.png",
-      "date": "2026-05-11T18:30:06+00:00",
       "date_formatted": "11 May 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -670,16 +660,6 @@
       "date": "2026-05-11T09:06:05+00:00",
       "date_formatted": "11 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Ces porcs génétiquement modifiés pourraient sauver des milliers de vies… mais leur utilisation dérange",
-      "desc": "Dans une vallée isolée des États-Unis, des porcs génétiquement modifiés pourraient révolutionner la médecine. Ces animaux élevés pour fournir des organes compatibles avec le corps humain pourraient ainsi répondre au manque dramatique de greffons de reins, voire de cœur. Mais cette avancée...",
-      "url": "https://www.futura-sciences.com/sante/actualites/organe-ces-porcs-genetiquement-modifies-pourraient-sauver-milliers-vies-mais-leur-utilisation-derange-w2t8-134251/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/7/a/5/7a594acdac_50225071_elevage-porcs.jpg",
-      "date": "2026-05-10T09:00:00+00:00",
-      "date_formatted": "10 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
