@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-05-16T12:53:59.174230+00:00",
-  "count": 82,
+  "generated_at": "2026-05-16T18:45:24.302189+00:00",
+  "count": 84,
   "articles": [
+    {
+      "title": "Nouvelle épidémie d'Ebola en RDC : la souche du virus présente \"un taux de létalité très important\", sans vaccin ni traitement spécifique",
+      "desc": "A ce stade, \"246 cas suspects sont notifiés et 80 décès\", selon un communiqué du ministère de la Santé congolais diffusé dans la nuit de vendredi à samedi.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/nouvelle-epidemie-d-ebola-en-rdc-la-souche-du-virus-presente-un-taux-de-letalite-tres-important-sans-vaccin-ni-traitement-specifique_8008076.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/G-ucfbdWrjSFb06d-LvwWWyXp-w/0x365:7008x4307/432x243/filters:format(jpg)/2026/05/16/6a087b9ef41f9147527021.jpg",
+      "date": "2026-05-16T18:16:00+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cannes 2026 : avec «Sheep in the Box», Hirokazu Kore-eda passe par tous les dédales du deuil",
+      "desc": "Le réalisateur japonais signe un mélo-SF révélant les tourments philosophiques et affectifs d’un couple après la perte de leur fils, remplacé par un androïde ultra réaliste. Interrogeant avec subtilité le sujet des émotions humaines face à la machine, avant de s’en éloigner.",
+      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-avec-sheep-in-the-box-hirokazu-kore-eda-passe-par-tous-les-dedales-du-deuil-20260516_O3BJLVD7SFEAZJ5MOCFMRRXHKE/",
+      "image": null,
+      "date": "2026-05-16T17:40:22+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie de fièvre d’Ebola : déjà 88 morts en République démocratique du Congo et un mort en Ouganda, selon les autorités sanitaires",
+      "desc": "Les analyses en laboratoire ont conclu qu’il s’agit de la souche Bundibugyo du virus. Cette souche « n’a pas de vaccin et n’a pas de traitement spécifique », rappelle le ministre de la santé congolais, Samuel-Roger Kamba, ajoutant que le « taux de létalité est très important, jusqu’à 50 % ».",
+      "url": "https://www.lemonde.fr/afrique/article/2026/05/16/epidemie-de-fievre-d-ebola-deja-80-morts-suspectes-en-republique-democratique-du-congo-et-un-mort-en-ouganda-selon-les-autorites-sanitaires_6689895_3212.html",
+      "image": "https://img.lemde.fr/2026/05/16/456/0/5472/2736/644/322/60/0/4f091ee_ftp-1-xedaop9pqmvd-7981ba5812d6415aaa4069d3d8ef289a-0-fea395b0ca864e4abf3bdae13e91448e.jpg",
+      "date": "2026-05-16T16:54:59+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Existe-t-il un rapport entre le réchauffement climatique et l'émergence de pandémies, comme l'affirme Jean-Luc Mélenchon ?",
+      "desc": "Selon Jean-Luc Mélenchon, l'hantavirus serait un \"nouvel exemple de maladie écologique\". Qu'en disent les scientifiques ? L'équipe de \"Vrai ou Faux\" a enquêté, samedi 15 mai.",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/existe-t-il-un-rapport-entre-le-rechauffement-climatique-et-l-emergence-de-pandemies-comme-l-affirme-jean-luc-melenchon_8008034.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/gXnq7Vu4ovILGuRH3SIXmlXuYgM/0x71:1504x917/432x243/filters:format(jpg)/2026/05/16/6a0868da9b03c073115294.png",
+      "date": "2026-05-16T16:51:15+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : les Big Pharma vendent-elles déjà un vaccin ?",
+      "desc": "Certains internautes affirment qu’un vaccin contre l’hantavirus existe déjà et depuis longtemps. Qu’en est-il vraiment ? Où en est la recherche ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/hantavirus-les-big-pharma-vendent-elles-deja-un-vaccin_8008094.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BpwCOIDeuBSYNzsg6hb6XVM6Qpo/0x0:1280x720/432x243/filters:format(jpg)/2026/05/16/6a087e922af35303719274.jpg",
+      "date": "2026-05-16T16:34:20+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "REPORTAGE. \"On nettoie tout à l'eau de javel\" : en Patagonie, le secteur du tourisme commence à s'inquiéter des \"fantasmes\" autour de l'hantavirus",
+      "desc": "Des cas d'hantavirus détectés sur un bateau de croisière parti d'Argentine ravivent les inquiétudes en Patagonie. Dans cette région très touristique, habitants et professionnels tentent de rassurer les visiteurs, malgré la crainte d'un coup dur économique.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/reportage-on-nettoie-tout-a-l-eau-de-javel-en-patagonie-le-secteur-du-tourisme-commence-a-s-inquieter-des-fantasmes-autour-de-l-hantavirus_8008073.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/QdMgt9ZYtp0fE1KmBUnpw0kbJCU/0x367:7057x4337/432x243/filters:format(jpg)/2026/05/16/6a087c716bb0f959956222.jpg",
+      "date": "2026-05-16T16:26:46+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "République démocratique du Congo : L’épidémie d’Ebola est « très préoccupante », estime Médecins sans frontières",
+      "desc": "Le variant actuellement actif, baptisé Bundibugyo, est considéré comme hautement létal",
+      "url": "https://www.20minutes.fr/monde/4223790-20260516-republique-democratique-congo-epidemie-ebola-tres-preoccupante-estime-medecins-frontieres?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/plxHQgWcRQKMNHXWUoWgySk/1200x768_a-health-worker-administers-a-single-dose-of-ebola-vaccine-to-a-man-at-the-christian-maternity-hospital-in-freetown-sierra-leone-thursday-dec-5-2024-ap-photo-dennis-alfred-cole-nin104-24340533770858-2412051605",
+      "date": "2026-05-16T16:16:24+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Face à l'épidémie d'Hantavirus, méfiez-vous des désinformateurs",
+      "desc": "Entre les antivaccins, les boucs émissaires et les discours rassuristes, l'épidémie d'hantavirus rappelle fortement celle du coronavirus. Comment démêler le vrai du faux ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/face-a-l-epidemie-d-hantavirus-mefiez-vous-des-desinformateurs_8008070.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/hN1tgR5krt0EoeShdYTrhDMhDSw/0x0:1280x720/432x243/filters:format(jpg)/2026/05/16/6a08792d32f60347340093.jpg",
+      "date": "2026-05-16T16:12:16+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un groupe pharmaceutique alerte contre le médicament Tavneos après \"20 cas mortels\" signalés au Japon depuis 2022",
+      "desc": "Kissei Pharmaceutical pointe \"le risque de dysfonctionnement hépatique grave\" et demande aux médecins de cesser de prescrire le Tavneos à de nouveaux patients.",
+      "url": "https://www.franceinfo.fr/sante/un-groupe-pharmaceutique-alerte-contre-un-medicament-apres-20-cas-mortels-signales-au-japon-depuis-2022_8008049.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/1OTBWjGzcw08VcgitLTRiRDbsQc/0x501:7670x4815/432x243/filters:format(jpg)/2026/05/16/6a08729fa9384940776613.jpg",
+      "date": "2026-05-16T16:04:40+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi autant parler du hantavirus si le risque est faible ?",
+      "desc": "Les auditeurs ont réagi au traitement et à la couverture éditoriale du hantavirus sur l'antenne. Pour répondre à leurs interrogations, Emmanuelle Daviet a invité Richard Place, directeur de la rédaction de franceinfo.",
+      "url": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/pourquoi-autant-parler-du-hantavirus-si-le-risque-est-faible_7978175.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/LkaqSqWSexvrpjwhXHrV89CCtL4/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/15/6a071cccd7514871814961.jpg",
+      "date": "2026-05-16T16:00:02+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ce n’est pas votre excès de poids qui menace votre cerveau, mais ce bourrelet précis, révèle une étude inédite",
+      "desc": "Toutes les graisses corporelles ne se valent pas… et certaines pourraient avoir des conséquences bien plus inquiétantes qu’on ne l’imaginait sur notre cerveau. Une nouvelle étude internationale révèle qu’un type précis de tissu adipeux accélérerait le vieillissement cérébral et fragiliserait la...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-ce-nest-pas-votre-exces-poids-menace-votre-cerveau-mais-ce-bourrelet-precis-revele-etude-inedite-134538/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/9/7/2/9726e4ed5b_50255278_pese-personne-poids-graisse.jpg",
+      "date": "2026-05-16T15:27:25+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
     {
       "title": "Hantavirus : pas d'indice d'un nouveau variant, bientôt de nouvelles informations sur l'origine de la contamination",
       "desc": "Les nouvelles sont rassurantes sur le hantavirus, samedi 16 mai. Selon les autorités sanitaires françaises, rien ne laisse penser qu'un nouveau variant a émergé sur le paquebot. Par ailleurs, les 26 cas contacts français encore à l'isolement pour 42 jours, ont tous été testés négatif.",
@@ -13,6 +123,26 @@
       "type": "presse"
     },
     {
+      "title": "Mort de Claudine Longet, chanteuse et actrice condamnée en 1976 pour la mort de son conjoint",
+      "desc": "L’artiste française s’était fait connaître à la fin des années 1960, avant d’être condamnée à trente jours de prison pour avoir tiré accidentellement avec un pistolet sur son compagnon, le skieur américain Spider Sabich.",
+      "url": "https://www.liberation.fr/culture/musique/mort-de-claudine-longet-chanteuse-et-actrice-condamnee-en-1976-pour-la-mort-de-son-conjoint-20260516_BAJRRMZJSJGBJNLIT6RRZIK2SM/",
+      "image": null,
+      "date": "2026-05-16T14:35:53+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : la République démocratique du Congo frappée par une souche hautement létale et sans vaccin",
+      "desc": "Quatre morts ont été attribuées pour le moment au virus, alors que l’agence sanitaire de l’Union africaine a confirmé sa circulation dans l’est du pays.",
+      "url": "https://www.liberation.fr/international/afrique/une-nouvelle-epidemie-debola-declaree-en-republique-democratique-du-congo-selon-lafrica-cdc-20260515_TAQUI5CU3RBFNBYTSMXRK7KMTI/",
+      "image": null,
+      "date": "2026-05-16T14:03:46+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
       "title": "Hantavirus : la patiente française probablement pas atteinte par un nouveau variant, annonce la ministre de la Santé",
       "desc": "\"Aucun élément ne laisse penser à l'apparition d'un variant susceptible d'être plus transmissible ou plus dangereux\", a affirmé Stéphanie Rist vendredi.",
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-patiente-francaise-probablement-pas-atteinte-par-un-nouveau-variant-annonce-la-ministre-de-la-sante_8007293.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -20,36 +150,6 @@
       "date": "2026-05-16T12:47:34+00:00",
       "date_formatted": "16 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cannes 2026 : avec «la Gradiva», Marine Atlan pose un regard tendre sur l’âge dur",
-      "desc": "Dans un premier long réussi, la cinéaste filme librement les intimes rapports de force, entre charme et pouvoir, d’un groupe d’adolescents découvrant les ruines de Pompéi en voyage scolaire.",
-      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-avec-la-gradiva-marine-atlan-pose-un-regard-tendre-sur-lage-dur-20260516_HAWVPWTJ65FANA4V43KW62LMXI/",
-      "image": null,
-      "date": "2026-05-16T12:25:26+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Gaza : présenté comme un des derniers cerveaux du 7 Octobre, le chef de la branche armée du Hamas tué par Israël",
-      "desc": "Ezzedine al-Haddad, qui était à la tête des Brigades Ezzedine Al-Qassam responsables des massacres du 7 octobre 2023, serait mort dans une frappe israélienne sur un immeuble résidentiel de la ville de Gaza vendredi.",
-      "url": "https://www.liberation.fr/international/moyen-orient/gaza-presente-comme-un-des-derniers-cerveaux-du-7-octobre-le-chef-de-la-branche-armee-du-hamas-tue-par-israel-20260516_BOZZO7OBABEQ3C3H7DUECXKPXU/",
-      "image": null,
-      "date": "2026-05-16T11:45:54+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Mort d’Emile : la maison des grands-parents au Haut-Vernet cible de plusieurs départs de feu, un homme en garde à vue",
-      "desc": "Aucune victime n’est à déplorer après les faits commis dans la nuit de vendredi à samedi 16 mai, dans le hameau des Alpes-de-Haute-Provence. La personne interpellée est un homme de 78 ans.",
-      "url": "https://www.liberation.fr/societe/police-justice/mort-demile-la-maison-des-grands-parents-au-haut-vernet-cible-de-plusieurs-departs-de-feu-un-homme-en-garde-a-vue-20260516_AAVQGGWFLFAZ5FWTJMT3GWRVH4/",
-      "image": null,
-      "date": "2026-05-16T10:21:31+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -163,26 +263,6 @@
       "type": "presse"
     },
     {
-      "title": "REPORTAGE. \"En cas de pandémie, nous ne sommes pas prêts\" : en Argentine, la recherche sur l'hantavirus tente d'avancer malgré les coupes budgétaires",
-      "desc": "Depuis l'accession au pouvoir de l'ultralibéral et antivax Javier Milei, la recherche médicale a vu ses financements publics réduits à peau de chagrin. Des projets ont été gelés et des bourses supprimées.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/reportage-en-cas-de-pandemie-nous-ne-sommes-pas-prets-en-argentine-la-recherche-sur-l-hantavirus-tente-d-avancer-malgre-les-coupes-budgetaires_8005484.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/-Sgzml3sRXnDB-wffeIny25_KGo/0x0:1024x576/432x243/filters:format(jpg)/2026/05/15/6a06acb93d792138735022.jpg",
-      "date": "2026-05-15T15:27:34+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Huit cas confirmés, deux probables... Qui sont les personnes infectées par le variant des Andes de l'hantavirus dans le monde ?",
-      "desc": "Trois d'entre elles sont mortes et sept sont hospitalisées en Afrique du Sud, aux Pays-Bas, en Espagne, en Suisse et en France. Un cas probable a aussi été détecté sur une île de l'Atlantique.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/huit-cas-confirmes-deux-probables-qui-sont-les-personnes-infectees-par-le-variant-des-andes-de-l-hantavirus-dans-le-monde_8005706.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mWYKNqeu8nRRlrrdMW6ELzjhKHw/0x551:5300x3533/432x243/filters:format(jpg)/2026/05/15/6a07008866080641952501.jpg",
-      "date": "2026-05-15T15:03:10+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Pourquoi le syndrome des ovaires polykystiques change-t-il de nom ?",
       "desc": "Première cause d’infertilité chez les femmes, le SOPK vient d’être rebaptisé syndrome métabolique ovarien polyendocrinien, une étape décisive dans la compréhension et la prise en charge de cette pathologie.",
       "url": "https://www.sciencesetavenir.fr/sante/gyneco/pourquoi-le-syndrome-des-ovaires-polykystiques-change-t-il-de-nom_192467?xtor=RSS-16",
@@ -206,7 +286,7 @@
       "title": "Hantavirus : une mission à Ushuaïa pour peut-être trouver l'origine de la contamination",
       "desc": "La ville d'Ushuaïa se défend désespérément d'avoir été l'origine de la contagion du passager cas zéro, un Néerlandais qui avait séjourné 48 heures en ville avant d'embarquer.",
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-une-mission-scientifique-a-ushuaia-pour-peut-etre-trouver-l-origine-de-la-contamination_192454?xtor=RSS-16",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/14/cover-r4x3w1200-6a06301879ead-265c4fc0e9413ebefbc1484b225c8da649ff9558-jpg.jpg",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/16/cover-r4x3w1200-6a08aa19dc39a-265c4fc0e9413ebefbc1484b225c8da649ff9558-jpg.jpg",
       "date": "2026-05-15T13:28:37+00:00",
       "date_formatted": "15 May 2026",
       "source": "Sciences & Avenir",
@@ -233,36 +313,6 @@
       "type": "presse"
     },
     {
-      "title": "Une nouvelle épidémie d'Ebola est déclarée en République démocratique du Congo",
-      "desc": "La dernière épidémie de cette fièvre hémorragique dans le pays avait été déclarée en août 2025 et éradiquée en décembre, après avoir fait au moins 34 morts.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/une-nouvelle-epidemie-d-ebola-est-declaree-en-republique-democratique-du-congo_8005652.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/aF8wGKfOwQfLIRggfd54XL0WYv0/0x100:1024x676/432x243/filters:format(jpg)/2026/05/15/6a06cb4e91b8a775230426.jpg",
-      "date": "2026-05-15T09:45:30+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Fin de vie : \"Ce type de sujet n'est absolument pas adapté pour un référendum où on répond 'oui', 'non'\", juge Agnès Buzyn, ex-ministre de la Santé",
-      "desc": "Alors que le texte sur la fin de vie vient d'être rejeté une nouvelle fois par le Sénat, l'ancienne ministre des Solidarités et de la Santé rappelle, ce vendredi 15 mai sur franceinfo, qu'elle est \"extrêmement prudente sur l'aide à mourir\", et que le sujet \"nécessite de ne pas avoir une vision très ",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-15-mai-2026_7963265.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/EemeE1ul0vi1WSSJS8oCgxsHq1I/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/15/6a07419de4f0e404743892.jpg",
-      "date": "2026-05-15T09:22:26+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : \"La désinformation médicale fait des ravages\", déplore Frédéric Valletoux, président de la commission des affaires sociales de l'Assemblée",
-      "desc": "Interrogé ce vendredi 15 mai dans les \"4 Vérités\", l'élu Horizons, qui relaie les informations sur la crise du hantavirus en tant que président de la commission des affaires sociales de l'Assemblée nationale, regrette une recrudescence de la désinformation en ligne, et de la \"défiance\" croissante de",
-      "url": "https://www.franceinfo.fr/politique/hantavirus-la-desinformation-medicale-fait-des-ravages-deplore-frederic-valletoux-president-de-la-commission-des-affaires-sociales-de-l-assemblee_8005607.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/8QREVUQWirkrnA9T_fDGDDsAKCk/41x0:1361x742/432x243/filters:format(jpg)/2026/05/15/6a06c8183ce24759221966.jpg",
-      "date": "2026-05-15T09:15:49+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : ce que l'Argentine sait, et ne sait pas, de son expérience du virus",
       "desc": "Endémique depuis des décennies dans certaines régions d'Argentine, l'hantavirus, y compris la souche \"Andes\", a conféré aux scientifiques locaux une certaine expertise de la maladie.",
       "url": "https://www.sciencesetavenir.fr/sante/hantavirus-ce-que-l-argentine-sait-et-ne-sait-pas-de-son-experience-du-virus_192457?xtor=RSS-16",
@@ -271,16 +321,6 @@
       "date_formatted": "15 May 2026",
       "source": "Sciences & Avenir",
       "type": "science"
-    },
-    {
-      "title": "Une mission scientifique doit se rendre à Ushuaïa pour remonter la piste de la première contamination",
-      "desc": "Les scientifiques vont essayer de déterminer si des rats porteurs du virus vivent dans la ville d'où est parti le \"MV Hondius\", et où la première victime a séjourné 48 heures.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/hantavirus-une-mission-scientifique-est-prevue-a-ushuaia-pour-remonter-la-piste-de-la-premiere-contamination_8005595.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/u01mLk_IrVKtmQuQkDnNT_x5rU0/0x0:1024x576/432x243/filters:format(jpg)/2026/05/15/6a06c0e5d115a084065083.jpg",
-      "date": "2026-05-15T08:47:58+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Hantavirus : tous les cas contacts testés négatifs en France",
@@ -583,16 +623,6 @@
       "type": "science"
     },
     {
-      "title": "Réanimation, traitement… Comment soigner les patients testés positifs au hantavirus ?",
-      "desc": "Aucun traitement n’est actuellement homologué pour soigner ou prévenir le hantavirus des Andes. Les médecins peuvent intervenir sur les symptômes du virus, notamment la détresse respiratoire aiguë",
-      "url": "https://www.20minutes.fr/sante/4223172-20260512-reanimation-traitement-comment-soigner-patients-testes-positifs-hantavirus?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/4kaDKIToSQiXtvQm3bemJik/1200x768_les-passagers-sont-asperges-de-desinfectant-par-des-representants-du-gouvernement-espagnol-avant-de-monter-a-bord-d-un-avion-apres-avoir-debarque-du-navire-de-croisiere-mv-hondius-atteint-d-hantavirus-a-l-aeroport-de-tenerife-dans-les-iles-canaries-en-espagne-le-dimanche-10-mai-2026-ap-photo-arturo-rodriguez-em146-26131247068270-2605110908",
-      "date": "2026-05-12T15:28:08+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : ce virus mortel était connu depuis 30 ans, alors pourquoi l’a-t-on presque oublié ?",
       "desc": "Documenté comme transmissible entre humains dès 1996, le virus des Andes n’a pourtant provoqué que de rares épisodes épidémiques en trente ans. Le foyer du MV Hondius remet aujourd’hui sous les projecteurs ce hantavirus longtemps resté dans un angle mort de la surveillance mondiale. Faut-il...",
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-ce-virus-mortel-etait-connu-depuis-30-ans-alors-t-on-presque-oublie-134454/#xtor%3DRSS-8",
@@ -620,16 +650,6 @@
       "date": "2026-05-11T20:08:36+00:00",
       "date_formatted": "11 May 2026",
       "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : tout savoir sur le rat pygmée de rizière à longue queue, réservoir principal du virus des Andes",
-      "desc": "Le rongeur sud-américain, découvert en 1832, a changé de statut auprès des chercheurs en 1995. Près de 6 % des individus seraient porteurs de ce pathogène, selon une étude de 2009.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/11/hantavirus-tout-savoir-sur-le-rat-pygmee-de-riziere-a-longue-queue_6688150_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/11/158/0/1024/512/644/322/60/0/952206b_upload-1-pe1s7fnlfcml-large.jpeg",
-      "date": "2026-05-11T19:14:31+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Le Monde Science",
       "type": "science"
     },
     {
