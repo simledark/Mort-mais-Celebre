@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-16T18:45:24.302189+00:00",
-  "count": 84,
+  "generated_at": "2026-05-17T01:52:32.652174+00:00",
+  "count": 83,
   "articles": [
+    {
+      "title": "Hantavirus : \"A ce stade, la chaîne de transmission est maîtrisée sur le sol français\", affirme la ministre de la Santé",
+      "desc": "Stéphanie Rist estime auprès du journal \"Ouest-France\" qu'\"il n'y a pas d'intérêt, dans le cas présent, à mettre un masque\". \"Nous restons en état de suivi et de vigilance\", précise la ministre.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-a-ce-stade-la-chaine-de-transmission-est-maitrisee-sur-le-sol-francais-affirme-la-ministre-de-la-sante_8008361.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/5CAqlTlY_rpNbodAE6FsREeboaI/0x0:1024x576/432x243/filters:format(jpg)/2026/05/16/6a08be6f980f8834682092.jpg",
+      "date": "2026-05-16T20:59:58+00:00",
+      "date_formatted": "16 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "Nouvelle épidémie d'Ebola en RDC : la souche du virus présente \"un taux de létalité très important\", sans vaccin ni traitement spécifique",
       "desc": "A ce stade, \"246 cas suspects sont notifiés et 80 décès\", selon un communiqué du ministère de la Santé congolais diffusé dans la nuit de vendredi à samedi.",
@@ -213,16 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "REPLAY. \"Hantavirus, la semaine de tous les dangers\" : regardez le documentaire de franceinfo consacré aux derniers développements autour du virus des Andes",
-      "desc": "Du quai de Tenerife aux coulisses de la gestion de crise en France, le documentaire vous résume ce qu'il s'est passé ces derniers jours dans la prise en charge de l'hantavirus.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/direct-hantavirus-la-semaine-de-tous-les-dangers-regardez-le-documentaire-de-franceinfo-consacre-aux-derniers-developpements-autour-du-virus-des-andes_8005676.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/66t-t3DLF0qcBrWgJ63P7y0H3ns/0x53:1024x629/432x243/filters:format(jpg)/2026/05/13/6a04869f4e23d065304277.jpg",
-      "date": "2026-05-15T21:02:26+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ebola : une nouvelle épidémie s’est déclarée en RDC et touche l’Ouganda ; cinq personnes sont mortes selon un bilan provisoire",
       "desc": "L’épidémie due à ce virus, souvent mortel malgré les vaccins et traitements, s’est déclarée dans la province de l’Ituri, selon l’agence sanitaire de l’Union africaine, qui a recensé 246 cas suspects dont 65 mortels.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/15/ebola-une-nouvelle-epidemie-s-est-declaree-en-rdc-et-en-ouganda-cinq-personnes-sont-mortes-selon-un-bilan-provisoire_6689415_3213.html",
@@ -250,16 +250,6 @@
       "date": "2026-05-15T17:35:18+00:00",
       "date_formatted": "15 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Aucun des cas contacts à l'hantavirus n'a développé de symptômes : doit-on s'attendre à une fin de l'épidémie ?",
-      "desc": "La menace hantavirus est-elle en train de s’éloigner ? Il n'y aurait pas de cas positifs parmi les cas contacts français isolés. Alors la question se pose : comment un virus peut-il s’éteindre ? Est-ce bientôt la fin de l'épidémie ?",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/aucun-des-cas-contacts-a-l-hantavirus-n-a-developpe-de-symptomes-doit-on-s-attendre-a-une-fin-de-l-epidemie_8006003.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/kH2Z5Dp0kQ782khDwY1NxpMuXgo/0x15:1352x776/432x243/filters:format(jpg)/2026/05/15/6a071c7120876354021362.jpg",
-      "date": "2026-05-15T16:57:40+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
