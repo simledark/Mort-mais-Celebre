@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-17T12:52:05.193439+00:00",
-  "count": 84,
+  "generated_at": "2026-05-17T18:50:49.798716+00:00",
+  "count": 79,
   "articles": [
+    {
+      "title": "L'OMS en état d'alerte face à l'épidémie d'Ebola en République démocratique du Congo",
+      "desc": "L'Organisation mondiale de la santé en état d'alerte face à l'épidémie d'Ebola qui, causée par un variant hautement létal et sans vaccin, frappe de plein fouet la République démocratique du Congo.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-en-etat-d-alerte-face-a-l-epidemie-d-ebola-en-republique-democratique-du-congo_8009834.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Wd5bPprwLGV47sVj4_iIHQwh9q8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/17/6a09b8e326b94148683520.jpg",
+      "date": "2026-05-17T18:00:02+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "«Aujourd’hui, j’ai vu encore plusieurs enterrements» : dans l’est de la RDC, Ebola prospère sur les ruines de l’Etat",
+      "desc": "Dans l’Ituri, la flambée d’un variant rare du virus frappe une région déjà dévastée par les conflits armés. Sans vaccin homologué, les autorités redoutent une propagation régionale incontrôlable alors que l’OMS a déclaré, ce dimanche, l’état d’urgence internationale.",
+      "url": "https://www.liberation.fr/international/afrique/aujourdhui-jai-vu-encore-plusieurs-enterrements-dans-lest-de-la-rdc-ebola-prospere-sur-les-ruines-de-letat-20260517_SRIAXNJ6NRFJFK32X4WFELLLKQ/",
+      "image": null,
+      "date": "2026-05-17T16:40:18+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Arrivée du MV Hondius aux Pays-Bas : «C’est une situation inhabituelle, mais tout est sous contrôle»",
+      "desc": "Le navire de croisière sur lequel des cas d’hantavirus avaient été détectés doit arriver à Rotterdam lundi 18 mai matin, avec 27 personnes à bord. Sur place, les habitants oscillent entre inquiétudes et confiance à l’égard des autorités.",
+      "url": "https://www.liberation.fr/international/europe/arrivee-du-mv-hondius-aux-pays-bas-cest-une-situation-inhabituelle-mais-tout-est-sous-controle-20260517_RG7HJYKQYJBWPFOUDLETVIMEPY/",
+      "image": null,
+      "date": "2026-05-17T15:59:17+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Peste noire : un document exceptionnel du Moyen Âge révèle qui survivait… et combien de temps durait la maladie",
       "desc": "Aussi improbable que cela puisse paraître, certains ont survécu à la peste noire qui a ravagé l’Europe médiévale au Moyen Âge. Qui étaient ces survivants ? En combien de temps étaient-ils remis sur pieds ? Retrouvé dans les archives d’une abbaye anglaise, un parchemin raconte la maladie des...",
@@ -63,16 +93,6 @@
       "type": "presse"
     },
     {
-      "title": "A Paris, le périscolaire ne peut plus être traité comme un angle mort des politiques éducatives",
-      "desc": "Alors que s’ouvre le 18 mai une nouvelle convention citoyenne à Paris sur l’enfance, le débat public sur la crise du périscolaire s’éloigne du vrai problème : celui des moyens réellement alloués à la protection des enfants, alerte un large rassemblement de parents d’élèves soutenu par des associatio",
-      "url": "https://www.liberation.fr/idees-et-debats/tribunes/a-paris-le-periscolaire-ne-peut-plus-etre-traite-comme-un-angle-mort-des-politiques-educatives-20260517_EG6YTM7ULNHCDBMEVDHBVD7N24/",
-      "image": null,
-      "date": "2026-05-17T11:14:41+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : un impact non-négligeable sur les croisiéristes",
       "desc": "Le spectre d'une nouvelle crise sanitaire hante les croisières, provoquant une vague d'annulations. Entre peur de la contagion et offres de report exceptionnelles, le secteur du tourisme tente de sauver sa saison.",
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-impact-non-negligeable-sur-les-croisieristes_8009597.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -80,16 +100,6 @@
       "date": "2026-05-17T11:14:17+00:00",
       "date_formatted": "17 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : origine, symptômes, traitements… le profil d’un virus tueur qui sévit de nouveau en RDC",
-      "desc": "La nouvelle flambée du virus dans ce grand pays d’Afrique centrale, marquée par un variant très virulent et sans traitement, a poussé l’OMS à relever ce dimanche son niveau d’alerte, pour le faire passer en «urgence internationale».",
-      "url": "https://www.liberation.fr/international/afrique/ebola-origine-symptomes-traitements-le-profil-dun-virus-tueur-qui-sevit-de-nouveau-en-rdc-20260517_QXWTTL4ICVDETLAGQSEMWJD52Y/",
-      "image": null,
-      "date": "2026-05-17T10:33:05+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -123,41 +133,11 @@
       "type": "presse"
     },
     {
-      "title": "Ebola : l’OMS relève son niveau d’alerte à «urgence internationale» face à l’épidémie en RDC",
-      "desc": "Le variant Bundibugyo, particulièrement virulent, a déjà causé plusieurs dizaines de morts depuis deux semaines dans le pays d’Afrique centrale.",
-      "url": "https://www.liberation.fr/international/afrique/ebola-loms-releve-son-niveau-dalerte-a-urgence-internationale-face-a-lepidemie-en-rdc-20260517_PL5XR5NCNVGAPBZFFB47AHZVWQ/",
-      "image": null,
-      "date": "2026-05-17T07:17:02+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "La Russie dit avoir été ciblée par plus de 500 drones lancés par l’Ukraine, au moins trois morts",
-      "desc": "Une raffinerie a notamment été ciblée à Moscou. Cette attaque fait suite à des bombardements massifs qui avaient causé la mort de 24 personnes à Kyiv jeudi.",
-      "url": "https://www.liberation.fr/international/europe/la-russie-dit-avoir-ete-attaquee-par-plus-de-500-drones-lances-par-lukraine-au-moins-trois-morts-20260517_R5KB6F63YVBDZJZF25WE5ZFSCE/",
-      "image": null,
-      "date": "2026-05-17T06:27:00+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : \"A ce stade, la chaîne de transmission est maîtrisée sur le sol français\", affirme la ministre de la Santé",
       "desc": "Stéphanie Rist estime auprès du journal \"Ouest-France\" qu'\"il n'y a pas d'intérêt, dans le cas présent, à mettre un masque\". \"Nous restons en état de suivi et de vigilance\", précise la ministre.",
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-a-ce-stade-la-chaine-de-transmission-est-maitrisee-sur-le-sol-francais-affirme-la-ministre-de-la-sante_8008361.html#xtor=RSS-3-%5Bgeneral%5D",
       "image": "https://www.franceinfo.fr/pictures/5CAqlTlY_rpNbodAE6FsREeboaI/0x0:1024x576/432x243/filters:format(jpg)/2026/05/16/6a08be6f980f8834682092.jpg",
       "date": "2026-05-16T20:59:58+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Nouvelle épidémie d'Ebola en RDC : la souche du virus présente \"un taux de létalité très important\", sans vaccin ni traitement spécifique",
-      "desc": "A ce stade, \"246 cas suspects sont notifiés et 80 décès\", selon un communiqué du ministère de la Santé congolais diffusé dans la nuit de vendredi à samedi.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/nouvelle-epidemie-d-ebola-en-rdc-la-souche-du-virus-presente-un-taux-de-letalite-tres-important-sans-vaccin-ni-traitement-specifique_8008076.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/G-ucfbdWrjSFb06d-LvwWWyXp-w/0x365:7008x4307/432x243/filters:format(jpg)/2026/05/16/6a087b9ef41f9147527021.jpg",
-      "date": "2026-05-16T18:16:00+00:00",
       "date_formatted": "16 May 2026",
       "source": "France Info Santé",
       "type": "presse"
@@ -183,26 +163,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : les Big Pharma vendent-elles déjà un vaccin ?",
-      "desc": "Certains internautes affirment qu’un vaccin contre l’hantavirus existe déjà et depuis longtemps. Qu’en est-il vraiment ? Où en est la recherche ?",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/hantavirus-les-big-pharma-vendent-elles-deja-un-vaccin_8008094.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/BpwCOIDeuBSYNzsg6hb6XVM6Qpo/0x0:1280x720/432x243/filters:format(jpg)/2026/05/16/6a087e922af35303719274.jpg",
-      "date": "2026-05-16T16:34:20+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "REPORTAGE. \"On nettoie tout à l'eau de javel\" : en Patagonie, le secteur du tourisme commence à s'inquiéter des \"fantasmes\" autour de l'hantavirus",
-      "desc": "Des cas d'hantavirus détectés sur un bateau de croisière parti d'Argentine ravivent les inquiétudes en Patagonie. Dans cette région très touristique, habitants et professionnels tentent de rassurer les visiteurs, malgré la crainte d'un coup dur économique.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/reportage-on-nettoie-tout-a-l-eau-de-javel-en-patagonie-le-secteur-du-tourisme-commence-a-s-inquieter-des-fantasmes-autour-de-l-hantavirus_8008073.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/QdMgt9ZYtp0fE1KmBUnpw0kbJCU/0x367:7057x4337/432x243/filters:format(jpg)/2026/05/16/6a087c716bb0f959956222.jpg",
-      "date": "2026-05-16T16:26:46+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "République démocratique du Congo : L’épidémie d’Ebola est « très préoccupante », estime Médecins sans frontières",
       "desc": "Le variant actuellement actif, baptisé Bundibugyo, est considéré comme hautement létal",
       "url": "https://www.20minutes.fr/monde/4223790-20260516-republique-democratique-congo-epidemie-ebola-tres-preoccupante-estime-medecins-frontieres?at_medium=display&at_campaign=149",
@@ -210,16 +170,6 @@
       "date": "2026-05-16T16:16:24+00:00",
       "date_formatted": "16 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Face à l'épidémie d'Hantavirus, méfiez-vous des désinformateurs",
-      "desc": "Entre les antivaccins, les boucs émissaires et les discours rassuristes, l'épidémie d'hantavirus rappelle fortement celle du coronavirus. Comment démêler le vrai du faux ?",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/face-a-l-epidemie-d-hantavirus-mefiez-vous-des-desinformateurs_8008070.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/hN1tgR5krt0EoeShdYTrhDMhDSw/0x0:1280x720/432x243/filters:format(jpg)/2026/05/16/6a08792d32f60347340093.jpg",
-      "date": "2026-05-16T16:12:16+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
