@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-05-17T01:52:32.652174+00:00",
-  "count": 83,
+  "generated_at": "2026-05-17T08:06:38.103869+00:00",
+  "count": 82,
   "articles": [
+    {
+      "title": "Apnée du sommeil : \"La somnolence est la première cause de mortalité au volant\", alerte une responsable au centre du sommeil de l'Hôpital Bichat",
+      "desc": "Troubles du sommeil, somnolence, hypertension artérielle : l'apnée du sommeil peut avoir des conséquences importantes sur la santé. Marie-Pia d'Ortho, cheffe de service au centre du sommeil à l'Hôpital Bichat, fait le point sur les risques liés à l'apnée du sommeil et les mauvaises habitudes à évite",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/apnee-du-sommeil-la-somnolence-est-la-premiere-cause-de-mortalite-au-volant-alerte-une-responsable-au-centre-du-sommeil-de-l-hopital-bichat_7956884.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/Xz1twyJKBDzFVC_yWu-kmqhyd8I/0x110:2121x1304/432x243/filters:format(jpg)/2026/05/12/6a0310c2c7c16398250088.jpg",
+      "date": "2026-05-17T10:00:04+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "La RDC face à un nouveau variant meurtrier du virus Ebola",
+      "desc": "L'épidémie d'Ébola en RD Congo s'intensifie avec déjà 80 morts et 246 cas suspects signalés en province de l'Ituri. Cette souche Bundibugyo inquiète les autorités car elle ne dispose actuellement d'aucun vaccin ni traitement spécifique.",
+      "url": "https://www.franceinfo.fr/sante/la-rdc-face-a-un-nouveau-variant-meurtrier-du-virus-ebola_8009594.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/hyiesfnCSDNbk_QzXZ2_Me0WWAg/5x0:1451x813/432x243/filters:format(jpg)/2026/05/17/6a0973efaac12924064325.jpg",
+      "date": "2026-05-17T09:53:28+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'OMS déclare une urgence internationale pour l'épidémie d'Ebola qui frappe la République démocratique du Congo",
+      "desc": "C'est le deuxième niveau d'alerte le plus élevé de l'OMS, derrière celui d'\"urgence due à une pandémie\".",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-declare-une-urgence-internationale-pour-l-epidemie-d-ebola-qui-frappe-la-republique-democratique-du-congo_8009567.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/SP41edkCahrR5eMr4bmnfmqeJ_8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/17/6a096c92f32d5441953459.jpg",
+      "date": "2026-05-17T09:22:19+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l'infectiologue Xavier Lescure alerte sur le risque de propagation du virus à Mayotte et appelle à \"anticiper dès la source de cette épidémie\"",
+      "desc": "L'OMS a déclaré dimanche une urgence de santé publique de portée internationale, son deuxième niveau d'alerte le plus élevé, face à l'épidémie d'Ebola qui frappe la République démocratique du Congo et l'Ouganda.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-infectiologue-xavier-lescure-alerte-sur-le-risque-de-propagation-du-virus-a-mayotte-et-appelle-a-anticiper-des-la-source-de-cette-epidemie_8009510.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/xRlyHFmky0GGvPY2PqPqwXR1LPg/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/17/6a0957b840774138768530.jpg",
+      "date": "2026-05-17T07:53:30+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : l’OMS relève son niveau d’alerte à «urgence internationale» face à l’épidémie en RDC",
+      "desc": "Le variant Bundibugyo, particulièrement virulent, a déjà causé plusieurs dizaines de morts depuis deux semaines dans le pays d’Afrique centrale.",
+      "url": "https://www.liberation.fr/international/afrique/ebola-loms-releve-son-niveau-dalerte-a-urgence-internationale-face-a-lepidemie-en-rdc-20260517_PL5XR5NCNVGAPBZFFB47AHZVWQ/",
+      "image": null,
+      "date": "2026-05-17T07:17:02+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "La Russie dit avoir été ciblée par plus de 500 drones lancés par l’Ukraine, au moins trois morts",
+      "desc": "Une raffinerie a notamment été ciblée à Moscou. Cette attaque fait suite à des bombardements massifs qui avaient causé la mort de 24 personnes à Kyiv jeudi.",
+      "url": "https://www.liberation.fr/international/europe/la-russie-dit-avoir-ete-attaquee-par-plus-de-500-drones-lances-par-lukraine-au-moins-trois-morts-20260517_R5KB6F63YVBDZJZF25WE5ZFSCE/",
+      "image": null,
+      "date": "2026-05-17T06:27:00+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Au CHU de Nice, plongée dans le caisson à haute pression qui soigne les patients à l’oxygène",
+      "desc": "«Libération» a pu visiter le plus grand caisson rectangulaire d’oxygénothérapie hyperbare au monde, qui simule une plongée à 15 mètres de fond pour traiter les cicatrices récalcitrantes, surdités brusques, intoxications au monoxyde de carbone et accidents de plongée.",
+      "url": "https://www.liberation.fr/societe/sante/au-chu-de-nice-plongee-dans-le-caisson-a-haute-pression-qui-soigne-les-patients-a-loxygene-20260517_NKBPWRHVIVAP3M2VZ7FMT6CSSI/",
+      "image": null,
+      "date": "2026-05-17T06:14:00+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Hantavirus : \"A ce stade, la chaîne de transmission est maîtrisée sur le sol français\", affirme la ministre de la Santé",
       "desc": "Stéphanie Rist estime auprès du journal \"Ouest-France\" qu'\"il n'y a pas d'intérêt, dans le cas présent, à mettre un masque\". \"Nous restons en état de suivi et de vigilance\", précise la ministre.",
@@ -33,8 +103,8 @@
       "type": "presse"
     },
     {
-      "title": "Epidémie de fièvre d’Ebola : déjà 88 morts en République démocratique du Congo et un mort en Ouganda, selon les autorités sanitaires",
-      "desc": "Les analyses en laboratoire ont conclu qu’il s’agit de la souche Bundibugyo du virus. Cette souche « n’a pas de vaccin et n’a pas de traitement spécifique », rappelle le ministre de la santé congolais, Samuel-Roger Kamba, ajoutant que le « taux de létalité est très important, jusqu’à 50 % ».",
+      "title": "Epidémie de fièvre d’Ebola : 88 morts en RDC et un mort en Ouganda, l’OMS déclare une « urgence de santé internationale »",
+      "desc": "Selon l’Organisation mondiale de la santé, la situation actuelle ne nécessite pas la déclaration d’une pandémie. Des analyses en laboratoire ont conclu qu’il s’agissait de la souche Bundibugyo du virus, pour laquelle il n’y a ni vaccin ni traitement spécifique.",
       "url": "https://www.lemonde.fr/afrique/article/2026/05/16/epidemie-de-fievre-d-ebola-deja-80-morts-suspectes-en-republique-democratique-du-congo-et-un-mort-en-ouganda-selon-les-autorites-sanitaires_6689895_3212.html",
       "image": "https://img.lemde.fr/2026/05/16/456/0/5472/2736/644/322/60/0/4f091ee_ftp-1-xedaop9pqmvd-7981ba5812d6415aaa4069d3d8ef289a-0-fea395b0ca864e4abf3bdae13e91448e.jpg",
       "date": "2026-05-16T16:54:59+00:00",
@@ -123,56 +193,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : pas d'indice d'un nouveau variant, bientôt de nouvelles informations sur l'origine de la contamination",
-      "desc": "Les nouvelles sont rassurantes sur le hantavirus, samedi 16 mai. Selon les autorités sanitaires françaises, rien ne laisse penser qu'un nouveau variant a émergé sur le paquebot. Par ailleurs, les 26 cas contacts français encore à l'isolement pour 42 jours, ont tous été testés négatif.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-pas-d-indice-d-un-nouveau-variant-bientot-de-nouvelles-informations-sur-l-origine-de-la-contamination_8007989.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/54ZBSVhUUd6DxIqb201JzsqjURg/0x110:1512x961/432x243/filters:format(jpg)/2026/05/16/6a085c0cc905c304434278.png",
-      "date": "2026-05-16T14:39:06+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Mort de Claudine Longet, chanteuse et actrice condamnée en 1976 pour la mort de son conjoint",
-      "desc": "L’artiste française s’était fait connaître à la fin des années 1960, avant d’être condamnée à trente jours de prison pour avoir tiré accidentellement avec un pistolet sur son compagnon, le skieur américain Spider Sabich.",
-      "url": "https://www.liberation.fr/culture/musique/mort-de-claudine-longet-chanteuse-et-actrice-condamnee-en-1976-pour-la-mort-de-son-conjoint-20260516_BAJRRMZJSJGBJNLIT6RRZIK2SM/",
-      "image": null,
-      "date": "2026-05-16T14:35:53+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : la République démocratique du Congo frappée par une souche hautement létale et sans vaccin",
-      "desc": "Quatre morts ont été attribuées pour le moment au virus, alors que l’agence sanitaire de l’Union africaine a confirmé sa circulation dans l’est du pays.",
-      "url": "https://www.liberation.fr/international/afrique/une-nouvelle-epidemie-debola-declaree-en-republique-democratique-du-congo-selon-lafrica-cdc-20260515_TAQUI5CU3RBFNBYTSMXRK7KMTI/",
-      "image": null,
-      "date": "2026-05-16T14:03:46+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : la patiente française probablement pas atteinte par un nouveau variant, annonce la ministre de la Santé",
-      "desc": "\"Aucun élément ne laisse penser à l'apparition d'un variant susceptible d'être plus transmissible ou plus dangereux\", a affirmé Stéphanie Rist vendredi.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-la-patiente-francaise-probablement-pas-atteinte-par-un-nouveau-variant-annonce-la-ministre-de-la-sante_8007293.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/O9Y-Y-wC7Ilr7YA21oNhpTAi82I/0x53:1024x629/432x243/filters:format(jpg)/2026/05/16/6a0797aab1f82801990279.jpg",
-      "date": "2026-05-16T12:47:34+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Yazdan Yazdanpanah, spécialiste des maladies infectieuses et optimsite invétéré",
-      "desc": "Figure médiatique lors de la crise du Covid-19, le chef du service des maladies infectieuses à l'hôpital Bichat à Paris cultive une empathie pour ses patients et un engagement intense dans son travail.",
-      "url": "https://www.franceinfo.fr/replay-radio/portraits-d-actu/yazdan-yazdanpanah-specialiste-des-maladies-infectieuses-et-optimsite-invetere_7978148.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/EeLQBfmQFvp4WZiMEyxTyn1dCX0/0x0:5472x3076/432x243/filters:format(jpg)/2023/02/21/63f486a33befb_000-1pn1gf.jpg",
-      "date": "2026-05-16T08:44:14+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus EN DIRECT : Aucun nouveau cas contact identifié en France ni de nouveau variant…",
       "desc": "Suivez avec nous les évènements autour du hantavirus de ce samedi 16 mai…",
       "url": "https://www.20minutes.fr/sante/4223756-20260516-hantavirus-direct-aucun-nouveau-cas-contact-identifie-france-ni-nouveau-variant?at_medium=display&at_campaign=149",
@@ -180,16 +200,6 @@
       "date": "2026-05-16T08:30:31+00:00",
       "date_formatted": "16 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "\"Les populations de rongeurs prolifèrent\" : pourquoi le changement climatique favorise la diffusion de l'hantavirus",
-      "desc": "Selon les scientifiques, des pluies intenses associées au phénomène El Niño ont favorisé un développement accru de la végétation et une plus grande disponibilité de nourriture pour les rongeurs, vecteurs du virus mortel pour l'homme.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/les-populations-de-rongeurs-proliferent-pourquoi-le-changement-climatique-favorise-la-diffusion-de-l-hantavirus_8005721.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/rBeZdVHp_vQax2IFIdBb6c_XyZM/0x240:4619x2839/432x243/filters:format(jpg)/2026/05/15/6a073b5f4dbe3850971357.jpg",
-      "date": "2026-05-16T07:06:56+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -593,16 +603,6 @@
       "type": "science"
     },
     {
-      "title": "Fin de vie : le Sénat rejette de nouveau l’aide à mourir, Bruno Retailleau demande un référendum",
-      "desc": "Incapables de trouver un terrain d’entente, les sénateurs ont préféré rejeter en bloc, mardi, la proposition de loi portée par Olivier Falorni. Le dernier mot pourrait revenir à l’Assemblée nationale, où la réforme bénéficie de la majorité.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/12/fin-de-vie-le-senat-rejette-de-nouveau-l-aide-a-mourir-bruno-retailleau-demande-un-referendum_6688276_3224.html",
-      "image": "https://img.lemde.fr/2026/05/11/0/0/8192/4096/644/322/60/0/053acb4_ftp-1-clf5ahoayhrl-5001981-01-06.jpg",
-      "date": "2026-05-12T18:22:22+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Alzheimer : ce régime alimentaire pourrait freiner le déclin cognitif, selon la science",
       "desc": "Quelque 93 000 personnes ont été suivies pendant onze ans. Un chiffre qui donne le vertige, et des résultats qui méritent qu'on s'y arrête. Ce que nous mangeons chaque jour influence peut-être bien plus notre cerveau qu'on ne le pensait. La bonne nouvelle, c'est qu'il n'est jamais trop tard pour...",
       "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ce-regime-alimentaire-pourrait-freiner-declin-cognitif-selon-science-k2m6-134410/#xtor%3DRSS-8",
@@ -648,16 +648,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-vaccin-virus-andes-il-pret-si-situation-degenere-134419/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/c/f/bcf698fba4_50255080_vaccin-hantavirus.jpg",
       "date": "2026-05-11T17:23:45+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Acide hyaluronique en gélules : est-ce une vraie solution anti-âge et pour le confort articulaire ?",
-      "desc": "L’acide hyaluronique est un produit omniprésent dans les cosmétiques et la médecine esthétique, plébiscité pour limiter les rides et redonner de l’élasticité à la peau. Depuis quelques années, il s’invite au rayon des compléments alimentaires, promettant un meilleur confort articulaire. Focus...",
-      "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-acide-hyaluronique-gelules-ce-vraie-solution-anti-age-confort-articulaire-133890/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/c/6/ac614c58a0_50254146_greenwhey-article-7.jpg",
-      "date": "2026-05-11T10:25:00+00:00",
       "date_formatted": "11 May 2026",
       "source": "Futura Santé",
       "type": "science"
