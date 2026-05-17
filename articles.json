@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-05-17T08:06:38.103869+00:00",
-  "count": 82,
+  "generated_at": "2026-05-17T12:52:05.193439+00:00",
+  "count": 84,
   "articles": [
+    {
+      "title": "Peste noire : un document exceptionnel du Moyen Âge révèle qui survivait… et combien de temps durait la maladie",
+      "desc": "Aussi improbable que cela puisse paraître, certains ont survécu à la peste noire qui a ravagé l’Europe médiévale au Moyen Âge. Qui étaient ces survivants ? En combien de temps étaient-ils remis sur pieds ? Retrouvé dans les archives d’une abbaye anglaise, un parchemin raconte la maladie des...",
+      "url": "https://www.futura-sciences.com/sante/actualites/peste-noire-peste-noire-document-exceptionnel-moyen-age-revele-survivait-temps-durait-maladie-134548/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/a/4/7/a479765ef6_50255299_peste-moyen-age-danse-mort.jpg",
+      "date": "2026-05-17T14:08:08+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : l'infectiologue Xavier Lescure alerte sur un \"risque théorique\" d'importation du virus à Mayotte et appelle à \"anticiper dès la source de cette épidémie\"",
+      "desc": "L'OMS a déclaré dimanche une urgence de santé publique de portée internationale, son deuxième niveau d'alerte le plus élevé, face à l'épidémie d'Ebola qui frappe la République démocratique du Congo et l'Ouganda.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-infectiologue-xavier-lescure-alerte-sur-le-risque-de-propagation-du-virus-a-mayotte-et-appelle-a-anticiper-des-la-source-de-cette-epidemie_8009510.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/xRlyHFmky0GGvPY2PqPqwXR1LPg/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/17/6a0957b840774138768530.jpg",
+      "date": "2026-05-17T13:52:47+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Un variant hautement mortel, des centaines de cas suspects... Ce que l'on sait de la nouvelle épidémie d'Ebola en République démocratique du Congo",
+      "desc": "Le foyer de la maladie, causée par le variant Bundibugyo, se trouve dans une zone difficilement accessible du nord-est de la RDC, en proie à l'instabilité. Le virus \"constitue une urgence de santé publique de portée internationale\", alerte l'OMS, alors que les spécialistes réclament une réponse sani",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-variant-hautement-mortel-des-centaines-de-cas-suspects-ce-que-l-on-sait-de-la-nouvelle-epidemie-d-ebola-en-republique-democratique-du-congo_8009585.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/mksahdOxebek4FOvqwlh4tT-Wgs/0x187:3600x2212/432x243/filters:format(jpg)/2026/05/17/6a0971ae8abc5317848131.jpg",
+      "date": "2026-05-17T13:30:39+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Le ministère de la Santé assure être \"en lien constant avec les experts afin d’évaluer le niveau de risque\" d'importation de l'épidémie d'Ebola à Mayotte",
+      "desc": "L'OMS a déclaré, samedi, une urgence internationale pour l'épidémie d'Ebola qui frappe la République démocratique du Congo. Sur franceinfo, l'infectiologue Xavier Lescure a alerté sur un risque de diffusion de l'épidémie vers Mayotte.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/risque-d-epidemie-d-ebola-a-mayotte-le-ministere-de-la-sante-assure-etre-en-lien-constant-avec-les-experts-afin-d-evaluer-le-niveau-de-risque_8009741.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/37w2GJpZNgCiuPBIBzUlAXSECMg/0x504:4845x3230/432x243/filters:format(jpg)/2026/05/17/6a0996bd5307c178957053.jpg",
+      "date": "2026-05-17T12:22:29+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L'OMS déclare une urgence internationale pour l'épidémie d'Ebola qui frappe la République démocratique du Congo",
+      "desc": "C'est le deuxième niveau d'alerte le plus élevé de l'Organisation mondiale de la santé, derrière celui d'\"urgence due à une pandémie\".",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-declare-une-urgence-internationale-pour-l-epidemie-d-ebola-qui-frappe-la-republique-democratique-du-congo_8009567.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/SP41edkCahrR5eMr4bmnfmqeJ_8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/17/6a096c92f32d5441953459.jpg",
+      "date": "2026-05-17T11:48:52+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : un premier cas confirmé à Goma, en RDC, où l’OMS a déclaré une « urgence de santé internationale »",
+      "desc": "L’Agence sanitaire de l’Union africaine a enregistré 88 morts vraisemblablement dus au virus, selon les derniers chiffres publiés samedi.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/17/ebola-un-premier-cas-confirme-a-goma-en-rdc-ou-l-oms-a-declare-une-urgence-de-sante-internationale_6690188_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/16/456/0/5472/2736/644/322/60/0/e868c02_ftp-1-lhzw77zobh3s-17a3be1885ce46b797af9345e9b2e314-0-bf5a7cda9756405b97a7c84ef7175ed7.jpg",
+      "date": "2026-05-17T11:47:19+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "A Paris, le périscolaire ne peut plus être traité comme un angle mort des politiques éducatives",
+      "desc": "Alors que s’ouvre le 18 mai une nouvelle convention citoyenne à Paris sur l’enfance, le débat public sur la crise du périscolaire s’éloigne du vrai problème : celui des moyens réellement alloués à la protection des enfants, alerte un large rassemblement de parents d’élèves soutenu par des associatio",
+      "url": "https://www.liberation.fr/idees-et-debats/tribunes/a-paris-le-periscolaire-ne-peut-plus-etre-traite-comme-un-angle-mort-des-politiques-educatives-20260517_EG6YTM7ULNHCDBMEVDHBVD7N24/",
+      "image": null,
+      "date": "2026-05-17T11:14:41+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : un impact non-négligeable sur les croisiéristes",
+      "desc": "Le spectre d'une nouvelle crise sanitaire hante les croisières, provoquant une vague d'annulations. Entre peur de la contagion et offres de report exceptionnelles, le secteur du tourisme tente de sauver sa saison.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-un-impact-non-negligeable-sur-les-croisieristes_8009597.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/s0-RHoM0JmV0YjPe-GqccZOgPVI/11x0:1435x801/432x243/filters:format(jpg)/2026/05/17/6a0977ad960f3462837363.jpg",
+      "date": "2026-05-17T11:14:17+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : origine, symptômes, traitements… le profil d’un virus tueur qui sévit de nouveau en RDC",
+      "desc": "La nouvelle flambée du virus dans ce grand pays d’Afrique centrale, marquée par un variant très virulent et sans traitement, a poussé l’OMS à relever ce dimanche son niveau d’alerte, pour le faire passer en «urgence internationale».",
+      "url": "https://www.liberation.fr/international/afrique/ebola-origine-symptomes-traitements-le-profil-dun-virus-tueur-qui-sevit-de-nouveau-en-rdc-20260517_QXWTTL4ICVDETLAGQSEMWJD52Y/",
+      "image": null,
+      "date": "2026-05-17T10:33:05+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "Apnée du sommeil : \"La somnolence est la première cause de mortalité au volant\", alerte une responsable au centre du sommeil de l'Hôpital Bichat",
       "desc": "Troubles du sommeil, somnolence, hypertension artérielle : l'apnée du sommeil peut avoir des conséquences importantes sur la santé. Marie-Pia d'Ortho, cheffe de service au centre du sommeil à l'Hôpital Bichat, fait le point sur les risques liés à l'apnée du sommeil et les mauvaises habitudes à évite",
@@ -23,23 +113,13 @@
       "type": "presse"
     },
     {
-      "title": "L'OMS déclare une urgence internationale pour l'épidémie d'Ebola qui frappe la République démocratique du Congo",
-      "desc": "C'est le deuxième niveau d'alerte le plus élevé de l'OMS, derrière celui d'\"urgence due à une pandémie\".",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-declare-une-urgence-internationale-pour-l-epidemie-d-ebola-qui-frappe-la-republique-democratique-du-congo_8009567.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/SP41edkCahrR5eMr4bmnfmqeJ_8/0x53:1024x629/432x243/filters:format(jpg)/2026/05/17/6a096c92f32d5441953459.jpg",
-      "date": "2026-05-17T09:22:19+00:00",
+      "title": "Santé, alimentation, eau… L’OMS et l’Europe alertées sur les conséquences sanitaires du changement climatique",
+      "desc": "Selon une commission indépendante paneuropéenne, « la pollution de l’air liée aux énergies fossiles provoque chaque année plus de 600.000 décès dans la région Europe de l’OMS »",
+      "url": "https://www.20minutes.fr/sante/4223835-20260517-sante-alimentation-eau-oms-europe-alertees-consequences-sanitaires-changement-climatique?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/oMQZkRG0RFi-fE49Xyglaik/1200x768_des-gens-se-rafraichissent-dans-une-fontaine-a-boston-dans-le-massachusetts-le-mardi-12-aout-2025-photo-d-aaron-schwartz-sipa-etats-unis-63277373-as-2508132041",
+      "date": "2026-05-17T09:03:37+00:00",
       "date_formatted": "17 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : l'infectiologue Xavier Lescure alerte sur le risque de propagation du virus à Mayotte et appelle à \"anticiper dès la source de cette épidémie\"",
-      "desc": "L'OMS a déclaré dimanche une urgence de santé publique de portée internationale, son deuxième niveau d'alerte le plus élevé, face à l'épidémie d'Ebola qui frappe la République démocratique du Congo et l'Ouganda.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-l-infectiologue-xavier-lescure-alerte-sur-le-risque-de-propagation-du-virus-a-mayotte-et-appelle-a-anticiper-des-la-source-de-cette-epidemie_8009510.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/xRlyHFmky0GGvPY2PqPqwXR1LPg/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/17/6a0957b840774138768530.jpg",
-      "date": "2026-05-17T07:53:30+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "France Info Santé",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -63,16 +143,6 @@
       "type": "presse"
     },
     {
-      "title": "Au CHU de Nice, plongée dans le caisson à haute pression qui soigne les patients à l’oxygène",
-      "desc": "«Libération» a pu visiter le plus grand caisson rectangulaire d’oxygénothérapie hyperbare au monde, qui simule une plongée à 15 mètres de fond pour traiter les cicatrices récalcitrantes, surdités brusques, intoxications au monoxyde de carbone et accidents de plongée.",
-      "url": "https://www.liberation.fr/societe/sante/au-chu-de-nice-plongee-dans-le-caisson-a-haute-pression-qui-soigne-les-patients-a-loxygene-20260517_NKBPWRHVIVAP3M2VZ7FMT6CSSI/",
-      "image": null,
-      "date": "2026-05-17T06:14:00+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : \"A ce stade, la chaîne de transmission est maîtrisée sur le sol français\", affirme la ministre de la Santé",
       "desc": "Stéphanie Rist estime auprès du journal \"Ouest-France\" qu'\"il n'y a pas d'intérêt, dans le cas présent, à mettre un masque\". \"Nous restons en état de suivi et de vigilance\", précise la ministre.",
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-a-ce-stade-la-chaine-de-transmission-est-maitrisee-sur-le-sol-francais-affirme-la-ministre-de-la-sante_8008361.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -90,16 +160,6 @@
       "date": "2026-05-16T18:16:00+00:00",
       "date_formatted": "16 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Cannes 2026 : avec «Sheep in the Box», Hirokazu Kore-eda passe par tous les dédales du deuil",
-      "desc": "Le réalisateur japonais signe un mélo-SF révélant les tourments philosophiques et affectifs d’un couple après la perte de leur fils, remplacé par un androïde ultra réaliste. Interrogeant avec subtilité le sujet des émotions humaines face à la machine, avant de s’en éloigner.",
-      "url": "https://www.liberation.fr/culture/cinema/cannes-2026-avec-sheep-in-the-box-hirokazu-kore-eda-passe-par-tous-les-dedales-du-deuil-20260516_O3BJLVD7SFEAZJ5MOCFMRRXHKE/",
-      "image": null,
-      "date": "2026-05-16T17:40:22+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -163,26 +223,6 @@
       "type": "presse"
     },
     {
-      "title": "Un groupe pharmaceutique alerte contre le médicament Tavneos après \"20 cas mortels\" signalés au Japon depuis 2022",
-      "desc": "Kissei Pharmaceutical pointe \"le risque de dysfonctionnement hépatique grave\" et demande aux médecins de cesser de prescrire le Tavneos à de nouveaux patients.",
-      "url": "https://www.franceinfo.fr/sante/un-groupe-pharmaceutique-alerte-contre-un-medicament-apres-20-cas-mortels-signales-au-japon-depuis-2022_8008049.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/1OTBWjGzcw08VcgitLTRiRDbsQc/0x501:7670x4815/432x243/filters:format(jpg)/2026/05/16/6a08729fa9384940776613.jpg",
-      "date": "2026-05-16T16:04:40+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Pourquoi autant parler du hantavirus si le risque est faible ?",
-      "desc": "Les auditeurs ont réagi au traitement et à la couverture éditoriale du hantavirus sur l'antenne. Pour répondre à leurs interrogations, Emmanuelle Daviet a invité Richard Place, directeur de la rédaction de franceinfo.",
-      "url": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/pourquoi-autant-parler-du-hantavirus-si-le-risque-est-faible_7978175.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/LkaqSqWSexvrpjwhXHrV89CCtL4/0x312:6000x3687/432x243/filters:format(jpg)/2026/05/15/6a071cccd7514871814961.jpg",
-      "date": "2026-05-16T16:00:02+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Ce n’est pas votre excès de poids qui menace votre cerveau, mais ce bourrelet précis, révèle une étude inédite",
       "desc": "Toutes les graisses corporelles ne se valent pas… et certaines pourraient avoir des conséquences bien plus inquiétantes qu’on ne l’imaginait sur notre cerveau. Une nouvelle étude internationale révèle qu’un type précis de tissu adipeux accélérerait le vieillissement cérébral et fragiliserait la...",
       "url": "https://www.futura-sciences.com/sante/actualites/cerveau-ce-nest-pas-votre-exces-poids-menace-votre-cerveau-mais-ce-bourrelet-precis-revele-etude-inedite-134538/#xtor%3DRSS-8",
@@ -193,8 +233,8 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus EN DIRECT : Aucun nouveau cas contact identifié en France ni de nouveau variant…",
-      "desc": "Suivez avec nous les évènements autour du hantavirus de ce samedi 16 mai…",
+      "title": "Hantavirus : Aucun nouveau cas contact identifié en France ni de nouveau variant",
+      "desc": "Revivez avec nous les évènements autour du hantavirus de ce samedi 16 mai…",
       "url": "https://www.20minutes.fr/sante/4223756-20260516-hantavirus-direct-aucun-nouveau-cas-contact-identifie-france-ni-nouveau-variant?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/KiyTZWcYQka9Kc7q2ThflCk/1200x768_des-agents-de-sante-en-equipement-de-protection-evacuent-des-patients-du-navire-de-croisiere-mv-hondius-vers-une-ambulance-dans-un-port-de-praia-au-cap-vert-le-mercredi-6-mai-2026-ap-photo-misper-apawu-xma104-26126409107830-2605061323",
       "date": "2026-05-16T08:30:31+00:00",
@@ -583,16 +623,6 @@
       "type": "presse"
     },
     {
-      "title": "Hantavirus : Emmanuel Macron affirme que la « situation est sous contrôle ». Retrouvez les informations du 6 au 12 mai.",
-      "desc": "La Française infectée par un hantavirus, soignée à l’hôpital Bichat, à Paris, « a aujourd’hui la forme la plus sévère » de la maladie, a déclaré l’infectiologue Xavier Lescure.",
-      "url": "https://www.lemonde.fr/sante/live/2026/05/12/en-direct-hantavirus-emmanuel-macron-affirme-que-la-situation-est-sous-controle-du-gouvernement_6686093_1651302.html",
-      "image": "https://img.lemde.fr/2026/05/12/224/177/4042/2021/644/322/60/0/152f295_ftp-1-jmk5rue7mmnl-2026-05-12t073024z-463798858-rc2j7laerbtk-rtrmadp-3-africa-france-summit.JPG",
-      "date": "2026-05-12T18:39:32+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : comment un ornithologue néerlandais est devenu le possible « patient zéro » à bord du MV Hondius",
       "desc": "Présenté par plusieurs médias, dont le New York Post, comme le possible « patient zéro » de l’épidémie d’hantavirus du MV Hondius, l’ornithologue néerlandais Leo Schilperoord aurait pu être contaminé lors d’une excursion près d’Ushuaia, dans le sud de l’Argentine. Une hypothèse qui n’a toutefois...",
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-ornithologue-neerlandais-devenu-possible-patient-zero-bord-mv-hondius-134472/#xtor%3DRSS-8",
@@ -638,16 +668,6 @@
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-francaise-testee-positive-22-cas-contact-faut-il-craindre-nouvelle-pandemie-134443/#xtor%3DRSS-8",
       "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/1/e/51e1b3457f_50255090_isolement-cas-hantavirus.jpg",
       "date": "2026-05-11T20:08:36+00:00",
-      "date_formatted": "11 May 2026",
-      "source": "Futura Santé",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : un vaccin contre le virus des Andes est-il prêt si la situation dégénère ?",
-      "desc": "Alors que le foyer d’hantavirus à bord du MV Hondius a déjà provoqué trois décès et plusieurs contaminations confirmées au virus des Andes, dont une passagère française rapatriée en France, plusieurs équipes travaillent déjà sur des vaccins expérimentaux, y compris à ARN messager. Mais les...",
-      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-vaccin-virus-andes-il-pret-si-situation-degenere-134419/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/b/c/f/bcf698fba4_50255080_vaccin-hantavirus.jpg",
-      "date": "2026-05-11T17:23:45+00:00",
       "date_formatted": "11 May 2026",
       "source": "Futura Santé",
       "type": "science"
