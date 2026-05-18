@@ -1,7 +1,127 @@
 {
-  "generated_at": "2026-05-18T14:50:20.150475+00:00",
-  "count": 77,
+  "generated_at": "2026-05-18T19:21:23.501218+00:00",
+  "count": 80,
   "articles": [
+    {
+      "title": "VIDEO Ebola : une « urgence de santé internationale » déclarée en RDC",
+      "desc": "Cette épidémie due au virus Ebola aurait fait 91 morts, selon les derniers chiffres donnés le 17 mai par le ministre de la santé congolais, Samuel-Roger Kamba.",
+      "url": "https://www.lemonde.fr/sante/video/2026/05/18/ebola-une-urgence-de-sante-internationale-declaree-en-republique-democratique-du-congo_6691070_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/18/346/0/4160/2080/644/322/60/0/b64caeb_ftp-1-0l1bycv1kuq6-2026-05-18t173820z-485852994-rc2tblawnqtv-rtrmadp-3-health-ebola.JPG",
+      "date": "2026-05-18T21:01:36+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Les Etats-Unis vont soumettre des voyageurs à un dépistage d'Ebola dans les aéroports américains",
+      "desc": "Les autorités sanitaires américaines ont dit travailler à coordonner \"le rapatriement en toute sécurité d'un petit nombre d'Américains directement touchés par cette épidémie\", alors qu'un Américain a été testé positif en République démocratique du Congo.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/les-etats-unis-vont-soumettre-des-voyageurs-a-un-depistage-d-ebola-dans-les-aeroports-americains_8012360.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/yHHSywlImdtGJaPJLCzIZCC5dyE/0x143:1024x719/432x243/filters:format(jpg)/2026/05/18/6a0b591db56dd030300062.jpg",
+      "date": "2026-05-18T20:29:38+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "L’immunologiste Claude Griscelli, pionnier de la greffe de moelle osseuse sur les « bébés bulles » et ex-directeur de l’Inserm, est mort",
+      "desc": "Le médecin chercheur s’est éteint le 7 mai, à l’âge de 90 ans. A la fin de sa vie, il avait été radié de l’ordre des médecins pour avoir omis de déclarer ses liens d’intérêt avec le laboratoire Servier.",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/05/18/l-immunologiste-claude-griscelli-pionnier-de-la-greffe-de-moelle-osseuse-sur-les-bebes-bulles-et-ex-directeur-de-l-inserm-est-mort_6691065_3382.html",
+      "image": "https://img.lemde.fr/2026/05/18/1079/0/2085/1042/644/322/60/0/a8a54c4_upload-1-9qkt5gsptrcf-000-par544263.jpg",
+      "date": "2026-05-18T20:15:05+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Dépistage du cancer du poumon : un programme pilote gratuit lancé dans cinq régions",
+      "desc": "Vingt mille fumeurs ou ex-fumeurs, identifiés par leur médecin ou volontaires, vont pouvoir bénéficier d’un scanner à faible dose remboursé à 100 % par l’Assurance-maladie.",
+      "url": "https://www.lemonde.fr/sante/article/2026/05/18/depistage-du-cancer-du-poumon-un-programme-pilote-gratuit-lance-dans-cinq-regions_6691031_1651302.html",
+      "image": "https://img.lemde.fr/2026/05/18/432/0/5184/2592/644/322/60/0/2c3853d_upload-1-qtvxtliocsuo-000-9ut2ml.jpg",
+      "date": "2026-05-18T20:00:35+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi la flambée d’Ebola en RDC inquiète les autorités sanitaires internationales",
+      "desc": "Le pays d’Afrique centrale subit une nouvelle épidémie due au virus d’Ebola, qui provoque une fièvre hémorragique mortelle. Déjà plus de 100 morts sont signalés, surtout dans la province d’Ituri, dans le nord-est de la République démocratique du Congo. L’Organisation mondiale de la santé a décrété u",
+      "url": "https://www.lemonde.fr/planete/article/2026/05/18/pourquoi-la-flambee-d-ebola-en-rdc-inquiete-les-autorites-sanitaires-internationales_6691029_3244.html",
+      "image": "https://img.lemde.fr/2026/05/18/297/0/3600/1800/644/322/60/0/f3370ca_ftp-1-atktmo3bxlar-5070776-01-06.jpg",
+      "date": "2026-05-18T20:00:10+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Virus Ebola : Un Américain testé positif en République démocratique du Congo",
+      "desc": "Un organisme américain a annoncé qu’un ressortissant américain avait contracté Ebola en République démocratique du Congo",
+      "url": "https://www.20minutes.fr/monde/4224160-20260518-virus-ebola-americain-teste-positif-republique-democratique-congo?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/Pp_wagD-QS6v3FvVtiTh9ik/1200x768_dossier-un-agent-de-sante-pulverise-du-desinfectant-sur-son-collegue-apres-avoir-travaille-dans-un-centre-de-traitement-d-ebola-a-beni-dans-l-est-du-congo-le-9-septembre-2018-photo-ap-al-hadji-kudra-maliro-dossier-tkhk503-26135314889340-photo-d-archive-2605151049",
+      "date": "2026-05-18T19:05:41+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Ebola : c’est quoi ce virus rare qui peut tuer jusqu’à 50 %, et pourquoi n’existe-t-il toujours pas de vaccin ?",
+      "desc": "Le virus qui circule actuellement en République démocratique du Congo (RDC) et qui a provoqué 90 morts de fièvre hémorragique depuis le début du mois de mai inquiète l’OMS. Et il y a de bonnes raisons pour ça. Explications.",
+      "url": "https://www.futura-sciences.com/sante/actualites/ebola-ebola-cest-ce-virus-rare-peut-tuer-jusqua-50-nexiste-t-il-toujours-pas-vaccin-134619/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/c/1/3/c13e4f7c05_50255406_ebola-virus-rare.jpg",
+      "date": "2026-05-18T18:27:37+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Hantavirus : comment la recherche se mobilise face à la souche des Andes",
+      "desc": "Après l’apparition de cas mortels à bord du bateau de croisière « Hondius », des programmes ont été lancés par l’OMS et des Etats pour mettre au point des traitements et vaccins contre ce virus. Si sa létalité est de 40 %, le nombre limité de cas suggère une faible transmission interhumaine. A ce jo",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/18/hantavirus-comment-la-recherche-se-mobilise-face-a-la-souche-des-andes_6691009_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/18/2639/0/6810/3405/644/322/60/0/227e144_upload-1-cspd5z9ixwdn-hantavirus-def.JPG",
+      "date": "2026-05-18T18:00:04+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Les cas de rougeole ont bondi en France, provoquant sept décès en 2025",
+      "desc": "La France a enregistré 873 cas de rougeole en 2025, soit une « augmentation de 80 % par rapport à 2024 », avec plus de 300 hospitalisations et sept décès, une hausse attribuée au déclin de la vaccination, largement sous les 95 % recommandés",
+      "url": "https://www.20minutes.fr/sante/4224152-20260518-cas-rougeole-bondi-france-provoquant-sept-deces-2025?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/J3-BnAZtRYSFirbphaMrFyk/1200x768_virus-mpox-variole-du-singe-premier-cas-en-europe-d-une-nouvelle-souche-plus-contagieuse-detecte-en-suede-le-15-aout-2024-l-oms-a-declenche-son-plus-haut-niveau-d-alerte-vaccin-imvanex-antivariolique-de-troisieme-generation-mva-bn-archives-vaccination-nice-france-15-08-2024-syspeo-sys-a006-credit-syspeo-sipa-2408161748",
+      "date": "2026-05-18T17:39:59+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Cancer du poumon : Un programme pilote de « dépistage » démarre dans cinq régions",
+      "desc": "Le programme « Impulsion » va permettre à plus de 20 000 fumeurs de se faire dépister du cancer du poumon, dans l’objectif de le généraliser partout en France",
+      "url": "https://www.20minutes.fr/sante/4224151-20260518-cancer-poumon-programme-pilote-depistage-demarre-cinq-regions?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/C6choj3YRn6nac_HnhwbACk/1200x768_a-health-insurance-envelope-with-the-words-cancer-screening-written-on-it-is-placed-on-a-colorectal-cancer-screening-campaign-leaflet-every-2-years-organized-screening-for-colorectal-cancer-is-sent-to-women-and-men-aged-50-to-74-by-health-insurance-assurance-maladie-in-french-in-france-it-is-based-on-an-immunological-test-to-search-for-occult-bleeding-in-the-stool-gerard-bottino-sopa-images-sopaimages-2024-08-01-cancer-screening-dsc-1864-r-credit-sopa-images-sipa-2408011309",
+      "date": "2026-05-18T17:33:09+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Odile Launay, infectiologue : « L’obstacle au développement d’un vaccin n’est pas scientifique, il est avant tout financier »",
+      "desc": "La vaccinologue décrit, dans un entretien au « Monde », la difficulté à élaborer un vaccin contre une pathologie rare telle que les hantavirus. Elle observe que la solution peut venir des anticorps monoclonaux.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/18/odile-launay-infectiologue-l-obstacle-au-developpement-d-un-vaccin-n-est-pas-scientifique-il-est-avant-tout-financier_6691000_1650684.html",
+      "image": "https://img.lemde.fr/2026/05/14/7/0/5568/2784/644/322/60/0/bb94701_upload-1-ow1xgpxwh1hp-000-9lp6ep.jpg",
+      "date": "2026-05-18T17:30:09+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "REPORTAGE. \"Ils tombaient tous comme des mouches\" : huit ans après l'hantavirus, ce village argentin reste traumatisé par cette \"fièvre qui rend fou\"",
+      "desc": "En 2018, une épidémie d'hantavirus s'est déclarée dans le village d'Epuyén, en Argentine, après une fête d'anniversaire. Depuis, les habitants ont appris à cohabiter avec le rat à longue queue, responsable de la transmission de l'hantavirus à l'être humain.",
+      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/reportage-ils-tombaient-tous-comme-des-mouches-huit-ans-apres-une-epidemie-d-hantavirus-ce-village-argentin-reste-traumatise-par-cette-fievre-qui-rend-fou_8011388.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/rz-wTnSWFxZO2imFuJUb2X48GuI/0x0:1921x1080/432x243/filters:format(jpg)/2026/05/18/6a0ac701c8a4c980759917.jpg",
+      "date": "2026-05-18T17:22:29+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "VIDEO. \"Il faut détremper toutes les surfaces avec du désinfectant\" : le \"MV Hondius\", foyer d'hantavirus, arrive à Rotterdam pour un nettoyage crucial",
       "desc": "Le paquebot de croisière, affrété par une compagnie néerlandaise, achève aux Pays-Bas un périple d'un mois et demi. A son bord se trouvent 27 derniers membres d'équipage, qui vont entamer une quarantaine, mais aussi la dépouille d'une des trois victimes du virus.",
@@ -30,6 +150,26 @@
       "date": "2026-05-18T16:00:01+00:00",
       "date_formatted": "18 May 2026",
       "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : La patiente française malade est dans un « état stationnaire » mais son pronostic vital demeure engagé",
+      "desc": "La sexagénaire hospitalisée à l’hôpital Bichat après avoir contracté le hantavirus sur le navire de croisière MV Hondius, reste « en réanimation » dans un état stationnaire et son « pronostic vital est toujours engagé »",
+      "url": "https://www.20minutes.fr/sante/4224129-20260518-hantavirus-patiente-francaise-malade-etat-stationnaire-pronostic-vital-demeure-engage?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/-wcoGyujSyedpSUShzn9bik/1200x768_un-patient-rapatrie-se-trouve-actuellement-a-l-hopital-de-bichat-les-cas-contacts-identifies-ont-donne-des-resultats-negatifs-a-ce-jour-les-autorites-ne-signalent-aucune-circulation-du-virus-dans-la-population-le-14-mai-2026-a-paris-04sipa-r1875-credit-martin-rodier-sipa-2605151002",
+      "date": "2026-05-18T15:25:58+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Elio, 4 ans et atteint d’un cancer rare, trouve enfin un donneur de moelle osseuse après une mobilisation massive",
+      "desc": "Elio, 4 ans et atteint d’un cancer rare, trouve enfin un donneur de moelle osseuse après une mobilisation massive",
+      "url": "https://www.20minutes.fr/tv/videos/4224116-20260518-elio-4-ans-atteint-cancer-rare-trouve-enfin-donneur-moelle-osseuse-apres-mobilisation-massive?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/i9Y85C62Q0KqRJq3HUBbMCk/1200x768_premiere-victoire-apres-plusieurs-semaines-mobilisation-vaste-appel-dons-relaye-reseaux-sociaux-elio-4-ans-atteint-forme-rare-tres-agressive-cancer-sa",
+      "date": "2026-05-18T15:19:58+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "20 Minutes Santé",
       "type": "presse"
     },
     {
@@ -73,16 +213,6 @@
       "type": "presse"
     },
     {
-      "title": "REPORTAGE. \"Ils tombaient tous comme des mouches\" : huit ans après l'hantavirus, ce village argentin reste traumatisé par cette \"fièvre qui rend fou\"",
-      "desc": "En 2018, une épidémie d'hantavirus s'est déclarée dans le village d'Epuyén, en Argentine, après une fête d'anniversaire. Depuis, les habitants ont appris à cohabiter avec le rat à longue queue, responsable de la transmission de l'hantavirus à l'être humain.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/reportage-ils-tombaient-tous-comme-des-mouches-huit-ans-apres-une-epidemie-d-hantavirus-ce-village-argentin-reste-traumatise-par-cette-fievre-qui-rend-fou_8011388.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/rz-wTnSWFxZO2imFuJUb2X48GuI/0x0:1921x1080/432x243/filters:format(jpg)/2026/05/18/6a0ac701c8a4c980759917.jpg",
-      "date": "2026-05-18T12:32:55+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
       "title": "Hantavirus : Attention aux applications qui prétendent détecter le virus",
       "desc": "Certaines applications profitent de l’inquiétude croissante face au hantavirus pour prétendre détecter le virus, malgré l’absence de validation scientifique solide",
       "url": "https://www.20minutes.fr/high-tech/4223870-20260518-hantavirus-attention-applications-pretendent-detecter-virus?at_medium=display&at_campaign=149",
@@ -90,16 +220,6 @@
       "date": "2026-05-18T11:39:20+00:00",
       "date_formatted": "18 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "«On est ravis de cette solidarité anonyme, c’est magique» : le petit Elio, atteint d’une leucémie rare, a trouvé un donneur de moelle osseuse",
-      "desc": "Les parents du garçon de 4 ans, atteint d’une forme rare et agressive de cancer du sang, avaient lancé à la mi-mars un appel au don largement relayé, jusqu’au président de la République. Son jumeau génétique a été trouvé dimanche 17 mai.",
-      "url": "https://www.liberation.fr/societe/sante/on-est-ravis-de-cette-solidarite-anonyme-cest-magique-le-petit-elio-atteint-dune-leucemie-rare-a-trouve-un-donneur-de-moelle-osseuse-20260518_Q74EW56DEJEILDUS4TFOZL3CUU/",
-      "image": null,
-      "date": "2026-05-18T10:39:32+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -191,26 +311,6 @@
       "date_formatted": "17 May 2026",
       "source": "Futura Santé",
       "type": "science"
-    },
-    {
-      "title": "Un variant hautement mortel, des centaines de cas suspects... Ce que l'on sait de la nouvelle épidémie d'Ebola en République démocratique du Congo",
-      "desc": "Le foyer de la maladie, causée par le variant Bundibugyo, se trouve dans une zone difficilement accessible du nord-est de la RDC, en proie à l'instabilité. Le virus \"constitue une urgence de santé publique de portée internationale\", alerte l'OMS, alors que les spécialistes réclament une réponse sani",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/un-variant-hautement-mortel-des-centaines-de-cas-suspects-ce-que-l-on-sait-de-la-nouvelle-epidemie-d-ebola-en-republique-democratique-du-congo_8009585.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/mksahdOxebek4FOvqwlh4tT-Wgs/0x187:3600x2212/432x243/filters:format(jpg)/2026/05/17/6a0971ae8abc5317848131.jpg",
-      "date": "2026-05-17T13:30:39+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Le ministère de la Santé assure être \"en lien constant avec les experts afin d’évaluer le niveau de risque\" d'importation de l'épidémie d'Ebola à Mayotte",
-      "desc": "L'OMS a déclaré, samedi, une urgence internationale pour l'épidémie d'Ebola qui frappe la République démocratique du Congo. Sur franceinfo, l'infectiologue Xavier Lescure a alerté sur un risque de diffusion de l'épidémie vers Mayotte.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/risque-d-epidemie-d-ebola-a-mayotte-le-ministere-de-la-sante-assure-etre-en-lien-constant-avec-les-experts-afin-d-evaluer-le-niveau-de-risque_8009741.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/37w2GJpZNgCiuPBIBzUlAXSECMg/0x504:4845x3230/432x243/filters:format(jpg)/2026/05/17/6a0996bd5307c178957053.jpg",
-      "date": "2026-05-17T12:22:29+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Ebola : un premier cas confirmé à Goma, en RDC, où l’OMS a déclaré une « urgence de santé internationale »",
@@ -403,16 +503,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : Le Centre européen rassure sur le niveau de menace dans l’Union européenne",
-      "desc": "Revivez avec nous toutes les informations de la journée du vendredi 15 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
-      "url": "https://www.20minutes.fr/societe/4223598-20260515-direct-hantavirus-patron-oms-salue-habitants-tenerife-aide-lors-evacuation-mv-hondius?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/JYhX6ZfHR_qhF8WjUtffISk/1200x768_illustration-montrant-un-tube-a-essai-etiquete-hantavirus-a-cote-d-un-rongeur-et-du-logo-de-l-organisation-mondiale-de-la-sante-oms-avec-des-representations-graphiques-du-virus-en-arriere-plan-soulignant-les-preoccupations-sanitaires-mondiales-liees-aux-infections-a-hantavirus-le-12-mai-2026-yassine-mahjoub-sipa-mahjoubyassine-by2f1556-credit-yassine-mahjoub-sipa-2605121212",
-      "date": "2026-05-15T05:20:49+00:00",
-      "date_formatted": "15 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Paquebot confiné à Bordeaux en raison d’une épidémie de gastro-entérite : le navire, qui devait quitter la ville jeudi soir, reste finalement une nuit de plus à quai",
       "desc": "La compagnie Ambassador Cruise Line explique avoir reporté le départ pour « le confort des passagers et le bien-être de l’équipage », en évitant ainsi des « conditions météorologiques perturbées » dans le golfe de Gascogne.",
       "url": "https://www.lemonde.fr/societe/article/2026/05/14/paquebot-confine-a-bordeaux-en-raison-d-une-epidemie-de-gastro-enterite-le-navire-qui-devait-quitter-la-ville-jeudi-soir-reste-finalement-une-nuit-de-plus-a-quai_6689089_3225.html",
@@ -453,16 +543,6 @@
       "type": "science"
     },
     {
-      "title": "Hantavirus : Une mission scientifique en quête de l'origine de la contamination envoyée à Ushuaïa la semaine prochaine",
-      "desc": "Revivez toutes les informations de la journée du jeudi 14 mai 2026 sur les cas d’hantavirus, après le décès de trois passagers d’un bateau de croisière",
-      "url": "https://www.20minutes.fr/societe/4223525-20260514-direct-hantavirus-26-cas-contacts-francais-symptomes?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/PLNviq6-S4-hQYWox9eHeCk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8709-credit-mourad-allili-sipa-2605121211",
-      "date": "2026-05-14T07:53:21+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
       "title": "Le sucre, à l’origine de la myélinisation des neurones",
       "desc": "Une étude chez la souris montre que c’est le glucose qui donnerait le signal aux cellules précurseuses des oligodendrocytes, à l’origine de la gaine de myéline qui entoure les neurones, de se spécialiser.",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/14/le-sucre-a-l-origine-de-la-myelinisation-des-neurones_6689040_1650684.html",
@@ -491,16 +571,6 @@
       "date_formatted": "13 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Cancers pédiatriques : Les députés veulent taxer les laboratoires pharmaceutiques",
-      "desc": "Les députés ont adopté, ce mercredi, une proposition de loi créant un fonds pour financer la recherche sur les cancers pédiatriques et les maladies rares infantiles, via une taxe sur les laboratoires pharmaceutiques",
-      "url": "https://www.20minutes.fr/sante/4223487-20260513-cancers-pediatriques-deputes-veulent-taxer-laboratoires-pharmaceutiques?at_medium=display&at_campaign=149",
-      "image": "https://img.20mn.fr/eXrhcWZsQ4WlpMSLeJykVSk/1200x768_le-premier-ministre-francais-sebastien-lecornu-assiste-a-une-seance-de-questions-au-gouvernement-a-l-assemblee-nationale-a-paris-le-15-avril-2026-tephane-le-mouton-sipa-lemouton-stephane-260415b016-credit-stephane-lemouton-sipa-2604151744",
-      "date": "2026-05-13T17:47:00+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "20 Minutes Santé",
-      "type": "presse"
     },
     {
       "title": "Le Viagra, un traitement pour une maladie neurologique pédiatrique rare",
@@ -570,46 +640,6 @@
       "date": "2026-05-13T08:50:07+00:00",
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Aide à mourir : pourquoi le Sénat a rejeté à nouveau le texte",
-      "desc": "Après le rejet, lundi 11 mai au soir, d’un article-clé, les sénateurs ont préféré supprimer tous les autres articles un à un, actant leur désaccord sur ce texte.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/13/pourquoi-le-senat-a-rejete-a-nouveau-le-texte-sur-l-aide-a-mourir_6688635_3224.html",
-      "image": "https://img.lemde.fr/2026/05/11/0/0/8192/4096/644/322/60/0/053acb4_ftp-1-clf5ahoayhrl-5001981-01-06.jpg",
-      "date": "2026-05-13T08:16:08+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Les apnées du sommeil ont des conséquences sur le foie",
-      "desc": "L’étude d’une équipe de recherche de l’université de Grenoble montre que la privation temporaire d’oxygène, ou hypoxie intermittente, court-circuite l’horloge biologique du foie et pourrait perturber l’ensemble de l’organisme.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/13/les-apnees-du-sommeil-ont-des-consequences-sur-le-foie_6688613_1650684.html",
-      "image": "https://img.lemde.fr/2026/05/12/348/0/4176/2088/644/322/60/0/768de20_upload-1-kftpbovrymh4-maxnewsspecialtwo525801.jpg",
-      "date": "2026-05-13T05:30:08+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Cancer : des chercheurs mettent en évidence un lien entre les tumeurs colorectales chez les jeunes et un pesticide jugé sans risque",
-      "desc": "Une équipe espagnole a repéré la signature moléculaire d’un herbicide dans les tumeurs de patients de moins de 50 ans, une population dans laquelle les cancers colorectaux sont en croissance rapide. Une approche novatrice qui remet en cause les protocoles réglementaires d’autorisation et la surveill",
-      "url": "https://www.lemonde.fr/planete/article/2026/05/13/cancer-des-chercheurs-mettent-en-evidence-un-lien-entre-les-tumeurs-colorectales-chez-les-jeunes-et-un-pesticide-juge-sans-risque_6688612_3244.html",
-      "image": "https://img.lemde.fr/2026/05/13/297/0/3242/1621/644/322/60/0/a927b71_upload-1-y1oeide8yo2w-lemonde-cancerpesticides.JPG",
-      "date": "2026-05-13T05:15:04+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : comment un ornithologue néerlandais est devenu le possible « patient zéro » à bord du MV Hondius",
-      "desc": "Présenté par plusieurs médias, dont le New York Post, comme le possible « patient zéro » de l’épidémie d’hantavirus du MV Hondius, l’ornithologue néerlandais Leo Schilperoord aurait pu être contaminé lors d’une excursion près d’Ushuaia, dans le sud de l’Argentine. Une hypothèse qui n’a toutefois...",
-      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-ornithologue-neerlandais-devenu-possible-patient-zero-bord-mv-hondius-134472/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/4/4/a/44a4f03408_50255166_rongeur-hantavirus.jpg",
-      "date": "2026-05-12T18:27:10+00:00",
-      "date_formatted": "12 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
