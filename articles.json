@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-17T18:50:49.798716+00:00",
+  "generated_at": "2026-05-18T02:01:38.163219+00:00",
   "count": 79,
   "articles": [
+    {
+      "title": "Le Canada confirme un premier cas d’Hantavirus sur son territoire",
+      "desc": "La personne testée positive avait voyagé sur le navire MV Hondius. Les autorités sanitaires jugent le risque « faible » pour la population",
+      "url": "https://www.20minutes.fr/monde/canada/4223884-20260518-canada-confirme-premier-cas-hantavirus-territoire?at_medium=display&at_campaign=149",
+      "image": "https://img.20mn.fr/TwpogKKaRBCRt4iTbjTNqCk/1200x768_illustration-photographique-d-hantavirus-07alli-images-dsc-8059-credit-mourad-allili-sipa-2605121208",
+      "date": "2026-05-18T00:20:18+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "20 Minutes Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Nouvelle flambée du virus Ebola en RDC, une «urgence internationale»",
+      "desc": "Dimanche, l’OMS a relevé son niveau d’alerte. Il y a dix ans, Ebola avait causé la mort de plus de 11 000 personnes. Les spécialistes s’accordaient sur la nécessité de tirer les enseignements de l’épidémie, à échelle locale et internationale. Mais les leçons ont-elles été tirées ?",
+      "url": "https://www.liberation.fr/idees-et-debats/editorial/nouvelle-flambee-du-virus-ebola-en-rdc-une-urgence-internationale-20260517_G4IBPJNRD5GDHBIN63VWXBLZLY/",
+      "image": null,
+      "date": "2026-05-17T19:07:38+00:00",
+      "date_formatted": "17 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
     {
       "title": "L'OMS en état d'alerte face à l'épidémie d'Ebola en République démocratique du Congo",
       "desc": "L'Organisation mondiale de la santé en état d'alerte face à l'épidémie d'Ebola qui, causée par un variant hautement létal et sans vaccin, frappe de plein fouet la République démocratique du Congo.",
@@ -18,16 +38,6 @@
       "url": "https://www.liberation.fr/international/afrique/aujourdhui-jai-vu-encore-plusieurs-enterrements-dans-lest-de-la-rdc-ebola-prospere-sur-les-ruines-de-letat-20260517_SRIAXNJ6NRFJFK32X4WFELLLKQ/",
       "image": null,
       "date": "2026-05-17T16:40:18+00:00",
-      "date_formatted": "17 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Arrivée du MV Hondius aux Pays-Bas : «C’est une situation inhabituelle, mais tout est sous contrôle»",
-      "desc": "Le navire de croisière sur lequel des cas d’hantavirus avaient été détectés doit arriver à Rotterdam lundi 18 mai matin, avec 27 personnes à bord. Sur place, les habitants oscillent entre inquiétudes et confiance à l’égard des autorités.",
-      "url": "https://www.liberation.fr/international/europe/arrivee-du-mv-hondius-aux-pays-bas-cest-une-situation-inhabituelle-mais-tout-est-sous-controle-20260517_RG7HJYKQYJBWPFOUDLETVIMEPY/",
-      "image": null,
-      "date": "2026-05-17T15:59:17+00:00",
       "date_formatted": "17 May 2026",
       "source": "Libération",
       "type": "presse"
@@ -150,16 +160,6 @@
       "date": "2026-05-16T16:54:59+00:00",
       "date_formatted": "16 May 2026",
       "source": "Le Monde Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Existe-t-il un rapport entre le réchauffement climatique et l'émergence de pandémies, comme l'affirme Jean-Luc Mélenchon ?",
-      "desc": "Selon Jean-Luc Mélenchon, l'hantavirus serait un \"nouvel exemple de maladie écologique\". Qu'en disent les scientifiques ? L'équipe de \"Vrai ou Faux\" a enquêté, samedi 15 mai.",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/existe-t-il-un-rapport-entre-le-rechauffement-climatique-et-l-emergence-de-pandemies-comme-l-affirme-jean-luc-melenchon_8008034.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/gXnq7Vu4ovILGuRH3SIXmlXuYgM/0x71:1504x917/432x243/filters:format(jpg)/2026/05/16/6a0868da9b03c073115294.png",
-      "date": "2026-05-16T16:51:15+00:00",
-      "date_formatted": "16 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
