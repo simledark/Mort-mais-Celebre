@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-18T19:21:23.501218+00:00",
+  "generated_at": "2026-05-19T02:01:59.016736+00:00",
   "count": 80,
   "articles": [
+    {
+      "title": "Hantavirus : le \"MV Hondius\" a accosté à Rotterdam, les 27 personnes à bord placées à l'isolement",
+      "desc": "Le bateau, qui compte encore les membres d'équipage et du personnel médical, est arrivé pour les opérations de désinfection.",
+      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/direct-hantavirus-le-navire-de-croisiere-mv-hondius-attendu-aux-pays-bas-dans-la-matinee_8011391.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/UJ3XcVIUjkDbAjuXedxAiE9EDCg/0x53:1024x629/432x243/filters:format(jpg)/2026/05/18/6a0b1038a5e75143987147.jpg",
+      "date": "2026-05-18T23:51:03+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
     {
       "title": "VIDEO Ebola : une « urgence de santé internationale » déclarée en RDC",
       "desc": "Cette épidémie due au virus Ebola aurait fait 91 morts, selon les derniers chiffres donnés le 17 mai par le ministre de la santé congolais, Samuel-Roger Kamba.",
@@ -10,6 +20,16 @@
       "date": "2026-05-18T21:01:36+00:00",
       "date_formatted": "18 May 2026",
       "source": "Le Monde Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Epidémie d’Ebola : les Etats-Unis renforcent les contrôles aux frontières",
+      "desc": "Les autorités sanitaires américaines ont annoncé ce lundi 18 mai que les voyages aériens en provenance des zones touchées par le virus Ebola, qui prolifère notamment en République démocratique du Congo, seraient désormais soumis à un dépistage.",
+      "url": "https://www.liberation.fr/international/amerique/epidemie-debola-les-etats-unis-renforcent-les-controles-aux-frontieres-20260518_EGS7O3OU7NBLXAEO2N3TDTRIWA/",
+      "image": null,
+      "date": "2026-05-18T20:31:39+00:00",
+      "date_formatted": "18 May 2026",
+      "source": "Libération",
       "type": "presse"
     },
     {
@@ -44,10 +64,10 @@
     },
     {
       "title": "Pourquoi la flambée d’Ebola en RDC inquiète les autorités sanitaires internationales",
-      "desc": "Le pays d’Afrique centrale subit une nouvelle épidémie due au virus d’Ebola, qui provoque une fièvre hémorragique mortelle. Déjà plus de 100 morts sont signalés, surtout dans la province d’Ituri, dans le nord-est de la République démocratique du Congo. L’Organisation mondiale de la santé a décrété u",
+      "desc": "La République démocratique du Congo subit une nouvelle épidémie due au virus d’Ebola, qui provoque une fièvre hémorragique mortelle. Plus de 100 morts sont déjà signalés, essentiellement dans la province d’Ituri, dans le nord-est de ce pays d’Afrique centrale. L’Organisation mondiale de la santé a d",
       "url": "https://www.lemonde.fr/planete/article/2026/05/18/pourquoi-la-flambee-d-ebola-en-rdc-inquiete-les-autorites-sanitaires-internationales_6691029_3244.html",
       "image": "https://img.lemde.fr/2026/05/18/297/0/3600/1800/644/322/60/0/f3370ca_ftp-1-atktmo3bxlar-5070776-01-06.jpg",
-      "date": "2026-05-18T20:00:10+00:00",
+      "date": "2026-05-18T20:00:05+00:00",
       "date_formatted": "18 May 2026",
       "source": "Le Monde Santé",
       "type": "presse"
@@ -74,7 +94,7 @@
     },
     {
       "title": "Hantavirus : comment la recherche se mobilise face à la souche des Andes",
-      "desc": "Après l’apparition de cas mortels à bord du bateau de croisière « Hondius », des programmes ont été lancés par l’OMS et des Etats pour mettre au point des traitements et vaccins contre ce virus. Si sa létalité est de 40 %, le nombre limité de cas suggère une faible transmission interhumaine. A ce jo",
+      "desc": "Après l’apparition de cas mortels à bord du bateau de croisière « Hondius », des programmes ont été lancés par l’OMS et des Etats pour mettre au point des traitements et des vaccins contre ce virus. Si sa létalité est de 40 %, le nombre limité de cas suggère une faible transmission interhumaine. A c",
       "url": "https://www.lemonde.fr/sciences/article/2026/05/18/hantavirus-comment-la-recherche-se-mobilise-face-a-la-souche-des-andes_6691009_1650684.html",
       "image": "https://img.lemde.fr/2026/05/18/2639/0/6810/3405/644/322/60/0/227e144_upload-1-cspd5z9ixwdn-hantavirus-def.JPG",
       "date": "2026-05-18T18:00:04+00:00",
@@ -84,7 +104,7 @@
     },
     {
       "title": "Les cas de rougeole ont bondi en France, provoquant sept décès en 2025",
-      "desc": "La France a enregistré 873 cas de rougeole en 2025, soit une « augmentation de 80 % par rapport à 2024 », avec plus de 300 hospitalisations et sept décès, une hausse attribuée au déclin de la vaccination, largement sous les 95 % recommandés",
+      "desc": "La France a enregistré 873 cas de rougeole en 2025, soit une « augmentation de 80 % par rapport à 2024 », avec plus de 300 hospitalisations et sept décès",
       "url": "https://www.20minutes.fr/sante/4224152-20260518-cas-rougeole-bondi-france-provoquant-sept-deces-2025?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/J3-BnAZtRYSFirbphaMrFyk/1200x768_virus-mpox-variole-du-singe-premier-cas-en-europe-d-une-nouvelle-souche-plus-contagieuse-detecte-en-suede-le-15-aout-2024-l-oms-a-declenche-son-plus-haut-niveau-d-alerte-vaccin-imvanex-antivariolique-de-troisieme-generation-mva-bn-archives-vaccination-nice-france-15-08-2024-syspeo-sys-a006-credit-syspeo-sipa-2408161748",
       "date": "2026-05-18T17:39:59+00:00",
@@ -94,7 +114,7 @@
     },
     {
       "title": "Cancer du poumon : Un programme pilote de « dépistage » démarre dans cinq régions",
-      "desc": "Le programme « Impulsion » va permettre à plus de 20 000 fumeurs de se faire dépister du cancer du poumon, dans l’objectif de le généraliser partout en France",
+      "desc": "Le programme « Impulsion » va permettre à plus de 20.000 fumeurs de se faire dépister du cancer du poumon, dans l’objectif de le généraliser partout en France",
       "url": "https://www.20minutes.fr/sante/4224151-20260518-cancer-poumon-programme-pilote-depistage-demarre-cinq-regions?at_medium=display&at_campaign=149",
       "image": "https://img.20mn.fr/C6choj3YRn6nac_HnhwbACk/1200x768_a-health-insurance-envelope-with-the-words-cancer-screening-written-on-it-is-placed-on-a-colorectal-cancer-screening-campaign-leaflet-every-2-years-organized-screening-for-colorectal-cancer-is-sent-to-women-and-men-aged-50-to-74-by-health-insurance-assurance-maladie-in-french-in-france-it-is-based-on-an-immunological-test-to-search-for-occult-bleeding-in-the-stool-gerard-bottino-sopa-images-sopaimages-2024-08-01-cancer-screening-dsc-1864-r-credit-sopa-images-sipa-2408011309",
       "date": "2026-05-18T17:33:09+00:00",
@@ -170,16 +190,6 @@
       "date": "2026-05-18T15:19:58+00:00",
       "date_formatted": "18 May 2026",
       "source": "20 Minutes Santé",
-      "type": "presse"
-    },
-    {
-      "title": "DIRECT. Hantavirus : le \"MV Hondius\" a accosté à Rotterdam, les 27 personnes à bord placées à l'isolement",
-      "desc": "Le bateau, qui compte encore les membres d'équipage et du personnel médical, est arrivé pour les opérations de désinfection.",
-      "url": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/direct-hantavirus-le-navire-de-croisiere-mv-hondius-attendu-aux-pays-bas-dans-la-matinee_8011391.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/UJ3XcVIUjkDbAjuXedxAiE9EDCg/0x53:1024x629/432x243/filters:format(jpg)/2026/05/18/6a0b1038a5e75143987147.jpg",
-      "date": "2026-05-18T15:18:35+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "France Info Santé",
       "type": "presse"
     },
     {
@@ -551,16 +561,6 @@
       "date_formatted": "14 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "Paquebot en escale à Bordeaux : la suspicion d’une épidémie de gastro-entérite confirmée par les autorités sanitaires ; levée partielle de la quarantaine",
-      "desc": "Parmi les 1 233 passagers, 80 « ont été touchés par des symptômes compatibles avec une infection digestive aiguë ». Les résultats d’analyse vont permettre aux personnes non symptomatiques de débarquer, tandis que les personnes contaminées seront maintenues à l’isolement.",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/13/paquebot-en-escale-a-bordeaux-la-suspicion-d-une-epidemie-de-gastro-enterite-confirmee-par-les-autorites-sanitaires-levee-partielle-de-la-quarantaine_6688681_3225.html",
-      "image": "https://img.lemde.fr/2026/05/13/1062/0/7015/3507/644/322/60/0/427bfb7_upload-1-aset56071ywe-000-73hf89e.jpg",
-      "date": "2026-05-13T20:50:18+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
     },
     {
       "title": "Suède : comment la généalogie génétique a permis de résoudre, seize ans plus tard, le double meurtre de Linköping",
