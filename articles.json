@@ -1,10 +1,110 @@
 {
-  "generated_at": "2026-05-19T08:55:40.530566+00:00",
-  "count": 82,
+  "generated_at": "2026-05-19T14:30:12.051888+00:00",
+  "count": 81,
   "articles": [
     {
-      "title": "Ebola : 131 morts et 513 cas suspects recensés en RDC ; l’Allemagne va « accueillir et soigner » un patient américain",
-      "desc": "Le directeur général de l’Organisation mondiale de la santé s’est dit « profondément préoccupé par l’ampleur et la rapidité » de l’épidémie qui frappe la République démocratique du Congo. Tedros Adhanom Ghebreyesus va convoquer le comité d’urgence pour avoir des conseils sur « des recommandations te",
+      "title": "Épidémie d'Ebola en RDC : \"Il faut qu'on rattrape le temps perdu\" alerte Xavier Lescure, infectiologue à l’hôpital Bichat",
+      "desc": "Le médecin rappelle que ce sont \"les premières semaines de la gestion d'une épidémie qui impactent énormément sur la suite.\"",
+      "url": "https://www.franceinfo.fr/sante/epidemie-d-ebola-en-rdc-il-faut-qu-on-rattrape-le-temps-perdu-alerte-xavier-lescure-infectiologue-a-l-hopital-bichat_8014169.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/ivZNeE4BFCIem_ag6--wR_7dBrs/0x52:1024x628/432x243/filters:format(jpg)/2026/05/19/6a0c6e2c680d6214950918.jpg",
+      "date": "2026-05-19T16:05:50+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Pourquoi l'épidémie d'Ebola en République démocratique du Congo inquiète les autorités sanitaires",
+      "desc": "Compte tenu de l'instabilité de la région où l'épidémie se répand, l'Organisation mondiale de la santé redoute une propagation de la souche Bundibugyo du virus en dehors des frontières de la RDC.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/pourquoi-l-epidemie-d-ebola-en-republique-democratique-du-congo-inquiete-les-autorites-sanitaires_8013755.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/uV663ktoyILaNuapwTO-bGAGNXM/0x185:3600x2210/432x243/filters:format(jpg)/2026/05/19/6a0c216ef1561336404608.jpg",
+      "date": "2026-05-19T15:18:31+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Profils recherchés, anonymat, greffe… Six choses à savoir sur le don de moelle osseuse, après la mobilisation pour sauver Elio, atteint d'un cancer du sang rare",
+      "desc": "Les parents d'Elio, 4 ans et demi, avaient lancé un appel aux dons de moelle osseuse sur les réseaux sociaux et ont finalement trouvé un donneur compatible. En un mois, 70 000 nouvelles personnes se sont inscrites sur les listes de l'Agence de la biomédecine.",
+      "url": "https://www.franceinfo.fr/sante/profils-recherches-anonymat-greffe-six-choses-a-savoir-sur-le-don-de-moelle-osseuse-apres-la-mobilisation-pour-sauver-elio-atteint-d-un-cancer-du-sang-rare_8014025.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/BsC5BxzmL1SDwoAfp818Eic4k94/0x0:4724x2657/432x243/filters:format(jpg)/2026/05/19/6a0c4a7fd5fdf375408927.jpg",
+      "date": "2026-05-19T15:01:36+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Espagne : le fils du créateur de Mango interpellé dans l’enquête sur la mort de son père Isak Andic",
+      "desc": "Le fondateur du géant textile a péri dans un accident de montagne en 2024. L’enquête sur ce qui était considéré comme un accident avait été classée, puis rouverte et requalifiée en possible homicide en se concentrant sur son fils, Jonathan.",
+      "url": "https://www.liberation.fr/international/europe/espagne-le-fils-du-createur-de-mango-interpelle-dans-lenquete-sur-la-mort-de-son-pere-20260519_ZF2UNZSH4ZHPJDSLUSKHJWAF6I/",
+      "image": null,
+      "date": "2026-05-19T13:49:03+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "A Ushuaïa, la traque au rat à longue queue, possible vecteur de l’hantavirus, a commencé",
+      "desc": "Des experts posent des pièges en Terre de Feu argentine depuis lundi 18 mai, afin de capturer des rongeurs locaux. Cette enquête scientifique vise à prouver qu’ils ne sont pas à l’origine du foyer infectieux du «MV Hondius».",
+      "url": "https://www.liberation.fr/environnement/biodiversite/a-ushuaia-la-traque-au-rat-a-longue-queue-possible-vecteur-de-lhantavirus-a-commence-20260519_FBLQUKVKTFDFPPJRQ7MI3XPOQE/",
+      "image": null,
+      "date": "2026-05-19T13:45:56+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Le chef de l'OMS se dit \"profondément préoccupé par l'ampleur et la rapidité\" de l'épidémie d'Ebola, le président de la RDC appelle au calme",
+      "desc": "L'Organisation mondiale de la santé doit réunir mardi son comité d'urgence pour faire le point sur l'épidémie d'Ebola en République démocratique du Congo, à l'origine de 131 morts recensés et de 513 cas suspects.",
+      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-chef-de-l-oms-se-dit-profondement-preoccupe-par-l-ampleur-et-la-rapidite-de-l-epidemie-d-ebola-qui-a-fait-au-moins-131-morts-selon-un-nouveau-bilan_8013677.html#xtor=RSS-3-%5Bgeneral%5D",
+      "image": "https://www.franceinfo.fr/pictures/u5nSZUpX1mY31qDjMPKWvXKsQdY/0x0:1024x576/432x243/filters:format(jpg)/2026/05/19/6a0c12291adc0059202017.jpg",
+      "date": "2026-05-19T13:25:58+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "France Info Santé",
+      "type": "presse"
+    },
+    {
+      "title": "Bientôt un âge minimum pour passer le bac ? Le ministre Edouard Geffray veut instaurer un «seuil plancher» pour se présenter aux épreuves",
+      "desc": "Chaque année, une poignée d’enfants, qui n’ont parfois même pas l’âge d’être au collège, tentent d’obtenir le bac. Le ministre de l’Education nationale s’en est inquiété ce mardi 19 mai.",
+      "url": "https://www.liberation.fr/societe/education/bientot-un-age-minimum-pour-passer-le-bac-le-ministre-de-leducation-veut-instaurer-un-seuil-plancher-pour-se-presenter-aux-epreuves-20260519_A2LATWWK55AB7CK52YB3XICWW4/",
+      "image": null,
+      "date": "2026-05-19T13:15:01+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Hantavirus : le virus Andes du MV Hondius était-il devenu mutant ? Le verdict vient de tomber",
+      "desc": "Mutant redouté ou simple souche déjà connue ? Après l’alerte mondiale déclenchée par le foyer d’hantavirus à bord du MV Hondius, les résultats du séquençage mené par l’Institut Pasteur apportent enfin des réponses décisives. Et elles pourraient bien changer la perception de cette épidémie qui a...",
+      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-virus-andes-mv-hondius-etait-il-devenu-mutant-verdict-vient-tomber-134634/#xtor%3DRSS-8",
+      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/5/e/a/5ea0e9ee41_50255418_4-hantavirus.jpg",
+      "date": "2026-05-19T13:08:11+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "Futura Santé",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : le patron de l’OMS «profondément préoccupé par l’ampleur et la rapidité» de l’épidémie",
+      "desc": "Le virus qui frappe la République démocratique du Congo continue de gagner du terrain, ce qui provoque la grande inquiétude des agences sanitaire qui ont pris des dispositions, ce mardi 19 mai, pour tenter d’endiguer la propagation.",
+      "url": "https://www.liberation.fr/international/afrique/ebola-le-patron-de-loms-profondement-preoccupe-par-lampleur-et-la-rapidite-de-lepidemie-20260519_L6A4DRKDY5D27K26HYMJZXFB5U/",
+      "image": null,
+      "date": "2026-05-19T12:26:27+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "Libération",
+      "type": "presse"
+    },
+    {
+      "title": "Tumeur de collision : quand deux cancers différents coexistent au même endroit",
+      "desc": "Deux cancers distincts peuvent parfois se développer côte à côte, dans la même région anatomique, sans se mélanger. Ces « collisions tumorales » compliquent le diagnostic et peuvent modifier la prise en charge.",
+      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/19/tumeur-de-collision-quand-deux-cancers-differents-coexistent-au-meme-endroit_6691468_6579630.html",
+      "image": "https://img.lemde.fr/2026/01/28/0/55/976/488/644/322/60/0/acf974c_upload-1-078ia0lvk5sw-tumeur-de-collision-collision-lesion.png",
+      "date": "2026-05-19T12:11:38+00:00",
+      "date_formatted": "19 May 2026",
+      "source": "Le Monde Science",
+      "type": "science"
+    },
+    {
+      "title": "Ebola : 131 morts et 513 cas suspects recensés en RDC ; l’Allemagne va « accueillir et soigner » un patient américain",
+      "desc": "Le directeur général de l’Organisation mondiale de la santé s’est dit « profondément préoccupé par l’ampleur et la rapidité » de l’épidémie qui frappe la République démocratique du Congo. Washington « recommande fortement » aux Américains de ne pas se rendre dans trois pays africains.",
       "url": "https://www.lemonde.fr/international/article/2026/05/19/ebola-131-morts-et-513-cas-suspects-recenses-en-rdc-l-allemagne-va-accueillir-et-soigner-un-patient-americain_6691452_3210.html",
       "image": "https://img.lemde.fr/2026/05/19/468/0/3600/1800/644/322/60/0/852be1f_ftp-1-4yfcebczpjv6-5077386-01-06.jpg",
       "date": "2026-05-19T10:12:10+00:00",
@@ -13,14 +113,14 @@
       "type": "presse"
     },
     {
-      "title": "Le chef de l'OMS se dit \"profondément préoccupé par l'ampleur et la rapidité\" de l'épidémie d'Ebola, qui a fait au moins 131 morts selon un nouveau bilan",
-      "desc": "L'Organisation mondiale de la santé doit réunir mardi son comité d'urgence pour faire le point sur l'épidémie d'Ebola en République démocratique du Congo, à l'origine de 131 morts recensés et de 513 cas suspects.",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/le-chef-de-l-oms-se-dit-profondement-preoccupe-par-l-ampleur-et-la-rapidite-de-l-epidemie-d-ebola-qui-a-fait-au-moins-131-morts-selon-un-nouveau-bilan_8013677.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/u5nSZUpX1mY31qDjMPKWvXKsQdY/0x0:1024x576/432x243/filters:format(jpg)/2026/05/19/6a0c12291adc0059202017.jpg",
-      "date": "2026-05-19T09:44:36+00:00",
+      "title": "Ebola : alerte internationale face à la flambée en RDC",
+      "desc": "L’Organisation mondiale de la santé a alerté sur la progression rapide de l’épidémie d’Ebola qui frappe la République démocratique du Congo. Avec 131 décès recensés et plus de 500 cas suspects, la flambée épidémique s’étend déjà au-delà des frontières du pays, poussant l’OMS et l’Union africaine à d",
+      "url": "https://www.sciencesetavenir.fr/sante/ebola-l-oms-declenche-une-alerte-internationale-face-a-la-flambee-en-rdc_192505?xtor=RSS-16",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/19/cover-r4x3w1200-6a0c225dc3b9d-90d272e112c594cc1bfaf3e937f381a32adcdb08-jpg.jpg",
+      "date": "2026-05-19T09:46:04+00:00",
       "date_formatted": "19 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
+      "source": "Sciences & Avenir",
+      "type": "science"
     },
     {
       "title": "Ebola : Avec 131 morts recensés et 513 cas suspectés, l’OMS s’inquiète de « l’ampleur » de l’épidémie",
@@ -43,26 +143,6 @@
       "type": "science"
     },
     {
-      "title": "Epidémie d’Ebola : les Etats-Unis renforcent les contrôles aux frontières",
-      "desc": "Les autorités sanitaires américaines ont annoncé ce lundi 18 mai que les voyages aériens en provenance des zones touchées par le virus Ebola, qui prolifère notamment en République démocratique du Congo, seraient désormais soumis à un dépistage.",
-      "url": "https://www.liberation.fr/international/amerique/epidemie-debola-les-etats-unis-renforcent-les-controles-aux-frontieres-20260518_EGS7O3OU7NBLXAEO2N3TDTRIWA/",
-      "image": null,
-      "date": "2026-05-19T07:48:36+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
-      "title": "Israël-Palestine : Ofer Bronchtein, une vie à l’épreuve de la paix",
-      "desc": "Le Franco-Israélien, qui avait notamment œuvré pour la reconnaissance de l’Etat palestinien par la France, a consacré sa vie entière à militer pour la fin du conflit au Proche-Orient. Il est mort lundi à 69 ans.",
-      "url": "https://www.liberation.fr/idees-et-debats/opinions/israel-palestine-ofer-bronchtein-une-vie-a-lepreuve-de-la-paix-20260519_OETTT3VJGVFHLKCFJPJJ5PPZKU/",
-      "image": null,
-      "date": "2026-05-19T06:56:05+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "ENQUETE. Laits infantiles contaminés : comment Nestlé a organisé des retraits \"discrets\" des rayons en Allemagne et en Autriche",
       "desc": "La cellule investigation de Radio France, avec la RTS et la RTBF, a enquêté sur les conditions dans lesquelles Nestlé a organisé des retraits \"discrets\" de produits en Autriche et en Allemagne. La justice française a été saisie en raison d’une alerte tardive.",
       "url": "https://www.franceinfo.fr/enquetes-franceinfo/laits-contamines-enquete-europeenne-sur-les-retraits-silencieux-de-produits-nestle_8012321.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -73,16 +153,6 @@
       "type": "presse"
     },
     {
-      "title": "Didier Raoult, parmi les champions mondiaux des études scientifiques bidon",
-      "desc": "L’infectiologue, qui a interdiction d’exercer la médecine pendant deux ans, a connu 58 rétractations de ses articles de la part de revues scientifiques. La plupart concernent des travaux effectués avant la pandémie de Covid-19.",
-      "url": "https://www.liberation.fr/sciences/didier-raoult-parmi-les-champions-mondiaux-des-etudes-scientifiques-bidon-20260519_TP44JDZZ6BGK3L6JLD3TWYORBU/",
-      "image": null,
-      "date": "2026-05-19T06:05:00+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Libération",
-      "type": "presse"
-    },
-    {
       "title": "\"Mettre à jour la cartographie de l'hantavirus\" : on vous explique à quoi sert la mission scientifique menée à Ushuaïa",
       "desc": "Des biologistes argentins vont poser des pièges puis analyser si les rongeurs capturés sont porteurs de la souche des Andes, à l'origine du foyer de contamination sur un bateau de croisière.",
       "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/mettre-a-jour-la-cartographie-de-l-hantavirus-on-vous-explique-a-quoi-sert-la-mission-scientifique-menee-a-ushuaia_8011802.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -90,16 +160,6 @@
       "date": "2026-05-19T06:01:24+00:00",
       "date_formatted": "19 May 2026",
       "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Deux adolescents abattent trois personnes dans une mosquée de San Diego avant de se donner la mort",
-      "desc": "Agés de 17 et 18 ans, les tireurs ont fait irruption en fin de matinée dans le Centre islamique de la métropole californienne avant d’ouvrir le feu.",
-      "url": "https://www.liberation.fr/international/amerique/deux-adolescents-abattent-trois-personnes-dans-une-mosquee-de-san-diego-avant-de-se-donner-la-mort-20260519_TCANVGNBNJAYXEBLF5SW462DHU/",
-      "image": null,
-      "date": "2026-05-19T05:25:06+00:00",
-      "date_formatted": "19 May 2026",
-      "source": "Libération",
       "type": "presse"
     },
     {
@@ -119,8 +179,8 @@
       "image": "https://img.lemde.fr/2026/05/16/88/0/1786/893/644/322/60/0/1c526fe_ftp-1-r1iwwjhf4def-2026-05-16t190534z-442527065-rc2ialaq6azr-rtrmadp-3-health-ebola-africa-drc.JPG",
       "date": "2026-05-18T20:55:34+00:00",
       "date_formatted": "18 May 2026",
-      "source": "Le Monde Santé",
-      "type": "presse"
+      "source": "Le Monde Science",
+      "type": "science"
     },
     {
       "title": "Les Etats-Unis vont soumettre des voyageurs à un dépistage d'Ebola dans les aéroports américains",
@@ -137,7 +197,7 @@
       "desc": "Le médecin chercheur s’est éteint le 7 mai, à l’âge de 90 ans. A la fin de sa vie, il avait été radié de l’ordre des médecins pour avoir omis de déclarer ses liens d’intérêt avec le laboratoire Servier.",
       "url": "https://www.lemonde.fr/disparitions/article/2026/05/18/l-immunologiste-claude-griscelli-pionnier-de-la-greffe-de-moelle-osseuse-sur-les-bebes-bulles-et-ex-directeur-de-l-inserm-est-mort_6691065_3382.html",
       "image": "https://img.lemde.fr/2026/05/18/1079/0/2085/1042/644/322/60/0/a8a54c4_upload-1-9qkt5gsptrcf-000-par544263.jpg",
-      "date": "2026-05-18T20:15:05+00:00",
+      "date": "2026-05-18T20:15:04+00:00",
       "date_formatted": "18 May 2026",
       "source": "Le Monde Science",
       "type": "science"
@@ -153,7 +213,7 @@
       "type": "presse"
     },
     {
-      "title": "Pourquoi l’épidémie de virus Ebola en RDC inquiète les autorités sanitaires internationales",
+      "title": "Pourquoi l’épidémie causée par le virus Ebola en RDC inquiète les autorités sanitaires internationales",
       "desc": "La République démocratique du Congo subit une nouvelle épidémie due au virus d’Ebola, qui provoque une fièvre hémorragique mortelle. Plus de 100 morts sont déjà signalés, essentiellement dans la province d’Ituri, dans le nord-est de ce pays d’Afrique centrale. L’Organisation mondiale de la santé a d",
       "url": "https://www.lemonde.fr/planete/article/2026/05/18/pourquoi-la-flambee-d-ebola-en-rdc-inquiete-les-autorites-sanitaires-internationales_6691029_3244.html",
       "image": "https://img.lemde.fr/2026/05/18/297/0/3600/1800/644/322/60/0/f3370ca_ftp-1-atktmo3bxlar-5070776-01-06.jpg",
@@ -221,46 +281,6 @@
       "date_formatted": "18 May 2026",
       "source": "Le Monde Science",
       "type": "science"
-    },
-    {
-      "title": "REPORTAGE. \"Ils tombaient tous comme des mouches\" : huit ans après l'hantavirus, ce village argentin reste traumatisé par cette \"fièvre qui rend fou\"",
-      "desc": "En 2018, une épidémie d'hantavirus s'est déclarée dans le village d'Epuyén, en Argentine, après une fête d'anniversaire. Depuis, les habitants ont appris à cohabiter avec le rat à longue queue, responsable de la transmission de l'hantavirus à l'être humain.",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/reportage-ils-tombaient-tous-comme-des-mouches-huit-ans-apres-une-epidemie-d-hantavirus-ce-village-argentin-reste-traumatise-par-cette-fievre-qui-rend-fou_8011388.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/rz-wTnSWFxZO2imFuJUb2X48GuI/0x0:1921x1080/432x243/filters:format(jpg)/2026/05/18/6a0ac701c8a4c980759917.jpg",
-      "date": "2026-05-18T17:22:29+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "VIDEO. \"Il faut détremper toutes les surfaces avec du désinfectant\" : le \"MV Hondius\", foyer d'hantavirus, arrive à Rotterdam pour un nettoyage crucial",
-      "desc": "Le paquebot de croisière, affrété par une compagnie néerlandaise, achève aux Pays-Bas un périple d'un mois et demi. A son bord se trouvent 27 derniers membres d'équipage, qui vont entamer une quarantaine, mais aussi la dépouille d'une des trois victimes du virus.",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/hantavirus-arrivee-du-navire-de-croisiere-a-rotterdam-27-passagers-sont-encore-a-bord_8011817.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/LUXtqZnLOLkAPrcec3drlecHDiE/0x0:1920x1080/432x243/filters:format(jpg)/2026/05/18/6a0b0ff70519f788366873.jpg",
-      "date": "2026-05-18T16:46:32+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Hantavirus : le MV Hondius est rentré à Rotterdam",
-      "desc": "Le bateau MV Hondius, qui compte encore les membres d'équipage et du personnel médical, est arrivé pour les opérations de désinfection. #JT13h",
-      "url": "https://www.franceinfo.fr/sante/maladie/hantavirus/hantavirus-le-mv-hondius-est-rentre-a-rotterdam_8011952.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/KaJgqQoRM20zif5Kkj8agcF1vpk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/18/6a0b2431dd450849166824.jpg",
-      "date": "2026-05-18T16:38:22+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
-    },
-    {
-      "title": "Ebola : c’est quoi cette souche Bundibugyo qui tue en RDC ?",
-      "desc": "Pas de vaccin, pas de traitement, de fortes fièvres, des hémorragies et parfois des diarrhées et, dans 50% des cas, la mort : le variant du virus Ebola qui a fait au moins 88 morts en République démocratique du Congo doit-il nous inquiéter en France ?",
-      "url": "https://www.franceinfo.fr/sante/maladie/ebola/ebola-c-est-quoi-cette-souche-bundibugyo-qui-tue-en-rdc_8011793.html#xtor=RSS-3-%5Bgeneral%5D",
-      "image": "https://www.franceinfo.fr/pictures/k8xcTrMg98i4nOgBn24JceXLhHY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(black):format(jpg)/2026/05/18/6a0b08e7bfa0f951486100.jpg",
-      "date": "2026-05-18T16:00:01+00:00",
-      "date_formatted": "18 May 2026",
-      "source": "France Info Santé",
-      "type": "presse"
     },
     {
       "title": "Hantavirus : La patiente française malade est dans un « état stationnaire » mais son pronostic vital demeure engagé",
@@ -593,26 +613,6 @@
       "type": "science"
     },
     {
-      "title": "Le sucre, à l’origine de la myélinisation des neurones",
-      "desc": "Une étude chez la souris montre que c’est le glucose qui donnerait le signal aux cellules précurseuses des oligodendrocytes, à l’origine de la gaine de myéline qui entoure les neurones, de se spécialiser.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/05/14/le-sucre-a-l-origine-de-la-myelinisation-des-neurones_6689040_1650684.html",
-      "image": "https://img.lemde.fr/2025/07/17/250/0/3000/1500/644/322/60/0/da14771_upload-1-guf00w5igs9j-frame-455.jpg",
-      "date": "2026-05-14T06:30:08+00:00",
-      "date_formatted": "14 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
-      "title": "Suède : comment la généalogie génétique a permis de résoudre, seize ans plus tard, le double meurtre de Linköping",
-      "desc": "La généalogie génétique a permis d’élucider une affaire criminelle non résolue pendant plus de quinze ans. Des chercheurs suédois en médecine légale retracent les étapes de l’enquête et en analysent les enjeux légaux, éthiques et sociétaux.",
-      "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/05/13/suede-comment-la-genealogie-genetique-a-permis-de-resoudre-seize-ans-plus-tard-le-double-meurtre-de-linkoping_6688732_6579630.html",
-      "image": "https://img.lemde.fr/2026/05/08/223/0/537/268/644/322/60/0/34c99bc_upload-1-0dm60zmc5u4z-linko-ping-double-meurtre-genealogie-genetique-gene-alogie-forensique-police-scientifique-adn-snp.png",
-      "date": "2026-05-13T18:18:25+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Le Monde Science",
-      "type": "science"
-    },
-    {
       "title": "Hantavirus : la barrière naturelle contre certains virus est peut-être en train de céder",
       "desc": "La mort d’un ornithologue, soupçonné d’être le patient zéro d’une épidémie d’hantavirus à bord d’un navire de croisière, révèle bien plus qu’un simple accident sanitaire : elle raconte les liens fragiles entre biodiversité, activités humaines et émergence des zoonoses.",
       "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-barriere-naturelle-certains-virus-peut-etre-train-ceder-134502/#xtor%3DRSS-8",
@@ -640,16 +640,6 @@
       "date": "2026-05-13T12:43:53+00:00",
       "date_formatted": "13 May 2026",
       "source": "Sciences & Avenir",
-      "type": "science"
-    },
-    {
-      "title": "Hantavirus : comment reconnaître les signes qui doivent faire consulter sans attendre ?",
-      "desc": "Le virus à l’origine du cluster du MV Hondius inquiète les autorités sanitaires. Alors qu’un premier cas a été confirmé en France et que trois passagers sont morts, voici les symptômes qui doivent alerter et pourquoi les médecins surveillent de près une possible évolution du virus.",
-      "url": "https://www.futura-sciences.com/sante/actualites/hantavirus-hantavirus-reconnaitre-signes-doivent-faire-consulter-attendre-134488/#xtor%3DRSS-8",
-      "image": "https://cdn8.futura-sciences.com/buildsv6/images/largeoriginal/f/1/9/f19b899502_50255180_virus-hantavirus-symptomes.jpg",
-      "date": "2026-05-13T10:29:30+00:00",
-      "date_formatted": "13 May 2026",
-      "source": "Futura Santé",
       "type": "science"
     },
     {
